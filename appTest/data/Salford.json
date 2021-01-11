@@ -1,0 +1,4501 @@
+{
+    "length": 374,
+    "maxPageLimit": 2500,
+    "data": [
+        {
+            "date": "2021-01-10",
+            "name": "Salford",
+            "cases": {
+                "daily": 191,
+                "cumulative": 16970
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-09",
+            "name": "Salford",
+            "cases": {
+                "daily": 188,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 553
+            }
+        },
+        {
+            "date": "2021-01-08",
+            "name": "Salford",
+            "cases": {
+                "daily": 277,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 552
+            }
+        },
+        {
+            "date": "2021-01-07",
+            "name": "Salford",
+            "cases": {
+                "daily": 154,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 550
+            }
+        },
+        {
+            "date": "2021-01-06",
+            "name": "Salford",
+            "cases": {
+                "daily": 131,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 548
+            }
+        },
+        {
+            "date": "2021-01-05",
+            "name": "Salford",
+            "cases": {
+                "daily": 122,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 545
+            }
+        },
+        {
+            "date": "2021-01-04",
+            "name": "Salford",
+            "cases": {
+                "daily": 154,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 545
+            }
+        },
+        {
+            "date": "2021-01-03",
+            "name": "Salford",
+            "cases": {
+                "daily": 67,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 545
+            }
+        },
+        {
+            "date": "2021-01-02",
+            "name": "Salford",
+            "cases": {
+                "daily": 114,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 545
+            }
+        },
+        {
+            "date": "2021-01-01",
+            "name": "Salford",
+            "cases": {
+                "daily": 135,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 544
+            }
+        },
+        {
+            "date": "2020-12-31",
+            "name": "Salford",
+            "cases": {
+                "daily": 172,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 543
+            }
+        },
+        {
+            "date": "2020-12-30",
+            "name": "Salford",
+            "cases": {
+                "daily": 73,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 539
+            }
+        },
+        {
+            "date": "2020-12-29",
+            "name": "Salford",
+            "cases": {
+                "daily": 105,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 538
+            }
+        },
+        {
+            "date": "2020-12-28",
+            "name": "Salford",
+            "cases": {
+                "daily": 70,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 537
+            }
+        },
+        {
+            "date": "2020-12-27",
+            "name": "Salford",
+            "cases": {
+                "daily": 43,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 534
+            }
+        },
+        {
+            "date": "2020-12-26",
+            "name": "Salford",
+            "cases": {
+                "daily": 44,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 531
+            }
+        },
+        {
+            "date": "2020-12-25",
+            "name": "Salford",
+            "cases": {
+                "daily": 96,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 526
+            }
+        },
+        {
+            "date": "2020-12-24",
+            "name": "Salford",
+            "cases": {
+                "daily": 106,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 523
+            }
+        },
+        {
+            "date": "2020-12-23",
+            "name": "Salford",
+            "cases": {
+                "daily": 95,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 520
+            }
+        },
+        {
+            "date": "2020-12-22",
+            "name": "Salford",
+            "cases": {
+                "daily": 94,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 515
+            }
+        },
+        {
+            "date": "2020-12-21",
+            "name": "Salford",
+            "cases": {
+                "daily": 86,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 512
+            }
+        },
+        {
+            "date": "2020-12-20",
+            "name": "Salford",
+            "cases": {
+                "daily": 78,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 507
+            }
+        },
+        {
+            "date": "2020-12-19",
+            "name": "Salford",
+            "cases": {
+                "daily": 57,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 504
+            }
+        },
+        {
+            "date": "2020-12-18",
+            "name": "Salford",
+            "cases": {
+                "daily": 47,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 504
+            }
+        },
+        {
+            "date": "2020-12-17",
+            "name": "Salford",
+            "cases": {
+                "daily": 44,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 503
+            }
+        },
+        {
+            "date": "2020-12-16",
+            "name": "Salford",
+            "cases": {
+                "daily": 72,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 502
+            }
+        },
+        {
+            "date": "2020-12-15",
+            "name": "Salford",
+            "cases": {
+                "daily": 58,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 496
+            }
+        },
+        {
+            "date": "2020-12-14",
+            "name": "Salford",
+            "cases": {
+                "daily": 50,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 493
+            }
+        },
+        {
+            "date": "2020-12-13",
+            "name": "Salford",
+            "cases": {
+                "daily": 62,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 490
+            }
+        },
+        {
+            "date": "2020-12-12",
+            "name": "Salford",
+            "cases": {
+                "daily": 71,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 488
+            }
+        },
+        {
+            "date": "2020-12-11",
+            "name": "Salford",
+            "cases": {
+                "daily": 49,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 483
+            }
+        },
+        {
+            "date": "2020-12-10",
+            "name": "Salford",
+            "cases": {
+                "daily": 64,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 482
+            }
+        },
+        {
+            "date": "2020-12-09",
+            "name": "Salford",
+            "cases": {
+                "daily": 59,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 480
+            }
+        },
+        {
+            "date": "2020-12-08",
+            "name": "Salford",
+            "cases": {
+                "daily": 37,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 478
+            }
+        },
+        {
+            "date": "2020-12-07",
+            "name": "Salford",
+            "cases": {
+                "daily": 32,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 475
+            }
+        },
+        {
+            "date": "2020-12-06",
+            "name": "Salford",
+            "cases": {
+                "daily": 57,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 474
+            }
+        },
+        {
+            "date": "2020-12-05",
+            "name": "Salford",
+            "cases": {
+                "daily": 68,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 471
+            }
+        },
+        {
+            "date": "2020-12-04",
+            "name": "Salford",
+            "cases": {
+                "daily": 55,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 471
+            }
+        },
+        {
+            "date": "2020-12-03",
+            "name": "Salford",
+            "cases": {
+                "daily": 40,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 469
+            }
+        },
+        {
+            "date": "2020-12-02",
+            "name": "Salford",
+            "cases": {
+                "daily": 61,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 463
+            }
+        },
+        {
+            "date": "2020-12-01",
+            "name": "Salford",
+            "cases": {
+                "daily": 53,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 458
+            }
+        },
+        {
+            "date": "2020-11-30",
+            "name": "Salford",
+            "cases": {
+                "daily": 37,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 454
+            }
+        },
+        {
+            "date": "2020-11-29",
+            "name": "Salford",
+            "cases": {
+                "daily": 36,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 452
+            }
+        },
+        {
+            "date": "2020-11-28",
+            "name": "Salford",
+            "cases": {
+                "daily": 67,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 447
+            }
+        },
+        {
+            "date": "2020-11-27",
+            "name": "Salford",
+            "cases": {
+                "daily": 64,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 445
+            }
+        },
+        {
+            "date": "2020-11-26",
+            "name": "Salford",
+            "cases": {
+                "daily": 57,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 444
+            }
+        },
+        {
+            "date": "2020-11-25",
+            "name": "Salford",
+            "cases": {
+                "daily": 73,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 443
+            }
+        },
+        {
+            "date": "2020-11-24",
+            "name": "Salford",
+            "cases": {
+                "daily": 71,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 437
+            }
+        },
+        {
+            "date": "2020-11-23",
+            "name": "Salford",
+            "cases": {
+                "daily": 57,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 437
+            }
+        },
+        {
+            "date": "2020-11-22",
+            "name": "Salford",
+            "cases": {
+                "daily": 62,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 435
+            }
+        },
+        {
+            "date": "2020-11-21",
+            "name": "Salford",
+            "cases": {
+                "daily": 74,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 434
+            }
+        },
+        {
+            "date": "2020-11-20",
+            "name": "Salford",
+            "cases": {
+                "daily": 108,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 432
+            }
+        },
+        {
+            "date": "2020-11-19",
+            "name": "Salford",
+            "cases": {
+                "daily": 111,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 430
+            }
+        },
+        {
+            "date": "2020-11-18",
+            "name": "Salford",
+            "cases": {
+                "daily": 143,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 427
+            }
+        },
+        {
+            "date": "2020-11-17",
+            "name": "Salford",
+            "cases": {
+                "daily": 121,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 423
+            }
+        },
+        {
+            "date": "2020-11-16",
+            "name": "Salford",
+            "cases": {
+                "daily": 520,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 421
+            }
+        },
+        {
+            "date": "2020-11-15",
+            "name": "Salford",
+            "cases": {
+                "daily": 145,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 417
+            }
+        },
+        {
+            "date": "2020-11-14",
+            "name": "Salford",
+            "cases": {
+                "daily": 174,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 412
+            }
+        },
+        {
+            "date": "2020-11-13",
+            "name": "Salford",
+            "cases": {
+                "daily": 220,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 409
+            }
+        },
+        {
+            "date": "2020-11-12",
+            "name": "Salford",
+            "cases": {
+                "daily": 273,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 406
+            }
+        },
+        {
+            "date": "2020-11-11",
+            "name": "Salford",
+            "cases": {
+                "daily": 157,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 404
+            }
+        },
+        {
+            "date": "2020-11-10",
+            "name": "Salford",
+            "cases": {
+                "daily": 160,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 400
+            }
+        },
+        {
+            "date": "2020-11-09",
+            "name": "Salford",
+            "cases": {
+                "daily": 111,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 397
+            }
+        },
+        {
+            "date": "2020-11-08",
+            "name": "Salford",
+            "cases": {
+                "daily": 135,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 394
+            }
+        },
+        {
+            "date": "2020-11-07",
+            "name": "Salford",
+            "cases": {
+                "daily": 257,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 389
+            }
+        },
+        {
+            "date": "2020-11-06",
+            "name": "Salford",
+            "cases": {
+                "daily": 169,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 382
+            }
+        },
+        {
+            "date": "2020-11-05",
+            "name": "Salford",
+            "cases": {
+                "daily": 219,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 375
+            }
+        },
+        {
+            "date": "2020-11-04",
+            "name": "Salford",
+            "cases": {
+                "daily": 244,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 370
+            }
+        },
+        {
+            "date": "2020-11-03",
+            "name": "Salford",
+            "cases": {
+                "daily": 234,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 365
+            }
+        },
+        {
+            "date": "2020-11-02",
+            "name": "Salford",
+            "cases": {
+                "daily": 137,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 363
+            }
+        },
+        {
+            "date": "2020-11-01",
+            "name": "Salford",
+            "cases": {
+                "daily": 232,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 358
+            }
+        },
+        {
+            "date": "2020-10-31",
+            "name": "Salford",
+            "cases": {
+                "daily": 260,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 356
+            }
+        },
+        {
+            "date": "2020-10-30",
+            "name": "Salford",
+            "cases": {
+                "daily": 284,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 356
+            }
+        },
+        {
+            "date": "2020-10-29",
+            "name": "Salford",
+            "cases": {
+                "daily": 280,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 352
+            }
+        },
+        {
+            "date": "2020-10-28",
+            "name": "Salford",
+            "cases": {
+                "daily": 227,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 346
+            }
+        },
+        {
+            "date": "2020-10-27",
+            "name": "Salford",
+            "cases": {
+                "daily": 293,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 344
+            }
+        },
+        {
+            "date": "2020-10-26",
+            "name": "Salford",
+            "cases": {
+                "daily": 243,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 341
+            }
+        },
+        {
+            "date": "2020-10-25",
+            "name": "Salford",
+            "cases": {
+                "daily": 207,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 340
+            }
+        },
+        {
+            "date": "2020-10-24",
+            "name": "Salford",
+            "cases": {
+                "daily": 223,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 339
+            }
+        },
+        {
+            "date": "2020-10-23",
+            "name": "Salford",
+            "cases": {
+                "daily": 177,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 339
+            }
+        },
+        {
+            "date": "2020-10-22",
+            "name": "Salford",
+            "cases": {
+                "daily": 186,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 337
+            }
+        },
+        {
+            "date": "2020-10-21",
+            "name": "Salford",
+            "cases": {
+                "daily": 241,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 334
+            }
+        },
+        {
+            "date": "2020-10-20",
+            "name": "Salford",
+            "cases": {
+                "daily": 256,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 330
+            }
+        },
+        {
+            "date": "2020-10-19",
+            "name": "Salford",
+            "cases": {
+                "daily": 239,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 330
+            }
+        },
+        {
+            "date": "2020-10-18",
+            "name": "Salford",
+            "cases": {
+                "daily": 197,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 330
+            }
+        },
+        {
+            "date": "2020-10-17",
+            "name": "Salford",
+            "cases": {
+                "daily": 167,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 328
+            }
+        },
+        {
+            "date": "2020-10-16",
+            "name": "Salford",
+            "cases": {
+                "daily": 155,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 326
+            }
+        },
+        {
+            "date": "2020-10-15",
+            "name": "Salford",
+            "cases": {
+                "daily": 157,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 323
+            }
+        },
+        {
+            "date": "2020-10-14",
+            "name": "Salford",
+            "cases": {
+                "daily": 178,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 320
+            }
+        },
+        {
+            "date": "2020-10-13",
+            "name": "Salford",
+            "cases": {
+                "daily": 163,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 319
+            }
+        },
+        {
+            "date": "2020-10-12",
+            "name": "Salford",
+            "cases": {
+                "daily": 110,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 318
+            }
+        },
+        {
+            "date": "2020-10-11",
+            "name": "Salford",
+            "cases": {
+                "daily": 167,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 317
+            }
+        },
+        {
+            "date": "2020-10-10",
+            "name": "Salford",
+            "cases": {
+                "daily": 126,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 316
+            }
+        },
+        {
+            "date": "2020-10-09",
+            "name": "Salford",
+            "cases": {
+                "daily": 78,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 316
+            }
+        },
+        {
+            "date": "2020-10-08",
+            "name": "Salford",
+            "cases": {
+                "daily": 155,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 314
+            }
+        },
+        {
+            "date": "2020-10-07",
+            "name": "Salford",
+            "cases": {
+                "daily": 154,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 312
+            }
+        },
+        {
+            "date": "2020-10-06",
+            "name": "Salford",
+            "cases": {
+                "daily": 164,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 312
+            }
+        },
+        {
+            "date": "2020-10-05",
+            "name": "Salford",
+            "cases": {
+                "daily": 135,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 312
+            }
+        },
+        {
+            "date": "2020-10-04",
+            "name": "Salford",
+            "cases": {
+                "daily": 267,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 312
+            }
+        },
+        {
+            "date": "2020-10-03",
+            "name": "Salford",
+            "cases": {
+                "daily": 151,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 312
+            }
+        },
+        {
+            "date": "2020-10-02",
+            "name": "Salford",
+            "cases": {
+                "daily": 51,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 311
+            }
+        },
+        {
+            "date": "2020-10-01",
+            "name": "Salford",
+            "cases": {
+                "daily": 65,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 309
+            }
+        },
+        {
+            "date": "2020-09-30",
+            "name": "Salford",
+            "cases": {
+                "daily": 79,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 308
+            }
+        },
+        {
+            "date": "2020-09-29",
+            "name": "Salford",
+            "cases": {
+                "daily": 69,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 308
+            }
+        },
+        {
+            "date": "2020-09-28",
+            "name": "Salford",
+            "cases": {
+                "daily": 48,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 308
+            }
+        },
+        {
+            "date": "2020-09-27",
+            "name": "Salford",
+            "cases": {
+                "daily": 62,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 308
+            }
+        },
+        {
+            "date": "2020-09-26",
+            "name": "Salford",
+            "cases": {
+                "daily": 43,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 306
+            }
+        },
+        {
+            "date": "2020-09-25",
+            "name": "Salford",
+            "cases": {
+                "daily": 90,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 305
+            }
+        },
+        {
+            "date": "2020-09-24",
+            "name": "Salford",
+            "cases": {
+                "daily": 50,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 305
+            }
+        },
+        {
+            "date": "2020-09-23",
+            "name": "Salford",
+            "cases": {
+                "daily": 60,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 305
+            }
+        },
+        {
+            "date": "2020-09-22",
+            "name": "Salford",
+            "cases": {
+                "daily": 51,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 303
+            }
+        },
+        {
+            "date": "2020-09-21",
+            "name": "Salford",
+            "cases": {
+                "daily": 55,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 302
+            }
+        },
+        {
+            "date": "2020-09-20",
+            "name": "Salford",
+            "cases": {
+                "daily": 40,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 302
+            }
+        },
+        {
+            "date": "2020-09-19",
+            "name": "Salford",
+            "cases": {
+                "daily": 51,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 301
+            }
+        },
+        {
+            "date": "2020-09-18",
+            "name": "Salford",
+            "cases": {
+                "daily": 64,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 300
+            }
+        },
+        {
+            "date": "2020-09-17",
+            "name": "Salford",
+            "cases": {
+                "daily": 53,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 299
+            }
+        },
+        {
+            "date": "2020-09-16",
+            "name": "Salford",
+            "cases": {
+                "daily": 60,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 298
+            }
+        },
+        {
+            "date": "2020-09-15",
+            "name": "Salford",
+            "cases": {
+                "daily": 39,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 297
+            }
+        },
+        {
+            "date": "2020-09-14",
+            "name": "Salford",
+            "cases": {
+                "daily": 27,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 296
+            }
+        },
+        {
+            "date": "2020-09-13",
+            "name": "Salford",
+            "cases": {
+                "daily": 32,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 295
+            }
+        },
+        {
+            "date": "2020-09-12",
+            "name": "Salford",
+            "cases": {
+                "daily": 32,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 294
+            }
+        },
+        {
+            "date": "2020-09-11",
+            "name": "Salford",
+            "cases": {
+                "daily": 38,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 291
+            }
+        },
+        {
+            "date": "2020-09-10",
+            "name": "Salford",
+            "cases": {
+                "daily": 31,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 290
+            }
+        },
+        {
+            "date": "2020-09-09",
+            "name": "Salford",
+            "cases": {
+                "daily": 37,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 288
+            }
+        },
+        {
+            "date": "2020-09-08",
+            "name": "Salford",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 284
+            }
+        },
+        {
+            "date": "2020-09-07",
+            "name": "Salford",
+            "cases": {
+                "daily": 19,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 284
+            }
+        },
+        {
+            "date": "2020-09-06",
+            "name": "Salford",
+            "cases": {
+                "daily": 46,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 282
+            }
+        },
+        {
+            "date": "2020-09-05",
+            "name": "Salford",
+            "cases": {
+                "daily": 20,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 281
+            }
+        },
+        {
+            "date": "2020-09-04",
+            "name": "Salford",
+            "cases": {
+                "daily": 43,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 280
+            }
+        },
+        {
+            "date": "2020-09-03",
+            "name": "Salford",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 280
+            }
+        },
+        {
+            "date": "2020-09-02",
+            "name": "Salford",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 279
+            }
+        },
+        {
+            "date": "2020-09-01",
+            "name": "Salford",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 278
+            }
+        },
+        {
+            "date": "2020-08-31",
+            "name": "Salford",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 278
+            }
+        },
+        {
+            "date": "2020-08-30",
+            "name": "Salford",
+            "cases": {
+                "daily": 29,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 278
+            }
+        },
+        {
+            "date": "2020-08-29",
+            "name": "Salford",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 278
+            }
+        },
+        {
+            "date": "2020-08-28",
+            "name": "Salford",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 278
+            }
+        },
+        {
+            "date": "2020-08-27",
+            "name": "Salford",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 278
+            }
+        },
+        {
+            "date": "2020-08-26",
+            "name": "Salford",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 278
+            }
+        },
+        {
+            "date": "2020-08-25",
+            "name": "Salford",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 278
+            }
+        },
+        {
+            "date": "2020-08-24",
+            "name": "Salford",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 278
+            }
+        },
+        {
+            "date": "2020-08-23",
+            "name": "Salford",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 278
+            }
+        },
+        {
+            "date": "2020-08-22",
+            "name": "Salford",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 278
+            }
+        },
+        {
+            "date": "2020-08-21",
+            "name": "Salford",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 278
+            }
+        },
+        {
+            "date": "2020-08-20",
+            "name": "Salford",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 278
+            }
+        },
+        {
+            "date": "2020-08-19",
+            "name": "Salford",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 278
+            }
+        },
+        {
+            "date": "2020-08-18",
+            "name": "Salford",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 278
+            }
+        },
+        {
+            "date": "2020-08-17",
+            "name": "Salford",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 277
+            }
+        },
+        {
+            "date": "2020-08-16",
+            "name": "Salford",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 277
+            }
+        },
+        {
+            "date": "2020-08-15",
+            "name": "Salford",
+            "cases": {
+                "daily": 17,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 277
+            }
+        },
+        {
+            "date": "2020-08-14",
+            "name": "Salford",
+            "cases": {
+                "daily": 24,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 277
+            }
+        },
+        {
+            "date": "2020-08-13",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 276
+            }
+        },
+        {
+            "date": "2020-08-12",
+            "name": "Salford",
+            "cases": {
+                "daily": 23,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 276
+            }
+        },
+        {
+            "date": "2020-08-11",
+            "name": "Salford",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 276
+            }
+        },
+        {
+            "date": "2020-08-10",
+            "name": "Salford",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 276
+            }
+        },
+        {
+            "date": "2020-08-09",
+            "name": "Salford",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 276
+            }
+        },
+        {
+            "date": "2020-08-08",
+            "name": "Salford",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 276
+            }
+        },
+        {
+            "date": "2020-08-07",
+            "name": "Salford",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 276
+            }
+        },
+        {
+            "date": "2020-08-06",
+            "name": "Salford",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 276
+            }
+        },
+        {
+            "date": "2020-08-05",
+            "name": "Salford",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 275
+            }
+        },
+        {
+            "date": "2020-08-04",
+            "name": "Salford",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 275
+            }
+        },
+        {
+            "date": "2020-08-03",
+            "name": "Salford",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 275
+            }
+        },
+        {
+            "date": "2020-08-02",
+            "name": "Salford",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 275
+            }
+        },
+        {
+            "date": "2020-08-01",
+            "name": "Salford",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 275
+            }
+        },
+        {
+            "date": "2020-07-31",
+            "name": "Salford",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 274
+            }
+        },
+        {
+            "date": "2020-07-30",
+            "name": "Salford",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 273
+            }
+        },
+        {
+            "date": "2020-07-29",
+            "name": "Salford",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 273
+            }
+        },
+        {
+            "date": "2020-07-28",
+            "name": "Salford",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 273
+            }
+        },
+        {
+            "date": "2020-07-27",
+            "name": "Salford",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 273
+            }
+        },
+        {
+            "date": "2020-07-26",
+            "name": "Salford",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 273
+            }
+        },
+        {
+            "date": "2020-07-25",
+            "name": "Salford",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 273
+            }
+        },
+        {
+            "date": "2020-07-24",
+            "name": "Salford",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 272
+            }
+        },
+        {
+            "date": "2020-07-23",
+            "name": "Salford",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 271
+            }
+        },
+        {
+            "date": "2020-07-22",
+            "name": "Salford",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 271
+            }
+        },
+        {
+            "date": "2020-07-21",
+            "name": "Salford",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 271
+            }
+        },
+        {
+            "date": "2020-07-20",
+            "name": "Salford",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 270
+            }
+        },
+        {
+            "date": "2020-07-19",
+            "name": "Salford",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 270
+            }
+        },
+        {
+            "date": "2020-07-18",
+            "name": "Salford",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 270
+            }
+        },
+        {
+            "date": "2020-07-17",
+            "name": "Salford",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 270
+            }
+        },
+        {
+            "date": "2020-07-16",
+            "name": "Salford",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 270
+            }
+        },
+        {
+            "date": "2020-07-15",
+            "name": "Salford",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 270
+            }
+        },
+        {
+            "date": "2020-07-14",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 269
+            }
+        },
+        {
+            "date": "2020-07-13",
+            "name": "Salford",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 269
+            }
+        },
+        {
+            "date": "2020-07-12",
+            "name": "Salford",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 269
+            }
+        },
+        {
+            "date": "2020-07-11",
+            "name": "Salford",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 268
+            }
+        },
+        {
+            "date": "2020-07-10",
+            "name": "Salford",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 268
+            }
+        },
+        {
+            "date": "2020-07-09",
+            "name": "Salford",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 268
+            }
+        },
+        {
+            "date": "2020-07-08",
+            "name": "Salford",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 268
+            }
+        },
+        {
+            "date": "2020-07-07",
+            "name": "Salford",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 268
+            }
+        },
+        {
+            "date": "2020-07-06",
+            "name": "Salford",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 268
+            }
+        },
+        {
+            "date": "2020-07-05",
+            "name": "Salford",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 268
+            }
+        },
+        {
+            "date": "2020-07-04",
+            "name": "Salford",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 268
+            }
+        },
+        {
+            "date": "2020-07-03",
+            "name": "Salford",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 267
+            }
+        },
+        {
+            "date": "2020-07-02",
+            "name": "Salford",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 267
+            }
+        },
+        {
+            "date": "2020-07-01",
+            "name": "Salford",
+            "cases": {
+                "daily": 311,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 266
+            }
+        },
+        {
+            "date": "2020-06-30",
+            "name": "Salford",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 266
+            }
+        },
+        {
+            "date": "2020-06-29",
+            "name": "Salford",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 266
+            }
+        },
+        {
+            "date": "2020-06-28",
+            "name": "Salford",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 266
+            }
+        },
+        {
+            "date": "2020-06-27",
+            "name": "Salford",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 265
+            }
+        },
+        {
+            "date": "2020-06-26",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 265
+            }
+        },
+        {
+            "date": "2020-06-25",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 264
+            }
+        },
+        {
+            "date": "2020-06-24",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 264
+            }
+        },
+        {
+            "date": "2020-06-23",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 262
+            }
+        },
+        {
+            "date": "2020-06-22",
+            "name": "Salford",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 262
+            }
+        },
+        {
+            "date": "2020-06-21",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 261
+            }
+        },
+        {
+            "date": "2020-06-20",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 261
+            }
+        },
+        {
+            "date": "2020-06-19",
+            "name": "Salford",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 261
+            }
+        },
+        {
+            "date": "2020-06-18",
+            "name": "Salford",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 261
+            }
+        },
+        {
+            "date": "2020-06-17",
+            "name": "Salford",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 261
+            }
+        },
+        {
+            "date": "2020-06-16",
+            "name": "Salford",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 261
+            }
+        },
+        {
+            "date": "2020-06-15",
+            "name": "Salford",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 259
+            }
+        },
+        {
+            "date": "2020-06-14",
+            "name": "Salford",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 259
+            }
+        },
+        {
+            "date": "2020-06-13",
+            "name": "Salford",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 259
+            }
+        },
+        {
+            "date": "2020-06-12",
+            "name": "Salford",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 257
+            }
+        },
+        {
+            "date": "2020-06-11",
+            "name": "Salford",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 257
+            }
+        },
+        {
+            "date": "2020-06-10",
+            "name": "Salford",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 255
+            }
+        },
+        {
+            "date": "2020-06-09",
+            "name": "Salford",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 255
+            }
+        },
+        {
+            "date": "2020-06-08",
+            "name": "Salford",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 254
+            }
+        },
+        {
+            "date": "2020-06-07",
+            "name": "Salford",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 252
+            }
+        },
+        {
+            "date": "2020-06-06",
+            "name": "Salford",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 252
+            }
+        },
+        {
+            "date": "2020-06-05",
+            "name": "Salford",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 251
+            }
+        },
+        {
+            "date": "2020-06-04",
+            "name": "Salford",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 251
+            }
+        },
+        {
+            "date": "2020-06-03",
+            "name": "Salford",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 251
+            }
+        },
+        {
+            "date": "2020-06-02",
+            "name": "Salford",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 250
+            }
+        },
+        {
+            "date": "2020-06-01",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 250
+            }
+        },
+        {
+            "date": "2020-05-31",
+            "name": "Salford",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 250
+            }
+        },
+        {
+            "date": "2020-05-30",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 250
+            }
+        },
+        {
+            "date": "2020-05-29",
+            "name": "Salford",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 249
+            }
+        },
+        {
+            "date": "2020-05-28",
+            "name": "Salford",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 247
+            }
+        },
+        {
+            "date": "2020-05-27",
+            "name": "Salford",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 247
+            }
+        },
+        {
+            "date": "2020-05-26",
+            "name": "Salford",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 246
+            }
+        },
+        {
+            "date": "2020-05-25",
+            "name": "Salford",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 245
+            }
+        },
+        {
+            "date": "2020-05-24",
+            "name": "Salford",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 245
+            }
+        },
+        {
+            "date": "2020-05-23",
+            "name": "Salford",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 243
+            }
+        },
+        {
+            "date": "2020-05-22",
+            "name": "Salford",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 241
+            }
+        },
+        {
+            "date": "2020-05-21",
+            "name": "Salford",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 241
+            }
+        },
+        {
+            "date": "2020-05-20",
+            "name": "Salford",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 240
+            }
+        },
+        {
+            "date": "2020-05-19",
+            "name": "Salford",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 239
+            }
+        },
+        {
+            "date": "2020-05-18",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 237
+            }
+        },
+        {
+            "date": "2020-05-17",
+            "name": "Salford",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 237
+            }
+        },
+        {
+            "date": "2020-05-16",
+            "name": "Salford",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 236
+            }
+        },
+        {
+            "date": "2020-05-15",
+            "name": "Salford",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 234
+            }
+        },
+        {
+            "date": "2020-05-14",
+            "name": "Salford",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 233
+            }
+        },
+        {
+            "date": "2020-05-13",
+            "name": "Salford",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 230
+            }
+        },
+        {
+            "date": "2020-05-12",
+            "name": "Salford",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 230
+            }
+        },
+        {
+            "date": "2020-05-11",
+            "name": "Salford",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 229
+            }
+        },
+        {
+            "date": "2020-05-10",
+            "name": "Salford",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 225
+            }
+        },
+        {
+            "date": "2020-05-09",
+            "name": "Salford",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 222
+            }
+        },
+        {
+            "date": "2020-05-08",
+            "name": "Salford",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 221
+            }
+        },
+        {
+            "date": "2020-05-07",
+            "name": "Salford",
+            "cases": {
+                "daily": 76,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 219
+            }
+        },
+        {
+            "date": "2020-05-06",
+            "name": "Salford",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 219
+            }
+        },
+        {
+            "date": "2020-05-05",
+            "name": "Salford",
+            "cases": {
+                "daily": 31,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 219
+            }
+        },
+        {
+            "date": "2020-05-04",
+            "name": "Salford",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 216
+            }
+        },
+        {
+            "date": "2020-05-03",
+            "name": "Salford",
+            "cases": {
+                "daily": 72,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 213
+            }
+        },
+        {
+            "date": "2020-05-02",
+            "name": "Salford",
+            "cases": {
+                "daily": 30,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 210
+            }
+        },
+        {
+            "date": "2020-05-01",
+            "name": "Salford",
+            "cases": {
+                "daily": 17,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 205
+            }
+        },
+        {
+            "date": "2020-04-30",
+            "name": "Salford",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 202
+            }
+        },
+        {
+            "date": "2020-04-29",
+            "name": "Salford",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 199
+            }
+        },
+        {
+            "date": "2020-04-28",
+            "name": "Salford",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 194
+            }
+        },
+        {
+            "date": "2020-04-27",
+            "name": "Salford",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 188
+            }
+        },
+        {
+            "date": "2020-04-26",
+            "name": "Salford",
+            "cases": {
+                "daily": 19,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 180
+            }
+        },
+        {
+            "date": "2020-04-25",
+            "name": "Salford",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 175
+            }
+        },
+        {
+            "date": "2020-04-24",
+            "name": "Salford",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 173
+            }
+        },
+        {
+            "date": "2020-04-23",
+            "name": "Salford",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 169
+            }
+        },
+        {
+            "date": "2020-04-22",
+            "name": "Salford",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 169
+            }
+        },
+        {
+            "date": "2020-04-21",
+            "name": "Salford",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 161
+            }
+        },
+        {
+            "date": "2020-04-20",
+            "name": "Salford",
+            "cases": {
+                "daily": 19,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 158
+            }
+        },
+        {
+            "date": "2020-04-19",
+            "name": "Salford",
+            "cases": {
+                "daily": 31,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 154
+            }
+        },
+        {
+            "date": "2020-04-18",
+            "name": "Salford",
+            "cases": {
+                "daily": 22,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 147
+            }
+        },
+        {
+            "date": "2020-04-17",
+            "name": "Salford",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 143
+            }
+        },
+        {
+            "date": "2020-04-16",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 142
+            }
+        },
+        {
+            "date": "2020-04-15",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 136
+            }
+        },
+        {
+            "date": "2020-04-14",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 126
+            }
+        },
+        {
+            "date": "2020-04-13",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 122
+            }
+        },
+        {
+            "date": "2020-04-12",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 116
+            }
+        },
+        {
+            "date": "2020-04-11",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 108
+            }
+        },
+        {
+            "date": "2020-04-10",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 105
+            }
+        },
+        {
+            "date": "2020-04-09",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 96
+            }
+        },
+        {
+            "date": "2020-04-08",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 89
+            }
+        },
+        {
+            "date": "2020-04-07",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 84
+            }
+        },
+        {
+            "date": "2020-04-06",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 78
+            }
+        },
+        {
+            "date": "2020-04-05",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 69
+            }
+        },
+        {
+            "date": "2020-04-04",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 62
+            }
+        },
+        {
+            "date": "2020-04-03",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 58
+            }
+        },
+        {
+            "date": "2020-04-02",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 53
+            }
+        },
+        {
+            "date": "2020-04-01",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 47
+            }
+        },
+        {
+            "date": "2020-03-31",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 40
+            }
+        },
+        {
+            "date": "2020-03-30",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 33
+            }
+        },
+        {
+            "date": "2020-03-29",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 27
+            }
+        },
+        {
+            "date": "2020-03-28",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 23
+            }
+        },
+        {
+            "date": "2020-03-27",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 19
+            }
+        },
+        {
+            "date": "2020-03-26",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 19
+            }
+        },
+        {
+            "date": "2020-03-25",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 14
+            }
+        },
+        {
+            "date": "2020-03-24",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 11
+            }
+        },
+        {
+            "date": "2020-03-23",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 7
+            }
+        },
+        {
+            "date": "2020-03-22",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 3
+            }
+        },
+        {
+            "date": "2020-03-21",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 2
+            }
+        },
+        {
+            "date": "2020-03-20",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-19",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-18",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-17",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-16",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-15",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-14",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-13",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-12",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-11",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-10",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-09",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-08",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-07",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-06",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-05",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-04",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-03",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-02",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-01",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-29",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-28",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-27",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-26",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-25",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-24",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-23",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-22",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-21",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-20",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-19",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-18",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-17",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-16",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-15",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-14",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-13",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-12",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-11",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-10",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-09",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-08",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-07",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-06",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-05",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-04",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-03",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-02",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-01",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-31",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-30",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-29",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-28",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-27",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-26",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-25",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-24",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-23",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-22",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-21",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-20",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-19",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-18",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-17",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-16",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-15",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-14",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-13",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-12",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-11",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-10",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-09",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-08",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-07",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-06",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-05",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-04",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-03",
+            "name": "Salford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        }
+    ],
+    "pagination": {
+        "current": "/v1/data?filters=areaType%3Dutla%3BareaName%3DSalford&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "next": null,
+        "previous": null,
+        "first": "/v1/data?filters=areaType%3Dutla%3BareaName%3DSalford&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "last": "/v1/data?filters=areaType%3Dutla%3BareaName%3DSalford&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1"
+    }
+}

@@ -1,0 +1,4501 @@
+{
+    "length": 374,
+    "maxPageLimit": 2500,
+    "data": [
+        {
+            "date": "2021-01-10",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 337,
+                "cumulative": 21044
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-09",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 300,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 948
+            }
+        },
+        {
+            "date": "2021-01-08",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 330,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 944
+            }
+        },
+        {
+            "date": "2021-01-07",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 283,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 938
+            }
+        },
+        {
+            "date": "2021-01-06",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 386,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 929
+            }
+        },
+        {
+            "date": "2021-01-05",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 368,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 919
+            }
+        },
+        {
+            "date": "2021-01-04",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 492,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 909
+            }
+        },
+        {
+            "date": "2021-01-03",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 185,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 906
+            }
+        },
+        {
+            "date": "2021-01-02",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 475,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 903
+            }
+        },
+        {
+            "date": "2021-01-01",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 248,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 893
+            }
+        },
+        {
+            "date": "2020-12-31",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 439,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 888
+            }
+        },
+        {
+            "date": "2020-12-30",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 336,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 880
+            }
+        },
+        {
+            "date": "2020-12-29",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 360,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 873
+            }
+        },
+        {
+            "date": "2020-12-28",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 161,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 867
+            }
+        },
+        {
+            "date": "2020-12-27",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 84,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 863
+            }
+        },
+        {
+            "date": "2020-12-26",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 220,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 853
+            }
+        },
+        {
+            "date": "2020-12-25",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 189,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 846
+            }
+        },
+        {
+            "date": "2020-12-24",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 199,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 839
+            }
+        },
+        {
+            "date": "2020-12-23",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 349,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 831
+            }
+        },
+        {
+            "date": "2020-12-22",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 200,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 828
+            }
+        },
+        {
+            "date": "2020-12-21",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 175,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 822
+            }
+        },
+        {
+            "date": "2020-12-20",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 213,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 811
+            }
+        },
+        {
+            "date": "2020-12-19",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 153,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 806
+            }
+        },
+        {
+            "date": "2020-12-18",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 184,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 799
+            }
+        },
+        {
+            "date": "2020-12-17",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 240,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 793
+            }
+        },
+        {
+            "date": "2020-12-16",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 158,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 785
+            }
+        },
+        {
+            "date": "2020-12-15",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 153,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 778
+            }
+        },
+        {
+            "date": "2020-12-14",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 81,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 777
+            }
+        },
+        {
+            "date": "2020-12-13",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 164,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 772
+            }
+        },
+        {
+            "date": "2020-12-12",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 125,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 764
+            }
+        },
+        {
+            "date": "2020-12-11",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 107,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 759
+            }
+        },
+        {
+            "date": "2020-12-10",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 132,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 756
+            }
+        },
+        {
+            "date": "2020-12-09",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 147,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 754
+            }
+        },
+        {
+            "date": "2020-12-08",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 91,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 750
+            }
+        },
+        {
+            "date": "2020-12-07",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 91,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 744
+            }
+        },
+        {
+            "date": "2020-12-06",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 118,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 742
+            }
+        },
+        {
+            "date": "2020-12-05",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 101,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 740
+            }
+        },
+        {
+            "date": "2020-12-04",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 89,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 737
+            }
+        },
+        {
+            "date": "2020-12-03",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 64,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 734
+            }
+        },
+        {
+            "date": "2020-12-02",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 104,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 730
+            }
+        },
+        {
+            "date": "2020-12-01",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 131,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 728
+            }
+        },
+        {
+            "date": "2020-11-30",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 98,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 721
+            }
+        },
+        {
+            "date": "2020-11-29",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 79,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 717
+            }
+        },
+        {
+            "date": "2020-11-28",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 124,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 711
+            }
+        },
+        {
+            "date": "2020-11-27",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 112,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 702
+            }
+        },
+        {
+            "date": "2020-11-26",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 125,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 698
+            }
+        },
+        {
+            "date": "2020-11-25",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 175,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 695
+            }
+        },
+        {
+            "date": "2020-11-24",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 125,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 692
+            }
+        },
+        {
+            "date": "2020-11-23",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 127,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 685
+            }
+        },
+        {
+            "date": "2020-11-22",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 166,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 679
+            }
+        },
+        {
+            "date": "2020-11-21",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 208,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 676
+            }
+        },
+        {
+            "date": "2020-11-20",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 202,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 671
+            }
+        },
+        {
+            "date": "2020-11-19",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 219,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 665
+            }
+        },
+        {
+            "date": "2020-11-18",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 119,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 662
+            }
+        },
+        {
+            "date": "2020-11-17",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 208,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 657
+            }
+        },
+        {
+            "date": "2020-11-16",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 328,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 655
+            }
+        },
+        {
+            "date": "2020-11-15",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 192,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 650
+            }
+        },
+        {
+            "date": "2020-11-14",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 224,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 645
+            }
+        },
+        {
+            "date": "2020-11-13",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 253,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 643
+            }
+        },
+        {
+            "date": "2020-11-12",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 309,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 642
+            }
+        },
+        {
+            "date": "2020-11-11",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 255,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 641
+            }
+        },
+        {
+            "date": "2020-11-10",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 163,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 640
+            }
+        },
+        {
+            "date": "2020-11-09",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 237,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 632
+            }
+        },
+        {
+            "date": "2020-11-08",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 157,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 630
+            }
+        },
+        {
+            "date": "2020-11-07",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 170,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 628
+            }
+        },
+        {
+            "date": "2020-11-06",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 156,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 626
+            }
+        },
+        {
+            "date": "2020-11-05",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 181,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 623
+            }
+        },
+        {
+            "date": "2020-11-04",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 239,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 619
+            }
+        },
+        {
+            "date": "2020-11-03",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 183,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 619
+            }
+        },
+        {
+            "date": "2020-11-02",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 142,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 617
+            }
+        },
+        {
+            "date": "2020-11-01",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 190,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 615
+            }
+        },
+        {
+            "date": "2020-10-31",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 121,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 611
+            }
+        },
+        {
+            "date": "2020-10-30",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 159,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 610
+            }
+        },
+        {
+            "date": "2020-10-29",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 201,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 609
+            }
+        },
+        {
+            "date": "2020-10-28",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 205,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 606
+            }
+        },
+        {
+            "date": "2020-10-27",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 170,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 606
+            }
+        },
+        {
+            "date": "2020-10-26",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 150,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 605
+            }
+        },
+        {
+            "date": "2020-10-25",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 145,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 603
+            }
+        },
+        {
+            "date": "2020-10-24",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 146,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 602
+            }
+        },
+        {
+            "date": "2020-10-23",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 140,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 602
+            }
+        },
+        {
+            "date": "2020-10-22",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 121,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 601
+            }
+        },
+        {
+            "date": "2020-10-21",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 175,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 599
+            }
+        },
+        {
+            "date": "2020-10-20",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 143,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 597
+            }
+        },
+        {
+            "date": "2020-10-19",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 106,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 596
+            }
+        },
+        {
+            "date": "2020-10-18",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 103,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 595
+            }
+        },
+        {
+            "date": "2020-10-17",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 85,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 595
+            }
+        },
+        {
+            "date": "2020-10-16",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 96,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 592
+            }
+        },
+        {
+            "date": "2020-10-15",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 101,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 592
+            }
+        },
+        {
+            "date": "2020-10-14",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 111,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 590
+            }
+        },
+        {
+            "date": "2020-10-13",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 88,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 589
+            }
+        },
+        {
+            "date": "2020-10-12",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 80,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 586
+            }
+        },
+        {
+            "date": "2020-10-11",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 66,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 584
+            }
+        },
+        {
+            "date": "2020-10-10",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 77,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 581
+            }
+        },
+        {
+            "date": "2020-10-09",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 74,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 580
+            }
+        },
+        {
+            "date": "2020-10-08",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 83,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 579
+            }
+        },
+        {
+            "date": "2020-10-07",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 55,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 578
+            }
+        },
+        {
+            "date": "2020-10-06",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 92,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 578
+            }
+        },
+        {
+            "date": "2020-10-05",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 86,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 577
+            }
+        },
+        {
+            "date": "2020-10-04",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 114,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 575
+            }
+        },
+        {
+            "date": "2020-10-03",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 62,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 575
+            }
+        },
+        {
+            "date": "2020-10-02",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 21,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 574
+            }
+        },
+        {
+            "date": "2020-10-01",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 23,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 573
+            }
+        },
+        {
+            "date": "2020-09-30",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 29,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 571
+            }
+        },
+        {
+            "date": "2020-09-29",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 36,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 571
+            }
+        },
+        {
+            "date": "2020-09-28",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 25,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 570
+            }
+        },
+        {
+            "date": "2020-09-27",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 21,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 570
+            }
+        },
+        {
+            "date": "2020-09-26",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 35,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 569
+            }
+        },
+        {
+            "date": "2020-09-25",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 21,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 568
+            }
+        },
+        {
+            "date": "2020-09-24",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 34,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 568
+            }
+        },
+        {
+            "date": "2020-09-23",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 46,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 568
+            }
+        },
+        {
+            "date": "2020-09-22",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 35,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 568
+            }
+        },
+        {
+            "date": "2020-09-21",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 39,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 567
+            }
+        },
+        {
+            "date": "2020-09-20",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 567
+            }
+        },
+        {
+            "date": "2020-09-19",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 25,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 567
+            }
+        },
+        {
+            "date": "2020-09-18",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 40,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 567
+            }
+        },
+        {
+            "date": "2020-09-17",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 31,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 567
+            }
+        },
+        {
+            "date": "2020-09-16",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 39,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 567
+            }
+        },
+        {
+            "date": "2020-09-15",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 22,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 565
+            }
+        },
+        {
+            "date": "2020-09-14",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 564
+            }
+        },
+        {
+            "date": "2020-09-13",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 563
+            }
+        },
+        {
+            "date": "2020-09-12",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 560
+            }
+        },
+        {
+            "date": "2020-09-11",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 24,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 560
+            }
+        },
+        {
+            "date": "2020-09-10",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 17,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 560
+            }
+        },
+        {
+            "date": "2020-09-09",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 560
+            }
+        },
+        {
+            "date": "2020-09-08",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 560
+            }
+        },
+        {
+            "date": "2020-09-07",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 560
+            }
+        },
+        {
+            "date": "2020-09-06",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 560
+            }
+        },
+        {
+            "date": "2020-09-05",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 560
+            }
+        },
+        {
+            "date": "2020-09-04",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 557
+            }
+        },
+        {
+            "date": "2020-09-03",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 557
+            }
+        },
+        {
+            "date": "2020-09-02",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 557
+            }
+        },
+        {
+            "date": "2020-09-01",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 557
+            }
+        },
+        {
+            "date": "2020-08-31",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 557
+            }
+        },
+        {
+            "date": "2020-08-30",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 554
+            }
+        },
+        {
+            "date": "2020-08-29",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 554
+            }
+        },
+        {
+            "date": "2020-08-28",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 553
+            }
+        },
+        {
+            "date": "2020-08-27",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 553
+            }
+        },
+        {
+            "date": "2020-08-26",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 553
+            }
+        },
+        {
+            "date": "2020-08-25",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 552
+            }
+        },
+        {
+            "date": "2020-08-24",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 551
+            }
+        },
+        {
+            "date": "2020-08-23",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 550
+            }
+        },
+        {
+            "date": "2020-08-22",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 549
+            }
+        },
+        {
+            "date": "2020-08-21",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 548
+            }
+        },
+        {
+            "date": "2020-08-20",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 548
+            }
+        },
+        {
+            "date": "2020-08-19",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 548
+            }
+        },
+        {
+            "date": "2020-08-18",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 548
+            }
+        },
+        {
+            "date": "2020-08-17",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 546
+            }
+        },
+        {
+            "date": "2020-08-16",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 546
+            }
+        },
+        {
+            "date": "2020-08-15",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 546
+            }
+        },
+        {
+            "date": "2020-08-14",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 17,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 544
+            }
+        },
+        {
+            "date": "2020-08-13",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 544
+            }
+        },
+        {
+            "date": "2020-08-12",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 541
+            }
+        },
+        {
+            "date": "2020-08-11",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 539
+            }
+        },
+        {
+            "date": "2020-08-10",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 539
+            }
+        },
+        {
+            "date": "2020-08-09",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 538
+            }
+        },
+        {
+            "date": "2020-08-08",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 538
+            }
+        },
+        {
+            "date": "2020-08-07",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 538
+            }
+        },
+        {
+            "date": "2020-08-06",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 536
+            }
+        },
+        {
+            "date": "2020-08-05",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 536
+            }
+        },
+        {
+            "date": "2020-08-04",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 535
+            }
+        },
+        {
+            "date": "2020-08-03",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 534
+            }
+        },
+        {
+            "date": "2020-08-02",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 534
+            }
+        },
+        {
+            "date": "2020-08-01",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 534
+            }
+        },
+        {
+            "date": "2020-07-31",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 534
+            }
+        },
+        {
+            "date": "2020-07-30",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 534
+            }
+        },
+        {
+            "date": "2020-07-29",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 533
+            }
+        },
+        {
+            "date": "2020-07-28",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 533
+            }
+        },
+        {
+            "date": "2020-07-27",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 531
+            }
+        },
+        {
+            "date": "2020-07-26",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 530
+            }
+        },
+        {
+            "date": "2020-07-25",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 529
+            }
+        },
+        {
+            "date": "2020-07-24",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 527
+            }
+        },
+        {
+            "date": "2020-07-23",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 527
+            }
+        },
+        {
+            "date": "2020-07-22",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 526
+            }
+        },
+        {
+            "date": "2020-07-21",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 525
+            }
+        },
+        {
+            "date": "2020-07-20",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 524
+            }
+        },
+        {
+            "date": "2020-07-19",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 524
+            }
+        },
+        {
+            "date": "2020-07-18",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 524
+            }
+        },
+        {
+            "date": "2020-07-17",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 523
+            }
+        },
+        {
+            "date": "2020-07-16",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 521
+            }
+        },
+        {
+            "date": "2020-07-15",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 520
+            }
+        },
+        {
+            "date": "2020-07-14",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 520
+            }
+        },
+        {
+            "date": "2020-07-13",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 519
+            }
+        },
+        {
+            "date": "2020-07-12",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 518
+            }
+        },
+        {
+            "date": "2020-07-11",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 516
+            }
+        },
+        {
+            "date": "2020-07-10",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 516
+            }
+        },
+        {
+            "date": "2020-07-09",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 516
+            }
+        },
+        {
+            "date": "2020-07-08",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 512
+            }
+        },
+        {
+            "date": "2020-07-07",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 511
+            }
+        },
+        {
+            "date": "2020-07-06",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 511
+            }
+        },
+        {
+            "date": "2020-07-05",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 508
+            }
+        },
+        {
+            "date": "2020-07-04",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 508
+            }
+        },
+        {
+            "date": "2020-07-03",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 505
+            }
+        },
+        {
+            "date": "2020-07-02",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 502
+            }
+        },
+        {
+            "date": "2020-07-01",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 844,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 501
+            }
+        },
+        {
+            "date": "2020-06-30",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 499
+            }
+        },
+        {
+            "date": "2020-06-29",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 497
+            }
+        },
+        {
+            "date": "2020-06-28",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 493
+            }
+        },
+        {
+            "date": "2020-06-27",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 489
+            }
+        },
+        {
+            "date": "2020-06-26",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 487
+            }
+        },
+        {
+            "date": "2020-06-25",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 485
+            }
+        },
+        {
+            "date": "2020-06-24",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 480
+            }
+        },
+        {
+            "date": "2020-06-23",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 478
+            }
+        },
+        {
+            "date": "2020-06-22",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 474
+            }
+        },
+        {
+            "date": "2020-06-21",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 472
+            }
+        },
+        {
+            "date": "2020-06-20",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 470
+            }
+        },
+        {
+            "date": "2020-06-19",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 19,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 470
+            }
+        },
+        {
+            "date": "2020-06-18",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 469
+            }
+        },
+        {
+            "date": "2020-06-17",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 467
+            }
+        },
+        {
+            "date": "2020-06-16",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 465
+            }
+        },
+        {
+            "date": "2020-06-15",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 461
+            }
+        },
+        {
+            "date": "2020-06-14",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 459
+            }
+        },
+        {
+            "date": "2020-06-13",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 455
+            }
+        },
+        {
+            "date": "2020-06-12",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 455
+            }
+        },
+        {
+            "date": "2020-06-11",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 453
+            }
+        },
+        {
+            "date": "2020-06-10",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 452
+            }
+        },
+        {
+            "date": "2020-06-09",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 450
+            }
+        },
+        {
+            "date": "2020-06-08",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 446
+            }
+        },
+        {
+            "date": "2020-06-07",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 446
+            }
+        },
+        {
+            "date": "2020-06-06",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 443
+            }
+        },
+        {
+            "date": "2020-06-05",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 443
+            }
+        },
+        {
+            "date": "2020-06-04",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 438
+            }
+        },
+        {
+            "date": "2020-06-03",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 435
+            }
+        },
+        {
+            "date": "2020-06-02",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 19,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 434
+            }
+        },
+        {
+            "date": "2020-06-01",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 431
+            }
+        },
+        {
+            "date": "2020-05-31",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 429
+            }
+        },
+        {
+            "date": "2020-05-30",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 425
+            }
+        },
+        {
+            "date": "2020-05-29",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 422
+            }
+        },
+        {
+            "date": "2020-05-28",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 421
+            }
+        },
+        {
+            "date": "2020-05-27",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 418
+            }
+        },
+        {
+            "date": "2020-05-26",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 413
+            }
+        },
+        {
+            "date": "2020-05-25",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 409
+            }
+        },
+        {
+            "date": "2020-05-24",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 406
+            }
+        },
+        {
+            "date": "2020-05-23",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 404
+            }
+        },
+        {
+            "date": "2020-05-22",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 402
+            }
+        },
+        {
+            "date": "2020-05-21",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 402
+            }
+        },
+        {
+            "date": "2020-05-20",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 395
+            }
+        },
+        {
+            "date": "2020-05-19",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 387
+            }
+        },
+        {
+            "date": "2020-05-18",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 384
+            }
+        },
+        {
+            "date": "2020-05-17",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 382
+            }
+        },
+        {
+            "date": "2020-05-16",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 378
+            }
+        },
+        {
+            "date": "2020-05-15",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 374
+            }
+        },
+        {
+            "date": "2020-05-14",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 369
+            }
+        },
+        {
+            "date": "2020-05-13",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 365
+            }
+        },
+        {
+            "date": "2020-05-12",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 356
+            }
+        },
+        {
+            "date": "2020-05-11",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 353
+            }
+        },
+        {
+            "date": "2020-05-10",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 349
+            }
+        },
+        {
+            "date": "2020-05-09",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 17,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 345
+            }
+        },
+        {
+            "date": "2020-05-08",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 19,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 344
+            }
+        },
+        {
+            "date": "2020-05-07",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 337
+            }
+        },
+        {
+            "date": "2020-05-06",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 335
+            }
+        },
+        {
+            "date": "2020-05-05",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 328
+            }
+        },
+        {
+            "date": "2020-05-04",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 21,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 323
+            }
+        },
+        {
+            "date": "2020-05-03",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 317
+            }
+        },
+        {
+            "date": "2020-05-02",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 22,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 310
+            }
+        },
+        {
+            "date": "2020-05-01",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 23,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 302
+            }
+        },
+        {
+            "date": "2020-04-30",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 25,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 293
+            }
+        },
+        {
+            "date": "2020-04-29",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 26,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 292
+            }
+        },
+        {
+            "date": "2020-04-28",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 36,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 283
+            }
+        },
+        {
+            "date": "2020-04-27",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 23,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 279
+            }
+        },
+        {
+            "date": "2020-04-26",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 23,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 270
+            }
+        },
+        {
+            "date": "2020-04-25",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 32,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 16,
+                "cumulative": 259
+            }
+        },
+        {
+            "date": "2020-04-24",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 21,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 243
+            }
+        },
+        {
+            "date": "2020-04-23",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 49,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 236
+            }
+        },
+        {
+            "date": "2020-04-22",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 22,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 228
+            }
+        },
+        {
+            "date": "2020-04-21",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 42,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 219
+            }
+        },
+        {
+            "date": "2020-04-20",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 37,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 212
+            }
+        },
+        {
+            "date": "2020-04-19",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 205
+            }
+        },
+        {
+            "date": "2020-04-18",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 26,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 193
+            }
+        },
+        {
+            "date": "2020-04-17",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 19,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 185
+            }
+        },
+        {
+            "date": "2020-04-16",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 179
+            }
+        },
+        {
+            "date": "2020-04-15",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 169
+            }
+        },
+        {
+            "date": "2020-04-14",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 156
+            }
+        },
+        {
+            "date": "2020-04-13",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 149
+            }
+        },
+        {
+            "date": "2020-04-12",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 142
+            }
+        },
+        {
+            "date": "2020-04-11",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 131
+            }
+        },
+        {
+            "date": "2020-04-10",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 121
+            }
+        },
+        {
+            "date": "2020-04-09",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 112
+            }
+        },
+        {
+            "date": "2020-04-08",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 105
+            }
+        },
+        {
+            "date": "2020-04-07",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 94
+            }
+        },
+        {
+            "date": "2020-04-06",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 89
+            }
+        },
+        {
+            "date": "2020-04-05",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 84
+            }
+        },
+        {
+            "date": "2020-04-04",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 72
+            }
+        },
+        {
+            "date": "2020-04-03",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 61
+            }
+        },
+        {
+            "date": "2020-04-02",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 58
+            }
+        },
+        {
+            "date": "2020-04-01",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 50
+            }
+        },
+        {
+            "date": "2020-03-31",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 47
+            }
+        },
+        {
+            "date": "2020-03-30",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 44
+            }
+        },
+        {
+            "date": "2020-03-29",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 38
+            }
+        },
+        {
+            "date": "2020-03-28",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 32
+            }
+        },
+        {
+            "date": "2020-03-27",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 30
+            }
+        },
+        {
+            "date": "2020-03-26",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 27
+            }
+        },
+        {
+            "date": "2020-03-25",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 23
+            }
+        },
+        {
+            "date": "2020-03-24",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 16
+            }
+        },
+        {
+            "date": "2020-03-23",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 14
+            }
+        },
+        {
+            "date": "2020-03-22",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 11
+            }
+        },
+        {
+            "date": "2020-03-21",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 10
+            }
+        },
+        {
+            "date": "2020-03-20",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 7
+            }
+        },
+        {
+            "date": "2020-03-19",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 5
+            }
+        },
+        {
+            "date": "2020-03-18",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 4
+            }
+        },
+        {
+            "date": "2020-03-17",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 3
+            }
+        },
+        {
+            "date": "2020-03-16",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 3
+            }
+        },
+        {
+            "date": "2020-03-15",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 3
+            }
+        },
+        {
+            "date": "2020-03-14",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 2
+            }
+        },
+        {
+            "date": "2020-03-13",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 2
+            }
+        },
+        {
+            "date": "2020-03-12",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-11",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-10",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-09",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-08",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-07",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-06",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-05",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-04",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-03",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-02",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-01",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-29",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-28",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-27",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-26",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-25",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-24",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-23",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-22",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-21",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-20",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-19",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-18",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-17",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-16",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-15",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-14",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-13",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-12",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-11",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-10",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-09",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-08",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-07",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-06",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-05",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-04",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-03",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-02",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-01",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-31",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-30",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-29",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-28",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-27",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-26",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-25",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-24",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-23",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-22",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-21",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-20",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-19",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-18",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-17",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-16",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-15",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-14",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-13",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-12",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-11",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-10",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-09",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-08",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-07",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-06",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-05",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-04",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-03",
+            "name": "Warwickshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        }
+    ],
+    "pagination": {
+        "current": "/v1/data?filters=areaType%3Dutla%3BareaName%3DWarwickshire&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "next": null,
+        "previous": null,
+        "first": "/v1/data?filters=areaType%3Dutla%3BareaName%3DWarwickshire&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "last": "/v1/data?filters=areaType%3Dutla%3BareaName%3DWarwickshire&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1"
+    }
+}

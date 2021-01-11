@@ -1,0 +1,4501 @@
+{
+    "length": 374,
+    "maxPageLimit": 2500,
+    "data": [
+        {
+            "date": "2021-01-10",
+            "name": "Surrey",
+            "cases": {
+                "daily": 1115,
+                "cumulative": 49082
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-09",
+            "name": "Surrey",
+            "cases": {
+                "daily": 1366,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1554
+            }
+        },
+        {
+            "date": "2021-01-08",
+            "name": "Surrey",
+            "cases": {
+                "daily": 1428,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 1553
+            }
+        },
+        {
+            "date": "2021-01-07",
+            "name": "Surrey",
+            "cases": {
+                "daily": 1142,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 1545
+            }
+        },
+        {
+            "date": "2021-01-06",
+            "name": "Surrey",
+            "cases": {
+                "daily": 1218,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 20,
+                "cumulative": 1532
+            }
+        },
+        {
+            "date": "2021-01-05",
+            "name": "Surrey",
+            "cases": {
+                "daily": 1424,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 18,
+                "cumulative": 1512
+            }
+        },
+        {
+            "date": "2021-01-04",
+            "name": "Surrey",
+            "cases": {
+                "daily": 1369,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 15,
+                "cumulative": 1494
+            }
+        },
+        {
+            "date": "2021-01-03",
+            "name": "Surrey",
+            "cases": {
+                "daily": 1139,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 1479
+            }
+        },
+        {
+            "date": "2021-01-02",
+            "name": "Surrey",
+            "cases": {
+                "daily": 1588,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 17,
+                "cumulative": 1465
+            }
+        },
+        {
+            "date": "2021-01-01",
+            "name": "Surrey",
+            "cases": {
+                "daily": 1482,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 1448
+            }
+        },
+        {
+            "date": "2020-12-31",
+            "name": "Surrey",
+            "cases": {
+                "daily": 1498,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 1435
+            }
+        },
+        {
+            "date": "2020-12-30",
+            "name": "Surrey",
+            "cases": {
+                "daily": 1282,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 1427
+            }
+        },
+        {
+            "date": "2020-12-29",
+            "name": "Surrey",
+            "cases": {
+                "daily": 1117,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 16,
+                "cumulative": 1418
+            }
+        },
+        {
+            "date": "2020-12-28",
+            "name": "Surrey",
+            "cases": {
+                "daily": 825,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 1402
+            }
+        },
+        {
+            "date": "2020-12-27",
+            "name": "Surrey",
+            "cases": {
+                "daily": 794,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 1392
+            }
+        },
+        {
+            "date": "2020-12-26",
+            "name": "Surrey",
+            "cases": {
+                "daily": 900,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 15,
+                "cumulative": 1381
+            }
+        },
+        {
+            "date": "2020-12-25",
+            "name": "Surrey",
+            "cases": {
+                "daily": 964,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 1366
+            }
+        },
+        {
+            "date": "2020-12-24",
+            "name": "Surrey",
+            "cases": {
+                "daily": 960,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 16,
+                "cumulative": 1354
+            }
+        },
+        {
+            "date": "2020-12-23",
+            "name": "Surrey",
+            "cases": {
+                "daily": 631,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 1338
+            }
+        },
+        {
+            "date": "2020-12-22",
+            "name": "Surrey",
+            "cases": {
+                "daily": 655,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 1326
+            }
+        },
+        {
+            "date": "2020-12-21",
+            "name": "Surrey",
+            "cases": {
+                "daily": 626,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 1313
+            }
+        },
+        {
+            "date": "2020-12-20",
+            "name": "Surrey",
+            "cases": {
+                "daily": 921,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 1299
+            }
+        },
+        {
+            "date": "2020-12-19",
+            "name": "Surrey",
+            "cases": {
+                "daily": 608,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 1287
+            }
+        },
+        {
+            "date": "2020-12-18",
+            "name": "Surrey",
+            "cases": {
+                "daily": 623,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 1273
+            }
+        },
+        {
+            "date": "2020-12-17",
+            "name": "Surrey",
+            "cases": {
+                "daily": 587,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 1260
+            }
+        },
+        {
+            "date": "2020-12-16",
+            "name": "Surrey",
+            "cases": {
+                "daily": 567,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 1253
+            }
+        },
+        {
+            "date": "2020-12-15",
+            "name": "Surrey",
+            "cases": {
+                "daily": 311,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 1249
+            }
+        },
+        {
+            "date": "2020-12-14",
+            "name": "Surrey",
+            "cases": {
+                "daily": 386,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 1242
+            }
+        },
+        {
+            "date": "2020-12-13",
+            "name": "Surrey",
+            "cases": {
+                "daily": 440,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 1238
+            }
+        },
+        {
+            "date": "2020-12-12",
+            "name": "Surrey",
+            "cases": {
+                "daily": 381,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 1233
+            }
+        },
+        {
+            "date": "2020-12-11",
+            "name": "Surrey",
+            "cases": {
+                "daily": 420,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1229
+            }
+        },
+        {
+            "date": "2020-12-10",
+            "name": "Surrey",
+            "cases": {
+                "daily": 311,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 1227
+            }
+        },
+        {
+            "date": "2020-12-09",
+            "name": "Surrey",
+            "cases": {
+                "daily": 253,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 1223
+            }
+        },
+        {
+            "date": "2020-12-08",
+            "name": "Surrey",
+            "cases": {
+                "daily": 202,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 1217
+            }
+        },
+        {
+            "date": "2020-12-07",
+            "name": "Surrey",
+            "cases": {
+                "daily": 234,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 1208
+            }
+        },
+        {
+            "date": "2020-12-06",
+            "name": "Surrey",
+            "cases": {
+                "daily": 244,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1202
+            }
+        },
+        {
+            "date": "2020-12-05",
+            "name": "Surrey",
+            "cases": {
+                "daily": 270,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 1201
+            }
+        },
+        {
+            "date": "2020-12-04",
+            "name": "Surrey",
+            "cases": {
+                "daily": 270,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 1193
+            }
+        },
+        {
+            "date": "2020-12-03",
+            "name": "Surrey",
+            "cases": {
+                "daily": 209,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 1187
+            }
+        },
+        {
+            "date": "2020-12-02",
+            "name": "Surrey",
+            "cases": {
+                "daily": 281,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 1182
+            }
+        },
+        {
+            "date": "2020-12-01",
+            "name": "Surrey",
+            "cases": {
+                "daily": 294,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 1178
+            }
+        },
+        {
+            "date": "2020-11-30",
+            "name": "Surrey",
+            "cases": {
+                "daily": 141,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 1170
+            }
+        },
+        {
+            "date": "2020-11-29",
+            "name": "Surrey",
+            "cases": {
+                "daily": 158,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 1164
+            }
+        },
+        {
+            "date": "2020-11-28",
+            "name": "Surrey",
+            "cases": {
+                "daily": 214,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 1157
+            }
+        },
+        {
+            "date": "2020-11-27",
+            "name": "Surrey",
+            "cases": {
+                "daily": 174,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 1152
+            }
+        },
+        {
+            "date": "2020-11-26",
+            "name": "Surrey",
+            "cases": {
+                "daily": 179,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 1144
+            }
+        },
+        {
+            "date": "2020-11-25",
+            "name": "Surrey",
+            "cases": {
+                "daily": 269,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 1139
+            }
+        },
+        {
+            "date": "2020-11-24",
+            "name": "Surrey",
+            "cases": {
+                "daily": 125,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 1133
+            }
+        },
+        {
+            "date": "2020-11-23",
+            "name": "Surrey",
+            "cases": {
+                "daily": 256,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 1125
+            }
+        },
+        {
+            "date": "2020-11-22",
+            "name": "Surrey",
+            "cases": {
+                "daily": 269,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 1119
+            }
+        },
+        {
+            "date": "2020-11-21",
+            "name": "Surrey",
+            "cases": {
+                "daily": 243,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 1114
+            }
+        },
+        {
+            "date": "2020-11-20",
+            "name": "Surrey",
+            "cases": {
+                "daily": 151,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1111
+            }
+        },
+        {
+            "date": "2020-11-19",
+            "name": "Surrey",
+            "cases": {
+                "daily": 244,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 1109
+            }
+        },
+        {
+            "date": "2020-11-18",
+            "name": "Surrey",
+            "cases": {
+                "daily": 187,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 1100
+            }
+        },
+        {
+            "date": "2020-11-17",
+            "name": "Surrey",
+            "cases": {
+                "daily": 280,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 1095
+            }
+        },
+        {
+            "date": "2020-11-16",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 1090
+            }
+        },
+        {
+            "date": "2020-11-15",
+            "name": "Surrey",
+            "cases": {
+                "daily": 218,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 1085
+            }
+        },
+        {
+            "date": "2020-11-14",
+            "name": "Surrey",
+            "cases": {
+                "daily": 281,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 1080
+            }
+        },
+        {
+            "date": "2020-11-13",
+            "name": "Surrey",
+            "cases": {
+                "daily": 338,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 1075
+            }
+        },
+        {
+            "date": "2020-11-12",
+            "name": "Surrey",
+            "cases": {
+                "daily": 466,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 1070
+            }
+        },
+        {
+            "date": "2020-11-11",
+            "name": "Surrey",
+            "cases": {
+                "daily": 376,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 1064
+            }
+        },
+        {
+            "date": "2020-11-10",
+            "name": "Surrey",
+            "cases": {
+                "daily": 178,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 1061
+            }
+        },
+        {
+            "date": "2020-11-09",
+            "name": "Surrey",
+            "cases": {
+                "daily": 243,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 1058
+            }
+        },
+        {
+            "date": "2020-11-08",
+            "name": "Surrey",
+            "cases": {
+                "daily": 245,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 1054
+            }
+        },
+        {
+            "date": "2020-11-07",
+            "name": "Surrey",
+            "cases": {
+                "daily": 283,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 1051
+            }
+        },
+        {
+            "date": "2020-11-06",
+            "name": "Surrey",
+            "cases": {
+                "daily": 218,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1047
+            }
+        },
+        {
+            "date": "2020-11-05",
+            "name": "Surrey",
+            "cases": {
+                "daily": 221,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1045
+            }
+        },
+        {
+            "date": "2020-11-04",
+            "name": "Surrey",
+            "cases": {
+                "daily": 292,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 1044
+            }
+        },
+        {
+            "date": "2020-11-03",
+            "name": "Surrey",
+            "cases": {
+                "daily": 203,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 1038
+            }
+        },
+        {
+            "date": "2020-11-02",
+            "name": "Surrey",
+            "cases": {
+                "daily": 234,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 1035
+            }
+        },
+        {
+            "date": "2020-11-01",
+            "name": "Surrey",
+            "cases": {
+                "daily": 218,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 1031
+            }
+        },
+        {
+            "date": "2020-10-31",
+            "name": "Surrey",
+            "cases": {
+                "daily": 192,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 1027
+            }
+        },
+        {
+            "date": "2020-10-30",
+            "name": "Surrey",
+            "cases": {
+                "daily": 259,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 1020
+            }
+        },
+        {
+            "date": "2020-10-29",
+            "name": "Surrey",
+            "cases": {
+                "daily": 176,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1017
+            }
+        },
+        {
+            "date": "2020-10-28",
+            "name": "Surrey",
+            "cases": {
+                "daily": 280,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1015
+            }
+        },
+        {
+            "date": "2020-10-27",
+            "name": "Surrey",
+            "cases": {
+                "daily": 213,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1013
+            }
+        },
+        {
+            "date": "2020-10-26",
+            "name": "Surrey",
+            "cases": {
+                "daily": 200,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1013
+            }
+        },
+        {
+            "date": "2020-10-25",
+            "name": "Surrey",
+            "cases": {
+                "daily": 183,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 1012
+            }
+        },
+        {
+            "date": "2020-10-24",
+            "name": "Surrey",
+            "cases": {
+                "daily": 215,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 1007
+            }
+        },
+        {
+            "date": "2020-10-23",
+            "name": "Surrey",
+            "cases": {
+                "daily": 173,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1002
+            }
+        },
+        {
+            "date": "2020-10-22",
+            "name": "Surrey",
+            "cases": {
+                "daily": 184,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1001
+            }
+        },
+        {
+            "date": "2020-10-21",
+            "name": "Surrey",
+            "cases": {
+                "daily": 271,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 1001
+            }
+        },
+        {
+            "date": "2020-10-20",
+            "name": "Surrey",
+            "cases": {
+                "daily": 165,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 998
+            }
+        },
+        {
+            "date": "2020-10-19",
+            "name": "Surrey",
+            "cases": {
+                "daily": 202,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 997
+            }
+        },
+        {
+            "date": "2020-10-18",
+            "name": "Surrey",
+            "cases": {
+                "daily": 148,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 995
+            }
+        },
+        {
+            "date": "2020-10-17",
+            "name": "Surrey",
+            "cases": {
+                "daily": 155,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 995
+            }
+        },
+        {
+            "date": "2020-10-16",
+            "name": "Surrey",
+            "cases": {
+                "daily": 115,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 991
+            }
+        },
+        {
+            "date": "2020-10-15",
+            "name": "Surrey",
+            "cases": {
+                "daily": 206,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 991
+            }
+        },
+        {
+            "date": "2020-10-14",
+            "name": "Surrey",
+            "cases": {
+                "daily": 184,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 990
+            }
+        },
+        {
+            "date": "2020-10-13",
+            "name": "Surrey",
+            "cases": {
+                "daily": 158,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 988
+            }
+        },
+        {
+            "date": "2020-10-12",
+            "name": "Surrey",
+            "cases": {
+                "daily": 81,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 987
+            }
+        },
+        {
+            "date": "2020-10-11",
+            "name": "Surrey",
+            "cases": {
+                "daily": 77,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 984
+            }
+        },
+        {
+            "date": "2020-10-10",
+            "name": "Surrey",
+            "cases": {
+                "daily": 147,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 983
+            }
+        },
+        {
+            "date": "2020-10-09",
+            "name": "Surrey",
+            "cases": {
+                "daily": 165,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 983
+            }
+        },
+        {
+            "date": "2020-10-08",
+            "name": "Surrey",
+            "cases": {
+                "daily": 180,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 982
+            }
+        },
+        {
+            "date": "2020-10-07",
+            "name": "Surrey",
+            "cases": {
+                "daily": 166,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 980
+            }
+        },
+        {
+            "date": "2020-10-06",
+            "name": "Surrey",
+            "cases": {
+                "daily": 124,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 979
+            }
+        },
+        {
+            "date": "2020-10-05",
+            "name": "Surrey",
+            "cases": {
+                "daily": 120,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 978
+            }
+        },
+        {
+            "date": "2020-10-04",
+            "name": "Surrey",
+            "cases": {
+                "daily": 228,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 978
+            }
+        },
+        {
+            "date": "2020-10-03",
+            "name": "Surrey",
+            "cases": {
+                "daily": 89,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 978
+            }
+        },
+        {
+            "date": "2020-10-02",
+            "name": "Surrey",
+            "cases": {
+                "daily": 41,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 976
+            }
+        },
+        {
+            "date": "2020-10-01",
+            "name": "Surrey",
+            "cases": {
+                "daily": 42,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 976
+            }
+        },
+        {
+            "date": "2020-09-30",
+            "name": "Surrey",
+            "cases": {
+                "daily": 34,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 975
+            }
+        },
+        {
+            "date": "2020-09-29",
+            "name": "Surrey",
+            "cases": {
+                "daily": 48,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 975
+            }
+        },
+        {
+            "date": "2020-09-28",
+            "name": "Surrey",
+            "cases": {
+                "daily": 24,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 974
+            }
+        },
+        {
+            "date": "2020-09-27",
+            "name": "Surrey",
+            "cases": {
+                "daily": 44,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 974
+            }
+        },
+        {
+            "date": "2020-09-26",
+            "name": "Surrey",
+            "cases": {
+                "daily": 29,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 973
+            }
+        },
+        {
+            "date": "2020-09-25",
+            "name": "Surrey",
+            "cases": {
+                "daily": 53,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 973
+            }
+        },
+        {
+            "date": "2020-09-24",
+            "name": "Surrey",
+            "cases": {
+                "daily": 68,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 971
+            }
+        },
+        {
+            "date": "2020-09-23",
+            "name": "Surrey",
+            "cases": {
+                "daily": 43,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 971
+            }
+        },
+        {
+            "date": "2020-09-22",
+            "name": "Surrey",
+            "cases": {
+                "daily": 22,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 970
+            }
+        },
+        {
+            "date": "2020-09-21",
+            "name": "Surrey",
+            "cases": {
+                "daily": 22,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 969
+            }
+        },
+        {
+            "date": "2020-09-20",
+            "name": "Surrey",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 969
+            }
+        },
+        {
+            "date": "2020-09-19",
+            "name": "Surrey",
+            "cases": {
+                "daily": 28,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 969
+            }
+        },
+        {
+            "date": "2020-09-18",
+            "name": "Surrey",
+            "cases": {
+                "daily": 27,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 967
+            }
+        },
+        {
+            "date": "2020-09-17",
+            "name": "Surrey",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 966
+            }
+        },
+        {
+            "date": "2020-09-16",
+            "name": "Surrey",
+            "cases": {
+                "daily": 24,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 965
+            }
+        },
+        {
+            "date": "2020-09-15",
+            "name": "Surrey",
+            "cases": {
+                "daily": 26,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 965
+            }
+        },
+        {
+            "date": "2020-09-14",
+            "name": "Surrey",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 963
+            }
+        },
+        {
+            "date": "2020-09-13",
+            "name": "Surrey",
+            "cases": {
+                "daily": 30,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 962
+            }
+        },
+        {
+            "date": "2020-09-12",
+            "name": "Surrey",
+            "cases": {
+                "daily": 34,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 961
+            }
+        },
+        {
+            "date": "2020-09-11",
+            "name": "Surrey",
+            "cases": {
+                "daily": 37,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 957
+            }
+        },
+        {
+            "date": "2020-09-10",
+            "name": "Surrey",
+            "cases": {
+                "daily": 47,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 956
+            }
+        },
+        {
+            "date": "2020-09-09",
+            "name": "Surrey",
+            "cases": {
+                "daily": 31,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 955
+            }
+        },
+        {
+            "date": "2020-09-08",
+            "name": "Surrey",
+            "cases": {
+                "daily": 32,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 952
+            }
+        },
+        {
+            "date": "2020-09-07",
+            "name": "Surrey",
+            "cases": {
+                "daily": 38,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 950
+            }
+        },
+        {
+            "date": "2020-09-06",
+            "name": "Surrey",
+            "cases": {
+                "daily": 28,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 949
+            }
+        },
+        {
+            "date": "2020-09-05",
+            "name": "Surrey",
+            "cases": {
+                "daily": 23,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 949
+            }
+        },
+        {
+            "date": "2020-09-04",
+            "name": "Surrey",
+            "cases": {
+                "daily": 26,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 949
+            }
+        },
+        {
+            "date": "2020-09-03",
+            "name": "Surrey",
+            "cases": {
+                "daily": 25,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 946
+            }
+        },
+        {
+            "date": "2020-09-02",
+            "name": "Surrey",
+            "cases": {
+                "daily": 20,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 945
+            }
+        },
+        {
+            "date": "2020-09-01",
+            "name": "Surrey",
+            "cases": {
+                "daily": 27,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 945
+            }
+        },
+        {
+            "date": "2020-08-31",
+            "name": "Surrey",
+            "cases": {
+                "daily": 32,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 943
+            }
+        },
+        {
+            "date": "2020-08-30",
+            "name": "Surrey",
+            "cases": {
+                "daily": 22,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 941
+            }
+        },
+        {
+            "date": "2020-08-29",
+            "name": "Surrey",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 939
+            }
+        },
+        {
+            "date": "2020-08-28",
+            "name": "Surrey",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 939
+            }
+        },
+        {
+            "date": "2020-08-27",
+            "name": "Surrey",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 938
+            }
+        },
+        {
+            "date": "2020-08-26",
+            "name": "Surrey",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 938
+            }
+        },
+        {
+            "date": "2020-08-25",
+            "name": "Surrey",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 937
+            }
+        },
+        {
+            "date": "2020-08-24",
+            "name": "Surrey",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 937
+            }
+        },
+        {
+            "date": "2020-08-23",
+            "name": "Surrey",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 936
+            }
+        },
+        {
+            "date": "2020-08-22",
+            "name": "Surrey",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 932
+            }
+        },
+        {
+            "date": "2020-08-21",
+            "name": "Surrey",
+            "cases": {
+                "daily": 21,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 932
+            }
+        },
+        {
+            "date": "2020-08-20",
+            "name": "Surrey",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 928
+            }
+        },
+        {
+            "date": "2020-08-19",
+            "name": "Surrey",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 927
+            }
+        },
+        {
+            "date": "2020-08-18",
+            "name": "Surrey",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 924
+            }
+        },
+        {
+            "date": "2020-08-17",
+            "name": "Surrey",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 924
+            }
+        },
+        {
+            "date": "2020-08-16",
+            "name": "Surrey",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 922
+            }
+        },
+        {
+            "date": "2020-08-15",
+            "name": "Surrey",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 922
+            }
+        },
+        {
+            "date": "2020-08-14",
+            "name": "Surrey",
+            "cases": {
+                "daily": 40,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 922
+            }
+        },
+        {
+            "date": "2020-08-13",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 920
+            }
+        },
+        {
+            "date": "2020-08-12",
+            "name": "Surrey",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 918
+            }
+        },
+        {
+            "date": "2020-08-11",
+            "name": "Surrey",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 918
+            }
+        },
+        {
+            "date": "2020-08-10",
+            "name": "Surrey",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 918
+            }
+        },
+        {
+            "date": "2020-08-09",
+            "name": "Surrey",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 917
+            }
+        },
+        {
+            "date": "2020-08-08",
+            "name": "Surrey",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 916
+            }
+        },
+        {
+            "date": "2020-08-07",
+            "name": "Surrey",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 915
+            }
+        },
+        {
+            "date": "2020-08-06",
+            "name": "Surrey",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 915
+            }
+        },
+        {
+            "date": "2020-08-05",
+            "name": "Surrey",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 915
+            }
+        },
+        {
+            "date": "2020-08-04",
+            "name": "Surrey",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 915
+            }
+        },
+        {
+            "date": "2020-08-03",
+            "name": "Surrey",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 915
+            }
+        },
+        {
+            "date": "2020-08-02",
+            "name": "Surrey",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 915
+            }
+        },
+        {
+            "date": "2020-08-01",
+            "name": "Surrey",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 915
+            }
+        },
+        {
+            "date": "2020-07-31",
+            "name": "Surrey",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 915
+            }
+        },
+        {
+            "date": "2020-07-30",
+            "name": "Surrey",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 913
+            }
+        },
+        {
+            "date": "2020-07-29",
+            "name": "Surrey",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 913
+            }
+        },
+        {
+            "date": "2020-07-28",
+            "name": "Surrey",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 912
+            }
+        },
+        {
+            "date": "2020-07-27",
+            "name": "Surrey",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 912
+            }
+        },
+        {
+            "date": "2020-07-26",
+            "name": "Surrey",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 911
+            }
+        },
+        {
+            "date": "2020-07-25",
+            "name": "Surrey",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 911
+            }
+        },
+        {
+            "date": "2020-07-24",
+            "name": "Surrey",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 910
+            }
+        },
+        {
+            "date": "2020-07-23",
+            "name": "Surrey",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 908
+            }
+        },
+        {
+            "date": "2020-07-22",
+            "name": "Surrey",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 908
+            }
+        },
+        {
+            "date": "2020-07-21",
+            "name": "Surrey",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 908
+            }
+        },
+        {
+            "date": "2020-07-20",
+            "name": "Surrey",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 905
+            }
+        },
+        {
+            "date": "2020-07-19",
+            "name": "Surrey",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 905
+            }
+        },
+        {
+            "date": "2020-07-18",
+            "name": "Surrey",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 901
+            }
+        },
+        {
+            "date": "2020-07-17",
+            "name": "Surrey",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 901
+            }
+        },
+        {
+            "date": "2020-07-16",
+            "name": "Surrey",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 899
+            }
+        },
+        {
+            "date": "2020-07-15",
+            "name": "Surrey",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 898
+            }
+        },
+        {
+            "date": "2020-07-14",
+            "name": "Surrey",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 896
+            }
+        },
+        {
+            "date": "2020-07-13",
+            "name": "Surrey",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 894
+            }
+        },
+        {
+            "date": "2020-07-12",
+            "name": "Surrey",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 892
+            }
+        },
+        {
+            "date": "2020-07-11",
+            "name": "Surrey",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 889
+            }
+        },
+        {
+            "date": "2020-07-10",
+            "name": "Surrey",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 887
+            }
+        },
+        {
+            "date": "2020-07-09",
+            "name": "Surrey",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 886
+            }
+        },
+        {
+            "date": "2020-07-08",
+            "name": "Surrey",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 884
+            }
+        },
+        {
+            "date": "2020-07-07",
+            "name": "Surrey",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 883
+            }
+        },
+        {
+            "date": "2020-07-06",
+            "name": "Surrey",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 880
+            }
+        },
+        {
+            "date": "2020-07-05",
+            "name": "Surrey",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 880
+            }
+        },
+        {
+            "date": "2020-07-04",
+            "name": "Surrey",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 879
+            }
+        },
+        {
+            "date": "2020-07-03",
+            "name": "Surrey",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 876
+            }
+        },
+        {
+            "date": "2020-07-02",
+            "name": "Surrey",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 875
+            }
+        },
+        {
+            "date": "2020-07-01",
+            "name": "Surrey",
+            "cases": {
+                "daily": 1492,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 873
+            }
+        },
+        {
+            "date": "2020-06-30",
+            "name": "Surrey",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 872
+            }
+        },
+        {
+            "date": "2020-06-29",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 871
+            }
+        },
+        {
+            "date": "2020-06-28",
+            "name": "Surrey",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 870
+            }
+        },
+        {
+            "date": "2020-06-27",
+            "name": "Surrey",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 868
+            }
+        },
+        {
+            "date": "2020-06-26",
+            "name": "Surrey",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 864
+            }
+        },
+        {
+            "date": "2020-06-25",
+            "name": "Surrey",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 860
+            }
+        },
+        {
+            "date": "2020-06-24",
+            "name": "Surrey",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 856
+            }
+        },
+        {
+            "date": "2020-06-23",
+            "name": "Surrey",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 853
+            }
+        },
+        {
+            "date": "2020-06-22",
+            "name": "Surrey",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 852
+            }
+        },
+        {
+            "date": "2020-06-21",
+            "name": "Surrey",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 850
+            }
+        },
+        {
+            "date": "2020-06-20",
+            "name": "Surrey",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 848
+            }
+        },
+        {
+            "date": "2020-06-19",
+            "name": "Surrey",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 847
+            }
+        },
+        {
+            "date": "2020-06-18",
+            "name": "Surrey",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 844
+            }
+        },
+        {
+            "date": "2020-06-17",
+            "name": "Surrey",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 840
+            }
+        },
+        {
+            "date": "2020-06-16",
+            "name": "Surrey",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 839
+            }
+        },
+        {
+            "date": "2020-06-15",
+            "name": "Surrey",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 834
+            }
+        },
+        {
+            "date": "2020-06-14",
+            "name": "Surrey",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 829
+            }
+        },
+        {
+            "date": "2020-06-13",
+            "name": "Surrey",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 827
+            }
+        },
+        {
+            "date": "2020-06-12",
+            "name": "Surrey",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 820
+            }
+        },
+        {
+            "date": "2020-06-11",
+            "name": "Surrey",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 817
+            }
+        },
+        {
+            "date": "2020-06-10",
+            "name": "Surrey",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 815
+            }
+        },
+        {
+            "date": "2020-06-09",
+            "name": "Surrey",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 813
+            }
+        },
+        {
+            "date": "2020-06-08",
+            "name": "Surrey",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 809
+            }
+        },
+        {
+            "date": "2020-06-07",
+            "name": "Surrey",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 808
+            }
+        },
+        {
+            "date": "2020-06-06",
+            "name": "Surrey",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 807
+            }
+        },
+        {
+            "date": "2020-06-05",
+            "name": "Surrey",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 804
+            }
+        },
+        {
+            "date": "2020-06-04",
+            "name": "Surrey",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 802
+            }
+        },
+        {
+            "date": "2020-06-03",
+            "name": "Surrey",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 796
+            }
+        },
+        {
+            "date": "2020-06-02",
+            "name": "Surrey",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 791
+            }
+        },
+        {
+            "date": "2020-06-01",
+            "name": "Surrey",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 786
+            }
+        },
+        {
+            "date": "2020-05-31",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 780
+            }
+        },
+        {
+            "date": "2020-05-30",
+            "name": "Surrey",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 776
+            }
+        },
+        {
+            "date": "2020-05-29",
+            "name": "Surrey",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 770
+            }
+        },
+        {
+            "date": "2020-05-28",
+            "name": "Surrey",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 764
+            }
+        },
+        {
+            "date": "2020-05-27",
+            "name": "Surrey",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 759
+            }
+        },
+        {
+            "date": "2020-05-26",
+            "name": "Surrey",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 758
+            }
+        },
+        {
+            "date": "2020-05-25",
+            "name": "Surrey",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 755
+            }
+        },
+        {
+            "date": "2020-05-24",
+            "name": "Surrey",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 753
+            }
+        },
+        {
+            "date": "2020-05-23",
+            "name": "Surrey",
+            "cases": {
+                "daily": 23,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 747
+            }
+        },
+        {
+            "date": "2020-05-22",
+            "name": "Surrey",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 736
+            }
+        },
+        {
+            "date": "2020-05-21",
+            "name": "Surrey",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 731
+            }
+        },
+        {
+            "date": "2020-05-20",
+            "name": "Surrey",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 727
+            }
+        },
+        {
+            "date": "2020-05-19",
+            "name": "Surrey",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 720
+            }
+        },
+        {
+            "date": "2020-05-18",
+            "name": "Surrey",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 715
+            }
+        },
+        {
+            "date": "2020-05-17",
+            "name": "Surrey",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 711
+            }
+        },
+        {
+            "date": "2020-05-16",
+            "name": "Surrey",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 710
+            }
+        },
+        {
+            "date": "2020-05-15",
+            "name": "Surrey",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 706
+            }
+        },
+        {
+            "date": "2020-05-14",
+            "name": "Surrey",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 702
+            }
+        },
+        {
+            "date": "2020-05-13",
+            "name": "Surrey",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 691
+            }
+        },
+        {
+            "date": "2020-05-12",
+            "name": "Surrey",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 684
+            }
+        },
+        {
+            "date": "2020-05-11",
+            "name": "Surrey",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 675
+            }
+        },
+        {
+            "date": "2020-05-10",
+            "name": "Surrey",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 668
+            }
+        },
+        {
+            "date": "2020-05-09",
+            "name": "Surrey",
+            "cases": {
+                "daily": 20,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 662
+            }
+        },
+        {
+            "date": "2020-05-08",
+            "name": "Surrey",
+            "cases": {
+                "daily": 27,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 657
+            }
+        },
+        {
+            "date": "2020-05-07",
+            "name": "Surrey",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 653
+            }
+        },
+        {
+            "date": "2020-05-06",
+            "name": "Surrey",
+            "cases": {
+                "daily": 30,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 650
+            }
+        },
+        {
+            "date": "2020-05-05",
+            "name": "Surrey",
+            "cases": {
+                "daily": 21,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 645
+            }
+        },
+        {
+            "date": "2020-05-04",
+            "name": "Surrey",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 636
+            }
+        },
+        {
+            "date": "2020-05-03",
+            "name": "Surrey",
+            "cases": {
+                "daily": 20,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 628
+            }
+        },
+        {
+            "date": "2020-05-02",
+            "name": "Surrey",
+            "cases": {
+                "daily": 29,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 619
+            }
+        },
+        {
+            "date": "2020-05-01",
+            "name": "Surrey",
+            "cases": {
+                "daily": 29,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 608
+            }
+        },
+        {
+            "date": "2020-04-30",
+            "name": "Surrey",
+            "cases": {
+                "daily": 32,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 594
+            }
+        },
+        {
+            "date": "2020-04-29",
+            "name": "Surrey",
+            "cases": {
+                "daily": 36,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 586
+            }
+        },
+        {
+            "date": "2020-04-28",
+            "name": "Surrey",
+            "cases": {
+                "daily": 28,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 574
+            }
+        },
+        {
+            "date": "2020-04-27",
+            "name": "Surrey",
+            "cases": {
+                "daily": 53,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 562
+            }
+        },
+        {
+            "date": "2020-04-26",
+            "name": "Surrey",
+            "cases": {
+                "daily": 48,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 551
+            }
+        },
+        {
+            "date": "2020-04-25",
+            "name": "Surrey",
+            "cases": {
+                "daily": 45,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 17,
+                "cumulative": 539
+            }
+        },
+        {
+            "date": "2020-04-24",
+            "name": "Surrey",
+            "cases": {
+                "daily": 112,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 18,
+                "cumulative": 522
+            }
+        },
+        {
+            "date": "2020-04-23",
+            "name": "Surrey",
+            "cases": {
+                "daily": 42,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 504
+            }
+        },
+        {
+            "date": "2020-04-22",
+            "name": "Surrey",
+            "cases": {
+                "daily": 34,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 16,
+                "cumulative": 490
+            }
+        },
+        {
+            "date": "2020-04-21",
+            "name": "Surrey",
+            "cases": {
+                "daily": 139,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 21,
+                "cumulative": 474
+            }
+        },
+        {
+            "date": "2020-04-20",
+            "name": "Surrey",
+            "cases": {
+                "daily": 20,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 22,
+                "cumulative": 453
+            }
+        },
+        {
+            "date": "2020-04-19",
+            "name": "Surrey",
+            "cases": {
+                "daily": 109,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 17,
+                "cumulative": 431
+            }
+        },
+        {
+            "date": "2020-04-18",
+            "name": "Surrey",
+            "cases": {
+                "daily": 61,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 414
+            }
+        },
+        {
+            "date": "2020-04-17",
+            "name": "Surrey",
+            "cases": {
+                "daily": 32,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 19,
+                "cumulative": 402
+            }
+        },
+        {
+            "date": "2020-04-16",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 383
+            }
+        },
+        {
+            "date": "2020-04-15",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 369
+            }
+        },
+        {
+            "date": "2020-04-14",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 15,
+                "cumulative": 356
+            }
+        },
+        {
+            "date": "2020-04-13",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 16,
+                "cumulative": 341
+            }
+        },
+        {
+            "date": "2020-04-12",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 17,
+                "cumulative": 325
+            }
+        },
+        {
+            "date": "2020-04-11",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 15,
+                "cumulative": 308
+            }
+        },
+        {
+            "date": "2020-04-10",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 17,
+                "cumulative": 293
+            }
+        },
+        {
+            "date": "2020-04-09",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 27,
+                "cumulative": 276
+            }
+        },
+        {
+            "date": "2020-04-08",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 21,
+                "cumulative": 249
+            }
+        },
+        {
+            "date": "2020-04-07",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 19,
+                "cumulative": 228
+            }
+        },
+        {
+            "date": "2020-04-06",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 15,
+                "cumulative": 209
+            }
+        },
+        {
+            "date": "2020-04-05",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 15,
+                "cumulative": 194
+            }
+        },
+        {
+            "date": "2020-04-04",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 31,
+                "cumulative": 179
+            }
+        },
+        {
+            "date": "2020-04-03",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 15,
+                "cumulative": 148
+            }
+        },
+        {
+            "date": "2020-04-02",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 17,
+                "cumulative": 133
+            }
+        },
+        {
+            "date": "2020-04-01",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 22,
+                "cumulative": 116
+            }
+        },
+        {
+            "date": "2020-03-31",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 15,
+                "cumulative": 94
+            }
+        },
+        {
+            "date": "2020-03-30",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 79
+            }
+        },
+        {
+            "date": "2020-03-29",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 67
+            }
+        },
+        {
+            "date": "2020-03-28",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 53
+            }
+        },
+        {
+            "date": "2020-03-27",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 46
+            }
+        },
+        {
+            "date": "2020-03-26",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 40
+            }
+        },
+        {
+            "date": "2020-03-25",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 34
+            }
+        },
+        {
+            "date": "2020-03-24",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 29
+            }
+        },
+        {
+            "date": "2020-03-23",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 21
+            }
+        },
+        {
+            "date": "2020-03-22",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 18
+            }
+        },
+        {
+            "date": "2020-03-21",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 16
+            }
+        },
+        {
+            "date": "2020-03-20",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 11
+            }
+        },
+        {
+            "date": "2020-03-19",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 9
+            }
+        },
+        {
+            "date": "2020-03-18",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 7
+            }
+        },
+        {
+            "date": "2020-03-17",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 6
+            }
+        },
+        {
+            "date": "2020-03-16",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 5
+            }
+        },
+        {
+            "date": "2020-03-15",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 2
+            }
+        },
+        {
+            "date": "2020-03-14",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 2
+            }
+        },
+        {
+            "date": "2020-03-13",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-12",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-11",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-10",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-09",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-08",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-07",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-06",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-05",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-04",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-03",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-02",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-01",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-29",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-28",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-27",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-26",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-25",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-24",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-23",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-22",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-21",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-20",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-19",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-18",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-17",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-16",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-15",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-14",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-13",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-12",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-11",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-10",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-09",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-08",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-07",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-06",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-05",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-04",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-03",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-02",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-01",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-31",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-30",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-29",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-28",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-27",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-26",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-25",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-24",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-23",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-22",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-21",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-20",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-19",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-18",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-17",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-16",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-15",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-14",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-13",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-12",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-11",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-10",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-09",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-08",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-07",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-06",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-05",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-04",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-03",
+            "name": "Surrey",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        }
+    ],
+    "pagination": {
+        "current": "/v1/data?filters=areaType%3Dutla%3BareaName%3DSurrey&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "next": null,
+        "previous": null,
+        "first": "/v1/data?filters=areaType%3Dutla%3BareaName%3DSurrey&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "last": "/v1/data?filters=areaType%3Dutla%3BareaName%3DSurrey&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1"
+    }
+}

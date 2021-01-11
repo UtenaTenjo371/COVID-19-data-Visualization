@@ -1,0 +1,4501 @@
+{
+    "length": 374,
+    "maxPageLimit": 2500,
+    "data": [
+        {
+            "date": "2021-01-10",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 603,
+                "cumulative": 24817
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-09",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 662,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 565
+            }
+        },
+        {
+            "date": "2021-01-08",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 764,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 564
+            }
+        },
+        {
+            "date": "2021-01-07",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 371,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 562
+            }
+        },
+        {
+            "date": "2021-01-06",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 678,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 556
+            }
+        },
+        {
+            "date": "2021-01-05",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 827,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 546
+            }
+        },
+        {
+            "date": "2021-01-04",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 470,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 540
+            }
+        },
+        {
+            "date": "2021-01-03",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 789,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 531
+            }
+        },
+        {
+            "date": "2021-01-02",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 587,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 523
+            }
+        },
+        {
+            "date": "2021-01-01",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 686,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 514
+            }
+        },
+        {
+            "date": "2020-12-31",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 728,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 501
+            }
+        },
+        {
+            "date": "2020-12-30",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 504,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 491
+            }
+        },
+        {
+            "date": "2020-12-29",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 779,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 480
+            }
+        },
+        {
+            "date": "2020-12-28",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 754,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 475
+            }
+        },
+        {
+            "date": "2020-12-27",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 390,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 467
+            }
+        },
+        {
+            "date": "2020-12-26",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 293,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 463
+            }
+        },
+        {
+            "date": "2020-12-25",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 412,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 454
+            }
+        },
+        {
+            "date": "2020-12-24",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 404,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 445
+            }
+        },
+        {
+            "date": "2020-12-23",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 553,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 441
+            }
+        },
+        {
+            "date": "2020-12-22",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 629,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 438
+            }
+        },
+        {
+            "date": "2020-12-21",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 508,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 431
+            }
+        },
+        {
+            "date": "2020-12-20",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 710,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 429
+            }
+        },
+        {
+            "date": "2020-12-19",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 391,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 427
+            }
+        },
+        {
+            "date": "2020-12-18",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 349,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 424
+            }
+        },
+        {
+            "date": "2020-12-17",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 277,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 419
+            }
+        },
+        {
+            "date": "2020-12-16",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 419,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 417
+            }
+        },
+        {
+            "date": "2020-12-15",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 256,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 414
+            }
+        },
+        {
+            "date": "2020-12-14",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 361,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 409
+            }
+        },
+        {
+            "date": "2020-12-13",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 228,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 400
+            }
+        },
+        {
+            "date": "2020-12-12",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 223,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 399
+            }
+        },
+        {
+            "date": "2020-12-11",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 266,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 396
+            }
+        },
+        {
+            "date": "2020-12-10",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 204,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 391
+            }
+        },
+        {
+            "date": "2020-12-09",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 160,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 385
+            }
+        },
+        {
+            "date": "2020-12-08",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 136,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 384
+            }
+        },
+        {
+            "date": "2020-12-07",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 133,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 377
+            }
+        },
+        {
+            "date": "2020-12-06",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 167,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 375
+            }
+        },
+        {
+            "date": "2020-12-05",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 127,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 373
+            }
+        },
+        {
+            "date": "2020-12-04",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 132,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 372
+            }
+        },
+        {
+            "date": "2020-12-03",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 99,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 368
+            }
+        },
+        {
+            "date": "2020-12-02",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 147,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 365
+            }
+        },
+        {
+            "date": "2020-12-01",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 124,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 364
+            }
+        },
+        {
+            "date": "2020-11-30",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 172,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 363
+            }
+        },
+        {
+            "date": "2020-11-29",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 96,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 357
+            }
+        },
+        {
+            "date": "2020-11-28",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 166,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 355
+            }
+        },
+        {
+            "date": "2020-11-27",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 103,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 355
+            }
+        },
+        {
+            "date": "2020-11-26",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 134,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 353
+            }
+        },
+        {
+            "date": "2020-11-25",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 143,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 352
+            }
+        },
+        {
+            "date": "2020-11-24",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 100,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 347
+            }
+        },
+        {
+            "date": "2020-11-23",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 165,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 346
+            }
+        },
+        {
+            "date": "2020-11-22",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 170,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 344
+            }
+        },
+        {
+            "date": "2020-11-21",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 166,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 343
+            }
+        },
+        {
+            "date": "2020-11-20",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 100,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 343
+            }
+        },
+        {
+            "date": "2020-11-19",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 156,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 340
+            }
+        },
+        {
+            "date": "2020-11-18",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 94,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 338
+            }
+        },
+        {
+            "date": "2020-11-17",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 99,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 337
+            }
+        },
+        {
+            "date": "2020-11-16",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 95,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 333
+            }
+        },
+        {
+            "date": "2020-11-15",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 132,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 326
+            }
+        },
+        {
+            "date": "2020-11-14",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 129,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 325
+            }
+        },
+        {
+            "date": "2020-11-13",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 110,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 322
+            }
+        },
+        {
+            "date": "2020-11-12",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 190,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 322
+            }
+        },
+        {
+            "date": "2020-11-11",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 53,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 320
+            }
+        },
+        {
+            "date": "2020-11-10",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 95,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 320
+            }
+        },
+        {
+            "date": "2020-11-09",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 86,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 319
+            }
+        },
+        {
+            "date": "2020-11-08",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 102,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 314
+            }
+        },
+        {
+            "date": "2020-11-07",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 106,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 311
+            }
+        },
+        {
+            "date": "2020-11-06",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 90,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 309
+            }
+        },
+        {
+            "date": "2020-11-05",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 82,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 308
+            }
+        },
+        {
+            "date": "2020-11-04",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 139,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 306
+            }
+        },
+        {
+            "date": "2020-11-03",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 76,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 306
+            }
+        },
+        {
+            "date": "2020-11-02",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 104,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 305
+            }
+        },
+        {
+            "date": "2020-11-01",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 132,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 304
+            }
+        },
+        {
+            "date": "2020-10-31",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 64,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 302
+            }
+        },
+        {
+            "date": "2020-10-30",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 99,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 300
+            }
+        },
+        {
+            "date": "2020-10-29",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 88,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 298
+            }
+        },
+        {
+            "date": "2020-10-28",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 84,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 296
+            }
+        },
+        {
+            "date": "2020-10-27",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 72,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 294
+            }
+        },
+        {
+            "date": "2020-10-26",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 73,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 294
+            }
+        },
+        {
+            "date": "2020-10-25",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 65,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 292
+            }
+        },
+        {
+            "date": "2020-10-24",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 98,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 290
+            }
+        },
+        {
+            "date": "2020-10-23",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 86,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 289
+            }
+        },
+        {
+            "date": "2020-10-22",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 60,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 287
+            }
+        },
+        {
+            "date": "2020-10-21",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 131,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 285
+            }
+        },
+        {
+            "date": "2020-10-20",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 46,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 282
+            }
+        },
+        {
+            "date": "2020-10-19",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 67,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 279
+            }
+        },
+        {
+            "date": "2020-10-18",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 75,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 278
+            }
+        },
+        {
+            "date": "2020-10-17",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 33,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 277
+            }
+        },
+        {
+            "date": "2020-10-16",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 46,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 277
+            }
+        },
+        {
+            "date": "2020-10-15",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 112,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 277
+            }
+        },
+        {
+            "date": "2020-10-14",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 59,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 275
+            }
+        },
+        {
+            "date": "2020-10-13",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 56,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 275
+            }
+        },
+        {
+            "date": "2020-10-12",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 45,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 273
+            }
+        },
+        {
+            "date": "2020-10-11",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 43,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 271
+            }
+        },
+        {
+            "date": "2020-10-10",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 33,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 269
+            }
+        },
+        {
+            "date": "2020-10-09",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 69,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 267
+            }
+        },
+        {
+            "date": "2020-10-08",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 51,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 266
+            }
+        },
+        {
+            "date": "2020-10-07",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 57,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 264
+            }
+        },
+        {
+            "date": "2020-10-06",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 37,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 263
+            }
+        },
+        {
+            "date": "2020-10-05",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 58,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 262
+            }
+        },
+        {
+            "date": "2020-10-04",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 118,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 261
+            }
+        },
+        {
+            "date": "2020-10-03",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 42,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 261
+            }
+        },
+        {
+            "date": "2020-10-02",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 28,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 260
+            }
+        },
+        {
+            "date": "2020-10-01",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 30,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 259
+            }
+        },
+        {
+            "date": "2020-09-30",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 23,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 258
+            }
+        },
+        {
+            "date": "2020-09-29",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 255
+            }
+        },
+        {
+            "date": "2020-09-28",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 25,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 253
+            }
+        },
+        {
+            "date": "2020-09-27",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 44,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 252
+            }
+        },
+        {
+            "date": "2020-09-26",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 29,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 251
+            }
+        },
+        {
+            "date": "2020-09-25",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 30,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 251
+            }
+        },
+        {
+            "date": "2020-09-24",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 35,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 251
+            }
+        },
+        {
+            "date": "2020-09-23",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 57,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 251
+            }
+        },
+        {
+            "date": "2020-09-22",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 26,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 250
+            }
+        },
+        {
+            "date": "2020-09-21",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 248
+            }
+        },
+        {
+            "date": "2020-09-20",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 248
+            }
+        },
+        {
+            "date": "2020-09-19",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 27,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 246
+            }
+        },
+        {
+            "date": "2020-09-18",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 245
+            }
+        },
+        {
+            "date": "2020-09-17",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 26,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 244
+            }
+        },
+        {
+            "date": "2020-09-16",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 243
+            }
+        },
+        {
+            "date": "2020-09-15",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 243
+            }
+        },
+        {
+            "date": "2020-09-14",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 243
+            }
+        },
+        {
+            "date": "2020-09-13",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 35,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 243
+            }
+        },
+        {
+            "date": "2020-09-12",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 243
+            }
+        },
+        {
+            "date": "2020-09-11",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 20,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 243
+            }
+        },
+        {
+            "date": "2020-09-10",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 30,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 243
+            }
+        },
+        {
+            "date": "2020-09-09",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 243
+            }
+        },
+        {
+            "date": "2020-09-08",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 243
+            }
+        },
+        {
+            "date": "2020-09-07",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 243
+            }
+        },
+        {
+            "date": "2020-09-06",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 243
+            }
+        },
+        {
+            "date": "2020-09-05",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 242
+            }
+        },
+        {
+            "date": "2020-09-04",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 242
+            }
+        },
+        {
+            "date": "2020-09-03",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 242
+            }
+        },
+        {
+            "date": "2020-09-02",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 241
+            }
+        },
+        {
+            "date": "2020-09-01",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 241
+            }
+        },
+        {
+            "date": "2020-08-31",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 241
+            }
+        },
+        {
+            "date": "2020-08-30",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 241
+            }
+        },
+        {
+            "date": "2020-08-29",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 241
+            }
+        },
+        {
+            "date": "2020-08-28",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 241
+            }
+        },
+        {
+            "date": "2020-08-27",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 241
+            }
+        },
+        {
+            "date": "2020-08-26",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 240
+            }
+        },
+        {
+            "date": "2020-08-25",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 240
+            }
+        },
+        {
+            "date": "2020-08-24",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 239
+            }
+        },
+        {
+            "date": "2020-08-23",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 239
+            }
+        },
+        {
+            "date": "2020-08-22",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 238
+            }
+        },
+        {
+            "date": "2020-08-21",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 238
+            }
+        },
+        {
+            "date": "2020-08-20",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 238
+            }
+        },
+        {
+            "date": "2020-08-19",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 237
+            }
+        },
+        {
+            "date": "2020-08-18",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 237
+            }
+        },
+        {
+            "date": "2020-08-17",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 237
+            }
+        },
+        {
+            "date": "2020-08-16",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 237
+            }
+        },
+        {
+            "date": "2020-08-15",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 237
+            }
+        },
+        {
+            "date": "2020-08-14",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 237
+            }
+        },
+        {
+            "date": "2020-08-13",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 237
+            }
+        },
+        {
+            "date": "2020-08-12",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 237
+            }
+        },
+        {
+            "date": "2020-08-11",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 236
+            }
+        },
+        {
+            "date": "2020-08-10",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 236
+            }
+        },
+        {
+            "date": "2020-08-09",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 236
+            }
+        },
+        {
+            "date": "2020-08-08",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 235
+            }
+        },
+        {
+            "date": "2020-08-07",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 234
+            }
+        },
+        {
+            "date": "2020-08-06",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 234
+            }
+        },
+        {
+            "date": "2020-08-05",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 234
+            }
+        },
+        {
+            "date": "2020-08-04",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 234
+            }
+        },
+        {
+            "date": "2020-08-03",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 234
+            }
+        },
+        {
+            "date": "2020-08-02",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 234
+            }
+        },
+        {
+            "date": "2020-08-01",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 234
+            }
+        },
+        {
+            "date": "2020-07-31",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 234
+            }
+        },
+        {
+            "date": "2020-07-30",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 234
+            }
+        },
+        {
+            "date": "2020-07-29",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 234
+            }
+        },
+        {
+            "date": "2020-07-28",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 234
+            }
+        },
+        {
+            "date": "2020-07-27",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 233
+            }
+        },
+        {
+            "date": "2020-07-26",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 233
+            }
+        },
+        {
+            "date": "2020-07-25",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 233
+            }
+        },
+        {
+            "date": "2020-07-24",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 233
+            }
+        },
+        {
+            "date": "2020-07-23",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 233
+            }
+        },
+        {
+            "date": "2020-07-22",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 233
+            }
+        },
+        {
+            "date": "2020-07-21",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 233
+            }
+        },
+        {
+            "date": "2020-07-20",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 233
+            }
+        },
+        {
+            "date": "2020-07-19",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 233
+            }
+        },
+        {
+            "date": "2020-07-18",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 233
+            }
+        },
+        {
+            "date": "2020-07-17",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 233
+            }
+        },
+        {
+            "date": "2020-07-16",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 233
+            }
+        },
+        {
+            "date": "2020-07-15",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 233
+            }
+        },
+        {
+            "date": "2020-07-14",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 233
+            }
+        },
+        {
+            "date": "2020-07-13",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 233
+            }
+        },
+        {
+            "date": "2020-07-12",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 233
+            }
+        },
+        {
+            "date": "2020-07-11",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 233
+            }
+        },
+        {
+            "date": "2020-07-10",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 233
+            }
+        },
+        {
+            "date": "2020-07-09",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 233
+            }
+        },
+        {
+            "date": "2020-07-08",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 232
+            }
+        },
+        {
+            "date": "2020-07-07",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 232
+            }
+        },
+        {
+            "date": "2020-07-06",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 232
+            }
+        },
+        {
+            "date": "2020-07-05",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 232
+            }
+        },
+        {
+            "date": "2020-07-04",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 232
+            }
+        },
+        {
+            "date": "2020-07-03",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 232
+            }
+        },
+        {
+            "date": "2020-07-02",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 232
+            }
+        },
+        {
+            "date": "2020-07-01",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 316,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 232
+            }
+        },
+        {
+            "date": "2020-06-30",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 232
+            }
+        },
+        {
+            "date": "2020-06-29",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 232
+            }
+        },
+        {
+            "date": "2020-06-28",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 232
+            }
+        },
+        {
+            "date": "2020-06-27",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 232
+            }
+        },
+        {
+            "date": "2020-06-26",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 232
+            }
+        },
+        {
+            "date": "2020-06-25",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 232
+            }
+        },
+        {
+            "date": "2020-06-24",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 232
+            }
+        },
+        {
+            "date": "2020-06-23",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 232
+            }
+        },
+        {
+            "date": "2020-06-22",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 231
+            }
+        },
+        {
+            "date": "2020-06-21",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 231
+            }
+        },
+        {
+            "date": "2020-06-20",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 230
+            }
+        },
+        {
+            "date": "2020-06-19",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 230
+            }
+        },
+        {
+            "date": "2020-06-18",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 230
+            }
+        },
+        {
+            "date": "2020-06-17",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 230
+            }
+        },
+        {
+            "date": "2020-06-16",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 230
+            }
+        },
+        {
+            "date": "2020-06-15",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 230
+            }
+        },
+        {
+            "date": "2020-06-14",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 230
+            }
+        },
+        {
+            "date": "2020-06-13",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 230
+            }
+        },
+        {
+            "date": "2020-06-12",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 230
+            }
+        },
+        {
+            "date": "2020-06-11",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 230
+            }
+        },
+        {
+            "date": "2020-06-10",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 230
+            }
+        },
+        {
+            "date": "2020-06-09",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 230
+            }
+        },
+        {
+            "date": "2020-06-08",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 229
+            }
+        },
+        {
+            "date": "2020-06-07",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 228
+            }
+        },
+        {
+            "date": "2020-06-06",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 228
+            }
+        },
+        {
+            "date": "2020-06-05",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 228
+            }
+        },
+        {
+            "date": "2020-06-04",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 227
+            }
+        },
+        {
+            "date": "2020-06-03",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 227
+            }
+        },
+        {
+            "date": "2020-06-02",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 227
+            }
+        },
+        {
+            "date": "2020-06-01",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 226
+            }
+        },
+        {
+            "date": "2020-05-31",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 225
+            }
+        },
+        {
+            "date": "2020-05-30",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 225
+            }
+        },
+        {
+            "date": "2020-05-29",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 225
+            }
+        },
+        {
+            "date": "2020-05-28",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 225
+            }
+        },
+        {
+            "date": "2020-05-27",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 225
+            }
+        },
+        {
+            "date": "2020-05-26",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 224
+            }
+        },
+        {
+            "date": "2020-05-25",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 224
+            }
+        },
+        {
+            "date": "2020-05-24",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 224
+            }
+        },
+        {
+            "date": "2020-05-23",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 224
+            }
+        },
+        {
+            "date": "2020-05-22",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 223
+            }
+        },
+        {
+            "date": "2020-05-21",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 222
+            }
+        },
+        {
+            "date": "2020-05-20",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 221
+            }
+        },
+        {
+            "date": "2020-05-19",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 220
+            }
+        },
+        {
+            "date": "2020-05-18",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 217
+            }
+        },
+        {
+            "date": "2020-05-17",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 215
+            }
+        },
+        {
+            "date": "2020-05-16",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 214
+            }
+        },
+        {
+            "date": "2020-05-15",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 212
+            }
+        },
+        {
+            "date": "2020-05-14",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 211
+            }
+        },
+        {
+            "date": "2020-05-13",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 211
+            }
+        },
+        {
+            "date": "2020-05-12",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 210
+            }
+        },
+        {
+            "date": "2020-05-11",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 209
+            }
+        },
+        {
+            "date": "2020-05-10",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 209
+            }
+        },
+        {
+            "date": "2020-05-09",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 20,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 208
+            }
+        },
+        {
+            "date": "2020-05-08",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 208
+            }
+        },
+        {
+            "date": "2020-05-07",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 207
+            }
+        },
+        {
+            "date": "2020-05-06",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 203
+            }
+        },
+        {
+            "date": "2020-05-05",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 202
+            }
+        },
+        {
+            "date": "2020-05-04",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 202
+            }
+        },
+        {
+            "date": "2020-05-03",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 200
+            }
+        },
+        {
+            "date": "2020-05-02",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 198
+            }
+        },
+        {
+            "date": "2020-05-01",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 197
+            }
+        },
+        {
+            "date": "2020-04-30",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 194
+            }
+        },
+        {
+            "date": "2020-04-29",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 194
+            }
+        },
+        {
+            "date": "2020-04-28",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 191
+            }
+        },
+        {
+            "date": "2020-04-27",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 191
+            }
+        },
+        {
+            "date": "2020-04-26",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 190
+            }
+        },
+        {
+            "date": "2020-04-25",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 189
+            }
+        },
+        {
+            "date": "2020-04-24",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 188
+            }
+        },
+        {
+            "date": "2020-04-23",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 182
+            }
+        },
+        {
+            "date": "2020-04-22",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 179
+            }
+        },
+        {
+            "date": "2020-04-21",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 176
+            }
+        },
+        {
+            "date": "2020-04-20",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 171
+            }
+        },
+        {
+            "date": "2020-04-19",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 164
+            }
+        },
+        {
+            "date": "2020-04-18",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 161
+            }
+        },
+        {
+            "date": "2020-04-17",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 155
+            }
+        },
+        {
+            "date": "2020-04-16",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 154
+            }
+        },
+        {
+            "date": "2020-04-15",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 150
+            }
+        },
+        {
+            "date": "2020-04-14",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 145
+            }
+        },
+        {
+            "date": "2020-04-13",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 139
+            }
+        },
+        {
+            "date": "2020-04-12",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 134
+            }
+        },
+        {
+            "date": "2020-04-11",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 125
+            }
+        },
+        {
+            "date": "2020-04-10",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 117
+            }
+        },
+        {
+            "date": "2020-04-09",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 113
+            }
+        },
+        {
+            "date": "2020-04-08",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 100
+            }
+        },
+        {
+            "date": "2020-04-07",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 93
+            }
+        },
+        {
+            "date": "2020-04-06",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 87
+            }
+        },
+        {
+            "date": "2020-04-05",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 81
+            }
+        },
+        {
+            "date": "2020-04-04",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 71
+            }
+        },
+        {
+            "date": "2020-04-03",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 66
+            }
+        },
+        {
+            "date": "2020-04-02",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 61
+            }
+        },
+        {
+            "date": "2020-04-01",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 54
+            }
+        },
+        {
+            "date": "2020-03-31",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 49
+            }
+        },
+        {
+            "date": "2020-03-30",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 45
+            }
+        },
+        {
+            "date": "2020-03-29",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 38
+            }
+        },
+        {
+            "date": "2020-03-28",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 31
+            }
+        },
+        {
+            "date": "2020-03-27",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 27
+            }
+        },
+        {
+            "date": "2020-03-26",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 21
+            }
+        },
+        {
+            "date": "2020-03-25",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 14
+            }
+        },
+        {
+            "date": "2020-03-24",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 12
+            }
+        },
+        {
+            "date": "2020-03-23",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 8
+            }
+        },
+        {
+            "date": "2020-03-22",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 6
+            }
+        },
+        {
+            "date": "2020-03-21",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 4
+            }
+        },
+        {
+            "date": "2020-03-20",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 4
+            }
+        },
+        {
+            "date": "2020-03-19",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 2
+            }
+        },
+        {
+            "date": "2020-03-18",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 2
+            }
+        },
+        {
+            "date": "2020-03-17",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-16",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-15",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-14",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-13",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-12",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-11",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-10",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-09",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-08",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-07",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-06",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-05",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-04",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-03",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-02",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-01",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-29",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-28",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-27",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-26",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-25",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-24",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-23",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-22",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-21",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-20",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-19",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-18",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-17",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-16",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-15",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-14",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-13",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-12",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-11",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-10",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-09",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-08",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-07",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-06",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-05",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-04",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-03",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-02",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-01",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-31",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-30",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-29",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-28",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-27",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-26",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-25",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-24",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-23",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-22",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-21",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-20",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-19",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-18",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-17",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-16",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-15",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-14",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-13",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-12",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-11",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-10",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-09",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-08",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-07",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-06",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-05",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-04",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-03",
+            "name": "Redbridge",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        }
+    ],
+    "pagination": {
+        "current": "/v1/data?filters=areaType%3Dutla%3BareaName%3DRedbridge&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "next": null,
+        "previous": null,
+        "first": "/v1/data?filters=areaType%3Dutla%3BareaName%3DRedbridge&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "last": "/v1/data?filters=areaType%3Dutla%3BareaName%3DRedbridge&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1"
+    }
+}

@@ -1,0 +1,4501 @@
+{
+    "length": 374,
+    "maxPageLimit": 2500,
+    "data": [
+        {
+            "date": "2021-01-10",
+            "name": "Enfield",
+            "cases": {
+                "daily": 499,
+                "cumulative": 22304
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-09",
+            "name": "Enfield",
+            "cases": {
+                "daily": 626,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 440
+            }
+        },
+        {
+            "date": "2021-01-08",
+            "name": "Enfield",
+            "cases": {
+                "daily": 783,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 438
+            }
+        },
+        {
+            "date": "2021-01-07",
+            "name": "Enfield",
+            "cases": {
+                "daily": 369,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 435
+            }
+        },
+        {
+            "date": "2021-01-06",
+            "name": "Enfield",
+            "cases": {
+                "daily": 771,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 428
+            }
+        },
+        {
+            "date": "2021-01-05",
+            "name": "Enfield",
+            "cases": {
+                "daily": 703,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 424
+            }
+        },
+        {
+            "date": "2021-01-04",
+            "name": "Enfield",
+            "cases": {
+                "daily": 461,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 417
+            }
+        },
+        {
+            "date": "2021-01-03",
+            "name": "Enfield",
+            "cases": {
+                "daily": 685,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 411
+            }
+        },
+        {
+            "date": "2021-01-02",
+            "name": "Enfield",
+            "cases": {
+                "daily": 569,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 407
+            }
+        },
+        {
+            "date": "2021-01-01",
+            "name": "Enfield",
+            "cases": {
+                "daily": 716,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 402
+            }
+        },
+        {
+            "date": "2020-12-31",
+            "name": "Enfield",
+            "cases": {
+                "daily": 498,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 401
+            }
+        },
+        {
+            "date": "2020-12-30",
+            "name": "Enfield",
+            "cases": {
+                "daily": 589,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 389
+            }
+        },
+        {
+            "date": "2020-12-29",
+            "name": "Enfield",
+            "cases": {
+                "daily": 813,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 383
+            }
+        },
+        {
+            "date": "2020-12-28",
+            "name": "Enfield",
+            "cases": {
+                "daily": 458,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 378
+            }
+        },
+        {
+            "date": "2020-12-27",
+            "name": "Enfield",
+            "cases": {
+                "daily": 419,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 375
+            }
+        },
+        {
+            "date": "2020-12-26",
+            "name": "Enfield",
+            "cases": {
+                "daily": 399,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 369
+            }
+        },
+        {
+            "date": "2020-12-25",
+            "name": "Enfield",
+            "cases": {
+                "daily": 599,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 358
+            }
+        },
+        {
+            "date": "2020-12-24",
+            "name": "Enfield",
+            "cases": {
+                "daily": 469,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 358
+            }
+        },
+        {
+            "date": "2020-12-23",
+            "name": "Enfield",
+            "cases": {
+                "daily": 555,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 358
+            }
+        },
+        {
+            "date": "2020-12-22",
+            "name": "Enfield",
+            "cases": {
+                "daily": 488,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 357
+            }
+        },
+        {
+            "date": "2020-12-21",
+            "name": "Enfield",
+            "cases": {
+                "daily": 377,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 355
+            }
+        },
+        {
+            "date": "2020-12-20",
+            "name": "Enfield",
+            "cases": {
+                "daily": 558,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 352
+            }
+        },
+        {
+            "date": "2020-12-19",
+            "name": "Enfield",
+            "cases": {
+                "daily": 278,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 349
+            }
+        },
+        {
+            "date": "2020-12-18",
+            "name": "Enfield",
+            "cases": {
+                "daily": 379,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 348
+            }
+        },
+        {
+            "date": "2020-12-17",
+            "name": "Enfield",
+            "cases": {
+                "daily": 250,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 347
+            }
+        },
+        {
+            "date": "2020-12-16",
+            "name": "Enfield",
+            "cases": {
+                "daily": 282,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 343
+            }
+        },
+        {
+            "date": "2020-12-15",
+            "name": "Enfield",
+            "cases": {
+                "daily": 263,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 343
+            }
+        },
+        {
+            "date": "2020-12-14",
+            "name": "Enfield",
+            "cases": {
+                "daily": 286,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 342
+            }
+        },
+        {
+            "date": "2020-12-13",
+            "name": "Enfield",
+            "cases": {
+                "daily": 253,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 341
+            }
+        },
+        {
+            "date": "2020-12-12",
+            "name": "Enfield",
+            "cases": {
+                "daily": 205,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 340
+            }
+        },
+        {
+            "date": "2020-12-11",
+            "name": "Enfield",
+            "cases": {
+                "daily": 301,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 340
+            }
+        },
+        {
+            "date": "2020-12-10",
+            "name": "Enfield",
+            "cases": {
+                "daily": 184,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 340
+            }
+        },
+        {
+            "date": "2020-12-09",
+            "name": "Enfield",
+            "cases": {
+                "daily": 146,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 339
+            }
+        },
+        {
+            "date": "2020-12-08",
+            "name": "Enfield",
+            "cases": {
+                "daily": 123,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 339
+            }
+        },
+        {
+            "date": "2020-12-07",
+            "name": "Enfield",
+            "cases": {
+                "daily": 137,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 338
+            }
+        },
+        {
+            "date": "2020-12-06",
+            "name": "Enfield",
+            "cases": {
+                "daily": 149,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 336
+            }
+        },
+        {
+            "date": "2020-12-05",
+            "name": "Enfield",
+            "cases": {
+                "daily": 99,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 334
+            }
+        },
+        {
+            "date": "2020-12-04",
+            "name": "Enfield",
+            "cases": {
+                "daily": 135,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 333
+            }
+        },
+        {
+            "date": "2020-12-03",
+            "name": "Enfield",
+            "cases": {
+                "daily": 68,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 332
+            }
+        },
+        {
+            "date": "2020-12-02",
+            "name": "Enfield",
+            "cases": {
+                "daily": 122,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 332
+            }
+        },
+        {
+            "date": "2020-12-01",
+            "name": "Enfield",
+            "cases": {
+                "daily": 108,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 330
+            }
+        },
+        {
+            "date": "2020-11-30",
+            "name": "Enfield",
+            "cases": {
+                "daily": 95,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 328
+            }
+        },
+        {
+            "date": "2020-11-29",
+            "name": "Enfield",
+            "cases": {
+                "daily": 56,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 327
+            }
+        },
+        {
+            "date": "2020-11-28",
+            "name": "Enfield",
+            "cases": {
+                "daily": 78,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 325
+            }
+        },
+        {
+            "date": "2020-11-27",
+            "name": "Enfield",
+            "cases": {
+                "daily": 66,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 324
+            }
+        },
+        {
+            "date": "2020-11-26",
+            "name": "Enfield",
+            "cases": {
+                "daily": 69,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 323
+            }
+        },
+        {
+            "date": "2020-11-25",
+            "name": "Enfield",
+            "cases": {
+                "daily": 86,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 322
+            }
+        },
+        {
+            "date": "2020-11-24",
+            "name": "Enfield",
+            "cases": {
+                "daily": 78,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 320
+            }
+        },
+        {
+            "date": "2020-11-23",
+            "name": "Enfield",
+            "cases": {
+                "daily": 96,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 320
+            }
+        },
+        {
+            "date": "2020-11-22",
+            "name": "Enfield",
+            "cases": {
+                "daily": 125,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 320
+            }
+        },
+        {
+            "date": "2020-11-21",
+            "name": "Enfield",
+            "cases": {
+                "daily": 119,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 317
+            }
+        },
+        {
+            "date": "2020-11-20",
+            "name": "Enfield",
+            "cases": {
+                "daily": 84,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 316
+            }
+        },
+        {
+            "date": "2020-11-19",
+            "name": "Enfield",
+            "cases": {
+                "daily": 152,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 316
+            }
+        },
+        {
+            "date": "2020-11-18",
+            "name": "Enfield",
+            "cases": {
+                "daily": 59,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 316
+            }
+        },
+        {
+            "date": "2020-11-17",
+            "name": "Enfield",
+            "cases": {
+                "daily": 97,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 315
+            }
+        },
+        {
+            "date": "2020-11-16",
+            "name": "Enfield",
+            "cases": {
+                "daily": 30,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 311
+            }
+        },
+        {
+            "date": "2020-11-15",
+            "name": "Enfield",
+            "cases": {
+                "daily": 126,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 311
+            }
+        },
+        {
+            "date": "2020-11-14",
+            "name": "Enfield",
+            "cases": {
+                "daily": 131,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 310
+            }
+        },
+        {
+            "date": "2020-11-13",
+            "name": "Enfield",
+            "cases": {
+                "daily": 105,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 310
+            }
+        },
+        {
+            "date": "2020-11-12",
+            "name": "Enfield",
+            "cases": {
+                "daily": 119,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 309
+            }
+        },
+        {
+            "date": "2020-11-11",
+            "name": "Enfield",
+            "cases": {
+                "daily": 60,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 309
+            }
+        },
+        {
+            "date": "2020-11-10",
+            "name": "Enfield",
+            "cases": {
+                "daily": 50,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 309
+            }
+        },
+        {
+            "date": "2020-11-09",
+            "name": "Enfield",
+            "cases": {
+                "daily": 82,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 309
+            }
+        },
+        {
+            "date": "2020-11-08",
+            "name": "Enfield",
+            "cases": {
+                "daily": 76,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 309
+            }
+        },
+        {
+            "date": "2020-11-07",
+            "name": "Enfield",
+            "cases": {
+                "daily": 71,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 307
+            }
+        },
+        {
+            "date": "2020-11-06",
+            "name": "Enfield",
+            "cases": {
+                "daily": 74,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 305
+            }
+        },
+        {
+            "date": "2020-11-05",
+            "name": "Enfield",
+            "cases": {
+                "daily": 73,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 303
+            }
+        },
+        {
+            "date": "2020-11-04",
+            "name": "Enfield",
+            "cases": {
+                "daily": 112,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 303
+            }
+        },
+        {
+            "date": "2020-11-03",
+            "name": "Enfield",
+            "cases": {
+                "daily": 53,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 301
+            }
+        },
+        {
+            "date": "2020-11-02",
+            "name": "Enfield",
+            "cases": {
+                "daily": 73,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 300
+            }
+        },
+        {
+            "date": "2020-11-01",
+            "name": "Enfield",
+            "cases": {
+                "daily": 74,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 300
+            }
+        },
+        {
+            "date": "2020-10-31",
+            "name": "Enfield",
+            "cases": {
+                "daily": 48,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 300
+            }
+        },
+        {
+            "date": "2020-10-30",
+            "name": "Enfield",
+            "cases": {
+                "daily": 83,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 300
+            }
+        },
+        {
+            "date": "2020-10-29",
+            "name": "Enfield",
+            "cases": {
+                "daily": 84,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 300
+            }
+        },
+        {
+            "date": "2020-10-28",
+            "name": "Enfield",
+            "cases": {
+                "daily": 95,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 300
+            }
+        },
+        {
+            "date": "2020-10-27",
+            "name": "Enfield",
+            "cases": {
+                "daily": 80,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 300
+            }
+        },
+        {
+            "date": "2020-10-26",
+            "name": "Enfield",
+            "cases": {
+                "daily": 61,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 299
+            }
+        },
+        {
+            "date": "2020-10-25",
+            "name": "Enfield",
+            "cases": {
+                "daily": 67,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 299
+            }
+        },
+        {
+            "date": "2020-10-24",
+            "name": "Enfield",
+            "cases": {
+                "daily": 79,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 299
+            }
+        },
+        {
+            "date": "2020-10-23",
+            "name": "Enfield",
+            "cases": {
+                "daily": 63,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 299
+            }
+        },
+        {
+            "date": "2020-10-22",
+            "name": "Enfield",
+            "cases": {
+                "daily": 63,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 298
+            }
+        },
+        {
+            "date": "2020-10-21",
+            "name": "Enfield",
+            "cases": {
+                "daily": 123,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 298
+            }
+        },
+        {
+            "date": "2020-10-20",
+            "name": "Enfield",
+            "cases": {
+                "daily": 65,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 297
+            }
+        },
+        {
+            "date": "2020-10-19",
+            "name": "Enfield",
+            "cases": {
+                "daily": 80,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 297
+            }
+        },
+        {
+            "date": "2020-10-18",
+            "name": "Enfield",
+            "cases": {
+                "daily": 108,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 296
+            }
+        },
+        {
+            "date": "2020-10-17",
+            "name": "Enfield",
+            "cases": {
+                "daily": 33,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 296
+            }
+        },
+        {
+            "date": "2020-10-16",
+            "name": "Enfield",
+            "cases": {
+                "daily": 40,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 296
+            }
+        },
+        {
+            "date": "2020-10-15",
+            "name": "Enfield",
+            "cases": {
+                "daily": 87,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 296
+            }
+        },
+        {
+            "date": "2020-10-14",
+            "name": "Enfield",
+            "cases": {
+                "daily": 49,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 296
+            }
+        },
+        {
+            "date": "2020-10-13",
+            "name": "Enfield",
+            "cases": {
+                "daily": 64,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 296
+            }
+        },
+        {
+            "date": "2020-10-12",
+            "name": "Enfield",
+            "cases": {
+                "daily": 29,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 295
+            }
+        },
+        {
+            "date": "2020-10-11",
+            "name": "Enfield",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 295
+            }
+        },
+        {
+            "date": "2020-10-10",
+            "name": "Enfield",
+            "cases": {
+                "daily": 39,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 295
+            }
+        },
+        {
+            "date": "2020-10-09",
+            "name": "Enfield",
+            "cases": {
+                "daily": 48,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 295
+            }
+        },
+        {
+            "date": "2020-10-08",
+            "name": "Enfield",
+            "cases": {
+                "daily": 40,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 295
+            }
+        },
+        {
+            "date": "2020-10-07",
+            "name": "Enfield",
+            "cases": {
+                "daily": 45,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 294
+            }
+        },
+        {
+            "date": "2020-10-06",
+            "name": "Enfield",
+            "cases": {
+                "daily": 29,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 294
+            }
+        },
+        {
+            "date": "2020-10-05",
+            "name": "Enfield",
+            "cases": {
+                "daily": 36,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 292
+            }
+        },
+        {
+            "date": "2020-10-04",
+            "name": "Enfield",
+            "cases": {
+                "daily": 64,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 292
+            }
+        },
+        {
+            "date": "2020-10-03",
+            "name": "Enfield",
+            "cases": {
+                "daily": 40,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 292
+            }
+        },
+        {
+            "date": "2020-10-02",
+            "name": "Enfield",
+            "cases": {
+                "daily": 25,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 292
+            }
+        },
+        {
+            "date": "2020-10-01",
+            "name": "Enfield",
+            "cases": {
+                "daily": 24,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 292
+            }
+        },
+        {
+            "date": "2020-09-30",
+            "name": "Enfield",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 292
+            }
+        },
+        {
+            "date": "2020-09-29",
+            "name": "Enfield",
+            "cases": {
+                "daily": 31,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 292
+            }
+        },
+        {
+            "date": "2020-09-28",
+            "name": "Enfield",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 292
+            }
+        },
+        {
+            "date": "2020-09-27",
+            "name": "Enfield",
+            "cases": {
+                "daily": 26,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 292
+            }
+        },
+        {
+            "date": "2020-09-26",
+            "name": "Enfield",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 292
+            }
+        },
+        {
+            "date": "2020-09-25",
+            "name": "Enfield",
+            "cases": {
+                "daily": 17,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 292
+            }
+        },
+        {
+            "date": "2020-09-24",
+            "name": "Enfield",
+            "cases": {
+                "daily": 23,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 292
+            }
+        },
+        {
+            "date": "2020-09-23",
+            "name": "Enfield",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 292
+            }
+        },
+        {
+            "date": "2020-09-22",
+            "name": "Enfield",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 292
+            }
+        },
+        {
+            "date": "2020-09-21",
+            "name": "Enfield",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 291
+            }
+        },
+        {
+            "date": "2020-09-20",
+            "name": "Enfield",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 291
+            }
+        },
+        {
+            "date": "2020-09-19",
+            "name": "Enfield",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 291
+            }
+        },
+        {
+            "date": "2020-09-18",
+            "name": "Enfield",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 291
+            }
+        },
+        {
+            "date": "2020-09-17",
+            "name": "Enfield",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 291
+            }
+        },
+        {
+            "date": "2020-09-16",
+            "name": "Enfield",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 291
+            }
+        },
+        {
+            "date": "2020-09-15",
+            "name": "Enfield",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 291
+            }
+        },
+        {
+            "date": "2020-09-14",
+            "name": "Enfield",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 291
+            }
+        },
+        {
+            "date": "2020-09-13",
+            "name": "Enfield",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 291
+            }
+        },
+        {
+            "date": "2020-09-12",
+            "name": "Enfield",
+            "cases": {
+                "daily": 22,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 290
+            }
+        },
+        {
+            "date": "2020-09-11",
+            "name": "Enfield",
+            "cases": {
+                "daily": 22,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 290
+            }
+        },
+        {
+            "date": "2020-09-10",
+            "name": "Enfield",
+            "cases": {
+                "daily": 17,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 290
+            }
+        },
+        {
+            "date": "2020-09-09",
+            "name": "Enfield",
+            "cases": {
+                "daily": 17,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 288
+            }
+        },
+        {
+            "date": "2020-09-08",
+            "name": "Enfield",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 287
+            }
+        },
+        {
+            "date": "2020-09-07",
+            "name": "Enfield",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 287
+            }
+        },
+        {
+            "date": "2020-09-06",
+            "name": "Enfield",
+            "cases": {
+                "daily": 17,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 287
+            }
+        },
+        {
+            "date": "2020-09-05",
+            "name": "Enfield",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 286
+            }
+        },
+        {
+            "date": "2020-09-04",
+            "name": "Enfield",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 285
+            }
+        },
+        {
+            "date": "2020-09-03",
+            "name": "Enfield",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 285
+            }
+        },
+        {
+            "date": "2020-09-02",
+            "name": "Enfield",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 285
+            }
+        },
+        {
+            "date": "2020-09-01",
+            "name": "Enfield",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 285
+            }
+        },
+        {
+            "date": "2020-08-31",
+            "name": "Enfield",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 285
+            }
+        },
+        {
+            "date": "2020-08-30",
+            "name": "Enfield",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 284
+            }
+        },
+        {
+            "date": "2020-08-29",
+            "name": "Enfield",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 284
+            }
+        },
+        {
+            "date": "2020-08-28",
+            "name": "Enfield",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 284
+            }
+        },
+        {
+            "date": "2020-08-27",
+            "name": "Enfield",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 283
+            }
+        },
+        {
+            "date": "2020-08-26",
+            "name": "Enfield",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 283
+            }
+        },
+        {
+            "date": "2020-08-25",
+            "name": "Enfield",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 282
+            }
+        },
+        {
+            "date": "2020-08-24",
+            "name": "Enfield",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 282
+            }
+        },
+        {
+            "date": "2020-08-23",
+            "name": "Enfield",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 281
+            }
+        },
+        {
+            "date": "2020-08-22",
+            "name": "Enfield",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 281
+            }
+        },
+        {
+            "date": "2020-08-21",
+            "name": "Enfield",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 281
+            }
+        },
+        {
+            "date": "2020-08-20",
+            "name": "Enfield",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 280
+            }
+        },
+        {
+            "date": "2020-08-19",
+            "name": "Enfield",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 280
+            }
+        },
+        {
+            "date": "2020-08-18",
+            "name": "Enfield",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 280
+            }
+        },
+        {
+            "date": "2020-08-17",
+            "name": "Enfield",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 279
+            }
+        },
+        {
+            "date": "2020-08-16",
+            "name": "Enfield",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 279
+            }
+        },
+        {
+            "date": "2020-08-15",
+            "name": "Enfield",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 279
+            }
+        },
+        {
+            "date": "2020-08-14",
+            "name": "Enfield",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 279
+            }
+        },
+        {
+            "date": "2020-08-13",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 279
+            }
+        },
+        {
+            "date": "2020-08-12",
+            "name": "Enfield",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 279
+            }
+        },
+        {
+            "date": "2020-08-11",
+            "name": "Enfield",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 279
+            }
+        },
+        {
+            "date": "2020-08-10",
+            "name": "Enfield",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 279
+            }
+        },
+        {
+            "date": "2020-08-09",
+            "name": "Enfield",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 279
+            }
+        },
+        {
+            "date": "2020-08-08",
+            "name": "Enfield",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 279
+            }
+        },
+        {
+            "date": "2020-08-07",
+            "name": "Enfield",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 279
+            }
+        },
+        {
+            "date": "2020-08-06",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 279
+            }
+        },
+        {
+            "date": "2020-08-05",
+            "name": "Enfield",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 279
+            }
+        },
+        {
+            "date": "2020-08-04",
+            "name": "Enfield",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 279
+            }
+        },
+        {
+            "date": "2020-08-03",
+            "name": "Enfield",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 279
+            }
+        },
+        {
+            "date": "2020-08-02",
+            "name": "Enfield",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 279
+            }
+        },
+        {
+            "date": "2020-08-01",
+            "name": "Enfield",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 279
+            }
+        },
+        {
+            "date": "2020-07-31",
+            "name": "Enfield",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 279
+            }
+        },
+        {
+            "date": "2020-07-30",
+            "name": "Enfield",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 279
+            }
+        },
+        {
+            "date": "2020-07-29",
+            "name": "Enfield",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 279
+            }
+        },
+        {
+            "date": "2020-07-28",
+            "name": "Enfield",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 279
+            }
+        },
+        {
+            "date": "2020-07-27",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 279
+            }
+        },
+        {
+            "date": "2020-07-26",
+            "name": "Enfield",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 279
+            }
+        },
+        {
+            "date": "2020-07-25",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 279
+            }
+        },
+        {
+            "date": "2020-07-24",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 279
+            }
+        },
+        {
+            "date": "2020-07-23",
+            "name": "Enfield",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 279
+            }
+        },
+        {
+            "date": "2020-07-22",
+            "name": "Enfield",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 279
+            }
+        },
+        {
+            "date": "2020-07-21",
+            "name": "Enfield",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 279
+            }
+        },
+        {
+            "date": "2020-07-20",
+            "name": "Enfield",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 279
+            }
+        },
+        {
+            "date": "2020-07-19",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 279
+            }
+        },
+        {
+            "date": "2020-07-18",
+            "name": "Enfield",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 278
+            }
+        },
+        {
+            "date": "2020-07-17",
+            "name": "Enfield",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 277
+            }
+        },
+        {
+            "date": "2020-07-16",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 277
+            }
+        },
+        {
+            "date": "2020-07-15",
+            "name": "Enfield",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 277
+            }
+        },
+        {
+            "date": "2020-07-14",
+            "name": "Enfield",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 276
+            }
+        },
+        {
+            "date": "2020-07-13",
+            "name": "Enfield",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 276
+            }
+        },
+        {
+            "date": "2020-07-12",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 276
+            }
+        },
+        {
+            "date": "2020-07-11",
+            "name": "Enfield",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 276
+            }
+        },
+        {
+            "date": "2020-07-10",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 276
+            }
+        },
+        {
+            "date": "2020-07-09",
+            "name": "Enfield",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 276
+            }
+        },
+        {
+            "date": "2020-07-08",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 275
+            }
+        },
+        {
+            "date": "2020-07-07",
+            "name": "Enfield",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 274
+            }
+        },
+        {
+            "date": "2020-07-06",
+            "name": "Enfield",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 274
+            }
+        },
+        {
+            "date": "2020-07-05",
+            "name": "Enfield",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 274
+            }
+        },
+        {
+            "date": "2020-07-04",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 272
+            }
+        },
+        {
+            "date": "2020-07-03",
+            "name": "Enfield",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 272
+            }
+        },
+        {
+            "date": "2020-07-02",
+            "name": "Enfield",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 272
+            }
+        },
+        {
+            "date": "2020-07-01",
+            "name": "Enfield",
+            "cases": {
+                "daily": 272,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 272
+            }
+        },
+        {
+            "date": "2020-06-30",
+            "name": "Enfield",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 272
+            }
+        },
+        {
+            "date": "2020-06-29",
+            "name": "Enfield",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 272
+            }
+        },
+        {
+            "date": "2020-06-28",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 272
+            }
+        },
+        {
+            "date": "2020-06-27",
+            "name": "Enfield",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 270
+            }
+        },
+        {
+            "date": "2020-06-26",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 269
+            }
+        },
+        {
+            "date": "2020-06-25",
+            "name": "Enfield",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 268
+            }
+        },
+        {
+            "date": "2020-06-24",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 267
+            }
+        },
+        {
+            "date": "2020-06-23",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 265
+            }
+        },
+        {
+            "date": "2020-06-22",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 265
+            }
+        },
+        {
+            "date": "2020-06-21",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 265
+            }
+        },
+        {
+            "date": "2020-06-20",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 265
+            }
+        },
+        {
+            "date": "2020-06-19",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 265
+            }
+        },
+        {
+            "date": "2020-06-18",
+            "name": "Enfield",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 265
+            }
+        },
+        {
+            "date": "2020-06-17",
+            "name": "Enfield",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 265
+            }
+        },
+        {
+            "date": "2020-06-16",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 265
+            }
+        },
+        {
+            "date": "2020-06-15",
+            "name": "Enfield",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 264
+            }
+        },
+        {
+            "date": "2020-06-14",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 264
+            }
+        },
+        {
+            "date": "2020-06-13",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 263
+            }
+        },
+        {
+            "date": "2020-06-12",
+            "name": "Enfield",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 263
+            }
+        },
+        {
+            "date": "2020-06-11",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 263
+            }
+        },
+        {
+            "date": "2020-06-10",
+            "name": "Enfield",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 262
+            }
+        },
+        {
+            "date": "2020-06-09",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 261
+            }
+        },
+        {
+            "date": "2020-06-08",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 261
+            }
+        },
+        {
+            "date": "2020-06-07",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 261
+            }
+        },
+        {
+            "date": "2020-06-06",
+            "name": "Enfield",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 260
+            }
+        },
+        {
+            "date": "2020-06-05",
+            "name": "Enfield",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 260
+            }
+        },
+        {
+            "date": "2020-06-04",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 260
+            }
+        },
+        {
+            "date": "2020-06-03",
+            "name": "Enfield",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 259
+            }
+        },
+        {
+            "date": "2020-06-02",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 259
+            }
+        },
+        {
+            "date": "2020-06-01",
+            "name": "Enfield",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 258
+            }
+        },
+        {
+            "date": "2020-05-31",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 256
+            }
+        },
+        {
+            "date": "2020-05-30",
+            "name": "Enfield",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 256
+            }
+        },
+        {
+            "date": "2020-05-29",
+            "name": "Enfield",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 253
+            }
+        },
+        {
+            "date": "2020-05-28",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 253
+            }
+        },
+        {
+            "date": "2020-05-27",
+            "name": "Enfield",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 253
+            }
+        },
+        {
+            "date": "2020-05-26",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 250
+            }
+        },
+        {
+            "date": "2020-05-25",
+            "name": "Enfield",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 250
+            }
+        },
+        {
+            "date": "2020-05-24",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 250
+            }
+        },
+        {
+            "date": "2020-05-23",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 250
+            }
+        },
+        {
+            "date": "2020-05-22",
+            "name": "Enfield",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 250
+            }
+        },
+        {
+            "date": "2020-05-21",
+            "name": "Enfield",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 250
+            }
+        },
+        {
+            "date": "2020-05-20",
+            "name": "Enfield",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 250
+            }
+        },
+        {
+            "date": "2020-05-19",
+            "name": "Enfield",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 247
+            }
+        },
+        {
+            "date": "2020-05-18",
+            "name": "Enfield",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 245
+            }
+        },
+        {
+            "date": "2020-05-17",
+            "name": "Enfield",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 243
+            }
+        },
+        {
+            "date": "2020-05-16",
+            "name": "Enfield",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 242
+            }
+        },
+        {
+            "date": "2020-05-15",
+            "name": "Enfield",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 241
+            }
+        },
+        {
+            "date": "2020-05-14",
+            "name": "Enfield",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 241
+            }
+        },
+        {
+            "date": "2020-05-13",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 241
+            }
+        },
+        {
+            "date": "2020-05-12",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 240
+            }
+        },
+        {
+            "date": "2020-05-11",
+            "name": "Enfield",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 240
+            }
+        },
+        {
+            "date": "2020-05-10",
+            "name": "Enfield",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 240
+            }
+        },
+        {
+            "date": "2020-05-09",
+            "name": "Enfield",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 238
+            }
+        },
+        {
+            "date": "2020-05-08",
+            "name": "Enfield",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 237
+            }
+        },
+        {
+            "date": "2020-05-07",
+            "name": "Enfield",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 236
+            }
+        },
+        {
+            "date": "2020-05-06",
+            "name": "Enfield",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 235
+            }
+        },
+        {
+            "date": "2020-05-05",
+            "name": "Enfield",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 232
+            }
+        },
+        {
+            "date": "2020-05-04",
+            "name": "Enfield",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 231
+            }
+        },
+        {
+            "date": "2020-05-03",
+            "name": "Enfield",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 231
+            }
+        },
+        {
+            "date": "2020-05-02",
+            "name": "Enfield",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 230
+            }
+        },
+        {
+            "date": "2020-05-01",
+            "name": "Enfield",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 228
+            }
+        },
+        {
+            "date": "2020-04-30",
+            "name": "Enfield",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 224
+            }
+        },
+        {
+            "date": "2020-04-29",
+            "name": "Enfield",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 222
+            }
+        },
+        {
+            "date": "2020-04-28",
+            "name": "Enfield",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 220
+            }
+        },
+        {
+            "date": "2020-04-27",
+            "name": "Enfield",
+            "cases": {
+                "daily": 28,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 219
+            }
+        },
+        {
+            "date": "2020-04-26",
+            "name": "Enfield",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 215
+            }
+        },
+        {
+            "date": "2020-04-25",
+            "name": "Enfield",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 211
+            }
+        },
+        {
+            "date": "2020-04-24",
+            "name": "Enfield",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 204
+            }
+        },
+        {
+            "date": "2020-04-23",
+            "name": "Enfield",
+            "cases": {
+                "daily": 32,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 201
+            }
+        },
+        {
+            "date": "2020-04-22",
+            "name": "Enfield",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 196
+            }
+        },
+        {
+            "date": "2020-04-21",
+            "name": "Enfield",
+            "cases": {
+                "daily": 20,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 194
+            }
+        },
+        {
+            "date": "2020-04-20",
+            "name": "Enfield",
+            "cases": {
+                "daily": 21,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 184
+            }
+        },
+        {
+            "date": "2020-04-19",
+            "name": "Enfield",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 182
+            }
+        },
+        {
+            "date": "2020-04-18",
+            "name": "Enfield",
+            "cases": {
+                "daily": 51,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 177
+            }
+        },
+        {
+            "date": "2020-04-17",
+            "name": "Enfield",
+            "cases": {
+                "daily": 46,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 170
+            }
+        },
+        {
+            "date": "2020-04-16",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 163
+            }
+        },
+        {
+            "date": "2020-04-15",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 158
+            }
+        },
+        {
+            "date": "2020-04-14",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 150
+            }
+        },
+        {
+            "date": "2020-04-13",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 143
+            }
+        },
+        {
+            "date": "2020-04-12",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 133
+            }
+        },
+        {
+            "date": "2020-04-11",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 127
+            }
+        },
+        {
+            "date": "2020-04-10",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 117
+            }
+        },
+        {
+            "date": "2020-04-09",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 109
+            }
+        },
+        {
+            "date": "2020-04-08",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 103
+            }
+        },
+        {
+            "date": "2020-04-07",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 95
+            }
+        },
+        {
+            "date": "2020-04-06",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 87
+            }
+        },
+        {
+            "date": "2020-04-05",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 75
+            }
+        },
+        {
+            "date": "2020-04-04",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 71
+            }
+        },
+        {
+            "date": "2020-04-03",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 63
+            }
+        },
+        {
+            "date": "2020-04-02",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 58
+            }
+        },
+        {
+            "date": "2020-04-01",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 50
+            }
+        },
+        {
+            "date": "2020-03-31",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 42
+            }
+        },
+        {
+            "date": "2020-03-30",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 34
+            }
+        },
+        {
+            "date": "2020-03-29",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 29
+            }
+        },
+        {
+            "date": "2020-03-28",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 26
+            }
+        },
+        {
+            "date": "2020-03-27",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 24
+            }
+        },
+        {
+            "date": "2020-03-26",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 20
+            }
+        },
+        {
+            "date": "2020-03-25",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 17
+            }
+        },
+        {
+            "date": "2020-03-24",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 13
+            }
+        },
+        {
+            "date": "2020-03-23",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 10
+            }
+        },
+        {
+            "date": "2020-03-22",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 8
+            }
+        },
+        {
+            "date": "2020-03-21",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 7
+            }
+        },
+        {
+            "date": "2020-03-20",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 5
+            }
+        },
+        {
+            "date": "2020-03-19",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 4
+            }
+        },
+        {
+            "date": "2020-03-18",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 4
+            }
+        },
+        {
+            "date": "2020-03-17",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 4
+            }
+        },
+        {
+            "date": "2020-03-16",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 2
+            }
+        },
+        {
+            "date": "2020-03-15",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-14",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-13",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-12",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-11",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-10",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-09",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-08",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-07",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-06",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-05",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-04",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-03",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-02",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-01",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-29",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-28",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-27",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-26",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-25",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-24",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-23",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-22",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-21",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-20",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-19",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-18",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-17",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-16",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-15",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-14",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-13",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-12",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-11",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-10",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-09",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-08",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-07",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-06",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-05",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-04",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-03",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-02",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-01",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-31",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-30",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-29",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-28",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-27",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-26",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-25",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-24",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-23",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-22",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-21",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-20",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-19",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-18",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-17",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-16",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-15",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-14",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-13",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-12",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-11",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-10",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-09",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-08",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-07",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-06",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-05",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-04",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-03",
+            "name": "Enfield",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        }
+    ],
+    "pagination": {
+        "current": "/v1/data?filters=areaType%3Dutla%3BareaName%3DEnfield&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "next": null,
+        "previous": null,
+        "first": "/v1/data?filters=areaType%3Dutla%3BareaName%3DEnfield&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "last": "/v1/data?filters=areaType%3Dutla%3BareaName%3DEnfield&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1"
+    }
+}

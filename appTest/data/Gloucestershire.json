@@ -1,0 +1,4501 @@
+{
+    "length": 374,
+    "maxPageLimit": 2500,
+    "data": [
+        {
+            "date": "2021-01-10",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 265,
+                "cumulative": 15950
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-09",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 234,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 815
+            }
+        },
+        {
+            "date": "2021-01-08",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 529,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 813
+            }
+        },
+        {
+            "date": "2021-01-07",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 356,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 808
+            }
+        },
+        {
+            "date": "2021-01-06",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 284,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 803
+            }
+        },
+        {
+            "date": "2021-01-05",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 241,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 796
+            }
+        },
+        {
+            "date": "2021-01-04",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 423,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 789
+            }
+        },
+        {
+            "date": "2021-01-03",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 260,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 782
+            }
+        },
+        {
+            "date": "2021-01-02",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 384,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 775
+            }
+        },
+        {
+            "date": "2021-01-01",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 235,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 767
+            }
+        },
+        {
+            "date": "2020-12-31",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 337,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 760
+            }
+        },
+        {
+            "date": "2020-12-30",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 244,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 752
+            }
+        },
+        {
+            "date": "2020-12-29",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 237,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 750
+            }
+        },
+        {
+            "date": "2020-12-28",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 271,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 743
+            }
+        },
+        {
+            "date": "2020-12-27",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 126,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 736
+            }
+        },
+        {
+            "date": "2020-12-26",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 272,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 727
+            }
+        },
+        {
+            "date": "2020-12-25",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 199,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 720
+            }
+        },
+        {
+            "date": "2020-12-24",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 176,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 709
+            }
+        },
+        {
+            "date": "2020-12-23",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 241,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 701
+            }
+        },
+        {
+            "date": "2020-12-22",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 235,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 697
+            }
+        },
+        {
+            "date": "2020-12-21",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 210,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 686
+            }
+        },
+        {
+            "date": "2020-12-20",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 105,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 677
+            }
+        },
+        {
+            "date": "2020-12-19",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 176,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 670
+            }
+        },
+        {
+            "date": "2020-12-18",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 148,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 666
+            }
+        },
+        {
+            "date": "2020-12-17",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 149,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 663
+            }
+        },
+        {
+            "date": "2020-12-16",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 158,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 655
+            }
+        },
+        {
+            "date": "2020-12-15",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 102,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 650
+            }
+        },
+        {
+            "date": "2020-12-14",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 106,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 644
+            }
+        },
+        {
+            "date": "2020-12-13",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 149,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 638
+            }
+        },
+        {
+            "date": "2020-12-12",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 171,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 632
+            }
+        },
+        {
+            "date": "2020-12-11",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 119,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 631
+            }
+        },
+        {
+            "date": "2020-12-10",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 100,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 626
+            }
+        },
+        {
+            "date": "2020-12-09",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 95,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 618
+            }
+        },
+        {
+            "date": "2020-12-08",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 94,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 612
+            }
+        },
+        {
+            "date": "2020-12-07",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 121,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 606
+            }
+        },
+        {
+            "date": "2020-12-06",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 105,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 602
+            }
+        },
+        {
+            "date": "2020-12-05",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 81,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 596
+            }
+        },
+        {
+            "date": "2020-12-04",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 99,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 593
+            }
+        },
+        {
+            "date": "2020-12-03",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 82,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 588
+            }
+        },
+        {
+            "date": "2020-12-02",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 70,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 583
+            }
+        },
+        {
+            "date": "2020-12-01",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 103,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 580
+            }
+        },
+        {
+            "date": "2020-11-30",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 64,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 575
+            }
+        },
+        {
+            "date": "2020-11-29",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 80,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 573
+            }
+        },
+        {
+            "date": "2020-11-28",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 112,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 572
+            }
+        },
+        {
+            "date": "2020-11-27",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 93,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 565
+            }
+        },
+        {
+            "date": "2020-11-26",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 114,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 561
+            }
+        },
+        {
+            "date": "2020-11-25",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 87,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 560
+            }
+        },
+        {
+            "date": "2020-11-24",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 97,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 559
+            }
+        },
+        {
+            "date": "2020-11-23",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 94,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 553
+            }
+        },
+        {
+            "date": "2020-11-22",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 112,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 549
+            }
+        },
+        {
+            "date": "2020-11-21",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 111,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 543
+            }
+        },
+        {
+            "date": "2020-11-20",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 136,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 542
+            }
+        },
+        {
+            "date": "2020-11-19",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 179,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 536
+            }
+        },
+        {
+            "date": "2020-11-18",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 138,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 530
+            }
+        },
+        {
+            "date": "2020-11-17",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 166,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 526
+            }
+        },
+        {
+            "date": "2020-11-16",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 523
+            }
+        },
+        {
+            "date": "2020-11-15",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 154,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 518
+            }
+        },
+        {
+            "date": "2020-11-14",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 295,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 512
+            }
+        },
+        {
+            "date": "2020-11-13",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 157,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 509
+            }
+        },
+        {
+            "date": "2020-11-12",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 164,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 505
+            }
+        },
+        {
+            "date": "2020-11-11",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 106,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 503
+            }
+        },
+        {
+            "date": "2020-11-10",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 123,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 501
+            }
+        },
+        {
+            "date": "2020-11-09",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 109,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 499
+            }
+        },
+        {
+            "date": "2020-11-08",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 93,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 495
+            }
+        },
+        {
+            "date": "2020-11-07",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 120,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 490
+            }
+        },
+        {
+            "date": "2020-11-06",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 154,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 488
+            }
+        },
+        {
+            "date": "2020-11-05",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 80,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 484
+            }
+        },
+        {
+            "date": "2020-11-04",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 128,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 481
+            }
+        },
+        {
+            "date": "2020-11-03",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 112,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 481
+            }
+        },
+        {
+            "date": "2020-11-02",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 96,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 480
+            }
+        },
+        {
+            "date": "2020-11-01",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 131,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 477
+            }
+        },
+        {
+            "date": "2020-10-31",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 127,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 476
+            }
+        },
+        {
+            "date": "2020-10-30",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 86,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 476
+            }
+        },
+        {
+            "date": "2020-10-29",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 105,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 476
+            }
+        },
+        {
+            "date": "2020-10-28",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 117,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 475
+            }
+        },
+        {
+            "date": "2020-10-27",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 49,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 474
+            }
+        },
+        {
+            "date": "2020-10-26",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 77,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 472
+            }
+        },
+        {
+            "date": "2020-10-25",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 83,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 470
+            }
+        },
+        {
+            "date": "2020-10-24",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 80,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 470
+            }
+        },
+        {
+            "date": "2020-10-23",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 73,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 470
+            }
+        },
+        {
+            "date": "2020-10-22",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 72,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 469
+            }
+        },
+        {
+            "date": "2020-10-21",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 77,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 467
+            }
+        },
+        {
+            "date": "2020-10-20",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 70,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 465
+            }
+        },
+        {
+            "date": "2020-10-19",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 43,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 463
+            }
+        },
+        {
+            "date": "2020-10-18",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 45,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 462
+            }
+        },
+        {
+            "date": "2020-10-17",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 59,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 462
+            }
+        },
+        {
+            "date": "2020-10-16",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 50,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 462
+            }
+        },
+        {
+            "date": "2020-10-15",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 63,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 462
+            }
+        },
+        {
+            "date": "2020-10-14",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 91,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 462
+            }
+        },
+        {
+            "date": "2020-10-13",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 63,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 462
+            }
+        },
+        {
+            "date": "2020-10-12",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 31,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 462
+            }
+        },
+        {
+            "date": "2020-10-11",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 39,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 462
+            }
+        },
+        {
+            "date": "2020-10-10",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 54,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 460
+            }
+        },
+        {
+            "date": "2020-10-09",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 64,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 460
+            }
+        },
+        {
+            "date": "2020-10-08",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 64,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 459
+            }
+        },
+        {
+            "date": "2020-10-07",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 47,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 459
+            }
+        },
+        {
+            "date": "2020-10-06",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 47,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 459
+            }
+        },
+        {
+            "date": "2020-10-05",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 37,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 458
+            }
+        },
+        {
+            "date": "2020-10-04",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 63,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 457
+            }
+        },
+        {
+            "date": "2020-10-03",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 44,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 457
+            }
+        },
+        {
+            "date": "2020-10-02",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 457
+            }
+        },
+        {
+            "date": "2020-10-01",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 22,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 457
+            }
+        },
+        {
+            "date": "2020-09-30",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 455
+            }
+        },
+        {
+            "date": "2020-09-29",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 20,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 455
+            }
+        },
+        {
+            "date": "2020-09-28",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 455
+            }
+        },
+        {
+            "date": "2020-09-27",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 455
+            }
+        },
+        {
+            "date": "2020-09-26",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 453
+            }
+        },
+        {
+            "date": "2020-09-25",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 452
+            }
+        },
+        {
+            "date": "2020-09-24",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 35,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 452
+            }
+        },
+        {
+            "date": "2020-09-23",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 452
+            }
+        },
+        {
+            "date": "2020-09-22",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 452
+            }
+        },
+        {
+            "date": "2020-09-21",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 452
+            }
+        },
+        {
+            "date": "2020-09-20",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 450
+            }
+        },
+        {
+            "date": "2020-09-19",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 449
+            }
+        },
+        {
+            "date": "2020-09-18",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 447
+            }
+        },
+        {
+            "date": "2020-09-17",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 447
+            }
+        },
+        {
+            "date": "2020-09-16",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 447
+            }
+        },
+        {
+            "date": "2020-09-15",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 447
+            }
+        },
+        {
+            "date": "2020-09-14",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 447
+            }
+        },
+        {
+            "date": "2020-09-13",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 446
+            }
+        },
+        {
+            "date": "2020-09-12",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 446
+            }
+        },
+        {
+            "date": "2020-09-11",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 446
+            }
+        },
+        {
+            "date": "2020-09-10",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 446
+            }
+        },
+        {
+            "date": "2020-09-09",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 446
+            }
+        },
+        {
+            "date": "2020-09-08",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 446
+            }
+        },
+        {
+            "date": "2020-09-07",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 446
+            }
+        },
+        {
+            "date": "2020-09-06",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 446
+            }
+        },
+        {
+            "date": "2020-09-05",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 444
+            }
+        },
+        {
+            "date": "2020-09-04",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 443
+            }
+        },
+        {
+            "date": "2020-09-03",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 443
+            }
+        },
+        {
+            "date": "2020-09-02",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 443
+            }
+        },
+        {
+            "date": "2020-09-01",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 443
+            }
+        },
+        {
+            "date": "2020-08-31",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 443
+            }
+        },
+        {
+            "date": "2020-08-30",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 442
+            }
+        },
+        {
+            "date": "2020-08-29",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 442
+            }
+        },
+        {
+            "date": "2020-08-28",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 442
+            }
+        },
+        {
+            "date": "2020-08-27",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 442
+            }
+        },
+        {
+            "date": "2020-08-26",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 442
+            }
+        },
+        {
+            "date": "2020-08-25",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 442
+            }
+        },
+        {
+            "date": "2020-08-24",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 442
+            }
+        },
+        {
+            "date": "2020-08-23",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 442
+            }
+        },
+        {
+            "date": "2020-08-22",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 442
+            }
+        },
+        {
+            "date": "2020-08-21",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 442
+            }
+        },
+        {
+            "date": "2020-08-20",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 442
+            }
+        },
+        {
+            "date": "2020-08-19",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 440
+            }
+        },
+        {
+            "date": "2020-08-18",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 440
+            }
+        },
+        {
+            "date": "2020-08-17",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 440
+            }
+        },
+        {
+            "date": "2020-08-16",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 439
+            }
+        },
+        {
+            "date": "2020-08-15",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 438
+            }
+        },
+        {
+            "date": "2020-08-14",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 437
+            }
+        },
+        {
+            "date": "2020-08-13",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 437
+            }
+        },
+        {
+            "date": "2020-08-12",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 437
+            }
+        },
+        {
+            "date": "2020-08-11",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 437
+            }
+        },
+        {
+            "date": "2020-08-10",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 437
+            }
+        },
+        {
+            "date": "2020-08-09",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 437
+            }
+        },
+        {
+            "date": "2020-08-08",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 437
+            }
+        },
+        {
+            "date": "2020-08-07",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 436
+            }
+        },
+        {
+            "date": "2020-08-06",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 436
+            }
+        },
+        {
+            "date": "2020-08-05",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 436
+            }
+        },
+        {
+            "date": "2020-08-04",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 436
+            }
+        },
+        {
+            "date": "2020-08-03",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 436
+            }
+        },
+        {
+            "date": "2020-08-02",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 436
+            }
+        },
+        {
+            "date": "2020-08-01",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 436
+            }
+        },
+        {
+            "date": "2020-07-31",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 436
+            }
+        },
+        {
+            "date": "2020-07-30",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 436
+            }
+        },
+        {
+            "date": "2020-07-29",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 436
+            }
+        },
+        {
+            "date": "2020-07-28",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 435
+            }
+        },
+        {
+            "date": "2020-07-27",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 435
+            }
+        },
+        {
+            "date": "2020-07-26",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 435
+            }
+        },
+        {
+            "date": "2020-07-25",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 434
+            }
+        },
+        {
+            "date": "2020-07-24",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 434
+            }
+        },
+        {
+            "date": "2020-07-23",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 434
+            }
+        },
+        {
+            "date": "2020-07-22",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 434
+            }
+        },
+        {
+            "date": "2020-07-21",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 434
+            }
+        },
+        {
+            "date": "2020-07-20",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 433
+            }
+        },
+        {
+            "date": "2020-07-19",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 433
+            }
+        },
+        {
+            "date": "2020-07-18",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 432
+            }
+        },
+        {
+            "date": "2020-07-17",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 431
+            }
+        },
+        {
+            "date": "2020-07-16",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 430
+            }
+        },
+        {
+            "date": "2020-07-15",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 430
+            }
+        },
+        {
+            "date": "2020-07-14",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 430
+            }
+        },
+        {
+            "date": "2020-07-13",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 428
+            }
+        },
+        {
+            "date": "2020-07-12",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 428
+            }
+        },
+        {
+            "date": "2020-07-11",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 428
+            }
+        },
+        {
+            "date": "2020-07-10",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 428
+            }
+        },
+        {
+            "date": "2020-07-09",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 428
+            }
+        },
+        {
+            "date": "2020-07-08",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 426
+            }
+        },
+        {
+            "date": "2020-07-07",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 425
+            }
+        },
+        {
+            "date": "2020-07-06",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 425
+            }
+        },
+        {
+            "date": "2020-07-05",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 425
+            }
+        },
+        {
+            "date": "2020-07-04",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 425
+            }
+        },
+        {
+            "date": "2020-07-03",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 425
+            }
+        },
+        {
+            "date": "2020-07-02",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 425
+            }
+        },
+        {
+            "date": "2020-07-01",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 426,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 425
+            }
+        },
+        {
+            "date": "2020-06-30",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 425
+            }
+        },
+        {
+            "date": "2020-06-29",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 425
+            }
+        },
+        {
+            "date": "2020-06-28",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 425
+            }
+        },
+        {
+            "date": "2020-06-27",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 425
+            }
+        },
+        {
+            "date": "2020-06-26",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 424
+            }
+        },
+        {
+            "date": "2020-06-25",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 423
+            }
+        },
+        {
+            "date": "2020-06-24",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 423
+            }
+        },
+        {
+            "date": "2020-06-23",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 423
+            }
+        },
+        {
+            "date": "2020-06-22",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 421
+            }
+        },
+        {
+            "date": "2020-06-21",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 421
+            }
+        },
+        {
+            "date": "2020-06-20",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 420
+            }
+        },
+        {
+            "date": "2020-06-19",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 420
+            }
+        },
+        {
+            "date": "2020-06-18",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 419
+            }
+        },
+        {
+            "date": "2020-06-17",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 419
+            }
+        },
+        {
+            "date": "2020-06-16",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 419
+            }
+        },
+        {
+            "date": "2020-06-15",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 418
+            }
+        },
+        {
+            "date": "2020-06-14",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 417
+            }
+        },
+        {
+            "date": "2020-06-13",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 416
+            }
+        },
+        {
+            "date": "2020-06-12",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 416
+            }
+        },
+        {
+            "date": "2020-06-11",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 416
+            }
+        },
+        {
+            "date": "2020-06-10",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 415
+            }
+        },
+        {
+            "date": "2020-06-09",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 414
+            }
+        },
+        {
+            "date": "2020-06-08",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 412
+            }
+        },
+        {
+            "date": "2020-06-07",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 412
+            }
+        },
+        {
+            "date": "2020-06-06",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 412
+            }
+        },
+        {
+            "date": "2020-06-05",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 411
+            }
+        },
+        {
+            "date": "2020-06-04",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 411
+            }
+        },
+        {
+            "date": "2020-06-03",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 409
+            }
+        },
+        {
+            "date": "2020-06-02",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 405
+            }
+        },
+        {
+            "date": "2020-06-01",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 405
+            }
+        },
+        {
+            "date": "2020-05-31",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 404
+            }
+        },
+        {
+            "date": "2020-05-30",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 404
+            }
+        },
+        {
+            "date": "2020-05-29",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 403
+            }
+        },
+        {
+            "date": "2020-05-28",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 403
+            }
+        },
+        {
+            "date": "2020-05-27",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 399
+            }
+        },
+        {
+            "date": "2020-05-26",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 396
+            }
+        },
+        {
+            "date": "2020-05-25",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 394
+            }
+        },
+        {
+            "date": "2020-05-24",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 393
+            }
+        },
+        {
+            "date": "2020-05-23",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 392
+            }
+        },
+        {
+            "date": "2020-05-22",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 388
+            }
+        },
+        {
+            "date": "2020-05-21",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 387
+            }
+        },
+        {
+            "date": "2020-05-20",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 387
+            }
+        },
+        {
+            "date": "2020-05-19",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 385
+            }
+        },
+        {
+            "date": "2020-05-18",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 380
+            }
+        },
+        {
+            "date": "2020-05-17",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 373
+            }
+        },
+        {
+            "date": "2020-05-16",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 370
+            }
+        },
+        {
+            "date": "2020-05-15",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 367
+            }
+        },
+        {
+            "date": "2020-05-14",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 366
+            }
+        },
+        {
+            "date": "2020-05-13",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 364
+            }
+        },
+        {
+            "date": "2020-05-12",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 362
+            }
+        },
+        {
+            "date": "2020-05-11",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 362
+            }
+        },
+        {
+            "date": "2020-05-10",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 358
+            }
+        },
+        {
+            "date": "2020-05-09",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 356
+            }
+        },
+        {
+            "date": "2020-05-08",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 23,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 353
+            }
+        },
+        {
+            "date": "2020-05-07",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 24,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 351
+            }
+        },
+        {
+            "date": "2020-05-06",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 348
+            }
+        },
+        {
+            "date": "2020-05-05",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 24,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 343
+            }
+        },
+        {
+            "date": "2020-05-04",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 334
+            }
+        },
+        {
+            "date": "2020-05-03",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 329
+            }
+        },
+        {
+            "date": "2020-05-02",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 326
+            }
+        },
+        {
+            "date": "2020-05-01",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 33,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 323
+            }
+        },
+        {
+            "date": "2020-04-30",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 29,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 319
+            }
+        },
+        {
+            "date": "2020-04-29",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 308
+            }
+        },
+        {
+            "date": "2020-04-28",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 27,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 301
+            }
+        },
+        {
+            "date": "2020-04-27",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 296
+            }
+        },
+        {
+            "date": "2020-04-26",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 284
+            }
+        },
+        {
+            "date": "2020-04-25",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 31,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 276
+            }
+        },
+        {
+            "date": "2020-04-24",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 32,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 271
+            }
+        },
+        {
+            "date": "2020-04-23",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 32,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 259
+            }
+        },
+        {
+            "date": "2020-04-22",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 17,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 254
+            }
+        },
+        {
+            "date": "2020-04-21",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 38,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 246
+            }
+        },
+        {
+            "date": "2020-04-20",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 30,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 236
+            }
+        },
+        {
+            "date": "2020-04-19",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 17,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 226
+            }
+        },
+        {
+            "date": "2020-04-18",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 62,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 212
+            }
+        },
+        {
+            "date": "2020-04-17",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 57,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 15,
+                "cumulative": 204
+            }
+        },
+        {
+            "date": "2020-04-16",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 189
+            }
+        },
+        {
+            "date": "2020-04-15",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 180
+            }
+        },
+        {
+            "date": "2020-04-14",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 16,
+                "cumulative": 174
+            }
+        },
+        {
+            "date": "2020-04-13",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 158
+            }
+        },
+        {
+            "date": "2020-04-12",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 147
+            }
+        },
+        {
+            "date": "2020-04-11",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 15,
+                "cumulative": 134
+            }
+        },
+        {
+            "date": "2020-04-10",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 119
+            }
+        },
+        {
+            "date": "2020-04-09",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 107
+            }
+        },
+        {
+            "date": "2020-04-08",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 17,
+                "cumulative": 100
+            }
+        },
+        {
+            "date": "2020-04-07",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 83
+            }
+        },
+        {
+            "date": "2020-04-06",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 76
+            }
+        },
+        {
+            "date": "2020-04-05",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 66
+            }
+        },
+        {
+            "date": "2020-04-04",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 58
+            }
+        },
+        {
+            "date": "2020-04-03",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 50
+            }
+        },
+        {
+            "date": "2020-04-02",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 43
+            }
+        },
+        {
+            "date": "2020-04-01",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 37
+            }
+        },
+        {
+            "date": "2020-03-31",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 33
+            }
+        },
+        {
+            "date": "2020-03-30",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 25
+            }
+        },
+        {
+            "date": "2020-03-29",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 20
+            }
+        },
+        {
+            "date": "2020-03-28",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 15
+            }
+        },
+        {
+            "date": "2020-03-27",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 8
+            }
+        },
+        {
+            "date": "2020-03-26",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 8
+            }
+        },
+        {
+            "date": "2020-03-25",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 6
+            }
+        },
+        {
+            "date": "2020-03-24",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 5
+            }
+        },
+        {
+            "date": "2020-03-23",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 5
+            }
+        },
+        {
+            "date": "2020-03-22",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 4
+            }
+        },
+        {
+            "date": "2020-03-21",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 4
+            }
+        },
+        {
+            "date": "2020-03-20",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 3
+            }
+        },
+        {
+            "date": "2020-03-19",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 2
+            }
+        },
+        {
+            "date": "2020-03-18",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-17",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-16",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-15",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-14",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-13",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-12",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-11",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-10",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-09",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-08",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-07",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-06",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-05",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-04",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-03",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-02",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-01",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-29",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-28",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-27",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-26",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-25",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-24",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-23",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-22",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-21",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-20",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-19",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-18",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-17",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-16",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-15",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-14",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-13",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-12",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-11",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-10",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-09",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-08",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-07",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-06",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-05",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-04",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-03",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-02",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-01",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-31",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-30",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-29",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-28",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-27",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-26",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-25",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-24",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-23",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-22",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-21",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-20",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-19",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-18",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-17",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-16",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-15",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-14",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-13",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-12",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-11",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-10",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-09",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-08",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-07",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-06",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-05",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-04",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-03",
+            "name": "Gloucestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        }
+    ],
+    "pagination": {
+        "current": "/v1/data?filters=areaType%3Dutla%3BareaName%3DGloucestershire&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "next": null,
+        "previous": null,
+        "first": "/v1/data?filters=areaType%3Dutla%3BareaName%3DGloucestershire&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "last": "/v1/data?filters=areaType%3Dutla%3BareaName%3DGloucestershire&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1"
+    }
+}

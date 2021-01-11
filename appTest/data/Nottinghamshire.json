@@ -1,0 +1,4501 @@
+{
+    "length": 374,
+    "maxPageLimit": 2500,
+    "data": [
+        {
+            "date": "2021-01-10",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 473,
+                "cumulative": 36055
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-09",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 536,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 1333
+            }
+        },
+        {
+            "date": "2021-01-08",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 541,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 1330
+            }
+        },
+        {
+            "date": "2021-01-07",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 488,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1322
+            }
+        },
+        {
+            "date": "2021-01-06",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 665,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 1320
+            }
+        },
+        {
+            "date": "2021-01-05",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 486,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 1310
+            }
+        },
+        {
+            "date": "2021-01-04",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 625,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 1301
+            }
+        },
+        {
+            "date": "2021-01-03",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 230,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 1291
+            }
+        },
+        {
+            "date": "2021-01-02",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 482,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 1284
+            }
+        },
+        {
+            "date": "2021-01-01",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 573,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 1278
+            }
+        },
+        {
+            "date": "2020-12-31",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 524,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 1267
+            }
+        },
+        {
+            "date": "2020-12-30",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 461,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 1257
+            }
+        },
+        {
+            "date": "2020-12-29",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 374,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 1246
+            }
+        },
+        {
+            "date": "2020-12-28",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 375,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 1236
+            }
+        },
+        {
+            "date": "2020-12-27",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 140,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 1230
+            }
+        },
+        {
+            "date": "2020-12-26",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 315,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 1221
+            }
+        },
+        {
+            "date": "2020-12-25",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 326,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 1211
+            }
+        },
+        {
+            "date": "2020-12-24",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 310,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 1198
+            }
+        },
+        {
+            "date": "2020-12-23",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 297,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 1193
+            }
+        },
+        {
+            "date": "2020-12-22",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 303,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 1179
+            }
+        },
+        {
+            "date": "2020-12-21",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 254,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 1168
+            }
+        },
+        {
+            "date": "2020-12-20",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 323,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 1160
+            }
+        },
+        {
+            "date": "2020-12-19",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 163,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 1149
+            }
+        },
+        {
+            "date": "2020-12-18",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 376,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 1138
+            }
+        },
+        {
+            "date": "2020-12-17",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 232,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 17,
+                "cumulative": 1128
+            }
+        },
+        {
+            "date": "2020-12-16",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 221,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 1111
+            }
+        },
+        {
+            "date": "2020-12-15",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 226,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 1100
+            }
+        },
+        {
+            "date": "2020-12-14",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 218,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 1090
+            }
+        },
+        {
+            "date": "2020-12-13",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 181,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 1079
+            }
+        },
+        {
+            "date": "2020-12-12",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 235,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 1072
+            }
+        },
+        {
+            "date": "2020-12-11",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 270,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 1065
+            }
+        },
+        {
+            "date": "2020-12-10",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 248,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 1053
+            }
+        },
+        {
+            "date": "2020-12-09",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 145,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 1042
+            }
+        },
+        {
+            "date": "2020-12-08",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 137,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 1032
+            }
+        },
+        {
+            "date": "2020-12-07",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 146,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 1024
+            }
+        },
+        {
+            "date": "2020-12-06",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 161,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 1016
+            }
+        },
+        {
+            "date": "2020-12-05",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 176,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 1008
+            }
+        },
+        {
+            "date": "2020-12-04",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 214,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 1000
+            }
+        },
+        {
+            "date": "2020-12-03",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 188,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 989
+            }
+        },
+        {
+            "date": "2020-12-02",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 195,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 978
+            }
+        },
+        {
+            "date": "2020-12-01",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 171,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 967
+            }
+        },
+        {
+            "date": "2020-11-30",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 139,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 954
+            }
+        },
+        {
+            "date": "2020-11-29",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 133,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 943
+            }
+        },
+        {
+            "date": "2020-11-28",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 254,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 932
+            }
+        },
+        {
+            "date": "2020-11-27",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 156,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 925
+            }
+        },
+        {
+            "date": "2020-11-26",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 223,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 914
+            }
+        },
+        {
+            "date": "2020-11-25",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 215,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 909
+            }
+        },
+        {
+            "date": "2020-11-24",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 158,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 897
+            }
+        },
+        {
+            "date": "2020-11-23",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 238,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 894
+            }
+        },
+        {
+            "date": "2020-11-22",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 247,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 883
+            }
+        },
+        {
+            "date": "2020-11-21",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 365,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 869
+            }
+        },
+        {
+            "date": "2020-11-20",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 262,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 867
+            }
+        },
+        {
+            "date": "2020-11-19",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 263,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 863
+            }
+        },
+        {
+            "date": "2020-11-18",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 244,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 852
+            }
+        },
+        {
+            "date": "2020-11-17",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 299,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 842
+            }
+        },
+        {
+            "date": "2020-11-16",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 131,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 835
+            }
+        },
+        {
+            "date": "2020-11-15",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 324,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 824
+            }
+        },
+        {
+            "date": "2020-11-14",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 376,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 814
+            }
+        },
+        {
+            "date": "2020-11-13",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 379,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 804
+            }
+        },
+        {
+            "date": "2020-11-12",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 502,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 798
+            }
+        },
+        {
+            "date": "2020-11-11",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 197,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 789
+            }
+        },
+        {
+            "date": "2020-11-10",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 362,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 784
+            }
+        },
+        {
+            "date": "2020-11-09",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 358,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 16,
+                "cumulative": 776
+            }
+        },
+        {
+            "date": "2020-11-08",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 357,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 760
+            }
+        },
+        {
+            "date": "2020-11-07",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 392,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 747
+            }
+        },
+        {
+            "date": "2020-11-06",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 385,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 740
+            }
+        },
+        {
+            "date": "2020-11-05",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 431,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 730
+            }
+        },
+        {
+            "date": "2020-11-04",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 331,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 722
+            }
+        },
+        {
+            "date": "2020-11-03",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 347,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 710
+            }
+        },
+        {
+            "date": "2020-11-02",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 308,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 696
+            }
+        },
+        {
+            "date": "2020-11-01",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 505,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 684
+            }
+        },
+        {
+            "date": "2020-10-31",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 475,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 679
+            }
+        },
+        {
+            "date": "2020-10-30",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 411,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 670
+            }
+        },
+        {
+            "date": "2020-10-29",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 436,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 660
+            }
+        },
+        {
+            "date": "2020-10-28",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 421,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 653
+            }
+        },
+        {
+            "date": "2020-10-27",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 367,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 646
+            }
+        },
+        {
+            "date": "2020-10-26",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 377,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 639
+            }
+        },
+        {
+            "date": "2020-10-25",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 354,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 634
+            }
+        },
+        {
+            "date": "2020-10-24",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 488,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 626
+            }
+        },
+        {
+            "date": "2020-10-23",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 394,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 622
+            }
+        },
+        {
+            "date": "2020-10-22",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 429,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 615
+            }
+        },
+        {
+            "date": "2020-10-21",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 389,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 608
+            }
+        },
+        {
+            "date": "2020-10-20",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 480,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 606
+            }
+        },
+        {
+            "date": "2020-10-19",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 482,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 601
+            }
+        },
+        {
+            "date": "2020-10-18",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 306,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 601
+            }
+        },
+        {
+            "date": "2020-10-17",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 288,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 596
+            }
+        },
+        {
+            "date": "2020-10-16",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 133,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 591
+            }
+        },
+        {
+            "date": "2020-10-15",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 468,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 587
+            }
+        },
+        {
+            "date": "2020-10-14",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 403,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 584
+            }
+        },
+        {
+            "date": "2020-10-13",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 274,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 582
+            }
+        },
+        {
+            "date": "2020-10-12",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 252,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 577
+            }
+        },
+        {
+            "date": "2020-10-11",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 213,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 577
+            }
+        },
+        {
+            "date": "2020-10-10",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 183,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 573
+            }
+        },
+        {
+            "date": "2020-10-09",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 256,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 573
+            }
+        },
+        {
+            "date": "2020-10-08",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 366,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 573
+            }
+        },
+        {
+            "date": "2020-10-07",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 164,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 573
+            }
+        },
+        {
+            "date": "2020-10-06",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 172,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 572
+            }
+        },
+        {
+            "date": "2020-10-05",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 123,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 571
+            }
+        },
+        {
+            "date": "2020-10-04",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 337,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 571
+            }
+        },
+        {
+            "date": "2020-10-03",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 142,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 570
+            }
+        },
+        {
+            "date": "2020-10-02",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 55,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 569
+            }
+        },
+        {
+            "date": "2020-10-01",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 91,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 567
+            }
+        },
+        {
+            "date": "2020-09-30",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 68,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 565
+            }
+        },
+        {
+            "date": "2020-09-29",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 62,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 563
+            }
+        },
+        {
+            "date": "2020-09-28",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 73,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 561
+            }
+        },
+        {
+            "date": "2020-09-27",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 40,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 561
+            }
+        },
+        {
+            "date": "2020-09-26",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 52,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 559
+            }
+        },
+        {
+            "date": "2020-09-25",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 60,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 559
+            }
+        },
+        {
+            "date": "2020-09-24",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 44,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 558
+            }
+        },
+        {
+            "date": "2020-09-23",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 38,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 555
+            }
+        },
+        {
+            "date": "2020-09-22",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 27,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 554
+            }
+        },
+        {
+            "date": "2020-09-21",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 34,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 553
+            }
+        },
+        {
+            "date": "2020-09-20",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 22,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 552
+            }
+        },
+        {
+            "date": "2020-09-19",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 23,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 552
+            }
+        },
+        {
+            "date": "2020-09-18",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 39,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 550
+            }
+        },
+        {
+            "date": "2020-09-17",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 26,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 550
+            }
+        },
+        {
+            "date": "2020-09-16",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 36,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 550
+            }
+        },
+        {
+            "date": "2020-09-15",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 24,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 550
+            }
+        },
+        {
+            "date": "2020-09-14",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 23,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 550
+            }
+        },
+        {
+            "date": "2020-09-13",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 32,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 547
+            }
+        },
+        {
+            "date": "2020-09-12",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 51,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 547
+            }
+        },
+        {
+            "date": "2020-09-11",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 43,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 546
+            }
+        },
+        {
+            "date": "2020-09-10",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 30,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 544
+            }
+        },
+        {
+            "date": "2020-09-09",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 29,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 544
+            }
+        },
+        {
+            "date": "2020-09-08",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 21,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 544
+            }
+        },
+        {
+            "date": "2020-09-07",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 32,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 544
+            }
+        },
+        {
+            "date": "2020-09-06",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 37,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 543
+            }
+        },
+        {
+            "date": "2020-09-05",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 17,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 542
+            }
+        },
+        {
+            "date": "2020-09-04",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 541
+            }
+        },
+        {
+            "date": "2020-09-03",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 21,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 540
+            }
+        },
+        {
+            "date": "2020-09-02",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 539
+            }
+        },
+        {
+            "date": "2020-09-01",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 538
+            }
+        },
+        {
+            "date": "2020-08-31",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 536
+            }
+        },
+        {
+            "date": "2020-08-30",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 536
+            }
+        },
+        {
+            "date": "2020-08-29",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 536
+            }
+        },
+        {
+            "date": "2020-08-28",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 535
+            }
+        },
+        {
+            "date": "2020-08-27",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 535
+            }
+        },
+        {
+            "date": "2020-08-26",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 534
+            }
+        },
+        {
+            "date": "2020-08-25",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 533
+            }
+        },
+        {
+            "date": "2020-08-24",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 533
+            }
+        },
+        {
+            "date": "2020-08-23",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 532
+            }
+        },
+        {
+            "date": "2020-08-22",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 21,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 532
+            }
+        },
+        {
+            "date": "2020-08-21",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 532
+            }
+        },
+        {
+            "date": "2020-08-20",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 532
+            }
+        },
+        {
+            "date": "2020-08-19",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 532
+            }
+        },
+        {
+            "date": "2020-08-18",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 532
+            }
+        },
+        {
+            "date": "2020-08-17",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 531
+            }
+        },
+        {
+            "date": "2020-08-16",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 531
+            }
+        },
+        {
+            "date": "2020-08-15",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 531
+            }
+        },
+        {
+            "date": "2020-08-14",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 33,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 530
+            }
+        },
+        {
+            "date": "2020-08-13",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 530
+            }
+        },
+        {
+            "date": "2020-08-12",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 530
+            }
+        },
+        {
+            "date": "2020-08-11",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 528
+            }
+        },
+        {
+            "date": "2020-08-10",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 527
+            }
+        },
+        {
+            "date": "2020-08-09",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 527
+            }
+        },
+        {
+            "date": "2020-08-08",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 526
+            }
+        },
+        {
+            "date": "2020-08-07",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 526
+            }
+        },
+        {
+            "date": "2020-08-06",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 524
+            }
+        },
+        {
+            "date": "2020-08-05",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 524
+            }
+        },
+        {
+            "date": "2020-08-04",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 523
+            }
+        },
+        {
+            "date": "2020-08-03",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 522
+            }
+        },
+        {
+            "date": "2020-08-02",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 522
+            }
+        },
+        {
+            "date": "2020-08-01",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 522
+            }
+        },
+        {
+            "date": "2020-07-31",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 521
+            }
+        },
+        {
+            "date": "2020-07-30",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 521
+            }
+        },
+        {
+            "date": "2020-07-29",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 520
+            }
+        },
+        {
+            "date": "2020-07-28",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 520
+            }
+        },
+        {
+            "date": "2020-07-27",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 519
+            }
+        },
+        {
+            "date": "2020-07-26",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 517
+            }
+        },
+        {
+            "date": "2020-07-25",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 516
+            }
+        },
+        {
+            "date": "2020-07-24",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 516
+            }
+        },
+        {
+            "date": "2020-07-23",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 515
+            }
+        },
+        {
+            "date": "2020-07-22",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 515
+            }
+        },
+        {
+            "date": "2020-07-21",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 514
+            }
+        },
+        {
+            "date": "2020-07-20",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 514
+            }
+        },
+        {
+            "date": "2020-07-19",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 514
+            }
+        },
+        {
+            "date": "2020-07-18",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 513
+            }
+        },
+        {
+            "date": "2020-07-17",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 512
+            }
+        },
+        {
+            "date": "2020-07-16",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 511
+            }
+        },
+        {
+            "date": "2020-07-15",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 510
+            }
+        },
+        {
+            "date": "2020-07-14",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 510
+            }
+        },
+        {
+            "date": "2020-07-13",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 509
+            }
+        },
+        {
+            "date": "2020-07-12",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 509
+            }
+        },
+        {
+            "date": "2020-07-11",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 506
+            }
+        },
+        {
+            "date": "2020-07-10",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 501
+            }
+        },
+        {
+            "date": "2020-07-09",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 500
+            }
+        },
+        {
+            "date": "2020-07-08",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 500
+            }
+        },
+        {
+            "date": "2020-07-07",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 497
+            }
+        },
+        {
+            "date": "2020-07-06",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 495
+            }
+        },
+        {
+            "date": "2020-07-05",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 494
+            }
+        },
+        {
+            "date": "2020-07-04",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 493
+            }
+        },
+        {
+            "date": "2020-07-03",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 493
+            }
+        },
+        {
+            "date": "2020-07-02",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 493
+            }
+        },
+        {
+            "date": "2020-07-01",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 1430,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 492
+            }
+        },
+        {
+            "date": "2020-06-30",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 491
+            }
+        },
+        {
+            "date": "2020-06-29",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 489
+            }
+        },
+        {
+            "date": "2020-06-28",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 486
+            }
+        },
+        {
+            "date": "2020-06-27",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 486
+            }
+        },
+        {
+            "date": "2020-06-26",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 486
+            }
+        },
+        {
+            "date": "2020-06-25",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 484
+            }
+        },
+        {
+            "date": "2020-06-24",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 480
+            }
+        },
+        {
+            "date": "2020-06-23",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 479
+            }
+        },
+        {
+            "date": "2020-06-22",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 476
+            }
+        },
+        {
+            "date": "2020-06-21",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 475
+            }
+        },
+        {
+            "date": "2020-06-20",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 473
+            }
+        },
+        {
+            "date": "2020-06-19",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 470
+            }
+        },
+        {
+            "date": "2020-06-18",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 466
+            }
+        },
+        {
+            "date": "2020-06-17",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 464
+            }
+        },
+        {
+            "date": "2020-06-16",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 462
+            }
+        },
+        {
+            "date": "2020-06-15",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 462
+            }
+        },
+        {
+            "date": "2020-06-14",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 458
+            }
+        },
+        {
+            "date": "2020-06-13",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 458
+            }
+        },
+        {
+            "date": "2020-06-12",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 456
+            }
+        },
+        {
+            "date": "2020-06-11",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 453
+            }
+        },
+        {
+            "date": "2020-06-10",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 452
+            }
+        },
+        {
+            "date": "2020-06-09",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 449
+            }
+        },
+        {
+            "date": "2020-06-08",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 447
+            }
+        },
+        {
+            "date": "2020-06-07",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 445
+            }
+        },
+        {
+            "date": "2020-06-06",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 443
+            }
+        },
+        {
+            "date": "2020-06-05",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 439
+            }
+        },
+        {
+            "date": "2020-06-04",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 437
+            }
+        },
+        {
+            "date": "2020-06-03",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 435
+            }
+        },
+        {
+            "date": "2020-06-02",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 431
+            }
+        },
+        {
+            "date": "2020-06-01",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 430
+            }
+        },
+        {
+            "date": "2020-05-31",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 429
+            }
+        },
+        {
+            "date": "2020-05-30",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 427
+            }
+        },
+        {
+            "date": "2020-05-29",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 425
+            }
+        },
+        {
+            "date": "2020-05-28",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 422
+            }
+        },
+        {
+            "date": "2020-05-27",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 420
+            }
+        },
+        {
+            "date": "2020-05-26",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 416
+            }
+        },
+        {
+            "date": "2020-05-25",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 410
+            }
+        },
+        {
+            "date": "2020-05-24",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 403
+            }
+        },
+        {
+            "date": "2020-05-23",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 402
+            }
+        },
+        {
+            "date": "2020-05-22",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 17,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 398
+            }
+        },
+        {
+            "date": "2020-05-21",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 19,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 395
+            }
+        },
+        {
+            "date": "2020-05-20",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 389
+            }
+        },
+        {
+            "date": "2020-05-19",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 386
+            }
+        },
+        {
+            "date": "2020-05-18",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 381
+            }
+        },
+        {
+            "date": "2020-05-17",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 378
+            }
+        },
+        {
+            "date": "2020-05-16",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 376
+            }
+        },
+        {
+            "date": "2020-05-15",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 374
+            }
+        },
+        {
+            "date": "2020-05-14",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 26,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 371
+            }
+        },
+        {
+            "date": "2020-05-13",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 363
+            }
+        },
+        {
+            "date": "2020-05-12",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 361
+            }
+        },
+        {
+            "date": "2020-05-11",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 359
+            }
+        },
+        {
+            "date": "2020-05-10",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 353
+            }
+        },
+        {
+            "date": "2020-05-09",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 349
+            }
+        },
+        {
+            "date": "2020-05-08",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 341
+            }
+        },
+        {
+            "date": "2020-05-07",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 336
+            }
+        },
+        {
+            "date": "2020-05-06",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 330
+            }
+        },
+        {
+            "date": "2020-05-05",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 328
+            }
+        },
+        {
+            "date": "2020-05-04",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 326
+            }
+        },
+        {
+            "date": "2020-05-03",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 322
+            }
+        },
+        {
+            "date": "2020-05-02",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 314
+            }
+        },
+        {
+            "date": "2020-05-01",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 29,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 308
+            }
+        },
+        {
+            "date": "2020-04-30",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 59,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 301
+            }
+        },
+        {
+            "date": "2020-04-29",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 288
+            }
+        },
+        {
+            "date": "2020-04-28",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 281
+            }
+        },
+        {
+            "date": "2020-04-27",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 273
+            }
+        },
+        {
+            "date": "2020-04-26",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 262
+            }
+        },
+        {
+            "date": "2020-04-25",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 40,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 255
+            }
+        },
+        {
+            "date": "2020-04-24",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 249
+            }
+        },
+        {
+            "date": "2020-04-23",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 245
+            }
+        },
+        {
+            "date": "2020-04-22",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 40,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 239
+            }
+        },
+        {
+            "date": "2020-04-21",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 20,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 230
+            }
+        },
+        {
+            "date": "2020-04-20",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 225
+            }
+        },
+        {
+            "date": "2020-04-19",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 49,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 213
+            }
+        },
+        {
+            "date": "2020-04-18",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 204
+            }
+        },
+        {
+            "date": "2020-04-17",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 34,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 198
+            }
+        },
+        {
+            "date": "2020-04-16",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 187
+            }
+        },
+        {
+            "date": "2020-04-15",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 180
+            }
+        },
+        {
+            "date": "2020-04-14",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 170
+            }
+        },
+        {
+            "date": "2020-04-13",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 165
+            }
+        },
+        {
+            "date": "2020-04-12",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 161
+            }
+        },
+        {
+            "date": "2020-04-11",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 150
+            }
+        },
+        {
+            "date": "2020-04-10",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 15,
+                "cumulative": 143
+            }
+        },
+        {
+            "date": "2020-04-09",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 128
+            }
+        },
+        {
+            "date": "2020-04-08",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 119
+            }
+        },
+        {
+            "date": "2020-04-07",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 106
+            }
+        },
+        {
+            "date": "2020-04-06",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 93
+            }
+        },
+        {
+            "date": "2020-04-05",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 79
+            }
+        },
+        {
+            "date": "2020-04-04",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 71
+            }
+        },
+        {
+            "date": "2020-04-03",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 59
+            }
+        },
+        {
+            "date": "2020-04-02",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 53
+            }
+        },
+        {
+            "date": "2020-04-01",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 49
+            }
+        },
+        {
+            "date": "2020-03-31",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 38
+            }
+        },
+        {
+            "date": "2020-03-30",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 31
+            }
+        },
+        {
+            "date": "2020-03-29",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 29
+            }
+        },
+        {
+            "date": "2020-03-28",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 25
+            }
+        },
+        {
+            "date": "2020-03-27",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 22
+            }
+        },
+        {
+            "date": "2020-03-26",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 18
+            }
+        },
+        {
+            "date": "2020-03-25",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 17
+            }
+        },
+        {
+            "date": "2020-03-24",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 14
+            }
+        },
+        {
+            "date": "2020-03-23",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 10
+            }
+        },
+        {
+            "date": "2020-03-22",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 10
+            }
+        },
+        {
+            "date": "2020-03-21",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 7
+            }
+        },
+        {
+            "date": "2020-03-20",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 7
+            }
+        },
+        {
+            "date": "2020-03-19",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 7
+            }
+        },
+        {
+            "date": "2020-03-18",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 6
+            }
+        },
+        {
+            "date": "2020-03-17",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 4
+            }
+        },
+        {
+            "date": "2020-03-16",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 4
+            }
+        },
+        {
+            "date": "2020-03-15",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 3
+            }
+        },
+        {
+            "date": "2020-03-14",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 3
+            }
+        },
+        {
+            "date": "2020-03-13",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 3
+            }
+        },
+        {
+            "date": "2020-03-12",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 2
+            }
+        },
+        {
+            "date": "2020-03-11",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-10",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-09",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-08",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-07",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-06",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-05",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-04",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-03",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-02",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-01",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-29",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-28",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-27",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-26",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-25",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-24",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-23",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-22",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-21",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-20",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-19",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-18",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-17",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-16",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-15",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-14",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-13",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-12",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-11",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-10",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-09",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-08",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-07",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-06",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-05",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-04",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-03",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-02",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-01",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-31",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-30",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-29",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-28",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-27",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-26",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-25",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-24",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-23",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-22",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-21",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-20",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-19",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-18",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-17",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-16",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-15",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-14",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-13",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-12",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-11",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-10",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-09",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-08",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-07",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-06",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-05",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-04",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-03",
+            "name": "Nottinghamshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        }
+    ],
+    "pagination": {
+        "current": "/v1/data?filters=areaType%3Dutla%3BareaName%3DNottinghamshire&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "next": null,
+        "previous": null,
+        "first": "/v1/data?filters=areaType%3Dutla%3BareaName%3DNottinghamshire&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "last": "/v1/data?filters=areaType%3Dutla%3BareaName%3DNottinghamshire&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1"
+    }
+}

@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>疫情可视化-1</title>
+	<link rel="stylesheet" href="../static/bootstrap/css/bootstrap.min.css" />
+	<script src="../static/js/jquery-3.5.1.min.js"></script>
+	<script src="../static/bootstrap/js/bootstrap.min.js"></script>
+
+	<style>
+		html {
+			overflow-y: auto;
+		}
+		
+		body {
+			width: 100%;
+			overflow: hidden;
+		}
+	</style>
+</head>
+<body>
+	<div class="container-fluid" style="position: sticky;">
+		<div class="row" style="height: 60px;">
+			<div class="col-md-2" style="background-color: antiquewhite;">LOGO</div>
+			<div class="col-md-8" style="background-color: rgb(96, 196, 196);">中间部分-搜索icon</div>
+			<div class="col-md-2" style="background-color: bisque;">尾部</div>
+		</div>
+	</div>
+	
+	<div style="background-color: white;">
+		<h1>Title</h1>
+	</div>
+	
+	<div class="container-fluid">
+		<div class="row" style="height: 90%">
+			<div class="col-md-3"  style="background-color:cornflowerblue">
+				<div class="card shadow-sm">
+					<div id="l1">
+
+                    </div>
+					<div class="card-body">
+					    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-md-6">
+				<div class="card shadow-sm">
+					<img src="../static/imgs/map-visualization.png" alt="map visualization" class="card-img-top">
+					<div class="card-body">
+					    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+					</div>
+				</div>
+			</div>
+			
+			<div class="col-md-3">
+				<div class="card shadow-sm">
+					<img src="../static/imgs/table01.png" alt="map visualization" class="card-img-top">
+					<div class="card-body">
+					    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+	<div class="container-fluid">
+		<div class="row">
+            <div class="col-md-6" id="test01" style="height: 600px">
+
+            </div>
+        </div>
+	</div>
+{#    <div id="test01" style="height: 50%">#}
+{##}
+{#    </div>#}
+    <!--引入echarts-->
+    <script src="../static/js/echarts.min.js"></script>
+{#    <script>#}
+{#        var myCharts = echarts.init(document.getElementById('test01'));#}
+{#        var option = {#}
+{#            xAxis: {#}
+{#                type: 'category',#}
+{#                data: ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']#}
+{#            },#}
+{#            yAxis: {#}
+{#                type: 'value'#}
+{#            },#}
+{#            series: [{#}
+{#                data: [120, 200, 150, 80, 70, 110, 130],#}
+{#                type: 'bar',#}
+{#                showBackground: true,#}
+{#                backgroundStyle: {#}
+{#                    color: 'rgba(220, 220, 220, 0.8)'#}
+{#                }#}
+{#            }]#}
+{#        };#}
+{#        myCharts.setOption(option);#}
+{#    </script>#}
+    <script src="../static/js/england_center.js"></script>
+	<div class="container-fluid" style="background-color: rgb(44,63,90);">
+		<img src="../static/imgs/button.png" class="img-fluid ">
+		<div class="row">
+			<div class="col-md-8">
+				
+			</div>
+		</div>
+	</div>
+</body>
+</html>

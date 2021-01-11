@@ -1,0 +1,4501 @@
+{
+    "length": 374,
+    "maxPageLimit": 2500,
+    "data": [
+        {
+            "date": "2021-01-10",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 1315,
+                "cumulative": 52989
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-09",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 1467,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1621
+            }
+        },
+        {
+            "date": "2021-01-08",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 1556,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 1619
+            }
+        },
+        {
+            "date": "2021-01-07",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 1158,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 15,
+                "cumulative": 1611
+            }
+        },
+        {
+            "date": "2021-01-06",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 1365,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 19,
+                "cumulative": 1596
+            }
+        },
+        {
+            "date": "2021-01-05",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 1636,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 23,
+                "cumulative": 1577
+            }
+        },
+        {
+            "date": "2021-01-04",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 1679,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 25,
+                "cumulative": 1554
+            }
+        },
+        {
+            "date": "2021-01-03",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 1365,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 18,
+                "cumulative": 1529
+            }
+        },
+        {
+            "date": "2021-01-02",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 1075,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 18,
+                "cumulative": 1511
+            }
+        },
+        {
+            "date": "2021-01-01",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 1792,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 1493
+            }
+        },
+        {
+            "date": "2020-12-31",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 1204,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 1487
+            }
+        },
+        {
+            "date": "2020-12-30",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 1513,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 17,
+                "cumulative": 1474
+            }
+        },
+        {
+            "date": "2020-12-29",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 1862,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 19,
+                "cumulative": 1457
+            }
+        },
+        {
+            "date": "2020-12-28",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 1124,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 1438
+            }
+        },
+        {
+            "date": "2020-12-27",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 672,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 1427
+            }
+        },
+        {
+            "date": "2020-12-26",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 932,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 1413
+            }
+        },
+        {
+            "date": "2020-12-25",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 1265,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 1399
+            }
+        },
+        {
+            "date": "2020-12-24",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 1264,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 1387
+            }
+        },
+        {
+            "date": "2020-12-23",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 1092,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 19,
+                "cumulative": 1373
+            }
+        },
+        {
+            "date": "2020-12-22",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 1072,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 1354
+            }
+        },
+        {
+            "date": "2020-12-21",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 795,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 1345
+            }
+        },
+        {
+            "date": "2020-12-20",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 961,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 1331
+            }
+        },
+        {
+            "date": "2020-12-19",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 518,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 1319
+            }
+        },
+        {
+            "date": "2020-12-18",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 703,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 1310
+            }
+        },
+        {
+            "date": "2020-12-17",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 650,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 1302
+            }
+        },
+        {
+            "date": "2020-12-16",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 513,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 1291
+            }
+        },
+        {
+            "date": "2020-12-15",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 449,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 1284
+            }
+        },
+        {
+            "date": "2020-12-14",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 509,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 1281
+            }
+        },
+        {
+            "date": "2020-12-13",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 453,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1273
+            }
+        },
+        {
+            "date": "2020-12-12",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 424,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1271
+            }
+        },
+        {
+            "date": "2020-12-11",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 387,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 1270
+            }
+        },
+        {
+            "date": "2020-12-10",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 382,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 1262
+            }
+        },
+        {
+            "date": "2020-12-09",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 270,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1256
+            }
+        },
+        {
+            "date": "2020-12-08",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 261,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 1254
+            }
+        },
+        {
+            "date": "2020-12-07",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 266,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 1248
+            }
+        },
+        {
+            "date": "2020-12-06",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 290,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 1242
+            }
+        },
+        {
+            "date": "2020-12-05",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 249,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1239
+            }
+        },
+        {
+            "date": "2020-12-04",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 237,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 1237
+            }
+        },
+        {
+            "date": "2020-12-03",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 212,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 1234
+            }
+        },
+        {
+            "date": "2020-12-02",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 244,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 1228
+            }
+        },
+        {
+            "date": "2020-12-01",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 215,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 1220
+            }
+        },
+        {
+            "date": "2020-11-30",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 268,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 1210
+            }
+        },
+        {
+            "date": "2020-11-29",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 201,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 1203
+            }
+        },
+        {
+            "date": "2020-11-28",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 176,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 1199
+            }
+        },
+        {
+            "date": "2020-11-27",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 169,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 1194
+            }
+        },
+        {
+            "date": "2020-11-26",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 219,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 1190
+            }
+        },
+        {
+            "date": "2020-11-25",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 226,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 1186
+            }
+        },
+        {
+            "date": "2020-11-24",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 156,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 1176
+            }
+        },
+        {
+            "date": "2020-11-23",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 251,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 1172
+            }
+        },
+        {
+            "date": "2020-11-22",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 299,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 1168
+            }
+        },
+        {
+            "date": "2020-11-21",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 259,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 1161
+            }
+        },
+        {
+            "date": "2020-11-20",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 166,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 1156
+            }
+        },
+        {
+            "date": "2020-11-19",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 259,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 1151
+            }
+        },
+        {
+            "date": "2020-11-18",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 197,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 1147
+            }
+        },
+        {
+            "date": "2020-11-17",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 265,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 1140
+            }
+        },
+        {
+            "date": "2020-11-16",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 1136
+            }
+        },
+        {
+            "date": "2020-11-15",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 329,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1129
+            }
+        },
+        {
+            "date": "2020-11-14",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 232,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 1129
+            }
+        },
+        {
+            "date": "2020-11-13",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 352,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 1121
+            }
+        },
+        {
+            "date": "2020-11-12",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 436,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 1118
+            }
+        },
+        {
+            "date": "2020-11-11",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 298,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 1113
+            }
+        },
+        {
+            "date": "2020-11-10",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 199,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1109
+            }
+        },
+        {
+            "date": "2020-11-09",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 273,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 1107
+            }
+        },
+        {
+            "date": "2020-11-08",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 210,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 1103
+            }
+        },
+        {
+            "date": "2020-11-07",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 240,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1097
+            }
+        },
+        {
+            "date": "2020-11-06",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 190,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1095
+            }
+        },
+        {
+            "date": "2020-11-05",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 221,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1093
+            }
+        },
+        {
+            "date": "2020-11-04",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 262,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1091
+            }
+        },
+        {
+            "date": "2020-11-03",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 166,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 1090
+            }
+        },
+        {
+            "date": "2020-11-02",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 187,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1085
+            }
+        },
+        {
+            "date": "2020-11-01",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 207,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 1084
+            }
+        },
+        {
+            "date": "2020-10-31",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 167,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 1081
+            }
+        },
+        {
+            "date": "2020-10-30",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 265,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1076
+            }
+        },
+        {
+            "date": "2020-10-29",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 205,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1075
+            }
+        },
+        {
+            "date": "2020-10-28",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 274,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1074
+            }
+        },
+        {
+            "date": "2020-10-27",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 174,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1073
+            }
+        },
+        {
+            "date": "2020-10-26",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 211,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1071
+            }
+        },
+        {
+            "date": "2020-10-25",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 167,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 1070
+            }
+        },
+        {
+            "date": "2020-10-24",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 227,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1066
+            }
+        },
+        {
+            "date": "2020-10-23",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 181,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 1066
+            }
+        },
+        {
+            "date": "2020-10-22",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 201,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1061
+            }
+        },
+        {
+            "date": "2020-10-21",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 269,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 1061
+            }
+        },
+        {
+            "date": "2020-10-20",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 144,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 1054
+            }
+        },
+        {
+            "date": "2020-10-19",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 165,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 1050
+            }
+        },
+        {
+            "date": "2020-10-18",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 185,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1046
+            }
+        },
+        {
+            "date": "2020-10-17",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 122,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1045
+            }
+        },
+        {
+            "date": "2020-10-16",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 136,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 1043
+            }
+        },
+        {
+            "date": "2020-10-15",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 178,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 1038
+            }
+        },
+        {
+            "date": "2020-10-14",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 227,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1034
+            }
+        },
+        {
+            "date": "2020-10-13",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 149,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1034
+            }
+        },
+        {
+            "date": "2020-10-12",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 73,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1034
+            }
+        },
+        {
+            "date": "2020-10-11",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 70,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1033
+            }
+        },
+        {
+            "date": "2020-10-10",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 173,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 1033
+            }
+        },
+        {
+            "date": "2020-10-09",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 175,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1028
+            }
+        },
+        {
+            "date": "2020-10-08",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 198,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 1027
+            }
+        },
+        {
+            "date": "2020-10-07",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 154,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 1024
+            }
+        },
+        {
+            "date": "2020-10-06",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 133,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 1021
+            }
+        },
+        {
+            "date": "2020-10-05",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 107,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1016
+            }
+        },
+        {
+            "date": "2020-10-04",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 207,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1015
+            }
+        },
+        {
+            "date": "2020-10-03",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 84,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1015
+            }
+        },
+        {
+            "date": "2020-10-02",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 56,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1015
+            }
+        },
+        {
+            "date": "2020-10-01",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 75,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1015
+            }
+        },
+        {
+            "date": "2020-09-30",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 41,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1014
+            }
+        },
+        {
+            "date": "2020-09-29",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 51,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1012
+            }
+        },
+        {
+            "date": "2020-09-28",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 35,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 1010
+            }
+        },
+        {
+            "date": "2020-09-27",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 40,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1005
+            }
+        },
+        {
+            "date": "2020-09-26",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 45,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1005
+            }
+        },
+        {
+            "date": "2020-09-25",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 44,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 1005
+            }
+        },
+        {
+            "date": "2020-09-24",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 65,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1002
+            }
+        },
+        {
+            "date": "2020-09-23",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 53,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1001
+            }
+        },
+        {
+            "date": "2020-09-22",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 38,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1001
+            }
+        },
+        {
+            "date": "2020-09-21",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 49,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1000
+            }
+        },
+        {
+            "date": "2020-09-20",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 38,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 998
+            }
+        },
+        {
+            "date": "2020-09-19",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 37,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 998
+            }
+        },
+        {
+            "date": "2020-09-18",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 36,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 998
+            }
+        },
+        {
+            "date": "2020-09-17",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 50,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 995
+            }
+        },
+        {
+            "date": "2020-09-16",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 34,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 995
+            }
+        },
+        {
+            "date": "2020-09-15",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 25,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 995
+            }
+        },
+        {
+            "date": "2020-09-14",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 31,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 994
+            }
+        },
+        {
+            "date": "2020-09-13",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 42,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 991
+            }
+        },
+        {
+            "date": "2020-09-12",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 44,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 991
+            }
+        },
+        {
+            "date": "2020-09-11",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 44,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 990
+            }
+        },
+        {
+            "date": "2020-09-10",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 43,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 990
+            }
+        },
+        {
+            "date": "2020-09-09",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 34,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 989
+            }
+        },
+        {
+            "date": "2020-09-08",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 32,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 989
+            }
+        },
+        {
+            "date": "2020-09-07",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 29,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 987
+            }
+        },
+        {
+            "date": "2020-09-06",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 38,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 986
+            }
+        },
+        {
+            "date": "2020-09-05",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 39,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 984
+            }
+        },
+        {
+            "date": "2020-09-04",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 40,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 983
+            }
+        },
+        {
+            "date": "2020-09-03",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 22,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 983
+            }
+        },
+        {
+            "date": "2020-09-02",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 19,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 980
+            }
+        },
+        {
+            "date": "2020-09-01",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 30,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 978
+            }
+        },
+        {
+            "date": "2020-08-31",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 24,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 977
+            }
+        },
+        {
+            "date": "2020-08-30",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 25,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 977
+            }
+        },
+        {
+            "date": "2020-08-29",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 23,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 975
+            }
+        },
+        {
+            "date": "2020-08-28",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 47,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 974
+            }
+        },
+        {
+            "date": "2020-08-27",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 27,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 973
+            }
+        },
+        {
+            "date": "2020-08-26",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 972
+            }
+        },
+        {
+            "date": "2020-08-25",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 24,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 972
+            }
+        },
+        {
+            "date": "2020-08-24",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 971
+            }
+        },
+        {
+            "date": "2020-08-23",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 971
+            }
+        },
+        {
+            "date": "2020-08-22",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 22,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 971
+            }
+        },
+        {
+            "date": "2020-08-21",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 971
+            }
+        },
+        {
+            "date": "2020-08-20",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 970
+            }
+        },
+        {
+            "date": "2020-08-19",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 970
+            }
+        },
+        {
+            "date": "2020-08-18",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 967
+            }
+        },
+        {
+            "date": "2020-08-17",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 965
+            }
+        },
+        {
+            "date": "2020-08-16",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 22,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 964
+            }
+        },
+        {
+            "date": "2020-08-15",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 964
+            }
+        },
+        {
+            "date": "2020-08-14",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 23,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 960
+            }
+        },
+        {
+            "date": "2020-08-13",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 958
+            }
+        },
+        {
+            "date": "2020-08-12",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 958
+            }
+        },
+        {
+            "date": "2020-08-11",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 956
+            }
+        },
+        {
+            "date": "2020-08-10",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 952
+            }
+        },
+        {
+            "date": "2020-08-09",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 952
+            }
+        },
+        {
+            "date": "2020-08-08",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 951
+            }
+        },
+        {
+            "date": "2020-08-07",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 950
+            }
+        },
+        {
+            "date": "2020-08-06",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 950
+            }
+        },
+        {
+            "date": "2020-08-05",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 949
+            }
+        },
+        {
+            "date": "2020-08-04",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 949
+            }
+        },
+        {
+            "date": "2020-08-03",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 946
+            }
+        },
+        {
+            "date": "2020-08-02",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 946
+            }
+        },
+        {
+            "date": "2020-08-01",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 946
+            }
+        },
+        {
+            "date": "2020-07-31",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 944
+            }
+        },
+        {
+            "date": "2020-07-30",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 942
+            }
+        },
+        {
+            "date": "2020-07-29",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 942
+            }
+        },
+        {
+            "date": "2020-07-28",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 940
+            }
+        },
+        {
+            "date": "2020-07-27",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 940
+            }
+        },
+        {
+            "date": "2020-07-26",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 939
+            }
+        },
+        {
+            "date": "2020-07-25",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 937
+            }
+        },
+        {
+            "date": "2020-07-24",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 936
+            }
+        },
+        {
+            "date": "2020-07-23",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 936
+            }
+        },
+        {
+            "date": "2020-07-22",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 936
+            }
+        },
+        {
+            "date": "2020-07-21",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 936
+            }
+        },
+        {
+            "date": "2020-07-20",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 936
+            }
+        },
+        {
+            "date": "2020-07-19",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 931
+            }
+        },
+        {
+            "date": "2020-07-18",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 17,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 929
+            }
+        },
+        {
+            "date": "2020-07-17",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 929
+            }
+        },
+        {
+            "date": "2020-07-16",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 927
+            }
+        },
+        {
+            "date": "2020-07-15",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 926
+            }
+        },
+        {
+            "date": "2020-07-14",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 925
+            }
+        },
+        {
+            "date": "2020-07-13",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 922
+            }
+        },
+        {
+            "date": "2020-07-12",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 917
+            }
+        },
+        {
+            "date": "2020-07-11",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 916
+            }
+        },
+        {
+            "date": "2020-07-10",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 912
+            }
+        },
+        {
+            "date": "2020-07-09",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 911
+            }
+        },
+        {
+            "date": "2020-07-08",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 21,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 903
+            }
+        },
+        {
+            "date": "2020-07-07",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 901
+            }
+        },
+        {
+            "date": "2020-07-06",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 900
+            }
+        },
+        {
+            "date": "2020-07-05",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 897
+            }
+        },
+        {
+            "date": "2020-07-04",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 897
+            }
+        },
+        {
+            "date": "2020-07-03",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 895
+            }
+        },
+        {
+            "date": "2020-07-02",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 895
+            }
+        },
+        {
+            "date": "2020-07-01",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 1055,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 894
+            }
+        },
+        {
+            "date": "2020-06-30",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 892
+            }
+        },
+        {
+            "date": "2020-06-29",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 890
+            }
+        },
+        {
+            "date": "2020-06-28",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 887
+            }
+        },
+        {
+            "date": "2020-06-27",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 885
+            }
+        },
+        {
+            "date": "2020-06-26",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 884
+            }
+        },
+        {
+            "date": "2020-06-25",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 881
+            }
+        },
+        {
+            "date": "2020-06-24",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 878
+            }
+        },
+        {
+            "date": "2020-06-23",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 875
+            }
+        },
+        {
+            "date": "2020-06-22",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 874
+            }
+        },
+        {
+            "date": "2020-06-21",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 874
+            }
+        },
+        {
+            "date": "2020-06-20",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 874
+            }
+        },
+        {
+            "date": "2020-06-19",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 873
+            }
+        },
+        {
+            "date": "2020-06-18",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 870
+            }
+        },
+        {
+            "date": "2020-06-17",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 869
+            }
+        },
+        {
+            "date": "2020-06-16",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 865
+            }
+        },
+        {
+            "date": "2020-06-15",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 865
+            }
+        },
+        {
+            "date": "2020-06-14",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 863
+            }
+        },
+        {
+            "date": "2020-06-13",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 861
+            }
+        },
+        {
+            "date": "2020-06-12",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 859
+            }
+        },
+        {
+            "date": "2020-06-11",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 855
+            }
+        },
+        {
+            "date": "2020-06-10",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 853
+            }
+        },
+        {
+            "date": "2020-06-09",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 851
+            }
+        },
+        {
+            "date": "2020-06-08",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 850
+            }
+        },
+        {
+            "date": "2020-06-07",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 846
+            }
+        },
+        {
+            "date": "2020-06-06",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 844
+            }
+        },
+        {
+            "date": "2020-06-05",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 841
+            }
+        },
+        {
+            "date": "2020-06-04",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 838
+            }
+        },
+        {
+            "date": "2020-06-03",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 837
+            }
+        },
+        {
+            "date": "2020-06-02",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 835
+            }
+        },
+        {
+            "date": "2020-06-01",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 834
+            }
+        },
+        {
+            "date": "2020-05-31",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 832
+            }
+        },
+        {
+            "date": "2020-05-30",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 830
+            }
+        },
+        {
+            "date": "2020-05-29",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 828
+            }
+        },
+        {
+            "date": "2020-05-28",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 821
+            }
+        },
+        {
+            "date": "2020-05-27",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 817
+            }
+        },
+        {
+            "date": "2020-05-26",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 813
+            }
+        },
+        {
+            "date": "2020-05-25",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 812
+            }
+        },
+        {
+            "date": "2020-05-24",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 805
+            }
+        },
+        {
+            "date": "2020-05-23",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 802
+            }
+        },
+        {
+            "date": "2020-05-22",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 26,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 799
+            }
+        },
+        {
+            "date": "2020-05-21",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 795
+            }
+        },
+        {
+            "date": "2020-05-20",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 787
+            }
+        },
+        {
+            "date": "2020-05-19",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 780
+            }
+        },
+        {
+            "date": "2020-05-18",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 33,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 773
+            }
+        },
+        {
+            "date": "2020-05-17",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 17,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 771
+            }
+        },
+        {
+            "date": "2020-05-16",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 766
+            }
+        },
+        {
+            "date": "2020-05-15",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 758
+            }
+        },
+        {
+            "date": "2020-05-14",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 20,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 747
+            }
+        },
+        {
+            "date": "2020-05-13",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 19,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 740
+            }
+        },
+        {
+            "date": "2020-05-12",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 38,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 734
+            }
+        },
+        {
+            "date": "2020-05-11",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 725
+            }
+        },
+        {
+            "date": "2020-05-10",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 20,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 721
+            }
+        },
+        {
+            "date": "2020-05-09",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 81,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 715
+            }
+        },
+        {
+            "date": "2020-05-08",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 21,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 708
+            }
+        },
+        {
+            "date": "2020-05-07",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 33,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 702
+            }
+        },
+        {
+            "date": "2020-05-06",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 23,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 695
+            }
+        },
+        {
+            "date": "2020-05-05",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 32,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 17,
+                "cumulative": 685
+            }
+        },
+        {
+            "date": "2020-05-04",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 38,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 668
+            }
+        },
+        {
+            "date": "2020-05-03",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 22,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 662
+            }
+        },
+        {
+            "date": "2020-05-02",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 48,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 648
+            }
+        },
+        {
+            "date": "2020-05-01",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 28,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 18,
+                "cumulative": 639
+            }
+        },
+        {
+            "date": "2020-04-30",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 41,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 18,
+                "cumulative": 621
+            }
+        },
+        {
+            "date": "2020-04-29",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 19,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 603
+            }
+        },
+        {
+            "date": "2020-04-28",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 42,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 596
+            }
+        },
+        {
+            "date": "2020-04-27",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 40,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 15,
+                "cumulative": 590
+            }
+        },
+        {
+            "date": "2020-04-26",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 575
+            }
+        },
+        {
+            "date": "2020-04-25",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 58,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 565
+            }
+        },
+        {
+            "date": "2020-04-24",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 38,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 19,
+                "cumulative": 556
+            }
+        },
+        {
+            "date": "2020-04-23",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 42,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 17,
+                "cumulative": 537
+            }
+        },
+        {
+            "date": "2020-04-22",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 50,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 15,
+                "cumulative": 520
+            }
+        },
+        {
+            "date": "2020-04-21",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 40,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 18,
+                "cumulative": 505
+            }
+        },
+        {
+            "date": "2020-04-20",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 56,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 18,
+                "cumulative": 487
+            }
+        },
+        {
+            "date": "2020-04-19",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 56,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 22,
+                "cumulative": 469
+            }
+        },
+        {
+            "date": "2020-04-18",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 57,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 15,
+                "cumulative": 447
+            }
+        },
+        {
+            "date": "2020-04-17",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 86,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 19,
+                "cumulative": 432
+            }
+        },
+        {
+            "date": "2020-04-16",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 23,
+                "cumulative": 413
+            }
+        },
+        {
+            "date": "2020-04-15",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 15,
+                "cumulative": 390
+            }
+        },
+        {
+            "date": "2020-04-14",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 375
+            }
+        },
+        {
+            "date": "2020-04-13",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 22,
+                "cumulative": 361
+            }
+        },
+        {
+            "date": "2020-04-12",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 15,
+                "cumulative": 339
+            }
+        },
+        {
+            "date": "2020-04-11",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 27,
+                "cumulative": 324
+            }
+        },
+        {
+            "date": "2020-04-10",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 297
+            }
+        },
+        {
+            "date": "2020-04-09",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 17,
+                "cumulative": 286
+            }
+        },
+        {
+            "date": "2020-04-08",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 24,
+                "cumulative": 269
+            }
+        },
+        {
+            "date": "2020-04-07",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 27,
+                "cumulative": 245
+            }
+        },
+        {
+            "date": "2020-04-06",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 19,
+                "cumulative": 218
+            }
+        },
+        {
+            "date": "2020-04-05",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 18,
+                "cumulative": 199
+            }
+        },
+        {
+            "date": "2020-04-04",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 24,
+                "cumulative": 181
+            }
+        },
+        {
+            "date": "2020-04-03",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 26,
+                "cumulative": 157
+            }
+        },
+        {
+            "date": "2020-04-02",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 17,
+                "cumulative": 131
+            }
+        },
+        {
+            "date": "2020-04-01",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 17,
+                "cumulative": 114
+            }
+        },
+        {
+            "date": "2020-03-31",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 23,
+                "cumulative": 97
+            }
+        },
+        {
+            "date": "2020-03-30",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 74
+            }
+        },
+        {
+            "date": "2020-03-29",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 64
+            }
+        },
+        {
+            "date": "2020-03-28",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 50
+            }
+        },
+        {
+            "date": "2020-03-27",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 42
+            }
+        },
+        {
+            "date": "2020-03-26",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 34
+            }
+        },
+        {
+            "date": "2020-03-25",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 30
+            }
+        },
+        {
+            "date": "2020-03-24",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 23
+            }
+        },
+        {
+            "date": "2020-03-23",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 15
+            }
+        },
+        {
+            "date": "2020-03-22",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 9
+            }
+        },
+        {
+            "date": "2020-03-21",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 6
+            }
+        },
+        {
+            "date": "2020-03-20",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 3
+            }
+        },
+        {
+            "date": "2020-03-19",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 3
+            }
+        },
+        {
+            "date": "2020-03-18",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-17",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-16",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-15",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-14",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-13",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-12",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-11",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-10",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-09",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-08",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-07",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-06",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-05",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-04",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-03",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-02",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-01",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-29",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-28",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-27",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-26",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-25",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-24",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-23",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-22",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-21",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-20",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-19",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-18",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-17",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-16",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-15",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-14",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-13",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-12",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-11",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-10",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-09",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-08",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-07",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-06",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-05",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-04",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-03",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-02",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-01",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-31",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-30",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-29",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-28",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-27",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-26",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-25",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-24",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-23",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-22",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-21",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-20",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-19",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-18",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-17",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-16",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-15",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-14",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-13",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-12",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-11",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-10",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-09",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-08",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-07",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-06",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-05",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-04",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-03",
+            "name": "Hertfordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        }
+    ],
+    "pagination": {
+        "current": "/v1/data?filters=areaType%3Dutla%3BareaName%3DHertfordshire&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "next": null,
+        "previous": null,
+        "first": "/v1/data?filters=areaType%3Dutla%3BareaName%3DHertfordshire&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "last": "/v1/data?filters=areaType%3Dutla%3BareaName%3DHertfordshire&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1"
+    }
+}

@@ -1,0 +1,4501 @@
+{
+    "length": 374,
+    "maxPageLimit": 2500,
+    "data": [
+        {
+            "date": "2021-01-10",
+            "name": "Croydon",
+            "cases": {
+                "daily": 652,
+                "cumulative": 21194
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-09",
+            "name": "Croydon",
+            "cases": {
+                "daily": 641,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 627
+            }
+        },
+        {
+            "date": "2021-01-08",
+            "name": "Croydon",
+            "cases": {
+                "daily": 837,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 623
+            }
+        },
+        {
+            "date": "2021-01-07",
+            "name": "Croydon",
+            "cases": {
+                "daily": 567,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 620
+            }
+        },
+        {
+            "date": "2021-01-06",
+            "name": "Croydon",
+            "cases": {
+                "daily": 693,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 610
+            }
+        },
+        {
+            "date": "2021-01-05",
+            "name": "Croydon",
+            "cases": {
+                "daily": 605,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 604
+            }
+        },
+        {
+            "date": "2021-01-04",
+            "name": "Croydon",
+            "cases": {
+                "daily": 575,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 593
+            }
+        },
+        {
+            "date": "2021-01-03",
+            "name": "Croydon",
+            "cases": {
+                "daily": 605,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 584
+            }
+        },
+        {
+            "date": "2021-01-02",
+            "name": "Croydon",
+            "cases": {
+                "daily": 628,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 577
+            }
+        },
+        {
+            "date": "2021-01-01",
+            "name": "Croydon",
+            "cases": {
+                "daily": 687,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 572
+            }
+        },
+        {
+            "date": "2020-12-31",
+            "name": "Croydon",
+            "cases": {
+                "daily": 483,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 567
+            }
+        },
+        {
+            "date": "2020-12-30",
+            "name": "Croydon",
+            "cases": {
+                "daily": 574,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 562
+            }
+        },
+        {
+            "date": "2020-12-29",
+            "name": "Croydon",
+            "cases": {
+                "daily": 545,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 553
+            }
+        },
+        {
+            "date": "2020-12-28",
+            "name": "Croydon",
+            "cases": {
+                "daily": 530,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 547
+            }
+        },
+        {
+            "date": "2020-12-27",
+            "name": "Croydon",
+            "cases": {
+                "daily": 473,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 541
+            }
+        },
+        {
+            "date": "2020-12-26",
+            "name": "Croydon",
+            "cases": {
+                "daily": 521,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 538
+            }
+        },
+        {
+            "date": "2020-12-25",
+            "name": "Croydon",
+            "cases": {
+                "daily": 489,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 535
+            }
+        },
+        {
+            "date": "2020-12-24",
+            "name": "Croydon",
+            "cases": {
+                "daily": 362,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 526
+            }
+        },
+        {
+            "date": "2020-12-23",
+            "name": "Croydon",
+            "cases": {
+                "daily": 371,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 522
+            }
+        },
+        {
+            "date": "2020-12-22",
+            "name": "Croydon",
+            "cases": {
+                "daily": 376,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 518
+            }
+        },
+        {
+            "date": "2020-12-21",
+            "name": "Croydon",
+            "cases": {
+                "daily": 335,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 515
+            }
+        },
+        {
+            "date": "2020-12-20",
+            "name": "Croydon",
+            "cases": {
+                "daily": 438,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 509
+            }
+        },
+        {
+            "date": "2020-12-19",
+            "name": "Croydon",
+            "cases": {
+                "daily": 338,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 508
+            }
+        },
+        {
+            "date": "2020-12-18",
+            "name": "Croydon",
+            "cases": {
+                "daily": 281,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 504
+            }
+        },
+        {
+            "date": "2020-12-17",
+            "name": "Croydon",
+            "cases": {
+                "daily": 295,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 503
+            }
+        },
+        {
+            "date": "2020-12-16",
+            "name": "Croydon",
+            "cases": {
+                "daily": 286,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 500
+            }
+        },
+        {
+            "date": "2020-12-15",
+            "name": "Croydon",
+            "cases": {
+                "daily": 180,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 498
+            }
+        },
+        {
+            "date": "2020-12-14",
+            "name": "Croydon",
+            "cases": {
+                "daily": 214,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 495
+            }
+        },
+        {
+            "date": "2020-12-13",
+            "name": "Croydon",
+            "cases": {
+                "daily": 170,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 495
+            }
+        },
+        {
+            "date": "2020-12-12",
+            "name": "Croydon",
+            "cases": {
+                "daily": 158,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 495
+            }
+        },
+        {
+            "date": "2020-12-11",
+            "name": "Croydon",
+            "cases": {
+                "daily": 188,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 494
+            }
+        },
+        {
+            "date": "2020-12-10",
+            "name": "Croydon",
+            "cases": {
+                "daily": 173,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 494
+            }
+        },
+        {
+            "date": "2020-12-09",
+            "name": "Croydon",
+            "cases": {
+                "daily": 122,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 494
+            }
+        },
+        {
+            "date": "2020-12-08",
+            "name": "Croydon",
+            "cases": {
+                "daily": 62,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 490
+            }
+        },
+        {
+            "date": "2020-12-07",
+            "name": "Croydon",
+            "cases": {
+                "daily": 94,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 489
+            }
+        },
+        {
+            "date": "2020-12-06",
+            "name": "Croydon",
+            "cases": {
+                "daily": 114,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 488
+            }
+        },
+        {
+            "date": "2020-12-05",
+            "name": "Croydon",
+            "cases": {
+                "daily": 97,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 487
+            }
+        },
+        {
+            "date": "2020-12-04",
+            "name": "Croydon",
+            "cases": {
+                "daily": 108,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 484
+            }
+        },
+        {
+            "date": "2020-12-03",
+            "name": "Croydon",
+            "cases": {
+                "daily": 71,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 478
+            }
+        },
+        {
+            "date": "2020-12-02",
+            "name": "Croydon",
+            "cases": {
+                "daily": 118,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 474
+            }
+        },
+        {
+            "date": "2020-12-01",
+            "name": "Croydon",
+            "cases": {
+                "daily": 79,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 473
+            }
+        },
+        {
+            "date": "2020-11-30",
+            "name": "Croydon",
+            "cases": {
+                "daily": 43,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 471
+            }
+        },
+        {
+            "date": "2020-11-29",
+            "name": "Croydon",
+            "cases": {
+                "daily": 69,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 468
+            }
+        },
+        {
+            "date": "2020-11-28",
+            "name": "Croydon",
+            "cases": {
+                "daily": 68,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 466
+            }
+        },
+        {
+            "date": "2020-11-27",
+            "name": "Croydon",
+            "cases": {
+                "daily": 74,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 465
+            }
+        },
+        {
+            "date": "2020-11-26",
+            "name": "Croydon",
+            "cases": {
+                "daily": 64,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 464
+            }
+        },
+        {
+            "date": "2020-11-25",
+            "name": "Croydon",
+            "cases": {
+                "daily": 101,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 462
+            }
+        },
+        {
+            "date": "2020-11-24",
+            "name": "Croydon",
+            "cases": {
+                "daily": 41,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 462
+            }
+        },
+        {
+            "date": "2020-11-23",
+            "name": "Croydon",
+            "cases": {
+                "daily": 82,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 460
+            }
+        },
+        {
+            "date": "2020-11-22",
+            "name": "Croydon",
+            "cases": {
+                "daily": 119,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 459
+            }
+        },
+        {
+            "date": "2020-11-21",
+            "name": "Croydon",
+            "cases": {
+                "daily": 120,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 455
+            }
+        },
+        {
+            "date": "2020-11-20",
+            "name": "Croydon",
+            "cases": {
+                "daily": 70,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 454
+            }
+        },
+        {
+            "date": "2020-11-19",
+            "name": "Croydon",
+            "cases": {
+                "daily": 76,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 452
+            }
+        },
+        {
+            "date": "2020-11-18",
+            "name": "Croydon",
+            "cases": {
+                "daily": 65,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 449
+            }
+        },
+        {
+            "date": "2020-11-17",
+            "name": "Croydon",
+            "cases": {
+                "daily": 109,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 446
+            }
+        },
+        {
+            "date": "2020-11-16",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 446
+            }
+        },
+        {
+            "date": "2020-11-15",
+            "name": "Croydon",
+            "cases": {
+                "daily": 89,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 444
+            }
+        },
+        {
+            "date": "2020-11-14",
+            "name": "Croydon",
+            "cases": {
+                "daily": 68,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 442
+            }
+        },
+        {
+            "date": "2020-11-13",
+            "name": "Croydon",
+            "cases": {
+                "daily": 150,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 440
+            }
+        },
+        {
+            "date": "2020-11-12",
+            "name": "Croydon",
+            "cases": {
+                "daily": 133,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 440
+            }
+        },
+        {
+            "date": "2020-11-11",
+            "name": "Croydon",
+            "cases": {
+                "daily": 50,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 439
+            }
+        },
+        {
+            "date": "2020-11-10",
+            "name": "Croydon",
+            "cases": {
+                "daily": 50,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 438
+            }
+        },
+        {
+            "date": "2020-11-09",
+            "name": "Croydon",
+            "cases": {
+                "daily": 70,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 436
+            }
+        },
+        {
+            "date": "2020-11-08",
+            "name": "Croydon",
+            "cases": {
+                "daily": 55,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 435
+            }
+        },
+        {
+            "date": "2020-11-07",
+            "name": "Croydon",
+            "cases": {
+                "daily": 72,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 435
+            }
+        },
+        {
+            "date": "2020-11-06",
+            "name": "Croydon",
+            "cases": {
+                "daily": 57,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 434
+            }
+        },
+        {
+            "date": "2020-11-05",
+            "name": "Croydon",
+            "cases": {
+                "daily": 100,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 434
+            }
+        },
+        {
+            "date": "2020-11-04",
+            "name": "Croydon",
+            "cases": {
+                "daily": 60,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 433
+            }
+        },
+        {
+            "date": "2020-11-03",
+            "name": "Croydon",
+            "cases": {
+                "daily": 56,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 431
+            }
+        },
+        {
+            "date": "2020-11-02",
+            "name": "Croydon",
+            "cases": {
+                "daily": 65,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 431
+            }
+        },
+        {
+            "date": "2020-11-01",
+            "name": "Croydon",
+            "cases": {
+                "daily": 66,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 431
+            }
+        },
+        {
+            "date": "2020-10-31",
+            "name": "Croydon",
+            "cases": {
+                "daily": 62,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 431
+            }
+        },
+        {
+            "date": "2020-10-30",
+            "name": "Croydon",
+            "cases": {
+                "daily": 99,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 431
+            }
+        },
+        {
+            "date": "2020-10-29",
+            "name": "Croydon",
+            "cases": {
+                "daily": 42,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 431
+            }
+        },
+        {
+            "date": "2020-10-28",
+            "name": "Croydon",
+            "cases": {
+                "daily": 86,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 431
+            }
+        },
+        {
+            "date": "2020-10-27",
+            "name": "Croydon",
+            "cases": {
+                "daily": 59,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 430
+            }
+        },
+        {
+            "date": "2020-10-26",
+            "name": "Croydon",
+            "cases": {
+                "daily": 69,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 430
+            }
+        },
+        {
+            "date": "2020-10-25",
+            "name": "Croydon",
+            "cases": {
+                "daily": 72,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 429
+            }
+        },
+        {
+            "date": "2020-10-24",
+            "name": "Croydon",
+            "cases": {
+                "daily": 61,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 427
+            }
+        },
+        {
+            "date": "2020-10-23",
+            "name": "Croydon",
+            "cases": {
+                "daily": 74,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 427
+            }
+        },
+        {
+            "date": "2020-10-22",
+            "name": "Croydon",
+            "cases": {
+                "daily": 47,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 427
+            }
+        },
+        {
+            "date": "2020-10-21",
+            "name": "Croydon",
+            "cases": {
+                "daily": 87,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 427
+            }
+        },
+        {
+            "date": "2020-10-20",
+            "name": "Croydon",
+            "cases": {
+                "daily": 50,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 425
+            }
+        },
+        {
+            "date": "2020-10-19",
+            "name": "Croydon",
+            "cases": {
+                "daily": 48,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 423
+            }
+        },
+        {
+            "date": "2020-10-18",
+            "name": "Croydon",
+            "cases": {
+                "daily": 41,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 423
+            }
+        },
+        {
+            "date": "2020-10-17",
+            "name": "Croydon",
+            "cases": {
+                "daily": 39,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 423
+            }
+        },
+        {
+            "date": "2020-10-16",
+            "name": "Croydon",
+            "cases": {
+                "daily": 29,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 423
+            }
+        },
+        {
+            "date": "2020-10-15",
+            "name": "Croydon",
+            "cases": {
+                "daily": 61,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 423
+            }
+        },
+        {
+            "date": "2020-10-14",
+            "name": "Croydon",
+            "cases": {
+                "daily": 63,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 420
+            }
+        },
+        {
+            "date": "2020-10-13",
+            "name": "Croydon",
+            "cases": {
+                "daily": 48,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 420
+            }
+        },
+        {
+            "date": "2020-10-12",
+            "name": "Croydon",
+            "cases": {
+                "daily": 21,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 420
+            }
+        },
+        {
+            "date": "2020-10-11",
+            "name": "Croydon",
+            "cases": {
+                "daily": 30,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 420
+            }
+        },
+        {
+            "date": "2020-10-10",
+            "name": "Croydon",
+            "cases": {
+                "daily": 25,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 420
+            }
+        },
+        {
+            "date": "2020-10-09",
+            "name": "Croydon",
+            "cases": {
+                "daily": 35,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 420
+            }
+        },
+        {
+            "date": "2020-10-08",
+            "name": "Croydon",
+            "cases": {
+                "daily": 60,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 420
+            }
+        },
+        {
+            "date": "2020-10-07",
+            "name": "Croydon",
+            "cases": {
+                "daily": 34,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 420
+            }
+        },
+        {
+            "date": "2020-10-06",
+            "name": "Croydon",
+            "cases": {
+                "daily": 33,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 420
+            }
+        },
+        {
+            "date": "2020-10-05",
+            "name": "Croydon",
+            "cases": {
+                "daily": 54,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 420
+            }
+        },
+        {
+            "date": "2020-10-04",
+            "name": "Croydon",
+            "cases": {
+                "daily": 80,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 418
+            }
+        },
+        {
+            "date": "2020-10-03",
+            "name": "Croydon",
+            "cases": {
+                "daily": 28,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 418
+            }
+        },
+        {
+            "date": "2020-10-02",
+            "name": "Croydon",
+            "cases": {
+                "daily": 32,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 418
+            }
+        },
+        {
+            "date": "2020-10-01",
+            "name": "Croydon",
+            "cases": {
+                "daily": 17,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 417
+            }
+        },
+        {
+            "date": "2020-09-30",
+            "name": "Croydon",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 417
+            }
+        },
+        {
+            "date": "2020-09-29",
+            "name": "Croydon",
+            "cases": {
+                "daily": 25,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 416
+            }
+        },
+        {
+            "date": "2020-09-28",
+            "name": "Croydon",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 415
+            }
+        },
+        {
+            "date": "2020-09-27",
+            "name": "Croydon",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 415
+            }
+        },
+        {
+            "date": "2020-09-26",
+            "name": "Croydon",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 415
+            }
+        },
+        {
+            "date": "2020-09-25",
+            "name": "Croydon",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 415
+            }
+        },
+        {
+            "date": "2020-09-24",
+            "name": "Croydon",
+            "cases": {
+                "daily": 24,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 415
+            }
+        },
+        {
+            "date": "2020-09-23",
+            "name": "Croydon",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 415
+            }
+        },
+        {
+            "date": "2020-09-22",
+            "name": "Croydon",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 415
+            }
+        },
+        {
+            "date": "2020-09-21",
+            "name": "Croydon",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 415
+            }
+        },
+        {
+            "date": "2020-09-20",
+            "name": "Croydon",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 415
+            }
+        },
+        {
+            "date": "2020-09-19",
+            "name": "Croydon",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 415
+            }
+        },
+        {
+            "date": "2020-09-18",
+            "name": "Croydon",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 414
+            }
+        },
+        {
+            "date": "2020-09-17",
+            "name": "Croydon",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 413
+            }
+        },
+        {
+            "date": "2020-09-16",
+            "name": "Croydon",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 412
+            }
+        },
+        {
+            "date": "2020-09-15",
+            "name": "Croydon",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 412
+            }
+        },
+        {
+            "date": "2020-09-14",
+            "name": "Croydon",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 412
+            }
+        },
+        {
+            "date": "2020-09-13",
+            "name": "Croydon",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 412
+            }
+        },
+        {
+            "date": "2020-09-12",
+            "name": "Croydon",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 412
+            }
+        },
+        {
+            "date": "2020-09-11",
+            "name": "Croydon",
+            "cases": {
+                "daily": 17,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 411
+            }
+        },
+        {
+            "date": "2020-09-10",
+            "name": "Croydon",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 411
+            }
+        },
+        {
+            "date": "2020-09-09",
+            "name": "Croydon",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 411
+            }
+        },
+        {
+            "date": "2020-09-08",
+            "name": "Croydon",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 411
+            }
+        },
+        {
+            "date": "2020-09-07",
+            "name": "Croydon",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 411
+            }
+        },
+        {
+            "date": "2020-09-06",
+            "name": "Croydon",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 410
+            }
+        },
+        {
+            "date": "2020-09-05",
+            "name": "Croydon",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 409
+            }
+        },
+        {
+            "date": "2020-09-04",
+            "name": "Croydon",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 409
+            }
+        },
+        {
+            "date": "2020-09-03",
+            "name": "Croydon",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 409
+            }
+        },
+        {
+            "date": "2020-09-02",
+            "name": "Croydon",
+            "cases": {
+                "daily": 17,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 409
+            }
+        },
+        {
+            "date": "2020-09-01",
+            "name": "Croydon",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 409
+            }
+        },
+        {
+            "date": "2020-08-31",
+            "name": "Croydon",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 409
+            }
+        },
+        {
+            "date": "2020-08-30",
+            "name": "Croydon",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 408
+            }
+        },
+        {
+            "date": "2020-08-29",
+            "name": "Croydon",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 408
+            }
+        },
+        {
+            "date": "2020-08-28",
+            "name": "Croydon",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 408
+            }
+        },
+        {
+            "date": "2020-08-27",
+            "name": "Croydon",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 408
+            }
+        },
+        {
+            "date": "2020-08-26",
+            "name": "Croydon",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 408
+            }
+        },
+        {
+            "date": "2020-08-25",
+            "name": "Croydon",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 408
+            }
+        },
+        {
+            "date": "2020-08-24",
+            "name": "Croydon",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 407
+            }
+        },
+        {
+            "date": "2020-08-23",
+            "name": "Croydon",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 407
+            }
+        },
+        {
+            "date": "2020-08-22",
+            "name": "Croydon",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 407
+            }
+        },
+        {
+            "date": "2020-08-21",
+            "name": "Croydon",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 407
+            }
+        },
+        {
+            "date": "2020-08-20",
+            "name": "Croydon",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 407
+            }
+        },
+        {
+            "date": "2020-08-19",
+            "name": "Croydon",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 407
+            }
+        },
+        {
+            "date": "2020-08-18",
+            "name": "Croydon",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 407
+            }
+        },
+        {
+            "date": "2020-08-17",
+            "name": "Croydon",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 406
+            }
+        },
+        {
+            "date": "2020-08-16",
+            "name": "Croydon",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 405
+            }
+        },
+        {
+            "date": "2020-08-15",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 404
+            }
+        },
+        {
+            "date": "2020-08-14",
+            "name": "Croydon",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 404
+            }
+        },
+        {
+            "date": "2020-08-13",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 404
+            }
+        },
+        {
+            "date": "2020-08-12",
+            "name": "Croydon",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 403
+            }
+        },
+        {
+            "date": "2020-08-11",
+            "name": "Croydon",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 403
+            }
+        },
+        {
+            "date": "2020-08-10",
+            "name": "Croydon",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 403
+            }
+        },
+        {
+            "date": "2020-08-09",
+            "name": "Croydon",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 403
+            }
+        },
+        {
+            "date": "2020-08-08",
+            "name": "Croydon",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 402
+            }
+        },
+        {
+            "date": "2020-08-07",
+            "name": "Croydon",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 402
+            }
+        },
+        {
+            "date": "2020-08-06",
+            "name": "Croydon",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 402
+            }
+        },
+        {
+            "date": "2020-08-05",
+            "name": "Croydon",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 402
+            }
+        },
+        {
+            "date": "2020-08-04",
+            "name": "Croydon",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 402
+            }
+        },
+        {
+            "date": "2020-08-03",
+            "name": "Croydon",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 402
+            }
+        },
+        {
+            "date": "2020-08-02",
+            "name": "Croydon",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 402
+            }
+        },
+        {
+            "date": "2020-08-01",
+            "name": "Croydon",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 402
+            }
+        },
+        {
+            "date": "2020-07-31",
+            "name": "Croydon",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 401
+            }
+        },
+        {
+            "date": "2020-07-30",
+            "name": "Croydon",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 400
+            }
+        },
+        {
+            "date": "2020-07-29",
+            "name": "Croydon",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 400
+            }
+        },
+        {
+            "date": "2020-07-28",
+            "name": "Croydon",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 400
+            }
+        },
+        {
+            "date": "2020-07-27",
+            "name": "Croydon",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 400
+            }
+        },
+        {
+            "date": "2020-07-26",
+            "name": "Croydon",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 400
+            }
+        },
+        {
+            "date": "2020-07-25",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 400
+            }
+        },
+        {
+            "date": "2020-07-24",
+            "name": "Croydon",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 400
+            }
+        },
+        {
+            "date": "2020-07-23",
+            "name": "Croydon",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 400
+            }
+        },
+        {
+            "date": "2020-07-22",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 400
+            }
+        },
+        {
+            "date": "2020-07-21",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 400
+            }
+        },
+        {
+            "date": "2020-07-20",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 399
+            }
+        },
+        {
+            "date": "2020-07-19",
+            "name": "Croydon",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 398
+            }
+        },
+        {
+            "date": "2020-07-18",
+            "name": "Croydon",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 398
+            }
+        },
+        {
+            "date": "2020-07-17",
+            "name": "Croydon",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 398
+            }
+        },
+        {
+            "date": "2020-07-16",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 398
+            }
+        },
+        {
+            "date": "2020-07-15",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 397
+            }
+        },
+        {
+            "date": "2020-07-14",
+            "name": "Croydon",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 397
+            }
+        },
+        {
+            "date": "2020-07-13",
+            "name": "Croydon",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 397
+            }
+        },
+        {
+            "date": "2020-07-12",
+            "name": "Croydon",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 395
+            }
+        },
+        {
+            "date": "2020-07-11",
+            "name": "Croydon",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 395
+            }
+        },
+        {
+            "date": "2020-07-10",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 394
+            }
+        },
+        {
+            "date": "2020-07-09",
+            "name": "Croydon",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 394
+            }
+        },
+        {
+            "date": "2020-07-08",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 394
+            }
+        },
+        {
+            "date": "2020-07-07",
+            "name": "Croydon",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 394
+            }
+        },
+        {
+            "date": "2020-07-06",
+            "name": "Croydon",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 394
+            }
+        },
+        {
+            "date": "2020-07-05",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 394
+            }
+        },
+        {
+            "date": "2020-07-04",
+            "name": "Croydon",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 393
+            }
+        },
+        {
+            "date": "2020-07-03",
+            "name": "Croydon",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 392
+            }
+        },
+        {
+            "date": "2020-07-02",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 392
+            }
+        },
+        {
+            "date": "2020-07-01",
+            "name": "Croydon",
+            "cases": {
+                "daily": 319,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 392
+            }
+        },
+        {
+            "date": "2020-06-30",
+            "name": "Croydon",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 392
+            }
+        },
+        {
+            "date": "2020-06-29",
+            "name": "Croydon",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 392
+            }
+        },
+        {
+            "date": "2020-06-28",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 392
+            }
+        },
+        {
+            "date": "2020-06-27",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 391
+            }
+        },
+        {
+            "date": "2020-06-26",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 391
+            }
+        },
+        {
+            "date": "2020-06-25",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 389
+            }
+        },
+        {
+            "date": "2020-06-24",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 387
+            }
+        },
+        {
+            "date": "2020-06-23",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 387
+            }
+        },
+        {
+            "date": "2020-06-22",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 386
+            }
+        },
+        {
+            "date": "2020-06-21",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 386
+            }
+        },
+        {
+            "date": "2020-06-20",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 385
+            }
+        },
+        {
+            "date": "2020-06-19",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 385
+            }
+        },
+        {
+            "date": "2020-06-18",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 385
+            }
+        },
+        {
+            "date": "2020-06-17",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 385
+            }
+        },
+        {
+            "date": "2020-06-16",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 385
+            }
+        },
+        {
+            "date": "2020-06-15",
+            "name": "Croydon",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 385
+            }
+        },
+        {
+            "date": "2020-06-14",
+            "name": "Croydon",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 385
+            }
+        },
+        {
+            "date": "2020-06-13",
+            "name": "Croydon",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 385
+            }
+        },
+        {
+            "date": "2020-06-12",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 385
+            }
+        },
+        {
+            "date": "2020-06-11",
+            "name": "Croydon",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 384
+            }
+        },
+        {
+            "date": "2020-06-10",
+            "name": "Croydon",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 382
+            }
+        },
+        {
+            "date": "2020-06-09",
+            "name": "Croydon",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 382
+            }
+        },
+        {
+            "date": "2020-06-08",
+            "name": "Croydon",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 382
+            }
+        },
+        {
+            "date": "2020-06-07",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 382
+            }
+        },
+        {
+            "date": "2020-06-06",
+            "name": "Croydon",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 382
+            }
+        },
+        {
+            "date": "2020-06-05",
+            "name": "Croydon",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 382
+            }
+        },
+        {
+            "date": "2020-06-04",
+            "name": "Croydon",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 382
+            }
+        },
+        {
+            "date": "2020-06-03",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 380
+            }
+        },
+        {
+            "date": "2020-06-02",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 379
+            }
+        },
+        {
+            "date": "2020-06-01",
+            "name": "Croydon",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 379
+            }
+        },
+        {
+            "date": "2020-05-31",
+            "name": "Croydon",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 379
+            }
+        },
+        {
+            "date": "2020-05-30",
+            "name": "Croydon",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 378
+            }
+        },
+        {
+            "date": "2020-05-29",
+            "name": "Croydon",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 376
+            }
+        },
+        {
+            "date": "2020-05-28",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 376
+            }
+        },
+        {
+            "date": "2020-05-27",
+            "name": "Croydon",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 374
+            }
+        },
+        {
+            "date": "2020-05-26",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 374
+            }
+        },
+        {
+            "date": "2020-05-25",
+            "name": "Croydon",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 372
+            }
+        },
+        {
+            "date": "2020-05-24",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 371
+            }
+        },
+        {
+            "date": "2020-05-23",
+            "name": "Croydon",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 369
+            }
+        },
+        {
+            "date": "2020-05-22",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 368
+            }
+        },
+        {
+            "date": "2020-05-21",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 366
+            }
+        },
+        {
+            "date": "2020-05-20",
+            "name": "Croydon",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 365
+            }
+        },
+        {
+            "date": "2020-05-19",
+            "name": "Croydon",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 363
+            }
+        },
+        {
+            "date": "2020-05-18",
+            "name": "Croydon",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 362
+            }
+        },
+        {
+            "date": "2020-05-17",
+            "name": "Croydon",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 360
+            }
+        },
+        {
+            "date": "2020-05-16",
+            "name": "Croydon",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 359
+            }
+        },
+        {
+            "date": "2020-05-15",
+            "name": "Croydon",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 359
+            }
+        },
+        {
+            "date": "2020-05-14",
+            "name": "Croydon",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 356
+            }
+        },
+        {
+            "date": "2020-05-13",
+            "name": "Croydon",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 353
+            }
+        },
+        {
+            "date": "2020-05-12",
+            "name": "Croydon",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 350
+            }
+        },
+        {
+            "date": "2020-05-11",
+            "name": "Croydon",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 346
+            }
+        },
+        {
+            "date": "2020-05-10",
+            "name": "Croydon",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 345
+            }
+        },
+        {
+            "date": "2020-05-09",
+            "name": "Croydon",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 341
+            }
+        },
+        {
+            "date": "2020-05-08",
+            "name": "Croydon",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 337
+            }
+        },
+        {
+            "date": "2020-05-07",
+            "name": "Croydon",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 336
+            }
+        },
+        {
+            "date": "2020-05-06",
+            "name": "Croydon",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 330
+            }
+        },
+        {
+            "date": "2020-05-05",
+            "name": "Croydon",
+            "cases": {
+                "daily": 26,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 327
+            }
+        },
+        {
+            "date": "2020-05-04",
+            "name": "Croydon",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 325
+            }
+        },
+        {
+            "date": "2020-05-03",
+            "name": "Croydon",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 323
+            }
+        },
+        {
+            "date": "2020-05-02",
+            "name": "Croydon",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 322
+            }
+        },
+        {
+            "date": "2020-05-01",
+            "name": "Croydon",
+            "cases": {
+                "daily": 21,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 320
+            }
+        },
+        {
+            "date": "2020-04-30",
+            "name": "Croydon",
+            "cases": {
+                "daily": 22,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 319
+            }
+        },
+        {
+            "date": "2020-04-29",
+            "name": "Croydon",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 313
+            }
+        },
+        {
+            "date": "2020-04-28",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 307
+            }
+        },
+        {
+            "date": "2020-04-27",
+            "name": "Croydon",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 301
+            }
+        },
+        {
+            "date": "2020-04-26",
+            "name": "Croydon",
+            "cases": {
+                "daily": 30,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 298
+            }
+        },
+        {
+            "date": "2020-04-25",
+            "name": "Croydon",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 294
+            }
+        },
+        {
+            "date": "2020-04-24",
+            "name": "Croydon",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 288
+            }
+        },
+        {
+            "date": "2020-04-23",
+            "name": "Croydon",
+            "cases": {
+                "daily": 27,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 279
+            }
+        },
+        {
+            "date": "2020-04-22",
+            "name": "Croydon",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 278
+            }
+        },
+        {
+            "date": "2020-04-21",
+            "name": "Croydon",
+            "cases": {
+                "daily": 27,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 272
+            }
+        },
+        {
+            "date": "2020-04-20",
+            "name": "Croydon",
+            "cases": {
+                "daily": 17,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 270
+            }
+        },
+        {
+            "date": "2020-04-19",
+            "name": "Croydon",
+            "cases": {
+                "daily": 30,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 263
+            }
+        },
+        {
+            "date": "2020-04-18",
+            "name": "Croydon",
+            "cases": {
+                "daily": 58,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 259
+            }
+        },
+        {
+            "date": "2020-04-17",
+            "name": "Croydon",
+            "cases": {
+                "daily": 32,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 250
+            }
+        },
+        {
+            "date": "2020-04-16",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 243
+            }
+        },
+        {
+            "date": "2020-04-15",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 233
+            }
+        },
+        {
+            "date": "2020-04-14",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 225
+            }
+        },
+        {
+            "date": "2020-04-13",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 219
+            }
+        },
+        {
+            "date": "2020-04-12",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 211
+            }
+        },
+        {
+            "date": "2020-04-11",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 203
+            }
+        },
+        {
+            "date": "2020-04-10",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 15,
+                "cumulative": 193
+            }
+        },
+        {
+            "date": "2020-04-09",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 178
+            }
+        },
+        {
+            "date": "2020-04-08",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 170
+            }
+        },
+        {
+            "date": "2020-04-07",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 15,
+                "cumulative": 159
+            }
+        },
+        {
+            "date": "2020-04-06",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 144
+            }
+        },
+        {
+            "date": "2020-04-05",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 135
+            }
+        },
+        {
+            "date": "2020-04-04",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 122
+            }
+        },
+        {
+            "date": "2020-04-03",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 16,
+                "cumulative": 109
+            }
+        },
+        {
+            "date": "2020-04-02",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 93
+            }
+        },
+        {
+            "date": "2020-04-01",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 86
+            }
+        },
+        {
+            "date": "2020-03-31",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 79
+            }
+        },
+        {
+            "date": "2020-03-30",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 77
+            }
+        },
+        {
+            "date": "2020-03-29",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 68
+            }
+        },
+        {
+            "date": "2020-03-28",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 56
+            }
+        },
+        {
+            "date": "2020-03-27",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 50
+            }
+        },
+        {
+            "date": "2020-03-26",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 41
+            }
+        },
+        {
+            "date": "2020-03-25",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 32
+            }
+        },
+        {
+            "date": "2020-03-24",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 28
+            }
+        },
+        {
+            "date": "2020-03-23",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 20
+            }
+        },
+        {
+            "date": "2020-03-22",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 17
+            }
+        },
+        {
+            "date": "2020-03-21",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 14
+            }
+        },
+        {
+            "date": "2020-03-20",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 11
+            }
+        },
+        {
+            "date": "2020-03-19",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 8
+            }
+        },
+        {
+            "date": "2020-03-18",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 8
+            }
+        },
+        {
+            "date": "2020-03-17",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 7
+            }
+        },
+        {
+            "date": "2020-03-16",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 2
+            }
+        },
+        {
+            "date": "2020-03-15",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 2
+            }
+        },
+        {
+            "date": "2020-03-14",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-13",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-12",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-11",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-10",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-09",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-08",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-07",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-06",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-05",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-04",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-03",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-02",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-01",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-29",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-28",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-27",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-26",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-25",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-24",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-23",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-22",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-21",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-20",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-19",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-18",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-17",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-16",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-15",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-14",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-13",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-12",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-11",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-10",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-09",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-08",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-07",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-06",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-05",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-04",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-03",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-02",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-01",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-31",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-30",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-29",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-28",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-27",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-26",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-25",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-24",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-23",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-22",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-21",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-20",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-19",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-18",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-17",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-16",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-15",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-14",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-13",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-12",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-11",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-10",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-09",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-08",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-07",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-06",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-05",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-04",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-03",
+            "name": "Croydon",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        }
+    ],
+    "pagination": {
+        "current": "/v1/data?filters=areaType%3Dutla%3BareaName%3DCroydon&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "next": null,
+        "previous": null,
+        "first": "/v1/data?filters=areaType%3Dutla%3BareaName%3DCroydon&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "last": "/v1/data?filters=areaType%3Dutla%3BareaName%3DCroydon&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1"
+    }
+}

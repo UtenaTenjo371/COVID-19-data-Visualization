@@ -1,0 +1,4501 @@
+{
+    "length": 374,
+    "maxPageLimit": 2500,
+    "data": [
+        {
+            "date": "2021-01-10",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 135,
+                "cumulative": 5802
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-09",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 162,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 207
+            }
+        },
+        {
+            "date": "2021-01-08",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 152,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 207
+            }
+        },
+        {
+            "date": "2021-01-07",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 121,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 207
+            }
+        },
+        {
+            "date": "2021-01-06",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 107,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 205
+            }
+        },
+        {
+            "date": "2021-01-05",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 178,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 204
+            }
+        },
+        {
+            "date": "2021-01-04",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 114,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 203
+            }
+        },
+        {
+            "date": "2021-01-03",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 113,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 202
+            }
+        },
+        {
+            "date": "2021-01-02",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 128,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 202
+            }
+        },
+        {
+            "date": "2021-01-01",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 211,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 199
+            }
+        },
+        {
+            "date": "2020-12-31",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 130,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 199
+            }
+        },
+        {
+            "date": "2020-12-30",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 134,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 196
+            }
+        },
+        {
+            "date": "2020-12-29",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 184,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 196
+            }
+        },
+        {
+            "date": "2020-12-28",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 80,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 196
+            }
+        },
+        {
+            "date": "2020-12-27",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 133,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 194
+            }
+        },
+        {
+            "date": "2020-12-26",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 123,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 192
+            }
+        },
+        {
+            "date": "2020-12-25",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 52,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 192
+            }
+        },
+        {
+            "date": "2020-12-24",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 81,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 192
+            }
+        },
+        {
+            "date": "2020-12-23",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 125,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 192
+            }
+        },
+        {
+            "date": "2020-12-22",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 123,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 191
+            }
+        },
+        {
+            "date": "2020-12-21",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 75,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 186
+            }
+        },
+        {
+            "date": "2020-12-20",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 113,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 185
+            }
+        },
+        {
+            "date": "2020-12-19",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 65,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 184
+            }
+        },
+        {
+            "date": "2020-12-18",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 53,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 182
+            }
+        },
+        {
+            "date": "2020-12-17",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 110,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 182
+            }
+        },
+        {
+            "date": "2020-12-16",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 50,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 178
+            }
+        },
+        {
+            "date": "2020-12-15",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 43,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 177
+            }
+        },
+        {
+            "date": "2020-12-14",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 60,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 175
+            }
+        },
+        {
+            "date": "2020-12-13",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 54,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 174
+            }
+        },
+        {
+            "date": "2020-12-12",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 76,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 171
+            }
+        },
+        {
+            "date": "2020-12-11",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 55,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 170
+            }
+        },
+        {
+            "date": "2020-12-10",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 39,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 169
+            }
+        },
+        {
+            "date": "2020-12-09",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 33,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 168
+            }
+        },
+        {
+            "date": "2020-12-08",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 30,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 168
+            }
+        },
+        {
+            "date": "2020-12-07",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 36,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 165
+            }
+        },
+        {
+            "date": "2020-12-06",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 47,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 165
+            }
+        },
+        {
+            "date": "2020-12-05",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 40,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 163
+            }
+        },
+        {
+            "date": "2020-12-04",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 28,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 163
+            }
+        },
+        {
+            "date": "2020-12-03",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 29,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 159
+            }
+        },
+        {
+            "date": "2020-12-02",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 37,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 159
+            }
+        },
+        {
+            "date": "2020-12-01",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 23,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 157
+            }
+        },
+        {
+            "date": "2020-11-30",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 27,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 156
+            }
+        },
+        {
+            "date": "2020-11-29",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 29,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 156
+            }
+        },
+        {
+            "date": "2020-11-28",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 17,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 156
+            }
+        },
+        {
+            "date": "2020-11-27",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 24,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 156
+            }
+        },
+        {
+            "date": "2020-11-26",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 29,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 154
+            }
+        },
+        {
+            "date": "2020-11-25",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 38,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 154
+            }
+        },
+        {
+            "date": "2020-11-24",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 152
+            }
+        },
+        {
+            "date": "2020-11-23",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 30,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 151
+            }
+        },
+        {
+            "date": "2020-11-22",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 40,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 150
+            }
+        },
+        {
+            "date": "2020-11-21",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 33,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 150
+            }
+        },
+        {
+            "date": "2020-11-20",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 31,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 149
+            }
+        },
+        {
+            "date": "2020-11-19",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 22,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 148
+            }
+        },
+        {
+            "date": "2020-11-18",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 19,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 148
+            }
+        },
+        {
+            "date": "2020-11-17",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 148
+            }
+        },
+        {
+            "date": "2020-11-16",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 146
+            }
+        },
+        {
+            "date": "2020-11-15",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 33,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 146
+            }
+        },
+        {
+            "date": "2020-11-14",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 33,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 146
+            }
+        },
+        {
+            "date": "2020-11-13",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 31,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 145
+            }
+        },
+        {
+            "date": "2020-11-12",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 58,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 145
+            }
+        },
+        {
+            "date": "2020-11-11",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 42,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 145
+            }
+        },
+        {
+            "date": "2020-11-10",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 26,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 145
+            }
+        },
+        {
+            "date": "2020-11-09",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 17,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 143
+            }
+        },
+        {
+            "date": "2020-11-08",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 51,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 141
+            }
+        },
+        {
+            "date": "2020-11-07",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 42,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 141
+            }
+        },
+        {
+            "date": "2020-11-06",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 31,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 140
+            }
+        },
+        {
+            "date": "2020-11-05",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 22,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 138
+            }
+        },
+        {
+            "date": "2020-11-04",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 138
+            }
+        },
+        {
+            "date": "2020-11-03",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 19,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 138
+            }
+        },
+        {
+            "date": "2020-11-02",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 23,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 137
+            }
+        },
+        {
+            "date": "2020-11-01",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 30,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 136
+            }
+        },
+        {
+            "date": "2020-10-31",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 19,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 135
+            }
+        },
+        {
+            "date": "2020-10-30",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 17,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 134
+            }
+        },
+        {
+            "date": "2020-10-29",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 30,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 134
+            }
+        },
+        {
+            "date": "2020-10-28",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 24,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 134
+            }
+        },
+        {
+            "date": "2020-10-27",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 23,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 134
+            }
+        },
+        {
+            "date": "2020-10-26",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 19,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 133
+            }
+        },
+        {
+            "date": "2020-10-25",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 32,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 132
+            }
+        },
+        {
+            "date": "2020-10-24",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 131
+            }
+        },
+        {
+            "date": "2020-10-23",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 130
+            }
+        },
+        {
+            "date": "2020-10-22",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 40,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 128
+            }
+        },
+        {
+            "date": "2020-10-21",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 38,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 127
+            }
+        },
+        {
+            "date": "2020-10-20",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 127
+            }
+        },
+        {
+            "date": "2020-10-19",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 127
+            }
+        },
+        {
+            "date": "2020-10-18",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 127
+            }
+        },
+        {
+            "date": "2020-10-17",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 37,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 127
+            }
+        },
+        {
+            "date": "2020-10-16",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 127
+            }
+        },
+        {
+            "date": "2020-10-15",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 22,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 125
+            }
+        },
+        {
+            "date": "2020-10-14",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 124
+            }
+        },
+        {
+            "date": "2020-10-13",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 17,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 124
+            }
+        },
+        {
+            "date": "2020-10-12",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 124
+            }
+        },
+        {
+            "date": "2020-10-11",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 124
+            }
+        },
+        {
+            "date": "2020-10-10",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 123
+            }
+        },
+        {
+            "date": "2020-10-09",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 20,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 123
+            }
+        },
+        {
+            "date": "2020-10-08",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 123
+            }
+        },
+        {
+            "date": "2020-10-07",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 123
+            }
+        },
+        {
+            "date": "2020-10-06",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 122
+            }
+        },
+        {
+            "date": "2020-10-05",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 122
+            }
+        },
+        {
+            "date": "2020-10-04",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 23,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 122
+            }
+        },
+        {
+            "date": "2020-10-03",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 122
+            }
+        },
+        {
+            "date": "2020-10-02",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 122
+            }
+        },
+        {
+            "date": "2020-10-01",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 121
+            }
+        },
+        {
+            "date": "2020-09-30",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 121
+            }
+        },
+        {
+            "date": "2020-09-29",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 121
+            }
+        },
+        {
+            "date": "2020-09-28",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 120
+            }
+        },
+        {
+            "date": "2020-09-27",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 119
+            }
+        },
+        {
+            "date": "2020-09-26",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 118
+            }
+        },
+        {
+            "date": "2020-09-25",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 118
+            }
+        },
+        {
+            "date": "2020-09-24",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 117
+            }
+        },
+        {
+            "date": "2020-09-23",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 117
+            }
+        },
+        {
+            "date": "2020-09-22",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 116
+            }
+        },
+        {
+            "date": "2020-09-21",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 116
+            }
+        },
+        {
+            "date": "2020-09-20",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 116
+            }
+        },
+        {
+            "date": "2020-09-19",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 116
+            }
+        },
+        {
+            "date": "2020-09-18",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 116
+            }
+        },
+        {
+            "date": "2020-09-17",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 115
+            }
+        },
+        {
+            "date": "2020-09-16",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 115
+            }
+        },
+        {
+            "date": "2020-09-15",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 115
+            }
+        },
+        {
+            "date": "2020-09-14",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 115
+            }
+        },
+        {
+            "date": "2020-09-13",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 115
+            }
+        },
+        {
+            "date": "2020-09-12",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 115
+            }
+        },
+        {
+            "date": "2020-09-11",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 114
+            }
+        },
+        {
+            "date": "2020-09-10",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 114
+            }
+        },
+        {
+            "date": "2020-09-09",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 114
+            }
+        },
+        {
+            "date": "2020-09-08",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 114
+            }
+        },
+        {
+            "date": "2020-09-07",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 114
+            }
+        },
+        {
+            "date": "2020-09-06",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 114
+            }
+        },
+        {
+            "date": "2020-09-05",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 114
+            }
+        },
+        {
+            "date": "2020-09-04",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 114
+            }
+        },
+        {
+            "date": "2020-09-03",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 114
+            }
+        },
+        {
+            "date": "2020-09-02",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 114
+            }
+        },
+        {
+            "date": "2020-09-01",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 114
+            }
+        },
+        {
+            "date": "2020-08-31",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 114
+            }
+        },
+        {
+            "date": "2020-08-30",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 114
+            }
+        },
+        {
+            "date": "2020-08-29",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 114
+            }
+        },
+        {
+            "date": "2020-08-28",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 114
+            }
+        },
+        {
+            "date": "2020-08-27",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 113
+            }
+        },
+        {
+            "date": "2020-08-26",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 113
+            }
+        },
+        {
+            "date": "2020-08-25",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 112
+            }
+        },
+        {
+            "date": "2020-08-24",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 112
+            }
+        },
+        {
+            "date": "2020-08-23",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 112
+            }
+        },
+        {
+            "date": "2020-08-22",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 112
+            }
+        },
+        {
+            "date": "2020-08-21",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 111
+            }
+        },
+        {
+            "date": "2020-08-20",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 111
+            }
+        },
+        {
+            "date": "2020-08-19",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 111
+            }
+        },
+        {
+            "date": "2020-08-18",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 111
+            }
+        },
+        {
+            "date": "2020-08-17",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 111
+            }
+        },
+        {
+            "date": "2020-08-16",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 111
+            }
+        },
+        {
+            "date": "2020-08-15",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 111
+            }
+        },
+        {
+            "date": "2020-08-14",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 111
+            }
+        },
+        {
+            "date": "2020-08-13",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 111
+            }
+        },
+        {
+            "date": "2020-08-12",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 111
+            }
+        },
+        {
+            "date": "2020-08-11",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 111
+            }
+        },
+        {
+            "date": "2020-08-10",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 109
+            }
+        },
+        {
+            "date": "2020-08-09",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 109
+            }
+        },
+        {
+            "date": "2020-08-08",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 109
+            }
+        },
+        {
+            "date": "2020-08-07",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 109
+            }
+        },
+        {
+            "date": "2020-08-06",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 109
+            }
+        },
+        {
+            "date": "2020-08-05",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 109
+            }
+        },
+        {
+            "date": "2020-08-04",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 109
+            }
+        },
+        {
+            "date": "2020-08-03",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 109
+            }
+        },
+        {
+            "date": "2020-08-02",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 109
+            }
+        },
+        {
+            "date": "2020-08-01",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 109
+            }
+        },
+        {
+            "date": "2020-07-31",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 109
+            }
+        },
+        {
+            "date": "2020-07-30",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 109
+            }
+        },
+        {
+            "date": "2020-07-29",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 109
+            }
+        },
+        {
+            "date": "2020-07-28",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 109
+            }
+        },
+        {
+            "date": "2020-07-27",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 109
+            }
+        },
+        {
+            "date": "2020-07-26",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 108
+            }
+        },
+        {
+            "date": "2020-07-25",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 107
+            }
+        },
+        {
+            "date": "2020-07-24",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 107
+            }
+        },
+        {
+            "date": "2020-07-23",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 106
+            }
+        },
+        {
+            "date": "2020-07-22",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 106
+            }
+        },
+        {
+            "date": "2020-07-21",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 104
+            }
+        },
+        {
+            "date": "2020-07-20",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 104
+            }
+        },
+        {
+            "date": "2020-07-19",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 103
+            }
+        },
+        {
+            "date": "2020-07-18",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 103
+            }
+        },
+        {
+            "date": "2020-07-17",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 103
+            }
+        },
+        {
+            "date": "2020-07-16",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 103
+            }
+        },
+        {
+            "date": "2020-07-15",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 103
+            }
+        },
+        {
+            "date": "2020-07-14",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 102
+            }
+        },
+        {
+            "date": "2020-07-13",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 101
+            }
+        },
+        {
+            "date": "2020-07-12",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 101
+            }
+        },
+        {
+            "date": "2020-07-11",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 101
+            }
+        },
+        {
+            "date": "2020-07-10",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 101
+            }
+        },
+        {
+            "date": "2020-07-09",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 99
+            }
+        },
+        {
+            "date": "2020-07-08",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 99
+            }
+        },
+        {
+            "date": "2020-07-07",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 99
+            }
+        },
+        {
+            "date": "2020-07-06",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 99
+            }
+        },
+        {
+            "date": "2020-07-05",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 99
+            }
+        },
+        {
+            "date": "2020-07-04",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 99
+            }
+        },
+        {
+            "date": "2020-07-03",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 99
+            }
+        },
+        {
+            "date": "2020-07-02",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 99
+            }
+        },
+        {
+            "date": "2020-07-01",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 126,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 99
+            }
+        },
+        {
+            "date": "2020-06-30",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 99
+            }
+        },
+        {
+            "date": "2020-06-29",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 99
+            }
+        },
+        {
+            "date": "2020-06-28",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 99
+            }
+        },
+        {
+            "date": "2020-06-27",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 98
+            }
+        },
+        {
+            "date": "2020-06-26",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 97
+            }
+        },
+        {
+            "date": "2020-06-25",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 97
+            }
+        },
+        {
+            "date": "2020-06-24",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 97
+            }
+        },
+        {
+            "date": "2020-06-23",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 97
+            }
+        },
+        {
+            "date": "2020-06-22",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 97
+            }
+        },
+        {
+            "date": "2020-06-21",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 96
+            }
+        },
+        {
+            "date": "2020-06-20",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 96
+            }
+        },
+        {
+            "date": "2020-06-19",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 96
+            }
+        },
+        {
+            "date": "2020-06-18",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 95
+            }
+        },
+        {
+            "date": "2020-06-17",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 95
+            }
+        },
+        {
+            "date": "2020-06-16",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 95
+            }
+        },
+        {
+            "date": "2020-06-15",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 95
+            }
+        },
+        {
+            "date": "2020-06-14",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 95
+            }
+        },
+        {
+            "date": "2020-06-13",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 95
+            }
+        },
+        {
+            "date": "2020-06-12",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 95
+            }
+        },
+        {
+            "date": "2020-06-11",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 94
+            }
+        },
+        {
+            "date": "2020-06-10",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 94
+            }
+        },
+        {
+            "date": "2020-06-09",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 94
+            }
+        },
+        {
+            "date": "2020-06-08",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 94
+            }
+        },
+        {
+            "date": "2020-06-07",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 94
+            }
+        },
+        {
+            "date": "2020-06-06",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 94
+            }
+        },
+        {
+            "date": "2020-06-05",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 91
+            }
+        },
+        {
+            "date": "2020-06-04",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 90
+            }
+        },
+        {
+            "date": "2020-06-03",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 90
+            }
+        },
+        {
+            "date": "2020-06-02",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 90
+            }
+        },
+        {
+            "date": "2020-06-01",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 90
+            }
+        },
+        {
+            "date": "2020-05-31",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 89
+            }
+        },
+        {
+            "date": "2020-05-30",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 89
+            }
+        },
+        {
+            "date": "2020-05-29",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 89
+            }
+        },
+        {
+            "date": "2020-05-28",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 89
+            }
+        },
+        {
+            "date": "2020-05-27",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 88
+            }
+        },
+        {
+            "date": "2020-05-26",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 88
+            }
+        },
+        {
+            "date": "2020-05-25",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 88
+            }
+        },
+        {
+            "date": "2020-05-24",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 87
+            }
+        },
+        {
+            "date": "2020-05-23",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 87
+            }
+        },
+        {
+            "date": "2020-05-22",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 86
+            }
+        },
+        {
+            "date": "2020-05-21",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 85
+            }
+        },
+        {
+            "date": "2020-05-20",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 85
+            }
+        },
+        {
+            "date": "2020-05-19",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 84
+            }
+        },
+        {
+            "date": "2020-05-18",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 84
+            }
+        },
+        {
+            "date": "2020-05-17",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 83
+            }
+        },
+        {
+            "date": "2020-05-16",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 82
+            }
+        },
+        {
+            "date": "2020-05-15",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 80
+            }
+        },
+        {
+            "date": "2020-05-14",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 79
+            }
+        },
+        {
+            "date": "2020-05-13",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 79
+            }
+        },
+        {
+            "date": "2020-05-12",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 79
+            }
+        },
+        {
+            "date": "2020-05-11",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 79
+            }
+        },
+        {
+            "date": "2020-05-10",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 78
+            }
+        },
+        {
+            "date": "2020-05-09",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 76
+            }
+        },
+        {
+            "date": "2020-05-08",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 74
+            }
+        },
+        {
+            "date": "2020-05-07",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 72
+            }
+        },
+        {
+            "date": "2020-05-06",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 72
+            }
+        },
+        {
+            "date": "2020-05-05",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 71
+            }
+        },
+        {
+            "date": "2020-05-04",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 71
+            }
+        },
+        {
+            "date": "2020-05-03",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 68
+            }
+        },
+        {
+            "date": "2020-05-02",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 68
+            }
+        },
+        {
+            "date": "2020-05-01",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 66
+            }
+        },
+        {
+            "date": "2020-04-30",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 64
+            }
+        },
+        {
+            "date": "2020-04-29",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 62
+            }
+        },
+        {
+            "date": "2020-04-28",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 61
+            }
+        },
+        {
+            "date": "2020-04-27",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 60
+            }
+        },
+        {
+            "date": "2020-04-26",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 58
+            }
+        },
+        {
+            "date": "2020-04-25",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 58
+            }
+        },
+        {
+            "date": "2020-04-24",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 26,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 57
+            }
+        },
+        {
+            "date": "2020-04-23",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 54
+            }
+        },
+        {
+            "date": "2020-04-22",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 51
+            }
+        },
+        {
+            "date": "2020-04-21",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 43,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 48
+            }
+        },
+        {
+            "date": "2020-04-20",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 46
+            }
+        },
+        {
+            "date": "2020-04-19",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 21,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 43
+            }
+        },
+        {
+            "date": "2020-04-18",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 41
+            }
+        },
+        {
+            "date": "2020-04-17",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 39
+            }
+        },
+        {
+            "date": "2020-04-16",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 37
+            }
+        },
+        {
+            "date": "2020-04-15",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 36
+            }
+        },
+        {
+            "date": "2020-04-14",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 35
+            }
+        },
+        {
+            "date": "2020-04-13",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 33
+            }
+        },
+        {
+            "date": "2020-04-12",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 31
+            }
+        },
+        {
+            "date": "2020-04-11",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 27
+            }
+        },
+        {
+            "date": "2020-04-10",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 26
+            }
+        },
+        {
+            "date": "2020-04-09",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 25
+            }
+        },
+        {
+            "date": "2020-04-08",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 23
+            }
+        },
+        {
+            "date": "2020-04-07",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 22
+            }
+        },
+        {
+            "date": "2020-04-06",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 17
+            }
+        },
+        {
+            "date": "2020-04-05",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 13
+            }
+        },
+        {
+            "date": "2020-04-04",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 13
+            }
+        },
+        {
+            "date": "2020-04-03",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 11
+            }
+        },
+        {
+            "date": "2020-04-02",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 9
+            }
+        },
+        {
+            "date": "2020-04-01",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 7
+            }
+        },
+        {
+            "date": "2020-03-31",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 6
+            }
+        },
+        {
+            "date": "2020-03-30",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 5
+            }
+        },
+        {
+            "date": "2020-03-29",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 4
+            }
+        },
+        {
+            "date": "2020-03-28",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 3
+            }
+        },
+        {
+            "date": "2020-03-27",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 3
+            }
+        },
+        {
+            "date": "2020-03-26",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 3
+            }
+        },
+        {
+            "date": "2020-03-25",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 3
+            }
+        },
+        {
+            "date": "2020-03-24",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 3
+            }
+        },
+        {
+            "date": "2020-03-23",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 3
+            }
+        },
+        {
+            "date": "2020-03-22",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 3
+            }
+        },
+        {
+            "date": "2020-03-21",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 3
+            }
+        },
+        {
+            "date": "2020-03-20",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 3
+            }
+        },
+        {
+            "date": "2020-03-19",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 3
+            }
+        },
+        {
+            "date": "2020-03-18",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 2
+            }
+        },
+        {
+            "date": "2020-03-17",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-16",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-15",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-14",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-13",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-12",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-11",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-10",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-09",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-08",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-07",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-06",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-05",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-04",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-03",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-02",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-01",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-29",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-28",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-27",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-26",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-25",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-24",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-23",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-22",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-21",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-20",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-19",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-18",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-17",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-16",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-15",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-14",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-13",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-12",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-11",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-10",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-09",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-08",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-07",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-06",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-05",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-04",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-03",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-02",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-01",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-31",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-30",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-29",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-28",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-27",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-26",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-25",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-24",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-23",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-22",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-21",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-20",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-19",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-18",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-17",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-16",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-15",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-14",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-13",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-12",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-11",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-10",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-09",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-08",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-07",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-06",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-05",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-04",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-03",
+            "name": "Wokingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        }
+    ],
+    "pagination": {
+        "current": "/v1/data?filters=areaType%3Dutla%3BareaName%3DWokingham&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "next": null,
+        "previous": null,
+        "first": "/v1/data?filters=areaType%3Dutla%3BareaName%3DWokingham&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "last": "/v1/data?filters=areaType%3Dutla%3BareaName%3DWokingham&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1"
+    }
+}
