@@ -1,0 +1,3865 @@
+{
+    "length": 321,
+    "maxPageLimit": 2500,
+    "data": [
+        {
+            "date": "2021-01-08",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 75,
+                "cumulative": 9849
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-07",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 101,
+                "cumulative": 9774
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-06",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 147,
+                "cumulative": 9673
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-05",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 117,
+                "cumulative": 9526
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-04",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 608,
+                "cumulative": 9409
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-03",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-02",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-01",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-31",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 159,
+                "cumulative": 8801
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-30",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 214,
+                "cumulative": 8642
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-29",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 557,
+                "cumulative": 8428
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-28",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-27",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-26",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-25",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-24",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-23",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 84,
+                "cumulative": 7871
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-22",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 36,
+                "cumulative": 7787
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-21",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 134,
+                "cumulative": 7751
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-20",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-19",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-18",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 44,
+                "cumulative": 7617
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-17",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 56,
+                "cumulative": 7573
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-16",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 69,
+                "cumulative": 7517
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-15",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": 7448
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-14",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 106,
+                "cumulative": 7448
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-13",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-12",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-11",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 36,
+                "cumulative": 7342
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-10",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 33,
+                "cumulative": 7306
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-09",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 47,
+                "cumulative": 7273
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-08",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 28,
+                "cumulative": 7226
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-07",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 103,
+                "cumulative": 7198
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-06",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-05",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-04",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 49,
+                "cumulative": 7095
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-03",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 44,
+                "cumulative": 7046
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-02",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 41,
+                "cumulative": 7002
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-01",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 57,
+                "cumulative": 6961
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-30",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 126,
+                "cumulative": 6904
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-29",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-28",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-27",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 37,
+                "cumulative": 6778
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-26",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 51,
+                "cumulative": 6741
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-25",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 67,
+                "cumulative": 6690
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-24",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 8,
+                "cumulative": 6623
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-23",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 110,
+                "cumulative": 6615
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-22",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-21",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-20",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 45,
+                "cumulative": 6505
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-19",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 57,
+                "cumulative": 6460
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-18",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 67,
+                "cumulative": 6403
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-17",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 61,
+                "cumulative": 6336
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-16",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 119,
+                "cumulative": 6275
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-15",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-14",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-13",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 44,
+                "cumulative": 6156
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-12",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 25,
+                "cumulative": 6112
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-11",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 61,
+                "cumulative": 6087
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-10",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 63,
+                "cumulative": 6026
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-09",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 108,
+                "cumulative": 5963
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-08",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-07",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-06",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 69,
+                "cumulative": 5855
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-05",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 65,
+                "cumulative": 5786
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-04",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 79,
+                "cumulative": 5721
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-03",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 53,
+                "cumulative": 5642
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-02",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 170,
+                "cumulative": 5589
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-01",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-31",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-30",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 71,
+                "cumulative": 5419
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-29",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 86,
+                "cumulative": 5348
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-28",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 106,
+                "cumulative": 5262
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-27",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 64,
+                "cumulative": 5156
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-26",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 288,
+                "cumulative": 5092
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-25",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-24",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-23",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 128,
+                "cumulative": 4804
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-22",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 110,
+                "cumulative": 4676
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-21",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 127,
+                "cumulative": 4566
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-20",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 147,
+                "cumulative": 4439
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-19",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 384,
+                "cumulative": 4292
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-18",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-17",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-16",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 258,
+                "cumulative": 3908
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-15",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 104,
+                "cumulative": 3650
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-14",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 222,
+                "cumulative": 3546
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-13",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 163,
+                "cumulative": 3324
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-12",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 638,
+                "cumulative": 3161
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-11",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-10",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-09",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 278,
+                "cumulative": 2523
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-08",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 235,
+                "cumulative": 2245
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-07",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 197,
+                "cumulative": 2010
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-06",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 158,
+                "cumulative": 1813
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-05",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 372,
+                "cumulative": 1655
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-04",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-03",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-02",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 201,
+                "cumulative": 1283
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-01",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 52,
+                "cumulative": 1082
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-30",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 139,
+                "cumulative": 1030
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-29",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 72,
+                "cumulative": 891
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-28",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 183,
+                "cumulative": 819
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-27",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-26",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-25",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 48,
+                "cumulative": 636
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-24",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 42,
+                "cumulative": 588
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-23",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 63,
+                "cumulative": 546
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-22",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 43,
+                "cumulative": 483
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-21",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 53,
+                "cumulative": 440
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-20",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-19",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-18",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 12,
+                "cumulative": 387
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-17",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 12,
+                "cumulative": 375
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-16",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 23,
+                "cumulative": 363
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-15",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 10,
+                "cumulative": 340
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-14",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 22,
+                "cumulative": 330
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-13",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-12",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-11",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 5,
+                "cumulative": 308
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-10",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 3,
+                "cumulative": 303
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-09",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 2,
+                "cumulative": 300
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-08",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": 298
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-07",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 10,
+                "cumulative": 298
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-06",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-05",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-04",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": 288
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-03",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 3,
+                "cumulative": 288
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-02",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 4,
+                "cumulative": 285
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-01",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 6,
+                "cumulative": 281
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-31",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-30",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-29",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-28",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": 275
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-27",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 3,
+                "cumulative": 275
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-26",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 4,
+                "cumulative": 272
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-25",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 1,
+                "cumulative": 268
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-24",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 22,
+                "cumulative": 267
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-23",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-22",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-21",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 1,
+                "cumulative": 245
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-20",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 2,
+                "cumulative": 244
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-19",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": 242
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-18",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": 242
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-17",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-16",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-15",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-14",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-13",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-12",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-11",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-10",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-09",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-08",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-07",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-06",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-05",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-04",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-03",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-02",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-01",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-31",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-30",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-29",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-28",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-27",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-26",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-25",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-24",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-23",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-22",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-21",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-20",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-19",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-18",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-17",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-16",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-15",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-14",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-13",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-12",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-11",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-10",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-09",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-08",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-07",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-06",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-05",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-04",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-03",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-02",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-01",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-30",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-29",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-28",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-27",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-26",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-25",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-24",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-23",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-22",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-21",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-20",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-19",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-18",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-17",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-16",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-15",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-14",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-13",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-12",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-11",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-10",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-09",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-08",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-07",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-06",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-05",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-04",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-03",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-02",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-01",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-31",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-30",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-29",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-28",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-27",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-26",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-25",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-24",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-23",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-22",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-21",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-20",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-19",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-18",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-17",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-16",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-15",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-14",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-13",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-12",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-11",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-10",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-09",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-08",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-07",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-06",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-05",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-04",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-03",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-02",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-01",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-30",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-29",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-28",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-27",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-26",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-25",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-24",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-23",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-22",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-21",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-20",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-19",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-18",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-17",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-16",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-15",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-14",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-13",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-12",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-11",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-10",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-09",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-08",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-07",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-06",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-05",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-04",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-03",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-02",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-01",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-31",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-30",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-29",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-28",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-27",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-26",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-25",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-24",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-23",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-22",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-21",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-20",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-19",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-18",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-17",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-16",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-15",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-14",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-13",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-12",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-11",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-10",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-09",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-08",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-07",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-06",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-05",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-04",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-03",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-02",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-01",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-29",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-28",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-27",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-26",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-25",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-24",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-23",
+            "name": "Derry City and Strabane",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        }
+    ],
+    "pagination": {
+        "current": "/v1/data?filters=areaType%3Dutla%3BareaName%3DDerry+City+and+Strabane&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "next": null,
+        "previous": null,
+        "first": "/v1/data?filters=areaType%3Dutla%3BareaName%3DDerry+City+and+Strabane&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "last": "/v1/data?filters=areaType%3Dutla%3BareaName%3DDerry+City+and+Strabane&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1"
+    }
+}

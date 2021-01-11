@@ -1,0 +1,4477 @@
+{
+    "length": 372,
+    "maxPageLimit": 2500,
+    "data": [
+        {
+            "date": "2021-01-10",
+            "name": "Moray",
+            "cases": {
+                "daily": 32,
+                "cumulative": 640
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-09",
+            "name": "Moray",
+            "cases": {
+                "daily": 19,
+                "cumulative": 608
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-08",
+            "name": "Moray",
+            "cases": {
+                "daily": 14,
+                "cumulative": 589
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-07",
+            "name": "Moray",
+            "cases": {
+                "daily": 31,
+                "cumulative": 575
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-06",
+            "name": "Moray",
+            "cases": {
+                "daily": 19,
+                "cumulative": 544
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-05",
+            "name": "Moray",
+            "cases": {
+                "daily": 89,
+                "cumulative": 525
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-04",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 436
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-03",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 436
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-02",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 436
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-01",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 436
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-31",
+            "name": "Moray",
+            "cases": {
+                "daily": 20,
+                "cumulative": 436
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-30",
+            "name": "Moray",
+            "cases": {
+                "daily": 20,
+                "cumulative": 416
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-29",
+            "name": "Moray",
+            "cases": {
+                "daily": 35,
+                "cumulative": 396
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-28",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 361
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-27",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 361
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-26",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 361
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-25",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 361
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-24",
+            "name": "Moray",
+            "cases": {
+                "daily": 1,
+                "cumulative": 361
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-23",
+            "name": "Moray",
+            "cases": {
+                "daily": 14,
+                "cumulative": 360
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-22",
+            "name": "Moray",
+            "cases": {
+                "daily": 15,
+                "cumulative": 346
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-21",
+            "name": "Moray",
+            "cases": {
+                "daily": 13,
+                "cumulative": 331
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-20",
+            "name": "Moray",
+            "cases": {
+                "daily": 1,
+                "cumulative": 318
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-19",
+            "name": "Moray",
+            "cases": {
+                "daily": 1,
+                "cumulative": 317
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-18",
+            "name": "Moray",
+            "cases": {
+                "daily": 3,
+                "cumulative": 316
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-17",
+            "name": "Moray",
+            "cases": {
+                "daily": 4,
+                "cumulative": 313
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-16",
+            "name": "Moray",
+            "cases": {
+                "daily": 2,
+                "cumulative": 309
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-15",
+            "name": "Moray",
+            "cases": {
+                "daily": 1,
+                "cumulative": 307
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-14",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 306
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-13",
+            "name": "Moray",
+            "cases": {
+                "daily": 5,
+                "cumulative": 310
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-12",
+            "name": "Moray",
+            "cases": {
+                "daily": 3,
+                "cumulative": 305
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-11",
+            "name": "Moray",
+            "cases": {
+                "daily": 5,
+                "cumulative": 302
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-10",
+            "name": "Moray",
+            "cases": {
+                "daily": 2,
+                "cumulative": 297
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-09",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 295
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-08",
+            "name": "Moray",
+            "cases": {
+                "daily": 5,
+                "cumulative": 295
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-07",
+            "name": "Moray",
+            "cases": {
+                "daily": 4,
+                "cumulative": 290
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-06",
+            "name": "Moray",
+            "cases": {
+                "daily": 2,
+                "cumulative": 286
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-05",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 284
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-04",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 284
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-03",
+            "name": "Moray",
+            "cases": {
+                "daily": 3,
+                "cumulative": 284
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-02",
+            "name": "Moray",
+            "cases": {
+                "daily": 4,
+                "cumulative": 281
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-01",
+            "name": "Moray",
+            "cases": {
+                "daily": 2,
+                "cumulative": 277
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-30",
+            "name": "Moray",
+            "cases": {
+                "daily": 2,
+                "cumulative": 275
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-29",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 273
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-28",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 275
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-27",
+            "name": "Moray",
+            "cases": {
+                "daily": 3,
+                "cumulative": 275
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-26",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 272
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-25",
+            "name": "Moray",
+            "cases": {
+                "daily": 2,
+                "cumulative": 272
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-24",
+            "name": "Moray",
+            "cases": {
+                "daily": 1,
+                "cumulative": 270
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-23",
+            "name": "Moray",
+            "cases": {
+                "daily": 2,
+                "cumulative": 269
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-22",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 267
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-21",
+            "name": "Moray",
+            "cases": {
+                "daily": 2,
+                "cumulative": 267
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-20",
+            "name": "Moray",
+            "cases": {
+                "daily": 1,
+                "cumulative": 265
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-19",
+            "name": "Moray",
+            "cases": {
+                "daily": 6,
+                "cumulative": 264
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-18",
+            "name": "Moray",
+            "cases": {
+                "daily": 6,
+                "cumulative": 258
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-17",
+            "name": "Moray",
+            "cases": {
+                "daily": 1,
+                "cumulative": 252
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-16",
+            "name": "Moray",
+            "cases": {
+                "daily": 3,
+                "cumulative": 251
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-15",
+            "name": "Moray",
+            "cases": {
+                "daily": 5,
+                "cumulative": 248
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-14",
+            "name": "Moray",
+            "cases": {
+                "daily": 6,
+                "cumulative": 243
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-13",
+            "name": "Moray",
+            "cases": {
+                "daily": 3,
+                "cumulative": 237
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-12",
+            "name": "Moray",
+            "cases": {
+                "daily": 8,
+                "cumulative": 234
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-11",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 226
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-10",
+            "name": "Moray",
+            "cases": {
+                "daily": 4,
+                "cumulative": 226
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-09",
+            "name": "Moray",
+            "cases": {
+                "daily": 4,
+                "cumulative": 222
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-08",
+            "name": "Moray",
+            "cases": {
+                "daily": 5,
+                "cumulative": 218
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-07",
+            "name": "Moray",
+            "cases": {
+                "daily": 2,
+                "cumulative": 213
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-06",
+            "name": "Moray",
+            "cases": {
+                "daily": 2,
+                "cumulative": 211
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-05",
+            "name": "Moray",
+            "cases": {
+                "daily": 7,
+                "cumulative": 209
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-04",
+            "name": "Moray",
+            "cases": {
+                "daily": 3,
+                "cumulative": 202
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-03",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 199
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-02",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 199
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-01",
+            "name": "Moray",
+            "cases": {
+                "daily": 2,
+                "cumulative": 199
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-31",
+            "name": "Moray",
+            "cases": {
+                "daily": 1,
+                "cumulative": 197
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-30",
+            "name": "Moray",
+            "cases": {
+                "daily": 3,
+                "cumulative": 196
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-29",
+            "name": "Moray",
+            "cases": {
+                "daily": 2,
+                "cumulative": 193
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-28",
+            "name": "Moray",
+            "cases": {
+                "daily": 2,
+                "cumulative": 191
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-27",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 189
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-26",
+            "name": "Moray",
+            "cases": {
+                "daily": 2,
+                "cumulative": 189
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-25",
+            "name": "Moray",
+            "cases": {
+                "daily": 4,
+                "cumulative": 187
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-24",
+            "name": "Moray",
+            "cases": {
+                "daily": 4,
+                "cumulative": 183
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-23",
+            "name": "Moray",
+            "cases": {
+                "daily": 2,
+                "cumulative": 179
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-22",
+            "name": "Moray",
+            "cases": {
+                "daily": 3,
+                "cumulative": 177
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-21",
+            "name": "Moray",
+            "cases": {
+                "daily": 3,
+                "cumulative": 174
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-20",
+            "name": "Moray",
+            "cases": {
+                "daily": 5,
+                "cumulative": 171
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-19",
+            "name": "Moray",
+            "cases": {
+                "daily": 2,
+                "cumulative": 166
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-18",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 164
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-17",
+            "name": "Moray",
+            "cases": {
+                "daily": 3,
+                "cumulative": 164
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-16",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 161
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-15",
+            "name": "Moray",
+            "cases": {
+                "daily": 3,
+                "cumulative": 161
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-14",
+            "name": "Moray",
+            "cases": {
+                "daily": 2,
+                "cumulative": 158
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-13",
+            "name": "Moray",
+            "cases": {
+                "daily": 4,
+                "cumulative": 156
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-12",
+            "name": "Moray",
+            "cases": {
+                "daily": 1,
+                "cumulative": 152
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-11",
+            "name": "Moray",
+            "cases": {
+                "daily": 2,
+                "cumulative": 151
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-10",
+            "name": "Moray",
+            "cases": {
+                "daily": 3,
+                "cumulative": 149
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-09",
+            "name": "Moray",
+            "cases": {
+                "daily": 4,
+                "cumulative": 146
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-08",
+            "name": "Moray",
+            "cases": {
+                "daily": 2,
+                "cumulative": 142
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-07",
+            "name": "Moray",
+            "cases": {
+                "daily": 1,
+                "cumulative": 140
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-06",
+            "name": "Moray",
+            "cases": {
+                "daily": 3,
+                "cumulative": 139
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-05",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 136
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-04",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 136
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-03",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 136
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-02",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 136
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-01",
+            "name": "Moray",
+            "cases": {
+                "daily": 2,
+                "cumulative": 136
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-30",
+            "name": "Moray",
+            "cases": {
+                "daily": 1,
+                "cumulative": 134
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-29",
+            "name": "Moray",
+            "cases": {
+                "daily": 1,
+                "cumulative": 133
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-28",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 132
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-27",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 132
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-26",
+            "name": "Moray",
+            "cases": {
+                "daily": 1,
+                "cumulative": 132
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-25",
+            "name": "Moray",
+            "cases": {
+                "daily": 1,
+                "cumulative": 131
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-24",
+            "name": "Moray",
+            "cases": {
+                "daily": 1,
+                "cumulative": 130
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-23",
+            "name": "Moray",
+            "cases": {
+                "daily": 1,
+                "cumulative": 129
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-22",
+            "name": "Moray",
+            "cases": {
+                "daily": 1,
+                "cumulative": 128
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-21",
+            "name": "Moray",
+            "cases": {
+                "daily": 1,
+                "cumulative": 127
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-20",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 126
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-19",
+            "name": "Moray",
+            "cases": {
+                "daily": 1,
+                "cumulative": 126
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-18",
+            "name": "Moray",
+            "cases": {
+                "daily": 2,
+                "cumulative": 125
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-17",
+            "name": "Moray",
+            "cases": {
+                "daily": 4,
+                "cumulative": 123
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-16",
+            "name": "Moray",
+            "cases": {
+                "daily": 2,
+                "cumulative": 119
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-15",
+            "name": "Moray",
+            "cases": {
+                "daily": 1,
+                "cumulative": 117
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-14",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 116
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-13",
+            "name": "Moray",
+            "cases": {
+                "daily": 1,
+                "cumulative": 116
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-12",
+            "name": "Moray",
+            "cases": {
+                "daily": 1,
+                "cumulative": 115
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-11",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 114
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-10",
+            "name": "Moray",
+            "cases": {
+                "daily": 2,
+                "cumulative": 114
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-09",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 112
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-08",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 112
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-07",
+            "name": "Moray",
+            "cases": {
+                "daily": 1,
+                "cumulative": 112
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-06",
+            "name": "Moray",
+            "cases": {
+                "daily": 1,
+                "cumulative": 111
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-05",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 110
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-04",
+            "name": "Moray",
+            "cases": {
+                "daily": 1,
+                "cumulative": 110
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-03",
+            "name": "Moray",
+            "cases": {
+                "daily": 3,
+                "cumulative": 109
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-02",
+            "name": "Moray",
+            "cases": {
+                "daily": 1,
+                "cumulative": 106
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-01",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 105
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-31",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 105
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-30",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 105
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-29",
+            "name": "Moray",
+            "cases": {
+                "daily": 1,
+                "cumulative": 105
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-28",
+            "name": "Moray",
+            "cases": {
+                "daily": 1,
+                "cumulative": 104
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-27",
+            "name": "Moray",
+            "cases": {
+                "daily": 2,
+                "cumulative": 103
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-26",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 101
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-25",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 101
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-24",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 101
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-23",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 101
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-22",
+            "name": "Moray",
+            "cases": {
+                "daily": 1,
+                "cumulative": 101
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-21",
+            "name": "Moray",
+            "cases": {
+                "daily": 2,
+                "cumulative": 100
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-20",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 98
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-19",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 98
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-18",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 98
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-17",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 98
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-16",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 98
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-15",
+            "name": "Moray",
+            "cases": {
+                "daily": 3,
+                "cumulative": 98
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-14",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 95
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-13",
+            "name": "Moray",
+            "cases": {
+                "daily": 1,
+                "cumulative": 95
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-12",
+            "name": "Moray",
+            "cases": {
+                "daily": 1,
+                "cumulative": 94
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-11",
+            "name": "Moray",
+            "cases": {
+                "daily": 1,
+                "cumulative": 93
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-10",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 92
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-09",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 92
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-08",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 92
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-07",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 92
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-06",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 92
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-05",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 92
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-04",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 92
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-03",
+            "name": "Moray",
+            "cases": {
+                "daily": 1,
+                "cumulative": 93
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-02",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 92
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-01",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 92
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-31",
+            "name": "Moray",
+            "cases": {
+                "daily": 2,
+                "cumulative": 92
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-30",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 90
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-29",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": 90
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-28",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-27",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-26",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-25",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-24",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-23",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-22",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-21",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-20",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-19",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-18",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-17",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-16",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-15",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-14",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-13",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-12",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-11",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-10",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-09",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-08",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-07",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-06",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-05",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-04",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-03",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-02",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-01",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-30",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-29",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-28",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-27",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-26",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-25",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-24",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-23",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-22",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-21",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-20",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-19",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-18",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-17",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-16",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-15",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-14",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-13",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-12",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-11",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-10",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-09",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-08",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-07",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-06",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-05",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-04",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-03",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-02",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-01",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-31",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-30",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-29",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-28",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-27",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-26",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-25",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-24",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-23",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-22",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-21",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-20",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-19",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-18",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-17",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-16",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-15",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-14",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-13",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-12",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-11",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-10",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-09",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-08",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-07",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-06",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-05",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-04",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-03",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-02",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-01",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-30",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-29",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-28",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-27",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-26",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-25",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-24",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-23",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-22",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-21",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-20",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-19",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-18",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-17",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-16",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-15",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-14",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-13",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-12",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-11",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-10",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-09",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-08",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-07",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-06",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-05",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-04",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-03",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-02",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-01",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-31",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-30",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-29",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-28",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-27",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-26",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-25",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-24",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-23",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-22",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-21",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-20",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-19",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-18",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-17",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-16",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-15",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-14",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-13",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-12",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-11",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-10",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-09",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-08",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-07",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-06",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-05",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-04",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-03",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-02",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-01",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-29",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-28",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-27",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-26",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-25",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-24",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-23",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-22",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-21",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-20",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-19",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-18",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-17",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-16",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-15",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-14",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-13",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-12",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-11",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-10",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-09",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-08",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-07",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-06",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-05",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-04",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-03",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-02",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-01",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-31",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-30",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-29",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-28",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-27",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-26",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-25",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-24",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-23",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-22",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-21",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-20",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-19",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-18",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-17",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-16",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-15",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-14",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-13",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-12",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-11",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-10",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-09",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-08",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-07",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-06",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-05",
+            "name": "Moray",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        }
+    ],
+    "pagination": {
+        "current": "/v1/data?filters=areaType%3Dutla%3BareaName%3DMoray&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "next": null,
+        "previous": null,
+        "first": "/v1/data?filters=areaType%3Dutla%3BareaName%3DMoray&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "last": "/v1/data?filters=areaType%3Dutla%3BareaName%3DMoray&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1"
+    }
+}

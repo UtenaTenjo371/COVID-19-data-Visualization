@@ -1,0 +1,4501 @@
+{
+    "length": 374,
+    "maxPageLimit": 2500,
+    "data": [
+        {
+            "date": "2021-01-10",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 117,
+                "cumulative": 18788
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-09",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 76,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 427
+            }
+        },
+        {
+            "date": "2021-01-08",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 125,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 427
+            }
+        },
+        {
+            "date": "2021-01-07",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 124,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 426
+            }
+        },
+        {
+            "date": "2021-01-06",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 132,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 425
+            }
+        },
+        {
+            "date": "2021-01-05",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 123,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 421
+            }
+        },
+        {
+            "date": "2021-01-04",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 153,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 421
+            }
+        },
+        {
+            "date": "2021-01-03",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 90,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 421
+            }
+        },
+        {
+            "date": "2021-01-02",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 137,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 420
+            }
+        },
+        {
+            "date": "2021-01-01",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 61,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 418
+            }
+        },
+        {
+            "date": "2020-12-31",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 100,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 417
+            }
+        },
+        {
+            "date": "2020-12-30",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 111,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 414
+            }
+        },
+        {
+            "date": "2020-12-29",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 66,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 412
+            }
+        },
+        {
+            "date": "2020-12-28",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 51,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 412
+            }
+        },
+        {
+            "date": "2020-12-27",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 46,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 409
+            }
+        },
+        {
+            "date": "2020-12-26",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 46,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 408
+            }
+        },
+        {
+            "date": "2020-12-25",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 80,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 403
+            }
+        },
+        {
+            "date": "2020-12-24",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 72,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 400
+            }
+        },
+        {
+            "date": "2020-12-23",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 73,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 400
+            }
+        },
+        {
+            "date": "2020-12-22",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 79,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 400
+            }
+        },
+        {
+            "date": "2020-12-21",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 96,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 396
+            }
+        },
+        {
+            "date": "2020-12-20",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 36,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 394
+            }
+        },
+        {
+            "date": "2020-12-19",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 39,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 390
+            }
+        },
+        {
+            "date": "2020-12-18",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 51,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 388
+            }
+        },
+        {
+            "date": "2020-12-17",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 62,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 385
+            }
+        },
+        {
+            "date": "2020-12-16",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 84,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 385
+            }
+        },
+        {
+            "date": "2020-12-15",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 51,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 385
+            }
+        },
+        {
+            "date": "2020-12-14",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 63,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 385
+            }
+        },
+        {
+            "date": "2020-12-13",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 58,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 384
+            }
+        },
+        {
+            "date": "2020-12-12",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 99,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 382
+            }
+        },
+        {
+            "date": "2020-12-11",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 73,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 380
+            }
+        },
+        {
+            "date": "2020-12-10",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 49,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 378
+            }
+        },
+        {
+            "date": "2020-12-09",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 61,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 375
+            }
+        },
+        {
+            "date": "2020-12-08",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 40,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 373
+            }
+        },
+        {
+            "date": "2020-12-07",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 36,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 370
+            }
+        },
+        {
+            "date": "2020-12-06",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 31,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 369
+            }
+        },
+        {
+            "date": "2020-12-05",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 50,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 369
+            }
+        },
+        {
+            "date": "2020-12-04",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 63,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 369
+            }
+        },
+        {
+            "date": "2020-12-03",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 60,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 367
+            }
+        },
+        {
+            "date": "2020-12-02",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 61,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 364
+            }
+        },
+        {
+            "date": "2020-12-01",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 50,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 360
+            }
+        },
+        {
+            "date": "2020-11-30",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 55,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 357
+            }
+        },
+        {
+            "date": "2020-11-29",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 62,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 356
+            }
+        },
+        {
+            "date": "2020-11-28",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 75,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 354
+            }
+        },
+        {
+            "date": "2020-11-27",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 96,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 352
+            }
+        },
+        {
+            "date": "2020-11-26",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 88,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 351
+            }
+        },
+        {
+            "date": "2020-11-25",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 108,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 349
+            }
+        },
+        {
+            "date": "2020-11-24",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 72,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 345
+            }
+        },
+        {
+            "date": "2020-11-23",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 63,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 341
+            }
+        },
+        {
+            "date": "2020-11-22",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 103,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 333
+            }
+        },
+        {
+            "date": "2020-11-21",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 148,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 330
+            }
+        },
+        {
+            "date": "2020-11-20",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 151,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 327
+            }
+        },
+        {
+            "date": "2020-11-19",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 163,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 323
+            }
+        },
+        {
+            "date": "2020-11-18",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 194,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 322
+            }
+        },
+        {
+            "date": "2020-11-17",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 152,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 317
+            }
+        },
+        {
+            "date": "2020-11-16",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 2845,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 313
+            }
+        },
+        {
+            "date": "2020-11-15",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 196,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 311
+            }
+        },
+        {
+            "date": "2020-11-14",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 194,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 309
+            }
+        },
+        {
+            "date": "2020-11-13",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 220,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 307
+            }
+        },
+        {
+            "date": "2020-11-12",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 247,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 305
+            }
+        },
+        {
+            "date": "2020-11-11",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 158,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 304
+            }
+        },
+        {
+            "date": "2020-11-10",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 171,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 299
+            }
+        },
+        {
+            "date": "2020-11-09",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 146,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 297
+            }
+        },
+        {
+            "date": "2020-11-08",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 187,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 295
+            }
+        },
+        {
+            "date": "2020-11-07",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 147,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 293
+            }
+        },
+        {
+            "date": "2020-11-06",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 162,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 292
+            }
+        },
+        {
+            "date": "2020-11-05",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 179,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 289
+            }
+        },
+        {
+            "date": "2020-11-04",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 169,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 287
+            }
+        },
+        {
+            "date": "2020-11-03",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 132,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 283
+            }
+        },
+        {
+            "date": "2020-11-02",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 119,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 281
+            }
+        },
+        {
+            "date": "2020-11-01",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 126,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 278
+            }
+        },
+        {
+            "date": "2020-10-31",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 123,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 277
+            }
+        },
+        {
+            "date": "2020-10-30",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 94,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 276
+            }
+        },
+        {
+            "date": "2020-10-29",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 144,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 272
+            }
+        },
+        {
+            "date": "2020-10-28",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 134,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 270
+            }
+        },
+        {
+            "date": "2020-10-27",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 144,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 269
+            }
+        },
+        {
+            "date": "2020-10-26",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 107,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 268
+            }
+        },
+        {
+            "date": "2020-10-25",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 122,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 268
+            }
+        },
+        {
+            "date": "2020-10-24",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 137,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 266
+            }
+        },
+        {
+            "date": "2020-10-23",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 138,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 264
+            }
+        },
+        {
+            "date": "2020-10-22",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 168,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 264
+            }
+        },
+        {
+            "date": "2020-10-21",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 236,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 260
+            }
+        },
+        {
+            "date": "2020-10-20",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 133,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 260
+            }
+        },
+        {
+            "date": "2020-10-19",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 96,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 257
+            }
+        },
+        {
+            "date": "2020-10-18",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 81,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 255
+            }
+        },
+        {
+            "date": "2020-10-17",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 120,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 252
+            }
+        },
+        {
+            "date": "2020-10-16",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 167,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 252
+            }
+        },
+        {
+            "date": "2020-10-15",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 153,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 252
+            }
+        },
+        {
+            "date": "2020-10-14",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 181,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 252
+            }
+        },
+        {
+            "date": "2020-10-13",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 159,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 251
+            }
+        },
+        {
+            "date": "2020-10-12",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 176,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 250
+            }
+        },
+        {
+            "date": "2020-10-11",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 190,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 249
+            }
+        },
+        {
+            "date": "2020-10-10",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 175,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 246
+            }
+        },
+        {
+            "date": "2020-10-09",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 187,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 244
+            }
+        },
+        {
+            "date": "2020-10-08",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 303,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 244
+            }
+        },
+        {
+            "date": "2020-10-07",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 217,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 242
+            }
+        },
+        {
+            "date": "2020-10-06",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 274,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 242
+            }
+        },
+        {
+            "date": "2020-10-05",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 243,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 240
+            }
+        },
+        {
+            "date": "2020-10-04",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 625,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 237
+            }
+        },
+        {
+            "date": "2020-10-03",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 176,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 236
+            }
+        },
+        {
+            "date": "2020-10-02",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 76,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 233
+            }
+        },
+        {
+            "date": "2020-10-01",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 67,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 230
+            }
+        },
+        {
+            "date": "2020-09-30",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 122,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 229
+            }
+        },
+        {
+            "date": "2020-09-29",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 169,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 229
+            }
+        },
+        {
+            "date": "2020-09-28",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 76,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 228
+            }
+        },
+        {
+            "date": "2020-09-27",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 86,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 228
+            }
+        },
+        {
+            "date": "2020-09-26",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 97,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 227
+            }
+        },
+        {
+            "date": "2020-09-25",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 119,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 227
+            }
+        },
+        {
+            "date": "2020-09-24",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 92,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 226
+            }
+        },
+        {
+            "date": "2020-09-23",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 139,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 226
+            }
+        },
+        {
+            "date": "2020-09-22",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 119,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 226
+            }
+        },
+        {
+            "date": "2020-09-21",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 90,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 226
+            }
+        },
+        {
+            "date": "2020-09-20",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 92,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 226
+            }
+        },
+        {
+            "date": "2020-09-19",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 57,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 224
+            }
+        },
+        {
+            "date": "2020-09-18",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 50,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 224
+            }
+        },
+        {
+            "date": "2020-09-17",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 46,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 223
+            }
+        },
+        {
+            "date": "2020-09-16",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 51,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 221
+            }
+        },
+        {
+            "date": "2020-09-15",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 38,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 221
+            }
+        },
+        {
+            "date": "2020-09-14",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 220
+            }
+        },
+        {
+            "date": "2020-09-13",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 21,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 220
+            }
+        },
+        {
+            "date": "2020-09-12",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 34,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 220
+            }
+        },
+        {
+            "date": "2020-09-11",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 23,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 220
+            }
+        },
+        {
+            "date": "2020-09-10",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 36,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 220
+            }
+        },
+        {
+            "date": "2020-09-09",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 28,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 220
+            }
+        },
+        {
+            "date": "2020-09-08",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 220
+            }
+        },
+        {
+            "date": "2020-09-07",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 35,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 220
+            }
+        },
+        {
+            "date": "2020-09-06",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 34,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 220
+            }
+        },
+        {
+            "date": "2020-09-05",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 219
+            }
+        },
+        {
+            "date": "2020-09-04",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 17,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 219
+            }
+        },
+        {
+            "date": "2020-09-03",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 219
+            }
+        },
+        {
+            "date": "2020-09-02",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 219
+            }
+        },
+        {
+            "date": "2020-09-01",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 219
+            }
+        },
+        {
+            "date": "2020-08-31",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 219
+            }
+        },
+        {
+            "date": "2020-08-30",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 218
+            }
+        },
+        {
+            "date": "2020-08-29",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 218
+            }
+        },
+        {
+            "date": "2020-08-28",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 217
+            }
+        },
+        {
+            "date": "2020-08-27",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 216
+            }
+        },
+        {
+            "date": "2020-08-26",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 215
+            }
+        },
+        {
+            "date": "2020-08-25",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 215
+            }
+        },
+        {
+            "date": "2020-08-24",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 214
+            }
+        },
+        {
+            "date": "2020-08-23",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 214
+            }
+        },
+        {
+            "date": "2020-08-22",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 214
+            }
+        },
+        {
+            "date": "2020-08-21",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 214
+            }
+        },
+        {
+            "date": "2020-08-20",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 213
+            }
+        },
+        {
+            "date": "2020-08-19",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 212
+            }
+        },
+        {
+            "date": "2020-08-18",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 211
+            }
+        },
+        {
+            "date": "2020-08-17",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 211
+            }
+        },
+        {
+            "date": "2020-08-16",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 210
+            }
+        },
+        {
+            "date": "2020-08-15",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 210
+            }
+        },
+        {
+            "date": "2020-08-14",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 20,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 209
+            }
+        },
+        {
+            "date": "2020-08-13",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 209
+            }
+        },
+        {
+            "date": "2020-08-12",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 208
+            }
+        },
+        {
+            "date": "2020-08-11",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 208
+            }
+        },
+        {
+            "date": "2020-08-10",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 207
+            }
+        },
+        {
+            "date": "2020-08-09",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 207
+            }
+        },
+        {
+            "date": "2020-08-08",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 206
+            }
+        },
+        {
+            "date": "2020-08-07",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 206
+            }
+        },
+        {
+            "date": "2020-08-06",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 204
+            }
+        },
+        {
+            "date": "2020-08-05",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 204
+            }
+        },
+        {
+            "date": "2020-08-04",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 204
+            }
+        },
+        {
+            "date": "2020-08-03",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 204
+            }
+        },
+        {
+            "date": "2020-08-02",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 203
+            }
+        },
+        {
+            "date": "2020-08-01",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 203
+            }
+        },
+        {
+            "date": "2020-07-31",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 202
+            }
+        },
+        {
+            "date": "2020-07-30",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 202
+            }
+        },
+        {
+            "date": "2020-07-29",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 202
+            }
+        },
+        {
+            "date": "2020-07-28",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 202
+            }
+        },
+        {
+            "date": "2020-07-27",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 202
+            }
+        },
+        {
+            "date": "2020-07-26",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 202
+            }
+        },
+        {
+            "date": "2020-07-25",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 202
+            }
+        },
+        {
+            "date": "2020-07-24",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 202
+            }
+        },
+        {
+            "date": "2020-07-23",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 202
+            }
+        },
+        {
+            "date": "2020-07-22",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 202
+            }
+        },
+        {
+            "date": "2020-07-21",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 202
+            }
+        },
+        {
+            "date": "2020-07-20",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 202
+            }
+        },
+        {
+            "date": "2020-07-19",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 202
+            }
+        },
+        {
+            "date": "2020-07-18",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 202
+            }
+        },
+        {
+            "date": "2020-07-17",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 201
+            }
+        },
+        {
+            "date": "2020-07-16",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 200
+            }
+        },
+        {
+            "date": "2020-07-15",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 200
+            }
+        },
+        {
+            "date": "2020-07-14",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 199
+            }
+        },
+        {
+            "date": "2020-07-13",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 199
+            }
+        },
+        {
+            "date": "2020-07-12",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 199
+            }
+        },
+        {
+            "date": "2020-07-11",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 199
+            }
+        },
+        {
+            "date": "2020-07-10",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 198
+            }
+        },
+        {
+            "date": "2020-07-09",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 197
+            }
+        },
+        {
+            "date": "2020-07-08",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 197
+            }
+        },
+        {
+            "date": "2020-07-07",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 197
+            }
+        },
+        {
+            "date": "2020-07-06",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 197
+            }
+        },
+        {
+            "date": "2020-07-05",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 197
+            }
+        },
+        {
+            "date": "2020-07-04",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 196
+            }
+        },
+        {
+            "date": "2020-07-03",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 196
+            }
+        },
+        {
+            "date": "2020-07-02",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 196
+            }
+        },
+        {
+            "date": "2020-07-01",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 432,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 196
+            }
+        },
+        {
+            "date": "2020-06-30",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 195
+            }
+        },
+        {
+            "date": "2020-06-29",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 194
+            }
+        },
+        {
+            "date": "2020-06-28",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 194
+            }
+        },
+        {
+            "date": "2020-06-27",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 194
+            }
+        },
+        {
+            "date": "2020-06-26",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 194
+            }
+        },
+        {
+            "date": "2020-06-25",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 193
+            }
+        },
+        {
+            "date": "2020-06-24",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 192
+            }
+        },
+        {
+            "date": "2020-06-23",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 192
+            }
+        },
+        {
+            "date": "2020-06-22",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 192
+            }
+        },
+        {
+            "date": "2020-06-21",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 192
+            }
+        },
+        {
+            "date": "2020-06-20",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 192
+            }
+        },
+        {
+            "date": "2020-06-19",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 192
+            }
+        },
+        {
+            "date": "2020-06-18",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 191
+            }
+        },
+        {
+            "date": "2020-06-17",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 189
+            }
+        },
+        {
+            "date": "2020-06-16",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 189
+            }
+        },
+        {
+            "date": "2020-06-15",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 189
+            }
+        },
+        {
+            "date": "2020-06-14",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 189
+            }
+        },
+        {
+            "date": "2020-06-13",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 189
+            }
+        },
+        {
+            "date": "2020-06-12",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 189
+            }
+        },
+        {
+            "date": "2020-06-11",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 188
+            }
+        },
+        {
+            "date": "2020-06-10",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 188
+            }
+        },
+        {
+            "date": "2020-06-09",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 188
+            }
+        },
+        {
+            "date": "2020-06-08",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 184
+            }
+        },
+        {
+            "date": "2020-06-07",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 183
+            }
+        },
+        {
+            "date": "2020-06-06",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 182
+            }
+        },
+        {
+            "date": "2020-06-05",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 181
+            }
+        },
+        {
+            "date": "2020-06-04",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 180
+            }
+        },
+        {
+            "date": "2020-06-03",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 179
+            }
+        },
+        {
+            "date": "2020-06-02",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 178
+            }
+        },
+        {
+            "date": "2020-06-01",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 177
+            }
+        },
+        {
+            "date": "2020-05-31",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 177
+            }
+        },
+        {
+            "date": "2020-05-30",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 174
+            }
+        },
+        {
+            "date": "2020-05-29",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 173
+            }
+        },
+        {
+            "date": "2020-05-28",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 170
+            }
+        },
+        {
+            "date": "2020-05-27",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 167
+            }
+        },
+        {
+            "date": "2020-05-26",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 165
+            }
+        },
+        {
+            "date": "2020-05-25",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 162
+            }
+        },
+        {
+            "date": "2020-05-24",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 162
+            }
+        },
+        {
+            "date": "2020-05-23",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 161
+            }
+        },
+        {
+            "date": "2020-05-22",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 161
+            }
+        },
+        {
+            "date": "2020-05-21",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 158
+            }
+        },
+        {
+            "date": "2020-05-20",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 155
+            }
+        },
+        {
+            "date": "2020-05-19",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 152
+            }
+        },
+        {
+            "date": "2020-05-18",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 152
+            }
+        },
+        {
+            "date": "2020-05-17",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 149
+            }
+        },
+        {
+            "date": "2020-05-16",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 145
+            }
+        },
+        {
+            "date": "2020-05-15",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 142
+            }
+        },
+        {
+            "date": "2020-05-14",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 141
+            }
+        },
+        {
+            "date": "2020-05-13",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 137
+            }
+        },
+        {
+            "date": "2020-05-12",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 136
+            }
+        },
+        {
+            "date": "2020-05-11",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 131
+            }
+        },
+        {
+            "date": "2020-05-10",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 129
+            }
+        },
+        {
+            "date": "2020-05-09",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 128
+            }
+        },
+        {
+            "date": "2020-05-08",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 127
+            }
+        },
+        {
+            "date": "2020-05-07",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 127
+            }
+        },
+        {
+            "date": "2020-05-06",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 125
+            }
+        },
+        {
+            "date": "2020-05-05",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 123
+            }
+        },
+        {
+            "date": "2020-05-04",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 122
+            }
+        },
+        {
+            "date": "2020-05-03",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 122
+            }
+        },
+        {
+            "date": "2020-05-02",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 29,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 119
+            }
+        },
+        {
+            "date": "2020-05-01",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 113
+            }
+        },
+        {
+            "date": "2020-04-30",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 32,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 110
+            }
+        },
+        {
+            "date": "2020-04-29",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 107
+            }
+        },
+        {
+            "date": "2020-04-28",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 104
+            }
+        },
+        {
+            "date": "2020-04-27",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 101
+            }
+        },
+        {
+            "date": "2020-04-26",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 100
+            }
+        },
+        {
+            "date": "2020-04-25",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 21,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 98
+            }
+        },
+        {
+            "date": "2020-04-24",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 94
+            }
+        },
+        {
+            "date": "2020-04-23",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 92
+            }
+        },
+        {
+            "date": "2020-04-22",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 28,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 89
+            }
+        },
+        {
+            "date": "2020-04-21",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 88
+            }
+        },
+        {
+            "date": "2020-04-20",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 87
+            }
+        },
+        {
+            "date": "2020-04-19",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 84
+            }
+        },
+        {
+            "date": "2020-04-18",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 83
+            }
+        },
+        {
+            "date": "2020-04-17",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 32,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 78
+            }
+        },
+        {
+            "date": "2020-04-16",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 70
+            }
+        },
+        {
+            "date": "2020-04-15",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 69
+            }
+        },
+        {
+            "date": "2020-04-14",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 68
+            }
+        },
+        {
+            "date": "2020-04-13",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 66
+            }
+        },
+        {
+            "date": "2020-04-12",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 60
+            }
+        },
+        {
+            "date": "2020-04-11",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 57
+            }
+        },
+        {
+            "date": "2020-04-10",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 54
+            }
+        },
+        {
+            "date": "2020-04-09",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 45
+            }
+        },
+        {
+            "date": "2020-04-08",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 40
+            }
+        },
+        {
+            "date": "2020-04-07",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 36
+            }
+        },
+        {
+            "date": "2020-04-06",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 33
+            }
+        },
+        {
+            "date": "2020-04-05",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 29
+            }
+        },
+        {
+            "date": "2020-04-04",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 25
+            }
+        },
+        {
+            "date": "2020-04-03",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 21
+            }
+        },
+        {
+            "date": "2020-04-02",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 17
+            }
+        },
+        {
+            "date": "2020-04-01",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 15
+            }
+        },
+        {
+            "date": "2020-03-31",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 11
+            }
+        },
+        {
+            "date": "2020-03-30",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 9
+            }
+        },
+        {
+            "date": "2020-03-29",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 6
+            }
+        },
+        {
+            "date": "2020-03-28",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 5
+            }
+        },
+        {
+            "date": "2020-03-27",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 5
+            }
+        },
+        {
+            "date": "2020-03-26",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 5
+            }
+        },
+        {
+            "date": "2020-03-25",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 4
+            }
+        },
+        {
+            "date": "2020-03-24",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 4
+            }
+        },
+        {
+            "date": "2020-03-23",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 4
+            }
+        },
+        {
+            "date": "2020-03-22",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 4
+            }
+        },
+        {
+            "date": "2020-03-21",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 2
+            }
+        },
+        {
+            "date": "2020-03-20",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-19",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-18",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-17",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-16",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-15",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-14",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-13",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-12",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-11",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-10",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-09",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-08",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-07",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-06",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-05",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-04",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-03",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-02",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-01",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-29",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-28",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-27",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-26",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-25",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-24",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-23",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-22",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-21",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-20",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-19",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-18",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-17",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-16",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-15",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-14",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-13",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-12",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-11",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-10",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-09",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-08",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-07",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-06",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-05",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-04",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-03",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-02",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-01",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-31",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-30",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-29",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-28",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-27",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-26",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-25",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-24",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-23",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-22",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-21",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-20",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-19",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-18",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-17",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-16",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-15",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-14",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-13",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-12",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-11",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-10",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-09",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-08",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-07",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-06",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-05",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-04",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-03",
+            "name": "Newcastle upon Tyne",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        }
+    ],
+    "pagination": {
+        "current": "/v1/data?filters=areaType%3Dutla%3BareaName%3DNewcastle+upon+Tyne&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "next": null,
+        "previous": null,
+        "first": "/v1/data?filters=areaType%3Dutla%3BareaName%3DNewcastle+upon+Tyne&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "last": "/v1/data?filters=areaType%3Dutla%3BareaName%3DNewcastle+upon+Tyne&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1"
+    }
+}

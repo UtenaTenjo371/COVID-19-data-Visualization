@@ -1,0 +1,4477 @@
+{
+    "length": 372,
+    "maxPageLimit": 2500,
+    "data": [
+        {
+            "date": "2021-01-10",
+            "name": "Stirling",
+            "cases": {
+                "daily": 17,
+                "cumulative": 1956
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-09",
+            "name": "Stirling",
+            "cases": {
+                "daily": 19,
+                "cumulative": 1939
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-08",
+            "name": "Stirling",
+            "cases": {
+                "daily": 33,
+                "cumulative": 1920
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-07",
+            "name": "Stirling",
+            "cases": {
+                "daily": 37,
+                "cumulative": 1887
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-06",
+            "name": "Stirling",
+            "cases": {
+                "daily": 14,
+                "cumulative": 1850
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-05",
+            "name": "Stirling",
+            "cases": {
+                "daily": 90,
+                "cumulative": 1836
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-04",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": 1746
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-03",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": 1746
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-02",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": 1746
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-01",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": 1746
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-31",
+            "name": "Stirling",
+            "cases": {
+                "daily": 17,
+                "cumulative": 1746
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-30",
+            "name": "Stirling",
+            "cases": {
+                "daily": 20,
+                "cumulative": 1729
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-29",
+            "name": "Stirling",
+            "cases": {
+                "daily": 78,
+                "cumulative": 1709
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-28",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": 1631
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-27",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": 1631
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-26",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": 1631
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-25",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": 1631
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-24",
+            "name": "Stirling",
+            "cases": {
+                "daily": 8,
+                "cumulative": 1631
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-23",
+            "name": "Stirling",
+            "cases": {
+                "daily": 24,
+                "cumulative": 1623
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-22",
+            "name": "Stirling",
+            "cases": {
+                "daily": 13,
+                "cumulative": 1599
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-21",
+            "name": "Stirling",
+            "cases": {
+                "daily": 27,
+                "cumulative": 1586
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-20",
+            "name": "Stirling",
+            "cases": {
+                "daily": 11,
+                "cumulative": 1559
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-19",
+            "name": "Stirling",
+            "cases": {
+                "daily": 7,
+                "cumulative": 1548
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-18",
+            "name": "Stirling",
+            "cases": {
+                "daily": 11,
+                "cumulative": 1541
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-17",
+            "name": "Stirling",
+            "cases": {
+                "daily": 11,
+                "cumulative": 1530
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-16",
+            "name": "Stirling",
+            "cases": {
+                "daily": 6,
+                "cumulative": 1519
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-15",
+            "name": "Stirling",
+            "cases": {
+                "daily": 16,
+                "cumulative": 1513
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-14",
+            "name": "Stirling",
+            "cases": {
+                "daily": 4,
+                "cumulative": 1497
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-13",
+            "name": "Stirling",
+            "cases": {
+                "daily": 3,
+                "cumulative": 1493
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-12",
+            "name": "Stirling",
+            "cases": {
+                "daily": 12,
+                "cumulative": 1490
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-11",
+            "name": "Stirling",
+            "cases": {
+                "daily": 11,
+                "cumulative": 1478
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-10",
+            "name": "Stirling",
+            "cases": {
+                "daily": 20,
+                "cumulative": 1467
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-09",
+            "name": "Stirling",
+            "cases": {
+                "daily": 9,
+                "cumulative": 1447
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-08",
+            "name": "Stirling",
+            "cases": {
+                "daily": 20,
+                "cumulative": 1438
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-07",
+            "name": "Stirling",
+            "cases": {
+                "daily": 13,
+                "cumulative": 1418
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-06",
+            "name": "Stirling",
+            "cases": {
+                "daily": 6,
+                "cumulative": 1405
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-05",
+            "name": "Stirling",
+            "cases": {
+                "daily": 7,
+                "cumulative": 1399
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-04",
+            "name": "Stirling",
+            "cases": {
+                "daily": 10,
+                "cumulative": 1392
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-03",
+            "name": "Stirling",
+            "cases": {
+                "daily": 13,
+                "cumulative": 1382
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-02",
+            "name": "Stirling",
+            "cases": {
+                "daily": 15,
+                "cumulative": 1369
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-01",
+            "name": "Stirling",
+            "cases": {
+                "daily": 14,
+                "cumulative": 1354
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-30",
+            "name": "Stirling",
+            "cases": {
+                "daily": 1,
+                "cumulative": 1340
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-29",
+            "name": "Stirling",
+            "cases": {
+                "daily": 19,
+                "cumulative": 1339
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-28",
+            "name": "Stirling",
+            "cases": {
+                "daily": 17,
+                "cumulative": 1320
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-27",
+            "name": "Stirling",
+            "cases": {
+                "daily": 51,
+                "cumulative": 1303
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-26",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": 1252
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-25",
+            "name": "Stirling",
+            "cases": {
+                "daily": 14,
+                "cumulative": 1252
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-24",
+            "name": "Stirling",
+            "cases": {
+                "daily": 22,
+                "cumulative": 1238
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-23",
+            "name": "Stirling",
+            "cases": {
+                "daily": 17,
+                "cumulative": 1216
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-22",
+            "name": "Stirling",
+            "cases": {
+                "daily": 11,
+                "cumulative": 1199
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-21",
+            "name": "Stirling",
+            "cases": {
+                "daily": 18,
+                "cumulative": 1188
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-20",
+            "name": "Stirling",
+            "cases": {
+                "daily": 27,
+                "cumulative": 1170
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-19",
+            "name": "Stirling",
+            "cases": {
+                "daily": 21,
+                "cumulative": 1143
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-18",
+            "name": "Stirling",
+            "cases": {
+                "daily": 24,
+                "cumulative": 1122
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-17",
+            "name": "Stirling",
+            "cases": {
+                "daily": 37,
+                "cumulative": 1098
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-16",
+            "name": "Stirling",
+            "cases": {
+                "daily": 30,
+                "cumulative": 1061
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-15",
+            "name": "Stirling",
+            "cases": {
+                "daily": 41,
+                "cumulative": 1031
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-14",
+            "name": "Stirling",
+            "cases": {
+                "daily": 31,
+                "cumulative": 990
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-13",
+            "name": "Stirling",
+            "cases": {
+                "daily": 29,
+                "cumulative": 959
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-12",
+            "name": "Stirling",
+            "cases": {
+                "daily": 12,
+                "cumulative": 930
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-11",
+            "name": "Stirling",
+            "cases": {
+                "daily": 22,
+                "cumulative": 918
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-10",
+            "name": "Stirling",
+            "cases": {
+                "daily": 14,
+                "cumulative": 896
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-09",
+            "name": "Stirling",
+            "cases": {
+                "daily": 11,
+                "cumulative": 882
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-08",
+            "name": "Stirling",
+            "cases": {
+                "daily": 25,
+                "cumulative": 871
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-07",
+            "name": "Stirling",
+            "cases": {
+                "daily": 35,
+                "cumulative": 846
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-06",
+            "name": "Stirling",
+            "cases": {
+                "daily": 14,
+                "cumulative": 811
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-05",
+            "name": "Stirling",
+            "cases": {
+                "daily": 38,
+                "cumulative": 797
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-04",
+            "name": "Stirling",
+            "cases": {
+                "daily": 13,
+                "cumulative": 759
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-03",
+            "name": "Stirling",
+            "cases": {
+                "daily": 7,
+                "cumulative": 746
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-02",
+            "name": "Stirling",
+            "cases": {
+                "daily": 10,
+                "cumulative": 739
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-01",
+            "name": "Stirling",
+            "cases": {
+                "daily": 21,
+                "cumulative": 729
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-31",
+            "name": "Stirling",
+            "cases": {
+                "daily": 13,
+                "cumulative": 708
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-30",
+            "name": "Stirling",
+            "cases": {
+                "daily": 12,
+                "cumulative": 695
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-29",
+            "name": "Stirling",
+            "cases": {
+                "daily": 1,
+                "cumulative": 683
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-28",
+            "name": "Stirling",
+            "cases": {
+                "daily": 7,
+                "cumulative": 682
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-27",
+            "name": "Stirling",
+            "cases": {
+                "daily": 9,
+                "cumulative": 675
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-26",
+            "name": "Stirling",
+            "cases": {
+                "daily": 7,
+                "cumulative": 666
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-25",
+            "name": "Stirling",
+            "cases": {
+                "daily": 12,
+                "cumulative": 659
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-24",
+            "name": "Stirling",
+            "cases": {
+                "daily": 16,
+                "cumulative": 647
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-23",
+            "name": "Stirling",
+            "cases": {
+                "daily": 7,
+                "cumulative": 631
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-22",
+            "name": "Stirling",
+            "cases": {
+                "daily": 21,
+                "cumulative": 624
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-21",
+            "name": "Stirling",
+            "cases": {
+                "daily": 26,
+                "cumulative": 603
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-20",
+            "name": "Stirling",
+            "cases": {
+                "daily": 11,
+                "cumulative": 577
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-19",
+            "name": "Stirling",
+            "cases": {
+                "daily": 7,
+                "cumulative": 566
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-18",
+            "name": "Stirling",
+            "cases": {
+                "daily": 1,
+                "cumulative": 559
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-17",
+            "name": "Stirling",
+            "cases": {
+                "daily": 6,
+                "cumulative": 558
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-16",
+            "name": "Stirling",
+            "cases": {
+                "daily": 9,
+                "cumulative": 552
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-15",
+            "name": "Stirling",
+            "cases": {
+                "daily": 14,
+                "cumulative": 543
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-14",
+            "name": "Stirling",
+            "cases": {
+                "daily": 15,
+                "cumulative": 529
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-13",
+            "name": "Stirling",
+            "cases": {
+                "daily": 12,
+                "cumulative": 514
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-12",
+            "name": "Stirling",
+            "cases": {
+                "daily": 9,
+                "cumulative": 502
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-11",
+            "name": "Stirling",
+            "cases": {
+                "daily": 20,
+                "cumulative": 493
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-10",
+            "name": "Stirling",
+            "cases": {
+                "daily": 9,
+                "cumulative": 473
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-09",
+            "name": "Stirling",
+            "cases": {
+                "daily": 15,
+                "cumulative": 464
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-08",
+            "name": "Stirling",
+            "cases": {
+                "daily": 5,
+                "cumulative": 449
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-07",
+            "name": "Stirling",
+            "cases": {
+                "daily": 11,
+                "cumulative": 444
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-06",
+            "name": "Stirling",
+            "cases": {
+                "daily": 9,
+                "cumulative": 433
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-05",
+            "name": "Stirling",
+            "cases": {
+                "daily": 4,
+                "cumulative": 424
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-04",
+            "name": "Stirling",
+            "cases": {
+                "daily": 8,
+                "cumulative": 420
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-03",
+            "name": "Stirling",
+            "cases": {
+                "daily": 9,
+                "cumulative": 412
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-02",
+            "name": "Stirling",
+            "cases": {
+                "daily": 10,
+                "cumulative": 403
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-01",
+            "name": "Stirling",
+            "cases": {
+                "daily": 7,
+                "cumulative": 393
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-30",
+            "name": "Stirling",
+            "cases": {
+                "daily": 16,
+                "cumulative": 386
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-29",
+            "name": "Stirling",
+            "cases": {
+                "daily": 7,
+                "cumulative": 370
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-28",
+            "name": "Stirling",
+            "cases": {
+                "daily": 7,
+                "cumulative": 363
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-27",
+            "name": "Stirling",
+            "cases": {
+                "daily": 4,
+                "cumulative": 356
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-26",
+            "name": "Stirling",
+            "cases": {
+                "daily": 11,
+                "cumulative": 352
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-25",
+            "name": "Stirling",
+            "cases": {
+                "daily": 6,
+                "cumulative": 341
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-24",
+            "name": "Stirling",
+            "cases": {
+                "daily": 6,
+                "cumulative": 335
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-23",
+            "name": "Stirling",
+            "cases": {
+                "daily": 7,
+                "cumulative": 329
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-22",
+            "name": "Stirling",
+            "cases": {
+                "daily": 12,
+                "cumulative": 322
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-21",
+            "name": "Stirling",
+            "cases": {
+                "daily": 11,
+                "cumulative": 310
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-20",
+            "name": "Stirling",
+            "cases": {
+                "daily": 6,
+                "cumulative": 299
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-19",
+            "name": "Stirling",
+            "cases": {
+                "daily": 3,
+                "cumulative": 293
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-18",
+            "name": "Stirling",
+            "cases": {
+                "daily": 4,
+                "cumulative": 290
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-17",
+            "name": "Stirling",
+            "cases": {
+                "daily": 3,
+                "cumulative": 286
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-16",
+            "name": "Stirling",
+            "cases": {
+                "daily": 5,
+                "cumulative": 283
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-15",
+            "name": "Stirling",
+            "cases": {
+                "daily": 3,
+                "cumulative": 278
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-14",
+            "name": "Stirling",
+            "cases": {
+                "daily": 1,
+                "cumulative": 275
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-13",
+            "name": "Stirling",
+            "cases": {
+                "daily": 3,
+                "cumulative": 274
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-12",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": 271
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-11",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": 271
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-10",
+            "name": "Stirling",
+            "cases": {
+                "daily": 1,
+                "cumulative": 271
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-09",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": 270
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-08",
+            "name": "Stirling",
+            "cases": {
+                "daily": 2,
+                "cumulative": 270
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-07",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": 268
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-06",
+            "name": "Stirling",
+            "cases": {
+                "daily": 8,
+                "cumulative": 268
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-05",
+            "name": "Stirling",
+            "cases": {
+                "daily": 6,
+                "cumulative": 260
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-04",
+            "name": "Stirling",
+            "cases": {
+                "daily": 4,
+                "cumulative": 254
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-03",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": 250
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-02",
+            "name": "Stirling",
+            "cases": {
+                "daily": 4,
+                "cumulative": 250
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-01",
+            "name": "Stirling",
+            "cases": {
+                "daily": 1,
+                "cumulative": 246
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-31",
+            "name": "Stirling",
+            "cases": {
+                "daily": 2,
+                "cumulative": 245
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-30",
+            "name": "Stirling",
+            "cases": {
+                "daily": 4,
+                "cumulative": 243
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-29",
+            "name": "Stirling",
+            "cases": {
+                "daily": 1,
+                "cumulative": 239
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-28",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": 238
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-27",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": 238
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-26",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": 238
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-25",
+            "name": "Stirling",
+            "cases": {
+                "daily": 1,
+                "cumulative": 238
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-24",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": 237
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-23",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": 238
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-22",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": 238
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-21",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": 238
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-20",
+            "name": "Stirling",
+            "cases": {
+                "daily": 1,
+                "cumulative": 238
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-19",
+            "name": "Stirling",
+            "cases": {
+                "daily": 1,
+                "cumulative": 237
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-18",
+            "name": "Stirling",
+            "cases": {
+                "daily": 1,
+                "cumulative": 236
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-17",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": 235
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-16",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": 235
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-15",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": 235
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-14",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": 235
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-13",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": 235
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-12",
+            "name": "Stirling",
+            "cases": {
+                "daily": 1,
+                "cumulative": 235
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-11",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": 234
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-10",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": 234
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-09",
+            "name": "Stirling",
+            "cases": {
+                "daily": 2,
+                "cumulative": 235
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-08",
+            "name": "Stirling",
+            "cases": {
+                "daily": 1,
+                "cumulative": 233
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-07",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": 232
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-06",
+            "name": "Stirling",
+            "cases": {
+                "daily": 1,
+                "cumulative": 232
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-05",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": 231
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-04",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": 231
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-03",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": 232
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-02",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": 232
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-01",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": 232
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-31",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": 232
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-30",
+            "name": "Stirling",
+            "cases": {
+                "daily": 1,
+                "cumulative": 232
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-29",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": 231
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-28",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-27",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-26",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-25",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-24",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-23",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-22",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-21",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-20",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-19",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-18",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-17",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-16",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-15",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-14",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-13",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-12",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-11",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-10",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-09",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-08",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-07",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-06",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-05",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-04",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-03",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-02",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-01",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-30",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-29",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-28",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-27",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-26",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-25",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-24",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-23",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-22",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-21",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-20",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-19",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-18",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-17",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-16",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-15",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-14",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-13",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-12",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-11",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-10",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-09",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-08",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-07",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-06",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-05",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-04",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-03",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-02",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-01",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-31",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-30",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-29",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-28",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-27",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-26",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-25",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-24",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-23",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-22",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-21",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-20",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-19",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-18",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-17",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-16",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-15",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-14",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-13",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-12",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-11",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-10",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-09",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-08",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-07",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-06",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-05",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-04",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-03",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-02",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-01",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-30",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-29",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-28",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-27",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-26",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-25",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-24",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-23",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-22",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-21",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-20",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-19",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-18",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-17",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-16",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-15",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-14",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-13",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-12",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-11",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-10",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-09",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-08",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-07",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-06",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-05",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-04",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-03",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-02",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-01",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-31",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-30",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-29",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-28",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-27",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-26",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-25",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-24",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-23",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-22",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-21",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-20",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-19",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-18",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-17",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-16",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-15",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-14",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-13",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-12",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-11",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-10",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-09",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-08",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-07",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-06",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-05",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-04",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-03",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-02",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-01",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-29",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-28",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-27",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-26",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-25",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-24",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-23",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-22",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-21",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-20",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-19",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-18",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-17",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-16",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-15",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-14",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-13",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-12",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-11",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-10",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-09",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-08",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-07",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-06",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-05",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-04",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-03",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-02",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-01",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-31",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-30",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-29",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-28",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-27",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-26",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-25",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-24",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-23",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-22",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-21",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-20",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-19",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-18",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-17",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-16",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-15",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-14",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-13",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-12",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-11",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-10",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-09",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-08",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-07",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-06",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-05",
+            "name": "Stirling",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        }
+    ],
+    "pagination": {
+        "current": "/v1/data?filters=areaType%3Dutla%3BareaName%3DStirling&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "next": null,
+        "previous": null,
+        "first": "/v1/data?filters=areaType%3Dutla%3BareaName%3DStirling&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "last": "/v1/data?filters=areaType%3Dutla%3BareaName%3DStirling&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1"
+    }
+}

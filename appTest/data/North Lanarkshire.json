@@ -1,0 +1,4477 @@
+{
+    "length": 372,
+    "maxPageLimit": 2500,
+    "data": [
+        {
+            "date": "2021-01-10",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 166,
+                "cumulative": 14394
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-09",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 188,
+                "cumulative": 14228
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-08",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 206,
+                "cumulative": 14040
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-07",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 244,
+                "cumulative": 13834
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-06",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 177,
+                "cumulative": 13590
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-05",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 1026,
+                "cumulative": 13413
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-04",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": 12387
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-03",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": 12387
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-02",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": 12387
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-01",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": 12387
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-31",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 196,
+                "cumulative": 12387
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-30",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 193,
+                "cumulative": 12191
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-29",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 502,
+                "cumulative": 11998
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-28",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": 11496
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-27",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": 11496
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-26",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": 11496
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-25",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": 11496
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-24",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 125,
+                "cumulative": 11496
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-23",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 98,
+                "cumulative": 11371
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-22",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 75,
+                "cumulative": 11273
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-21",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 125,
+                "cumulative": 11198
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-20",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 36,
+                "cumulative": 11073
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-19",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 62,
+                "cumulative": 11037
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-18",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 33,
+                "cumulative": 10975
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-17",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 59,
+                "cumulative": 10942
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-16",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 57,
+                "cumulative": 10883
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-15",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 74,
+                "cumulative": 10826
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-14",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 85,
+                "cumulative": 10752
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-13",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 69,
+                "cumulative": 10667
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-12",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 76,
+                "cumulative": 10598
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-11",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 63,
+                "cumulative": 10522
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-10",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 74,
+                "cumulative": 10459
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-09",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 77,
+                "cumulative": 10385
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-08",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 48,
+                "cumulative": 10308
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-07",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 50,
+                "cumulative": 10260
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-06",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 59,
+                "cumulative": 10210
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-05",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 70,
+                "cumulative": 10151
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-04",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 105,
+                "cumulative": 10081
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-03",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 76,
+                "cumulative": 9976
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-02",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 69,
+                "cumulative": 9900
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-12-01",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 102,
+                "cumulative": 9831
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-30",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 39,
+                "cumulative": 9729
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-29",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 62,
+                "cumulative": 9690
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-28",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 89,
+                "cumulative": 9628
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-27",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 219,
+                "cumulative": 9539
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-26",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": 9320
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-25",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 90,
+                "cumulative": 9320
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-24",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 77,
+                "cumulative": 9230
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-23",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 84,
+                "cumulative": 9153
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-22",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 102,
+                "cumulative": 9069
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-21",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 119,
+                "cumulative": 8967
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-20",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 77,
+                "cumulative": 8848
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-19",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 112,
+                "cumulative": 8771
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-18",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 155,
+                "cumulative": 8659
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-17",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 149,
+                "cumulative": 8504
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-16",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 64,
+                "cumulative": 8355
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-15",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 127,
+                "cumulative": 8291
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-14",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 110,
+                "cumulative": 8164
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-13",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 156,
+                "cumulative": 8054
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-12",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 111,
+                "cumulative": 7898
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-11",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 141,
+                "cumulative": 7787
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-10",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 103,
+                "cumulative": 7646
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-09",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 117,
+                "cumulative": 7543
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-08",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 115,
+                "cumulative": 7426
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-07",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 164,
+                "cumulative": 7311
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-06",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 103,
+                "cumulative": 7147
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-05",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 112,
+                "cumulative": 7044
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-04",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 168,
+                "cumulative": 6932
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-03",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 105,
+                "cumulative": 6764
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-02",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 129,
+                "cumulative": 6659
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-11-01",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 144,
+                "cumulative": 6530
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-31",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 150,
+                "cumulative": 6386
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-30",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 129,
+                "cumulative": 6236
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-29",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 127,
+                "cumulative": 6107
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-28",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 137,
+                "cumulative": 5980
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-27",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 167,
+                "cumulative": 5843
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-26",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 133,
+                "cumulative": 5676
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-25",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 158,
+                "cumulative": 5543
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-24",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 162,
+                "cumulative": 5385
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-23",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 202,
+                "cumulative": 5223
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-22",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 212,
+                "cumulative": 5021
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-21",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 269,
+                "cumulative": 4809
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-20",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 179,
+                "cumulative": 4540
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-19",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 152,
+                "cumulative": 4361
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-18",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 46,
+                "cumulative": 4209
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-17",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 202,
+                "cumulative": 4163
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-16",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 159,
+                "cumulative": 3961
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-15",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 175,
+                "cumulative": 3802
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-14",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 154,
+                "cumulative": 3627
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-13",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 154,
+                "cumulative": 3473
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-12",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 121,
+                "cumulative": 3319
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-11",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 91,
+                "cumulative": 3198
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-10",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 100,
+                "cumulative": 3107
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-09",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 135,
+                "cumulative": 3007
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-08",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 103,
+                "cumulative": 2872
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-07",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 94,
+                "cumulative": 2769
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-06",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 91,
+                "cumulative": 2675
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-05",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 68,
+                "cumulative": 2584
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-04",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 57,
+                "cumulative": 2516
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-03",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 70,
+                "cumulative": 2459
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-02",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 53,
+                "cumulative": 2389
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-10-01",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 55,
+                "cumulative": 2336
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-30",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 44,
+                "cumulative": 2281
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-29",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 49,
+                "cumulative": 2237
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-28",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 24,
+                "cumulative": 2188
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-27",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 38,
+                "cumulative": 2164
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-26",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 41,
+                "cumulative": 2126
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-25",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 35,
+                "cumulative": 2085
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-24",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 31,
+                "cumulative": 2050
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-23",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 55,
+                "cumulative": 2019
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-22",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 58,
+                "cumulative": 1964
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-21",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 29,
+                "cumulative": 1906
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-20",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 29,
+                "cumulative": 1877
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-19",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 37,
+                "cumulative": 1848
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-18",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 18,
+                "cumulative": 1811
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-17",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 31,
+                "cumulative": 1793
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-16",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 25,
+                "cumulative": 1762
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-15",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 32,
+                "cumulative": 1737
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-14",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 2,
+                "cumulative": 1705
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-13",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 35,
+                "cumulative": 1703
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-12",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 33,
+                "cumulative": 1668
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-11",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 17,
+                "cumulative": 1635
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-10",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 25,
+                "cumulative": 1618
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-09",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 9,
+                "cumulative": 1593
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-08",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 16,
+                "cumulative": 1584
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-07",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 10,
+                "cumulative": 1568
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-06",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 13,
+                "cumulative": 1558
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-05",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 8,
+                "cumulative": 1545
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-04",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 12,
+                "cumulative": 1537
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-03",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 4,
+                "cumulative": 1525
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-02",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 8,
+                "cumulative": 1521
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-09-01",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 19,
+                "cumulative": 1513
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-31",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 16,
+                "cumulative": 1494
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-30",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 11,
+                "cumulative": 1478
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-29",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 4,
+                "cumulative": 1467
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-28",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 1,
+                "cumulative": 1463
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-27",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 5,
+                "cumulative": 1462
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-26",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 3,
+                "cumulative": 1457
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-25",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 2,
+                "cumulative": 1454
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-24",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 10,
+                "cumulative": 1452
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-23",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 1,
+                "cumulative": 1442
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-22",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 2,
+                "cumulative": 1441
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-21",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 3,
+                "cumulative": 1439
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-20",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 6,
+                "cumulative": 1436
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-19",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 3,
+                "cumulative": 1430
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-18",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 5,
+                "cumulative": 1427
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-17",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": 1422
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-16",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 3,
+                "cumulative": 1422
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-15",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 7,
+                "cumulative": 1419
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-14",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 10,
+                "cumulative": 1412
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-13",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 1,
+                "cumulative": 1402
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-12",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 1,
+                "cumulative": 1401
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-11",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 1,
+                "cumulative": 1400
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-10",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": 1399
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-09",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 2,
+                "cumulative": 1399
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-08",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": 1397
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-07",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 2,
+                "cumulative": 1397
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-06",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 2,
+                "cumulative": 1395
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-05",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": 1393
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-04",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": 1393
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-03",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": 1398
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-02",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 1,
+                "cumulative": 1398
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-08-01",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": 1397
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-31",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 3,
+                "cumulative": 1397
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-30",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": 1394
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-29",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": 1394
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-28",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-27",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-26",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-25",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-24",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-23",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-22",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-21",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-20",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-19",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-18",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-17",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-16",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-15",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-14",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-13",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-12",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-11",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-10",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-09",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-08",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-07",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-06",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-05",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-04",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-03",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-02",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-07-01",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-30",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-29",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-28",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-27",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-26",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-25",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-24",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-23",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-22",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-21",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-20",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-19",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-18",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-17",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-16",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-15",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-14",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-13",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-12",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-11",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-10",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-09",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-08",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-07",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-06",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-05",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-04",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-03",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-02",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-06-01",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-31",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-30",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-29",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-28",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-27",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-26",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-25",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-24",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-23",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-22",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-21",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-20",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-19",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-18",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-17",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-16",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-15",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-14",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-13",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-12",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-11",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-10",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-09",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-08",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-07",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-06",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-05",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-04",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-03",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-02",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-05-01",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-30",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-29",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-28",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-27",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-26",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-25",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-24",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-23",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-22",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-21",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-20",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-19",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-18",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-17",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-16",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-15",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-14",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-13",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-12",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-11",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-10",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-09",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-08",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-07",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-06",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-05",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-04",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-03",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-02",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-04-01",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-31",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-30",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-29",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-28",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-27",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-26",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-25",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-24",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-23",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-22",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-21",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-20",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-19",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-18",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-17",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-16",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-15",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-14",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-13",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-12",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-11",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-10",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-09",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-08",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-07",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-06",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-05",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-04",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-03",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-02",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-01",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-29",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-28",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-27",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-26",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-25",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-24",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-23",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-22",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-21",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-20",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-19",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-18",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-17",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-16",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-15",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-14",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-13",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-12",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-11",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-10",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-09",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-08",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-07",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-06",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-05",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-04",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-03",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-02",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-01",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-31",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-30",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-29",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-28",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-27",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-26",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-25",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-24",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-23",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-22",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-21",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-20",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-19",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-18",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-17",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-16",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-15",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-14",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-13",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-12",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-11",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-10",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-09",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-08",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-07",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-06",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-05",
+            "name": "North Lanarkshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        }
+    ],
+    "pagination": {
+        "current": "/v1/data?filters=areaType%3Dutla%3BareaName%3DNorth+Lanarkshire&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "next": null,
+        "previous": null,
+        "first": "/v1/data?filters=areaType%3Dutla%3BareaName%3DNorth+Lanarkshire&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "last": "/v1/data?filters=areaType%3Dutla%3BareaName%3DNorth+Lanarkshire&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1"
+    }
+}

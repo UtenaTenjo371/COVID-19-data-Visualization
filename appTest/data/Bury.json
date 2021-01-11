@@ -1,0 +1,4501 @@
+{
+    "length": 374,
+    "maxPageLimit": 2500,
+    "data": [
+        {
+            "date": "2021-01-10",
+            "name": "Bury",
+            "cases": {
+                "daily": 114,
+                "cumulative": 12891
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-09",
+            "name": "Bury",
+            "cases": {
+                "daily": 150,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 487
+            }
+        },
+        {
+            "date": "2021-01-08",
+            "name": "Bury",
+            "cases": {
+                "daily": 183,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 487
+            }
+        },
+        {
+            "date": "2021-01-07",
+            "name": "Bury",
+            "cases": {
+                "daily": 111,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 486
+            }
+        },
+        {
+            "date": "2021-01-06",
+            "name": "Bury",
+            "cases": {
+                "daily": 141,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 484
+            }
+        },
+        {
+            "date": "2021-01-05",
+            "name": "Bury",
+            "cases": {
+                "daily": 106,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 483
+            }
+        },
+        {
+            "date": "2021-01-04",
+            "name": "Bury",
+            "cases": {
+                "daily": 105,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 482
+            }
+        },
+        {
+            "date": "2021-01-03",
+            "name": "Bury",
+            "cases": {
+                "daily": 86,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 482
+            }
+        },
+        {
+            "date": "2021-01-02",
+            "name": "Bury",
+            "cases": {
+                "daily": 53,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 481
+            }
+        },
+        {
+            "date": "2021-01-01",
+            "name": "Bury",
+            "cases": {
+                "daily": 114,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 480
+            }
+        },
+        {
+            "date": "2020-12-31",
+            "name": "Bury",
+            "cases": {
+                "daily": 115,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 478
+            }
+        },
+        {
+            "date": "2020-12-30",
+            "name": "Bury",
+            "cases": {
+                "daily": 83,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 471
+            }
+        },
+        {
+            "date": "2020-12-29",
+            "name": "Bury",
+            "cases": {
+                "daily": 137,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 470
+            }
+        },
+        {
+            "date": "2020-12-28",
+            "name": "Bury",
+            "cases": {
+                "daily": 66,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 466
+            }
+        },
+        {
+            "date": "2020-12-27",
+            "name": "Bury",
+            "cases": {
+                "daily": 78,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 464
+            }
+        },
+        {
+            "date": "2020-12-26",
+            "name": "Bury",
+            "cases": {
+                "daily": 24,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 461
+            }
+        },
+        {
+            "date": "2020-12-25",
+            "name": "Bury",
+            "cases": {
+                "daily": 72,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 461
+            }
+        },
+        {
+            "date": "2020-12-24",
+            "name": "Bury",
+            "cases": {
+                "daily": 86,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 460
+            }
+        },
+        {
+            "date": "2020-12-23",
+            "name": "Bury",
+            "cases": {
+                "daily": 77,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 455
+            }
+        },
+        {
+            "date": "2020-12-22",
+            "name": "Bury",
+            "cases": {
+                "daily": 58,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 454
+            }
+        },
+        {
+            "date": "2020-12-21",
+            "name": "Bury",
+            "cases": {
+                "daily": 68,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 452
+            }
+        },
+        {
+            "date": "2020-12-20",
+            "name": "Bury",
+            "cases": {
+                "daily": 60,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 451
+            }
+        },
+        {
+            "date": "2020-12-19",
+            "name": "Bury",
+            "cases": {
+                "daily": 56,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 448
+            }
+        },
+        {
+            "date": "2020-12-18",
+            "name": "Bury",
+            "cases": {
+                "daily": 38,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 447
+            }
+        },
+        {
+            "date": "2020-12-17",
+            "name": "Bury",
+            "cases": {
+                "daily": 40,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 444
+            }
+        },
+        {
+            "date": "2020-12-16",
+            "name": "Bury",
+            "cases": {
+                "daily": 69,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 440
+            }
+        },
+        {
+            "date": "2020-12-15",
+            "name": "Bury",
+            "cases": {
+                "daily": 58,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 439
+            }
+        },
+        {
+            "date": "2020-12-14",
+            "name": "Bury",
+            "cases": {
+                "daily": 26,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 437
+            }
+        },
+        {
+            "date": "2020-12-13",
+            "name": "Bury",
+            "cases": {
+                "daily": 47,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 434
+            }
+        },
+        {
+            "date": "2020-12-12",
+            "name": "Bury",
+            "cases": {
+                "daily": 57,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 431
+            }
+        },
+        {
+            "date": "2020-12-11",
+            "name": "Bury",
+            "cases": {
+                "daily": 59,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 428
+            }
+        },
+        {
+            "date": "2020-12-10",
+            "name": "Bury",
+            "cases": {
+                "daily": 58,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 426
+            }
+        },
+        {
+            "date": "2020-12-09",
+            "name": "Bury",
+            "cases": {
+                "daily": 105,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 420
+            }
+        },
+        {
+            "date": "2020-12-08",
+            "name": "Bury",
+            "cases": {
+                "daily": 36,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 417
+            }
+        },
+        {
+            "date": "2020-12-07",
+            "name": "Bury",
+            "cases": {
+                "daily": 46,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 416
+            }
+        },
+        {
+            "date": "2020-12-06",
+            "name": "Bury",
+            "cases": {
+                "daily": 49,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 413
+            }
+        },
+        {
+            "date": "2020-12-05",
+            "name": "Bury",
+            "cases": {
+                "daily": 77,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 410
+            }
+        },
+        {
+            "date": "2020-12-04",
+            "name": "Bury",
+            "cases": {
+                "daily": 63,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 408
+            }
+        },
+        {
+            "date": "2020-12-03",
+            "name": "Bury",
+            "cases": {
+                "daily": 59,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 402
+            }
+        },
+        {
+            "date": "2020-12-02",
+            "name": "Bury",
+            "cases": {
+                "daily": 92,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 400
+            }
+        },
+        {
+            "date": "2020-12-01",
+            "name": "Bury",
+            "cases": {
+                "daily": 66,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 399
+            }
+        },
+        {
+            "date": "2020-11-30",
+            "name": "Bury",
+            "cases": {
+                "daily": 22,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 397
+            }
+        },
+        {
+            "date": "2020-11-29",
+            "name": "Bury",
+            "cases": {
+                "daily": 49,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 395
+            }
+        },
+        {
+            "date": "2020-11-28",
+            "name": "Bury",
+            "cases": {
+                "daily": 61,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 390
+            }
+        },
+        {
+            "date": "2020-11-27",
+            "name": "Bury",
+            "cases": {
+                "daily": 76,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 389
+            }
+        },
+        {
+            "date": "2020-11-26",
+            "name": "Bury",
+            "cases": {
+                "daily": 58,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 385
+            }
+        },
+        {
+            "date": "2020-11-25",
+            "name": "Bury",
+            "cases": {
+                "daily": 86,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 383
+            }
+        },
+        {
+            "date": "2020-11-24",
+            "name": "Bury",
+            "cases": {
+                "daily": 50,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 381
+            }
+        },
+        {
+            "date": "2020-11-23",
+            "name": "Bury",
+            "cases": {
+                "daily": 45,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 380
+            }
+        },
+        {
+            "date": "2020-11-22",
+            "name": "Bury",
+            "cases": {
+                "daily": 78,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 379
+            }
+        },
+        {
+            "date": "2020-11-21",
+            "name": "Bury",
+            "cases": {
+                "daily": 73,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 375
+            }
+        },
+        {
+            "date": "2020-11-20",
+            "name": "Bury",
+            "cases": {
+                "daily": 111,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 372
+            }
+        },
+        {
+            "date": "2020-11-19",
+            "name": "Bury",
+            "cases": {
+                "daily": 91,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 366
+            }
+        },
+        {
+            "date": "2020-11-18",
+            "name": "Bury",
+            "cases": {
+                "daily": 130,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 365
+            }
+        },
+        {
+            "date": "2020-11-17",
+            "name": "Bury",
+            "cases": {
+                "daily": 77,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 362
+            }
+        },
+        {
+            "date": "2020-11-16",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 359
+            }
+        },
+        {
+            "date": "2020-11-15",
+            "name": "Bury",
+            "cases": {
+                "daily": 113,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 355
+            }
+        },
+        {
+            "date": "2020-11-14",
+            "name": "Bury",
+            "cases": {
+                "daily": 109,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 352
+            }
+        },
+        {
+            "date": "2020-11-13",
+            "name": "Bury",
+            "cases": {
+                "daily": 180,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 352
+            }
+        },
+        {
+            "date": "2020-11-12",
+            "name": "Bury",
+            "cases": {
+                "daily": 205,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 347
+            }
+        },
+        {
+            "date": "2020-11-11",
+            "name": "Bury",
+            "cases": {
+                "daily": 133,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 347
+            }
+        },
+        {
+            "date": "2020-11-10",
+            "name": "Bury",
+            "cases": {
+                "daily": 133,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 345
+            }
+        },
+        {
+            "date": "2020-11-09",
+            "name": "Bury",
+            "cases": {
+                "daily": 104,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 340
+            }
+        },
+        {
+            "date": "2020-11-08",
+            "name": "Bury",
+            "cases": {
+                "daily": 121,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 337
+            }
+        },
+        {
+            "date": "2020-11-07",
+            "name": "Bury",
+            "cases": {
+                "daily": 169,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 333
+            }
+        },
+        {
+            "date": "2020-11-06",
+            "name": "Bury",
+            "cases": {
+                "daily": 140,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 331
+            }
+        },
+        {
+            "date": "2020-11-05",
+            "name": "Bury",
+            "cases": {
+                "daily": 198,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 323
+            }
+        },
+        {
+            "date": "2020-11-04",
+            "name": "Bury",
+            "cases": {
+                "daily": 192,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 320
+            }
+        },
+        {
+            "date": "2020-11-03",
+            "name": "Bury",
+            "cases": {
+                "daily": 143,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 316
+            }
+        },
+        {
+            "date": "2020-11-02",
+            "name": "Bury",
+            "cases": {
+                "daily": 122,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 310
+            }
+        },
+        {
+            "date": "2020-11-01",
+            "name": "Bury",
+            "cases": {
+                "daily": 167,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 305
+            }
+        },
+        {
+            "date": "2020-10-31",
+            "name": "Bury",
+            "cases": {
+                "daily": 178,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 301
+            }
+        },
+        {
+            "date": "2020-10-30",
+            "name": "Bury",
+            "cases": {
+                "daily": 157,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 296
+            }
+        },
+        {
+            "date": "2020-10-29",
+            "name": "Bury",
+            "cases": {
+                "daily": 173,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 295
+            }
+        },
+        {
+            "date": "2020-10-28",
+            "name": "Bury",
+            "cases": {
+                "daily": 163,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 292
+            }
+        },
+        {
+            "date": "2020-10-27",
+            "name": "Bury",
+            "cases": {
+                "daily": 174,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 292
+            }
+        },
+        {
+            "date": "2020-10-26",
+            "name": "Bury",
+            "cases": {
+                "daily": 189,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 291
+            }
+        },
+        {
+            "date": "2020-10-25",
+            "name": "Bury",
+            "cases": {
+                "daily": 133,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 288
+            }
+        },
+        {
+            "date": "2020-10-24",
+            "name": "Bury",
+            "cases": {
+                "daily": 106,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 282
+            }
+        },
+        {
+            "date": "2020-10-23",
+            "name": "Bury",
+            "cases": {
+                "daily": 124,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 280
+            }
+        },
+        {
+            "date": "2020-10-22",
+            "name": "Bury",
+            "cases": {
+                "daily": 165,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 278
+            }
+        },
+        {
+            "date": "2020-10-21",
+            "name": "Bury",
+            "cases": {
+                "daily": 162,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 276
+            }
+        },
+        {
+            "date": "2020-10-20",
+            "name": "Bury",
+            "cases": {
+                "daily": 143,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 276
+            }
+        },
+        {
+            "date": "2020-10-19",
+            "name": "Bury",
+            "cases": {
+                "daily": 144,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 276
+            }
+        },
+        {
+            "date": "2020-10-18",
+            "name": "Bury",
+            "cases": {
+                "daily": 127,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 274
+            }
+        },
+        {
+            "date": "2020-10-17",
+            "name": "Bury",
+            "cases": {
+                "daily": 113,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 271
+            }
+        },
+        {
+            "date": "2020-10-16",
+            "name": "Bury",
+            "cases": {
+                "daily": 92,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 270
+            }
+        },
+        {
+            "date": "2020-10-15",
+            "name": "Bury",
+            "cases": {
+                "daily": 120,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 269
+            }
+        },
+        {
+            "date": "2020-10-14",
+            "name": "Bury",
+            "cases": {
+                "daily": 111,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 265
+            }
+        },
+        {
+            "date": "2020-10-13",
+            "name": "Bury",
+            "cases": {
+                "daily": 124,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 265
+            }
+        },
+        {
+            "date": "2020-10-12",
+            "name": "Bury",
+            "cases": {
+                "daily": 89,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 264
+            }
+        },
+        {
+            "date": "2020-10-11",
+            "name": "Bury",
+            "cases": {
+                "daily": 111,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 262
+            }
+        },
+        {
+            "date": "2020-10-10",
+            "name": "Bury",
+            "cases": {
+                "daily": 91,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 260
+            }
+        },
+        {
+            "date": "2020-10-09",
+            "name": "Bury",
+            "cases": {
+                "daily": 63,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 260
+            }
+        },
+        {
+            "date": "2020-10-08",
+            "name": "Bury",
+            "cases": {
+                "daily": 114,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 259
+            }
+        },
+        {
+            "date": "2020-10-07",
+            "name": "Bury",
+            "cases": {
+                "daily": 112,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 259
+            }
+        },
+        {
+            "date": "2020-10-06",
+            "name": "Bury",
+            "cases": {
+                "daily": 116,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 258
+            }
+        },
+        {
+            "date": "2020-10-05",
+            "name": "Bury",
+            "cases": {
+                "daily": 87,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 257
+            }
+        },
+        {
+            "date": "2020-10-04",
+            "name": "Bury",
+            "cases": {
+                "daily": 196,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 256
+            }
+        },
+        {
+            "date": "2020-10-03",
+            "name": "Bury",
+            "cases": {
+                "daily": 78,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 255
+            }
+        },
+        {
+            "date": "2020-10-02",
+            "name": "Bury",
+            "cases": {
+                "daily": 51,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 254
+            }
+        },
+        {
+            "date": "2020-10-01",
+            "name": "Bury",
+            "cases": {
+                "daily": 49,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 253
+            }
+        },
+        {
+            "date": "2020-09-30",
+            "name": "Bury",
+            "cases": {
+                "daily": 49,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 252
+            }
+        },
+        {
+            "date": "2020-09-29",
+            "name": "Bury",
+            "cases": {
+                "daily": 44,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 251
+            }
+        },
+        {
+            "date": "2020-09-28",
+            "name": "Bury",
+            "cases": {
+                "daily": 46,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 250
+            }
+        },
+        {
+            "date": "2020-09-27",
+            "name": "Bury",
+            "cases": {
+                "daily": 51,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 250
+            }
+        },
+        {
+            "date": "2020-09-26",
+            "name": "Bury",
+            "cases": {
+                "daily": 46,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 250
+            }
+        },
+        {
+            "date": "2020-09-25",
+            "name": "Bury",
+            "cases": {
+                "daily": 79,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 250
+            }
+        },
+        {
+            "date": "2020-09-24",
+            "name": "Bury",
+            "cases": {
+                "daily": 54,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 250
+            }
+        },
+        {
+            "date": "2020-09-23",
+            "name": "Bury",
+            "cases": {
+                "daily": 55,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 249
+            }
+        },
+        {
+            "date": "2020-09-22",
+            "name": "Bury",
+            "cases": {
+                "daily": 55,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 249
+            }
+        },
+        {
+            "date": "2020-09-21",
+            "name": "Bury",
+            "cases": {
+                "daily": 68,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 249
+            }
+        },
+        {
+            "date": "2020-09-20",
+            "name": "Bury",
+            "cases": {
+                "daily": 29,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 249
+            }
+        },
+        {
+            "date": "2020-09-19",
+            "name": "Bury",
+            "cases": {
+                "daily": 51,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 249
+            }
+        },
+        {
+            "date": "2020-09-18",
+            "name": "Bury",
+            "cases": {
+                "daily": 69,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 248
+            }
+        },
+        {
+            "date": "2020-09-17",
+            "name": "Bury",
+            "cases": {
+                "daily": 36,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 247
+            }
+        },
+        {
+            "date": "2020-09-16",
+            "name": "Bury",
+            "cases": {
+                "daily": 35,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 244
+            }
+        },
+        {
+            "date": "2020-09-15",
+            "name": "Bury",
+            "cases": {
+                "daily": 30,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 244
+            }
+        },
+        {
+            "date": "2020-09-14",
+            "name": "Bury",
+            "cases": {
+                "daily": 26,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 244
+            }
+        },
+        {
+            "date": "2020-09-13",
+            "name": "Bury",
+            "cases": {
+                "daily": 27,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 244
+            }
+        },
+        {
+            "date": "2020-09-12",
+            "name": "Bury",
+            "cases": {
+                "daily": 20,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 243
+            }
+        },
+        {
+            "date": "2020-09-11",
+            "name": "Bury",
+            "cases": {
+                "daily": 32,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 243
+            }
+        },
+        {
+            "date": "2020-09-10",
+            "name": "Bury",
+            "cases": {
+                "daily": 19,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 243
+            }
+        },
+        {
+            "date": "2020-09-09",
+            "name": "Bury",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 243
+            }
+        },
+        {
+            "date": "2020-09-08",
+            "name": "Bury",
+            "cases": {
+                "daily": 19,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 242
+            }
+        },
+        {
+            "date": "2020-09-07",
+            "name": "Bury",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 241
+            }
+        },
+        {
+            "date": "2020-09-06",
+            "name": "Bury",
+            "cases": {
+                "daily": 31,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 241
+            }
+        },
+        {
+            "date": "2020-09-05",
+            "name": "Bury",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 241
+            }
+        },
+        {
+            "date": "2020-09-04",
+            "name": "Bury",
+            "cases": {
+                "daily": 17,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 241
+            }
+        },
+        {
+            "date": "2020-09-03",
+            "name": "Bury",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 240
+            }
+        },
+        {
+            "date": "2020-09-02",
+            "name": "Bury",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 240
+            }
+        },
+        {
+            "date": "2020-09-01",
+            "name": "Bury",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 240
+            }
+        },
+        {
+            "date": "2020-08-31",
+            "name": "Bury",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 240
+            }
+        },
+        {
+            "date": "2020-08-30",
+            "name": "Bury",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 240
+            }
+        },
+        {
+            "date": "2020-08-29",
+            "name": "Bury",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 240
+            }
+        },
+        {
+            "date": "2020-08-28",
+            "name": "Bury",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 240
+            }
+        },
+        {
+            "date": "2020-08-27",
+            "name": "Bury",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 240
+            }
+        },
+        {
+            "date": "2020-08-26",
+            "name": "Bury",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 240
+            }
+        },
+        {
+            "date": "2020-08-25",
+            "name": "Bury",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 240
+            }
+        },
+        {
+            "date": "2020-08-24",
+            "name": "Bury",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 240
+            }
+        },
+        {
+            "date": "2020-08-23",
+            "name": "Bury",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 240
+            }
+        },
+        {
+            "date": "2020-08-22",
+            "name": "Bury",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 239
+            }
+        },
+        {
+            "date": "2020-08-21",
+            "name": "Bury",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 239
+            }
+        },
+        {
+            "date": "2020-08-20",
+            "name": "Bury",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 239
+            }
+        },
+        {
+            "date": "2020-08-19",
+            "name": "Bury",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 239
+            }
+        },
+        {
+            "date": "2020-08-18",
+            "name": "Bury",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 239
+            }
+        },
+        {
+            "date": "2020-08-17",
+            "name": "Bury",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 239
+            }
+        },
+        {
+            "date": "2020-08-16",
+            "name": "Bury",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 237
+            }
+        },
+        {
+            "date": "2020-08-15",
+            "name": "Bury",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 237
+            }
+        },
+        {
+            "date": "2020-08-14",
+            "name": "Bury",
+            "cases": {
+                "daily": 24,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 235
+            }
+        },
+        {
+            "date": "2020-08-13",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 235
+            }
+        },
+        {
+            "date": "2020-08-12",
+            "name": "Bury",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 235
+            }
+        },
+        {
+            "date": "2020-08-11",
+            "name": "Bury",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 235
+            }
+        },
+        {
+            "date": "2020-08-10",
+            "name": "Bury",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 235
+            }
+        },
+        {
+            "date": "2020-08-09",
+            "name": "Bury",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 235
+            }
+        },
+        {
+            "date": "2020-08-08",
+            "name": "Bury",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 234
+            }
+        },
+        {
+            "date": "2020-08-07",
+            "name": "Bury",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 234
+            }
+        },
+        {
+            "date": "2020-08-06",
+            "name": "Bury",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 234
+            }
+        },
+        {
+            "date": "2020-08-05",
+            "name": "Bury",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 234
+            }
+        },
+        {
+            "date": "2020-08-04",
+            "name": "Bury",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 234
+            }
+        },
+        {
+            "date": "2020-08-03",
+            "name": "Bury",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 234
+            }
+        },
+        {
+            "date": "2020-08-02",
+            "name": "Bury",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 234
+            }
+        },
+        {
+            "date": "2020-08-01",
+            "name": "Bury",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 234
+            }
+        },
+        {
+            "date": "2020-07-31",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 234
+            }
+        },
+        {
+            "date": "2020-07-30",
+            "name": "Bury",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 234
+            }
+        },
+        {
+            "date": "2020-07-29",
+            "name": "Bury",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 234
+            }
+        },
+        {
+            "date": "2020-07-28",
+            "name": "Bury",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 234
+            }
+        },
+        {
+            "date": "2020-07-27",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 233
+            }
+        },
+        {
+            "date": "2020-07-26",
+            "name": "Bury",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 233
+            }
+        },
+        {
+            "date": "2020-07-25",
+            "name": "Bury",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 233
+            }
+        },
+        {
+            "date": "2020-07-24",
+            "name": "Bury",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 233
+            }
+        },
+        {
+            "date": "2020-07-23",
+            "name": "Bury",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 233
+            }
+        },
+        {
+            "date": "2020-07-22",
+            "name": "Bury",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 233
+            }
+        },
+        {
+            "date": "2020-07-21",
+            "name": "Bury",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 233
+            }
+        },
+        {
+            "date": "2020-07-20",
+            "name": "Bury",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 233
+            }
+        },
+        {
+            "date": "2020-07-19",
+            "name": "Bury",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 232
+            }
+        },
+        {
+            "date": "2020-07-18",
+            "name": "Bury",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 230
+            }
+        },
+        {
+            "date": "2020-07-17",
+            "name": "Bury",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 230
+            }
+        },
+        {
+            "date": "2020-07-16",
+            "name": "Bury",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 230
+            }
+        },
+        {
+            "date": "2020-07-15",
+            "name": "Bury",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 230
+            }
+        },
+        {
+            "date": "2020-07-14",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 230
+            }
+        },
+        {
+            "date": "2020-07-13",
+            "name": "Bury",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 230
+            }
+        },
+        {
+            "date": "2020-07-12",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 230
+            }
+        },
+        {
+            "date": "2020-07-11",
+            "name": "Bury",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 230
+            }
+        },
+        {
+            "date": "2020-07-10",
+            "name": "Bury",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 230
+            }
+        },
+        {
+            "date": "2020-07-09",
+            "name": "Bury",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 229
+            }
+        },
+        {
+            "date": "2020-07-08",
+            "name": "Bury",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 228
+            }
+        },
+        {
+            "date": "2020-07-07",
+            "name": "Bury",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 227
+            }
+        },
+        {
+            "date": "2020-07-06",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 227
+            }
+        },
+        {
+            "date": "2020-07-05",
+            "name": "Bury",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 227
+            }
+        },
+        {
+            "date": "2020-07-04",
+            "name": "Bury",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 227
+            }
+        },
+        {
+            "date": "2020-07-03",
+            "name": "Bury",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 225
+            }
+        },
+        {
+            "date": "2020-07-02",
+            "name": "Bury",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 222
+            }
+        },
+        {
+            "date": "2020-07-01",
+            "name": "Bury",
+            "cases": {
+                "daily": 442,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 222
+            }
+        },
+        {
+            "date": "2020-06-30",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 222
+            }
+        },
+        {
+            "date": "2020-06-29",
+            "name": "Bury",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 221
+            }
+        },
+        {
+            "date": "2020-06-28",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 221
+            }
+        },
+        {
+            "date": "2020-06-27",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 221
+            }
+        },
+        {
+            "date": "2020-06-26",
+            "name": "Bury",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 219
+            }
+        },
+        {
+            "date": "2020-06-25",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 218
+            }
+        },
+        {
+            "date": "2020-06-24",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 216
+            }
+        },
+        {
+            "date": "2020-06-23",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 215
+            }
+        },
+        {
+            "date": "2020-06-22",
+            "name": "Bury",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 212
+            }
+        },
+        {
+            "date": "2020-06-21",
+            "name": "Bury",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 212
+            }
+        },
+        {
+            "date": "2020-06-20",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 212
+            }
+        },
+        {
+            "date": "2020-06-19",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 211
+            }
+        },
+        {
+            "date": "2020-06-18",
+            "name": "Bury",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 211
+            }
+        },
+        {
+            "date": "2020-06-17",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 210
+            }
+        },
+        {
+            "date": "2020-06-16",
+            "name": "Bury",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 209
+            }
+        },
+        {
+            "date": "2020-06-15",
+            "name": "Bury",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 208
+            }
+        },
+        {
+            "date": "2020-06-14",
+            "name": "Bury",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 207
+            }
+        },
+        {
+            "date": "2020-06-13",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 207
+            }
+        },
+        {
+            "date": "2020-06-12",
+            "name": "Bury",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 207
+            }
+        },
+        {
+            "date": "2020-06-11",
+            "name": "Bury",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 207
+            }
+        },
+        {
+            "date": "2020-06-10",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 207
+            }
+        },
+        {
+            "date": "2020-06-09",
+            "name": "Bury",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 206
+            }
+        },
+        {
+            "date": "2020-06-08",
+            "name": "Bury",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 204
+            }
+        },
+        {
+            "date": "2020-06-07",
+            "name": "Bury",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 200
+            }
+        },
+        {
+            "date": "2020-06-06",
+            "name": "Bury",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 197
+            }
+        },
+        {
+            "date": "2020-06-05",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 196
+            }
+        },
+        {
+            "date": "2020-06-04",
+            "name": "Bury",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 193
+            }
+        },
+        {
+            "date": "2020-06-03",
+            "name": "Bury",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 190
+            }
+        },
+        {
+            "date": "2020-06-02",
+            "name": "Bury",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 187
+            }
+        },
+        {
+            "date": "2020-06-01",
+            "name": "Bury",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 182
+            }
+        },
+        {
+            "date": "2020-05-31",
+            "name": "Bury",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 181
+            }
+        },
+        {
+            "date": "2020-05-30",
+            "name": "Bury",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 179
+            }
+        },
+        {
+            "date": "2020-05-29",
+            "name": "Bury",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 179
+            }
+        },
+        {
+            "date": "2020-05-28",
+            "name": "Bury",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 174
+            }
+        },
+        {
+            "date": "2020-05-27",
+            "name": "Bury",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 174
+            }
+        },
+        {
+            "date": "2020-05-26",
+            "name": "Bury",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 173
+            }
+        },
+        {
+            "date": "2020-05-25",
+            "name": "Bury",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 168
+            }
+        },
+        {
+            "date": "2020-05-24",
+            "name": "Bury",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 166
+            }
+        },
+        {
+            "date": "2020-05-23",
+            "name": "Bury",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 165
+            }
+        },
+        {
+            "date": "2020-05-22",
+            "name": "Bury",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 163
+            }
+        },
+        {
+            "date": "2020-05-21",
+            "name": "Bury",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 161
+            }
+        },
+        {
+            "date": "2020-05-20",
+            "name": "Bury",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 160
+            }
+        },
+        {
+            "date": "2020-05-19",
+            "name": "Bury",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 159
+            }
+        },
+        {
+            "date": "2020-05-18",
+            "name": "Bury",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 158
+            }
+        },
+        {
+            "date": "2020-05-17",
+            "name": "Bury",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 157
+            }
+        },
+        {
+            "date": "2020-05-16",
+            "name": "Bury",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 154
+            }
+        },
+        {
+            "date": "2020-05-15",
+            "name": "Bury",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 154
+            }
+        },
+        {
+            "date": "2020-05-14",
+            "name": "Bury",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 151
+            }
+        },
+        {
+            "date": "2020-05-13",
+            "name": "Bury",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 150
+            }
+        },
+        {
+            "date": "2020-05-12",
+            "name": "Bury",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 149
+            }
+        },
+        {
+            "date": "2020-05-11",
+            "name": "Bury",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 147
+            }
+        },
+        {
+            "date": "2020-05-10",
+            "name": "Bury",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 147
+            }
+        },
+        {
+            "date": "2020-05-09",
+            "name": "Bury",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 146
+            }
+        },
+        {
+            "date": "2020-05-08",
+            "name": "Bury",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 142
+            }
+        },
+        {
+            "date": "2020-05-07",
+            "name": "Bury",
+            "cases": {
+                "daily": 38,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 142
+            }
+        },
+        {
+            "date": "2020-05-06",
+            "name": "Bury",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 141
+            }
+        },
+        {
+            "date": "2020-05-05",
+            "name": "Bury",
+            "cases": {
+                "daily": 24,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 135
+            }
+        },
+        {
+            "date": "2020-05-04",
+            "name": "Bury",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 134
+            }
+        },
+        {
+            "date": "2020-05-03",
+            "name": "Bury",
+            "cases": {
+                "daily": 47,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 133
+            }
+        },
+        {
+            "date": "2020-05-02",
+            "name": "Bury",
+            "cases": {
+                "daily": 19,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 130
+            }
+        },
+        {
+            "date": "2020-05-01",
+            "name": "Bury",
+            "cases": {
+                "daily": 26,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 127
+            }
+        },
+        {
+            "date": "2020-04-30",
+            "name": "Bury",
+            "cases": {
+                "daily": 23,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 127
+            }
+        },
+        {
+            "date": "2020-04-29",
+            "name": "Bury",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 125
+            }
+        },
+        {
+            "date": "2020-04-28",
+            "name": "Bury",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 122
+            }
+        },
+        {
+            "date": "2020-04-27",
+            "name": "Bury",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 119
+            }
+        },
+        {
+            "date": "2020-04-26",
+            "name": "Bury",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 117
+            }
+        },
+        {
+            "date": "2020-04-25",
+            "name": "Bury",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 114
+            }
+        },
+        {
+            "date": "2020-04-24",
+            "name": "Bury",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 108
+            }
+        },
+        {
+            "date": "2020-04-23",
+            "name": "Bury",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 105
+            }
+        },
+        {
+            "date": "2020-04-22",
+            "name": "Bury",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 102
+            }
+        },
+        {
+            "date": "2020-04-21",
+            "name": "Bury",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 100
+            }
+        },
+        {
+            "date": "2020-04-20",
+            "name": "Bury",
+            "cases": {
+                "daily": 26,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 96
+            }
+        },
+        {
+            "date": "2020-04-19",
+            "name": "Bury",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 92
+            }
+        },
+        {
+            "date": "2020-04-18",
+            "name": "Bury",
+            "cases": {
+                "daily": 23,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 91
+            }
+        },
+        {
+            "date": "2020-04-17",
+            "name": "Bury",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 87
+            }
+        },
+        {
+            "date": "2020-04-16",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 83
+            }
+        },
+        {
+            "date": "2020-04-15",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 77
+            }
+        },
+        {
+            "date": "2020-04-14",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 71
+            }
+        },
+        {
+            "date": "2020-04-13",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 70
+            }
+        },
+        {
+            "date": "2020-04-12",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 63
+            }
+        },
+        {
+            "date": "2020-04-11",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 60
+            }
+        },
+        {
+            "date": "2020-04-10",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 48
+            }
+        },
+        {
+            "date": "2020-04-09",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 45
+            }
+        },
+        {
+            "date": "2020-04-08",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 43
+            }
+        },
+        {
+            "date": "2020-04-07",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 38
+            }
+        },
+        {
+            "date": "2020-04-06",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 32
+            }
+        },
+        {
+            "date": "2020-04-05",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 31
+            }
+        },
+        {
+            "date": "2020-04-04",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 27
+            }
+        },
+        {
+            "date": "2020-04-03",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 25
+            }
+        },
+        {
+            "date": "2020-04-02",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 22
+            }
+        },
+        {
+            "date": "2020-04-01",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 18
+            }
+        },
+        {
+            "date": "2020-03-31",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 18
+            }
+        },
+        {
+            "date": "2020-03-30",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 18
+            }
+        },
+        {
+            "date": "2020-03-29",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 11
+            }
+        },
+        {
+            "date": "2020-03-28",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 9
+            }
+        },
+        {
+            "date": "2020-03-27",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 9
+            }
+        },
+        {
+            "date": "2020-03-26",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 8
+            }
+        },
+        {
+            "date": "2020-03-25",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 5
+            }
+        },
+        {
+            "date": "2020-03-24",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 5
+            }
+        },
+        {
+            "date": "2020-03-23",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 5
+            }
+        },
+        {
+            "date": "2020-03-22",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 4
+            }
+        },
+        {
+            "date": "2020-03-21",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 4
+            }
+        },
+        {
+            "date": "2020-03-20",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-19",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-18",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-17",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-16",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-15",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-14",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-13",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-12",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-11",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-10",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-09",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-08",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-07",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-06",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-05",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-04",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-03",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-02",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-01",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-29",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-28",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-27",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-26",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-25",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-24",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-23",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-22",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-21",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-20",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-19",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-18",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-17",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-16",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-15",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-14",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-13",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-12",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-11",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-10",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-09",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-08",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-07",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-06",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-05",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-04",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-03",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-02",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-01",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-31",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-30",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-29",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-28",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-27",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-26",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-25",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-24",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-23",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-22",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-21",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-20",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-19",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-18",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-17",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-16",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-15",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-14",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-13",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-12",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-11",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-10",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-09",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-08",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-07",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-06",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-05",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-04",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-03",
+            "name": "Bury",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        }
+    ],
+    "pagination": {
+        "current": "/v1/data?filters=areaType%3Dutla%3BareaName%3DBury&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "next": null,
+        "previous": null,
+        "first": "/v1/data?filters=areaType%3Dutla%3BareaName%3DBury&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "last": "/v1/data?filters=areaType%3Dutla%3BareaName%3DBury&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1"
+    }
+}

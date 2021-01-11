@@ -1,0 +1,4501 @@
+{
+    "length": 374,
+    "maxPageLimit": 2500,
+    "data": [
+        {
+            "date": "2021-01-10",
+            "name": "Brent",
+            "cases": {
+                "daily": 552,
+                "cumulative": 18261
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-09",
+            "name": "Brent",
+            "cases": {
+                "daily": 700,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 552
+            }
+        },
+        {
+            "date": "2021-01-08",
+            "name": "Brent",
+            "cases": {
+                "daily": 639,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 552
+            }
+        },
+        {
+            "date": "2021-01-07",
+            "name": "Brent",
+            "cases": {
+                "daily": 321,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 551
+            }
+        },
+        {
+            "date": "2021-01-06",
+            "name": "Brent",
+            "cases": {
+                "daily": 475,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 551
+            }
+        },
+        {
+            "date": "2021-01-05",
+            "name": "Brent",
+            "cases": {
+                "daily": 705,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 545
+            }
+        },
+        {
+            "date": "2021-01-04",
+            "name": "Brent",
+            "cases": {
+                "daily": 334,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 541
+            }
+        },
+        {
+            "date": "2021-01-03",
+            "name": "Brent",
+            "cases": {
+                "daily": 676,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 535
+            }
+        },
+        {
+            "date": "2021-01-02",
+            "name": "Brent",
+            "cases": {
+                "daily": 409,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 532
+            }
+        },
+        {
+            "date": "2021-01-01",
+            "name": "Brent",
+            "cases": {
+                "daily": 487,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 525
+            }
+        },
+        {
+            "date": "2020-12-31",
+            "name": "Brent",
+            "cases": {
+                "daily": 442,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 520
+            }
+        },
+        {
+            "date": "2020-12-30",
+            "name": "Brent",
+            "cases": {
+                "daily": 451,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 516
+            }
+        },
+        {
+            "date": "2020-12-29",
+            "name": "Brent",
+            "cases": {
+                "daily": 612,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 513
+            }
+        },
+        {
+            "date": "2020-12-28",
+            "name": "Brent",
+            "cases": {
+                "daily": 368,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 510
+            }
+        },
+        {
+            "date": "2020-12-27",
+            "name": "Brent",
+            "cases": {
+                "daily": 331,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 508
+            }
+        },
+        {
+            "date": "2020-12-26",
+            "name": "Brent",
+            "cases": {
+                "daily": 303,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 506
+            }
+        },
+        {
+            "date": "2020-12-25",
+            "name": "Brent",
+            "cases": {
+                "daily": 230,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 504
+            }
+        },
+        {
+            "date": "2020-12-24",
+            "name": "Brent",
+            "cases": {
+                "daily": 363,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 503
+            }
+        },
+        {
+            "date": "2020-12-23",
+            "name": "Brent",
+            "cases": {
+                "daily": 362,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 500
+            }
+        },
+        {
+            "date": "2020-12-22",
+            "name": "Brent",
+            "cases": {
+                "daily": 265,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 500
+            }
+        },
+        {
+            "date": "2020-12-21",
+            "name": "Brent",
+            "cases": {
+                "daily": 354,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 497
+            }
+        },
+        {
+            "date": "2020-12-20",
+            "name": "Brent",
+            "cases": {
+                "daily": 251,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 493
+            }
+        },
+        {
+            "date": "2020-12-19",
+            "name": "Brent",
+            "cases": {
+                "daily": 179,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 493
+            }
+        },
+        {
+            "date": "2020-12-18",
+            "name": "Brent",
+            "cases": {
+                "daily": 236,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 493
+            }
+        },
+        {
+            "date": "2020-12-17",
+            "name": "Brent",
+            "cases": {
+                "daily": 180,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 488
+            }
+        },
+        {
+            "date": "2020-12-16",
+            "name": "Brent",
+            "cases": {
+                "daily": 128,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 487
+            }
+        },
+        {
+            "date": "2020-12-15",
+            "name": "Brent",
+            "cases": {
+                "daily": 116,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 484
+            }
+        },
+        {
+            "date": "2020-12-14",
+            "name": "Brent",
+            "cases": {
+                "daily": 138,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 479
+            }
+        },
+        {
+            "date": "2020-12-13",
+            "name": "Brent",
+            "cases": {
+                "daily": 151,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 478
+            }
+        },
+        {
+            "date": "2020-12-12",
+            "name": "Brent",
+            "cases": {
+                "daily": 110,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 476
+            }
+        },
+        {
+            "date": "2020-12-11",
+            "name": "Brent",
+            "cases": {
+                "daily": 125,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 473
+            }
+        },
+        {
+            "date": "2020-12-10",
+            "name": "Brent",
+            "cases": {
+                "daily": 147,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 472
+            }
+        },
+        {
+            "date": "2020-12-09",
+            "name": "Brent",
+            "cases": {
+                "daily": 79,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 471
+            }
+        },
+        {
+            "date": "2020-12-08",
+            "name": "Brent",
+            "cases": {
+                "daily": 67,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 469
+            }
+        },
+        {
+            "date": "2020-12-07",
+            "name": "Brent",
+            "cases": {
+                "daily": 89,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 466
+            }
+        },
+        {
+            "date": "2020-12-06",
+            "name": "Brent",
+            "cases": {
+                "daily": 79,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 464
+            }
+        },
+        {
+            "date": "2020-12-05",
+            "name": "Brent",
+            "cases": {
+                "daily": 62,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 462
+            }
+        },
+        {
+            "date": "2020-12-04",
+            "name": "Brent",
+            "cases": {
+                "daily": 84,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 459
+            }
+        },
+        {
+            "date": "2020-12-03",
+            "name": "Brent",
+            "cases": {
+                "daily": 60,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 458
+            }
+        },
+        {
+            "date": "2020-12-02",
+            "name": "Brent",
+            "cases": {
+                "daily": 89,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 457
+            }
+        },
+        {
+            "date": "2020-12-01",
+            "name": "Brent",
+            "cases": {
+                "daily": 44,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 457
+            }
+        },
+        {
+            "date": "2020-11-30",
+            "name": "Brent",
+            "cases": {
+                "daily": 77,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 456
+            }
+        },
+        {
+            "date": "2020-11-29",
+            "name": "Brent",
+            "cases": {
+                "daily": 54,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 454
+            }
+        },
+        {
+            "date": "2020-11-28",
+            "name": "Brent",
+            "cases": {
+                "daily": 110,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 452
+            }
+        },
+        {
+            "date": "2020-11-27",
+            "name": "Brent",
+            "cases": {
+                "daily": 58,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 450
+            }
+        },
+        {
+            "date": "2020-11-26",
+            "name": "Brent",
+            "cases": {
+                "daily": 94,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 450
+            }
+        },
+        {
+            "date": "2020-11-25",
+            "name": "Brent",
+            "cases": {
+                "daily": 85,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 448
+            }
+        },
+        {
+            "date": "2020-11-24",
+            "name": "Brent",
+            "cases": {
+                "daily": 69,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 448
+            }
+        },
+        {
+            "date": "2020-11-23",
+            "name": "Brent",
+            "cases": {
+                "daily": 78,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 447
+            }
+        },
+        {
+            "date": "2020-11-22",
+            "name": "Brent",
+            "cases": {
+                "daily": 99,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 446
+            }
+        },
+        {
+            "date": "2020-11-21",
+            "name": "Brent",
+            "cases": {
+                "daily": 114,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 445
+            }
+        },
+        {
+            "date": "2020-11-20",
+            "name": "Brent",
+            "cases": {
+                "daily": 100,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 445
+            }
+        },
+        {
+            "date": "2020-11-19",
+            "name": "Brent",
+            "cases": {
+                "daily": 129,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 445
+            }
+        },
+        {
+            "date": "2020-11-18",
+            "name": "Brent",
+            "cases": {
+                "daily": 76,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 445
+            }
+        },
+        {
+            "date": "2020-11-17",
+            "name": "Brent",
+            "cases": {
+                "daily": 50,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 445
+            }
+        },
+        {
+            "date": "2020-11-16",
+            "name": "Brent",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 443
+            }
+        },
+        {
+            "date": "2020-11-15",
+            "name": "Brent",
+            "cases": {
+                "daily": 113,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 443
+            }
+        },
+        {
+            "date": "2020-11-14",
+            "name": "Brent",
+            "cases": {
+                "daily": 104,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 442
+            }
+        },
+        {
+            "date": "2020-11-13",
+            "name": "Brent",
+            "cases": {
+                "daily": 89,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 442
+            }
+        },
+        {
+            "date": "2020-11-12",
+            "name": "Brent",
+            "cases": {
+                "daily": 172,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 442
+            }
+        },
+        {
+            "date": "2020-11-11",
+            "name": "Brent",
+            "cases": {
+                "daily": 101,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 442
+            }
+        },
+        {
+            "date": "2020-11-10",
+            "name": "Brent",
+            "cases": {
+                "daily": 48,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 442
+            }
+        },
+        {
+            "date": "2020-11-09",
+            "name": "Brent",
+            "cases": {
+                "daily": 76,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 442
+            }
+        },
+        {
+            "date": "2020-11-08",
+            "name": "Brent",
+            "cases": {
+                "daily": 83,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 442
+            }
+        },
+        {
+            "date": "2020-11-07",
+            "name": "Brent",
+            "cases": {
+                "daily": 142,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 442
+            }
+        },
+        {
+            "date": "2020-11-06",
+            "name": "Brent",
+            "cases": {
+                "daily": 93,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 441
+            }
+        },
+        {
+            "date": "2020-11-05",
+            "name": "Brent",
+            "cases": {
+                "daily": 109,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 441
+            }
+        },
+        {
+            "date": "2020-11-04",
+            "name": "Brent",
+            "cases": {
+                "daily": 61,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 441
+            }
+        },
+        {
+            "date": "2020-11-03",
+            "name": "Brent",
+            "cases": {
+                "daily": 48,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 441
+            }
+        },
+        {
+            "date": "2020-11-02",
+            "name": "Brent",
+            "cases": {
+                "daily": 63,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 441
+            }
+        },
+        {
+            "date": "2020-11-01",
+            "name": "Brent",
+            "cases": {
+                "daily": 53,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 441
+            }
+        },
+        {
+            "date": "2020-10-31",
+            "name": "Brent",
+            "cases": {
+                "daily": 51,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 441
+            }
+        },
+        {
+            "date": "2020-10-30",
+            "name": "Brent",
+            "cases": {
+                "daily": 79,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 440
+            }
+        },
+        {
+            "date": "2020-10-29",
+            "name": "Brent",
+            "cases": {
+                "daily": 68,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 439
+            }
+        },
+        {
+            "date": "2020-10-28",
+            "name": "Brent",
+            "cases": {
+                "daily": 71,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 439
+            }
+        },
+        {
+            "date": "2020-10-27",
+            "name": "Brent",
+            "cases": {
+                "daily": 51,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 439
+            }
+        },
+        {
+            "date": "2020-10-26",
+            "name": "Brent",
+            "cases": {
+                "daily": 57,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 439
+            }
+        },
+        {
+            "date": "2020-10-25",
+            "name": "Brent",
+            "cases": {
+                "daily": 51,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 438
+            }
+        },
+        {
+            "date": "2020-10-24",
+            "name": "Brent",
+            "cases": {
+                "daily": 82,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 438
+            }
+        },
+        {
+            "date": "2020-10-23",
+            "name": "Brent",
+            "cases": {
+                "daily": 49,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 438
+            }
+        },
+        {
+            "date": "2020-10-22",
+            "name": "Brent",
+            "cases": {
+                "daily": 46,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 438
+            }
+        },
+        {
+            "date": "2020-10-21",
+            "name": "Brent",
+            "cases": {
+                "daily": 81,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 436
+            }
+        },
+        {
+            "date": "2020-10-20",
+            "name": "Brent",
+            "cases": {
+                "daily": 50,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 435
+            }
+        },
+        {
+            "date": "2020-10-19",
+            "name": "Brent",
+            "cases": {
+                "daily": 69,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 435
+            }
+        },
+        {
+            "date": "2020-10-18",
+            "name": "Brent",
+            "cases": {
+                "daily": 52,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 434
+            }
+        },
+        {
+            "date": "2020-10-17",
+            "name": "Brent",
+            "cases": {
+                "daily": 34,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 434
+            }
+        },
+        {
+            "date": "2020-10-16",
+            "name": "Brent",
+            "cases": {
+                "daily": 46,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 433
+            }
+        },
+        {
+            "date": "2020-10-15",
+            "name": "Brent",
+            "cases": {
+                "daily": 55,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 432
+            }
+        },
+        {
+            "date": "2020-10-14",
+            "name": "Brent",
+            "cases": {
+                "daily": 68,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 432
+            }
+        },
+        {
+            "date": "2020-10-13",
+            "name": "Brent",
+            "cases": {
+                "daily": 61,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 431
+            }
+        },
+        {
+            "date": "2020-10-12",
+            "name": "Brent",
+            "cases": {
+                "daily": 20,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 431
+            }
+        },
+        {
+            "date": "2020-10-11",
+            "name": "Brent",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 430
+            }
+        },
+        {
+            "date": "2020-10-10",
+            "name": "Brent",
+            "cases": {
+                "daily": 52,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 429
+            }
+        },
+        {
+            "date": "2020-10-09",
+            "name": "Brent",
+            "cases": {
+                "daily": 49,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 429
+            }
+        },
+        {
+            "date": "2020-10-08",
+            "name": "Brent",
+            "cases": {
+                "daily": 35,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 428
+            }
+        },
+        {
+            "date": "2020-10-07",
+            "name": "Brent",
+            "cases": {
+                "daily": 64,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 427
+            }
+        },
+        {
+            "date": "2020-10-06",
+            "name": "Brent",
+            "cases": {
+                "daily": 31,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 427
+            }
+        },
+        {
+            "date": "2020-10-05",
+            "name": "Brent",
+            "cases": {
+                "daily": 29,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 426
+            }
+        },
+        {
+            "date": "2020-10-04",
+            "name": "Brent",
+            "cases": {
+                "daily": 75,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 426
+            }
+        },
+        {
+            "date": "2020-10-03",
+            "name": "Brent",
+            "cases": {
+                "daily": 47,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 426
+            }
+        },
+        {
+            "date": "2020-10-02",
+            "name": "Brent",
+            "cases": {
+                "daily": 23,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 426
+            }
+        },
+        {
+            "date": "2020-10-01",
+            "name": "Brent",
+            "cases": {
+                "daily": 17,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 426
+            }
+        },
+        {
+            "date": "2020-09-30",
+            "name": "Brent",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 425
+            }
+        },
+        {
+            "date": "2020-09-29",
+            "name": "Brent",
+            "cases": {
+                "daily": 20,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 423
+            }
+        },
+        {
+            "date": "2020-09-28",
+            "name": "Brent",
+            "cases": {
+                "daily": 20,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 423
+            }
+        },
+        {
+            "date": "2020-09-27",
+            "name": "Brent",
+            "cases": {
+                "daily": 23,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 422
+            }
+        },
+        {
+            "date": "2020-09-26",
+            "name": "Brent",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 421
+            }
+        },
+        {
+            "date": "2020-09-25",
+            "name": "Brent",
+            "cases": {
+                "daily": 30,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 420
+            }
+        },
+        {
+            "date": "2020-09-24",
+            "name": "Brent",
+            "cases": {
+                "daily": 35,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 420
+            }
+        },
+        {
+            "date": "2020-09-23",
+            "name": "Brent",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 420
+            }
+        },
+        {
+            "date": "2020-09-22",
+            "name": "Brent",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 419
+            }
+        },
+        {
+            "date": "2020-09-21",
+            "name": "Brent",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 418
+            }
+        },
+        {
+            "date": "2020-09-20",
+            "name": "Brent",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 418
+            }
+        },
+        {
+            "date": "2020-09-19",
+            "name": "Brent",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 418
+            }
+        },
+        {
+            "date": "2020-09-18",
+            "name": "Brent",
+            "cases": {
+                "daily": 19,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 418
+            }
+        },
+        {
+            "date": "2020-09-17",
+            "name": "Brent",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 418
+            }
+        },
+        {
+            "date": "2020-09-16",
+            "name": "Brent",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 418
+            }
+        },
+        {
+            "date": "2020-09-15",
+            "name": "Brent",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 418
+            }
+        },
+        {
+            "date": "2020-09-14",
+            "name": "Brent",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 417
+            }
+        },
+        {
+            "date": "2020-09-13",
+            "name": "Brent",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 417
+            }
+        },
+        {
+            "date": "2020-09-12",
+            "name": "Brent",
+            "cases": {
+                "daily": 20,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 417
+            }
+        },
+        {
+            "date": "2020-09-11",
+            "name": "Brent",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 417
+            }
+        },
+        {
+            "date": "2020-09-10",
+            "name": "Brent",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 417
+            }
+        },
+        {
+            "date": "2020-09-09",
+            "name": "Brent",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 417
+            }
+        },
+        {
+            "date": "2020-09-08",
+            "name": "Brent",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 417
+            }
+        },
+        {
+            "date": "2020-09-07",
+            "name": "Brent",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 417
+            }
+        },
+        {
+            "date": "2020-09-06",
+            "name": "Brent",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 417
+            }
+        },
+        {
+            "date": "2020-09-05",
+            "name": "Brent",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 417
+            }
+        },
+        {
+            "date": "2020-09-04",
+            "name": "Brent",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 417
+            }
+        },
+        {
+            "date": "2020-09-03",
+            "name": "Brent",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 417
+            }
+        },
+        {
+            "date": "2020-09-02",
+            "name": "Brent",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 416
+            }
+        },
+        {
+            "date": "2020-09-01",
+            "name": "Brent",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 416
+            }
+        },
+        {
+            "date": "2020-08-31",
+            "name": "Brent",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 416
+            }
+        },
+        {
+            "date": "2020-08-30",
+            "name": "Brent",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 416
+            }
+        },
+        {
+            "date": "2020-08-29",
+            "name": "Brent",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 416
+            }
+        },
+        {
+            "date": "2020-08-28",
+            "name": "Brent",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 416
+            }
+        },
+        {
+            "date": "2020-08-27",
+            "name": "Brent",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 416
+            }
+        },
+        {
+            "date": "2020-08-26",
+            "name": "Brent",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 416
+            }
+        },
+        {
+            "date": "2020-08-25",
+            "name": "Brent",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 415
+            }
+        },
+        {
+            "date": "2020-08-24",
+            "name": "Brent",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 415
+            }
+        },
+        {
+            "date": "2020-08-23",
+            "name": "Brent",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 415
+            }
+        },
+        {
+            "date": "2020-08-22",
+            "name": "Brent",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 414
+            }
+        },
+        {
+            "date": "2020-08-21",
+            "name": "Brent",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 414
+            }
+        },
+        {
+            "date": "2020-08-20",
+            "name": "Brent",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 414
+            }
+        },
+        {
+            "date": "2020-08-19",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 414
+            }
+        },
+        {
+            "date": "2020-08-18",
+            "name": "Brent",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 414
+            }
+        },
+        {
+            "date": "2020-08-17",
+            "name": "Brent",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 414
+            }
+        },
+        {
+            "date": "2020-08-16",
+            "name": "Brent",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 414
+            }
+        },
+        {
+            "date": "2020-08-15",
+            "name": "Brent",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 414
+            }
+        },
+        {
+            "date": "2020-08-14",
+            "name": "Brent",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 414
+            }
+        },
+        {
+            "date": "2020-08-13",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 414
+            }
+        },
+        {
+            "date": "2020-08-12",
+            "name": "Brent",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 414
+            }
+        },
+        {
+            "date": "2020-08-11",
+            "name": "Brent",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 414
+            }
+        },
+        {
+            "date": "2020-08-10",
+            "name": "Brent",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 414
+            }
+        },
+        {
+            "date": "2020-08-09",
+            "name": "Brent",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 414
+            }
+        },
+        {
+            "date": "2020-08-08",
+            "name": "Brent",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 414
+            }
+        },
+        {
+            "date": "2020-08-07",
+            "name": "Brent",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 414
+            }
+        },
+        {
+            "date": "2020-08-06",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 414
+            }
+        },
+        {
+            "date": "2020-08-05",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 413
+            }
+        },
+        {
+            "date": "2020-08-04",
+            "name": "Brent",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 413
+            }
+        },
+        {
+            "date": "2020-08-03",
+            "name": "Brent",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 413
+            }
+        },
+        {
+            "date": "2020-08-02",
+            "name": "Brent",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 412
+            }
+        },
+        {
+            "date": "2020-08-01",
+            "name": "Brent",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 412
+            }
+        },
+        {
+            "date": "2020-07-31",
+            "name": "Brent",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 412
+            }
+        },
+        {
+            "date": "2020-07-30",
+            "name": "Brent",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 412
+            }
+        },
+        {
+            "date": "2020-07-29",
+            "name": "Brent",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 412
+            }
+        },
+        {
+            "date": "2020-07-28",
+            "name": "Brent",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 412
+            }
+        },
+        {
+            "date": "2020-07-27",
+            "name": "Brent",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 412
+            }
+        },
+        {
+            "date": "2020-07-26",
+            "name": "Brent",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 411
+            }
+        },
+        {
+            "date": "2020-07-25",
+            "name": "Brent",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 411
+            }
+        },
+        {
+            "date": "2020-07-24",
+            "name": "Brent",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 411
+            }
+        },
+        {
+            "date": "2020-07-23",
+            "name": "Brent",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 411
+            }
+        },
+        {
+            "date": "2020-07-22",
+            "name": "Brent",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 411
+            }
+        },
+        {
+            "date": "2020-07-21",
+            "name": "Brent",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 411
+            }
+        },
+        {
+            "date": "2020-07-20",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 411
+            }
+        },
+        {
+            "date": "2020-07-19",
+            "name": "Brent",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 410
+            }
+        },
+        {
+            "date": "2020-07-18",
+            "name": "Brent",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 410
+            }
+        },
+        {
+            "date": "2020-07-17",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 409
+            }
+        },
+        {
+            "date": "2020-07-16",
+            "name": "Brent",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 409
+            }
+        },
+        {
+            "date": "2020-07-15",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 409
+            }
+        },
+        {
+            "date": "2020-07-14",
+            "name": "Brent",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 409
+            }
+        },
+        {
+            "date": "2020-07-13",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 409
+            }
+        },
+        {
+            "date": "2020-07-12",
+            "name": "Brent",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 409
+            }
+        },
+        {
+            "date": "2020-07-11",
+            "name": "Brent",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 409
+            }
+        },
+        {
+            "date": "2020-07-10",
+            "name": "Brent",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 409
+            }
+        },
+        {
+            "date": "2020-07-09",
+            "name": "Brent",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 408
+            }
+        },
+        {
+            "date": "2020-07-08",
+            "name": "Brent",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 408
+            }
+        },
+        {
+            "date": "2020-07-07",
+            "name": "Brent",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 408
+            }
+        },
+        {
+            "date": "2020-07-06",
+            "name": "Brent",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 408
+            }
+        },
+        {
+            "date": "2020-07-05",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 408
+            }
+        },
+        {
+            "date": "2020-07-04",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 407
+            }
+        },
+        {
+            "date": "2020-07-03",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 407
+            }
+        },
+        {
+            "date": "2020-07-02",
+            "name": "Brent",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 407
+            }
+        },
+        {
+            "date": "2020-07-01",
+            "name": "Brent",
+            "cases": {
+                "daily": 220,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 407
+            }
+        },
+        {
+            "date": "2020-06-30",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 407
+            }
+        },
+        {
+            "date": "2020-06-29",
+            "name": "Brent",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 407
+            }
+        },
+        {
+            "date": "2020-06-28",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 406
+            }
+        },
+        {
+            "date": "2020-06-27",
+            "name": "Brent",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 406
+            }
+        },
+        {
+            "date": "2020-06-26",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 405
+            }
+        },
+        {
+            "date": "2020-06-25",
+            "name": "Brent",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 405
+            }
+        },
+        {
+            "date": "2020-06-24",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 405
+            }
+        },
+        {
+            "date": "2020-06-23",
+            "name": "Brent",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 405
+            }
+        },
+        {
+            "date": "2020-06-22",
+            "name": "Brent",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 405
+            }
+        },
+        {
+            "date": "2020-06-21",
+            "name": "Brent",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 405
+            }
+        },
+        {
+            "date": "2020-06-20",
+            "name": "Brent",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 405
+            }
+        },
+        {
+            "date": "2020-06-19",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 405
+            }
+        },
+        {
+            "date": "2020-06-18",
+            "name": "Brent",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 405
+            }
+        },
+        {
+            "date": "2020-06-17",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 405
+            }
+        },
+        {
+            "date": "2020-06-16",
+            "name": "Brent",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 405
+            }
+        },
+        {
+            "date": "2020-06-15",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 405
+            }
+        },
+        {
+            "date": "2020-06-14",
+            "name": "Brent",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 404
+            }
+        },
+        {
+            "date": "2020-06-13",
+            "name": "Brent",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 404
+            }
+        },
+        {
+            "date": "2020-06-12",
+            "name": "Brent",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 404
+            }
+        },
+        {
+            "date": "2020-06-11",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 404
+            }
+        },
+        {
+            "date": "2020-06-10",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 403
+            }
+        },
+        {
+            "date": "2020-06-09",
+            "name": "Brent",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 403
+            }
+        },
+        {
+            "date": "2020-06-08",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 402
+            }
+        },
+        {
+            "date": "2020-06-07",
+            "name": "Brent",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 400
+            }
+        },
+        {
+            "date": "2020-06-06",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 399
+            }
+        },
+        {
+            "date": "2020-06-05",
+            "name": "Brent",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 399
+            }
+        },
+        {
+            "date": "2020-06-04",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 399
+            }
+        },
+        {
+            "date": "2020-06-03",
+            "name": "Brent",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 399
+            }
+        },
+        {
+            "date": "2020-06-02",
+            "name": "Brent",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 399
+            }
+        },
+        {
+            "date": "2020-06-01",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 398
+            }
+        },
+        {
+            "date": "2020-05-31",
+            "name": "Brent",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 398
+            }
+        },
+        {
+            "date": "2020-05-30",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 398
+            }
+        },
+        {
+            "date": "2020-05-29",
+            "name": "Brent",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 396
+            }
+        },
+        {
+            "date": "2020-05-28",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 395
+            }
+        },
+        {
+            "date": "2020-05-27",
+            "name": "Brent",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 394
+            }
+        },
+        {
+            "date": "2020-05-26",
+            "name": "Brent",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 393
+            }
+        },
+        {
+            "date": "2020-05-25",
+            "name": "Brent",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 392
+            }
+        },
+        {
+            "date": "2020-05-24",
+            "name": "Brent",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 391
+            }
+        },
+        {
+            "date": "2020-05-23",
+            "name": "Brent",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 391
+            }
+        },
+        {
+            "date": "2020-05-22",
+            "name": "Brent",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 390
+            }
+        },
+        {
+            "date": "2020-05-21",
+            "name": "Brent",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 390
+            }
+        },
+        {
+            "date": "2020-05-20",
+            "name": "Brent",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 390
+            }
+        },
+        {
+            "date": "2020-05-19",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 389
+            }
+        },
+        {
+            "date": "2020-05-18",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 389
+            }
+        },
+        {
+            "date": "2020-05-17",
+            "name": "Brent",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 389
+            }
+        },
+        {
+            "date": "2020-05-16",
+            "name": "Brent",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 388
+            }
+        },
+        {
+            "date": "2020-05-15",
+            "name": "Brent",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 385
+            }
+        },
+        {
+            "date": "2020-05-14",
+            "name": "Brent",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 384
+            }
+        },
+        {
+            "date": "2020-05-13",
+            "name": "Brent",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 381
+            }
+        },
+        {
+            "date": "2020-05-12",
+            "name": "Brent",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 380
+            }
+        },
+        {
+            "date": "2020-05-11",
+            "name": "Brent",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 379
+            }
+        },
+        {
+            "date": "2020-05-10",
+            "name": "Brent",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 378
+            }
+        },
+        {
+            "date": "2020-05-09",
+            "name": "Brent",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 376
+            }
+        },
+        {
+            "date": "2020-05-08",
+            "name": "Brent",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 375
+            }
+        },
+        {
+            "date": "2020-05-07",
+            "name": "Brent",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 373
+            }
+        },
+        {
+            "date": "2020-05-06",
+            "name": "Brent",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 373
+            }
+        },
+        {
+            "date": "2020-05-05",
+            "name": "Brent",
+            "cases": {
+                "daily": 23,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 372
+            }
+        },
+        {
+            "date": "2020-05-04",
+            "name": "Brent",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 369
+            }
+        },
+        {
+            "date": "2020-05-03",
+            "name": "Brent",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 367
+            }
+        },
+        {
+            "date": "2020-05-02",
+            "name": "Brent",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 365
+            }
+        },
+        {
+            "date": "2020-05-01",
+            "name": "Brent",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 360
+            }
+        },
+        {
+            "date": "2020-04-30",
+            "name": "Brent",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 355
+            }
+        },
+        {
+            "date": "2020-04-29",
+            "name": "Brent",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 347
+            }
+        },
+        {
+            "date": "2020-04-28",
+            "name": "Brent",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 344
+            }
+        },
+        {
+            "date": "2020-04-27",
+            "name": "Brent",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 340
+            }
+        },
+        {
+            "date": "2020-04-26",
+            "name": "Brent",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 337
+            }
+        },
+        {
+            "date": "2020-04-25",
+            "name": "Brent",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 333
+            }
+        },
+        {
+            "date": "2020-04-24",
+            "name": "Brent",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 333
+            }
+        },
+        {
+            "date": "2020-04-23",
+            "name": "Brent",
+            "cases": {
+                "daily": 22,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 329
+            }
+        },
+        {
+            "date": "2020-04-22",
+            "name": "Brent",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 326
+            }
+        },
+        {
+            "date": "2020-04-21",
+            "name": "Brent",
+            "cases": {
+                "daily": 32,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 316
+            }
+        },
+        {
+            "date": "2020-04-20",
+            "name": "Brent",
+            "cases": {
+                "daily": 24,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 311
+            }
+        },
+        {
+            "date": "2020-04-19",
+            "name": "Brent",
+            "cases": {
+                "daily": 22,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 305
+            }
+        },
+        {
+            "date": "2020-04-18",
+            "name": "Brent",
+            "cases": {
+                "daily": 34,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 300
+            }
+        },
+        {
+            "date": "2020-04-17",
+            "name": "Brent",
+            "cases": {
+                "daily": 40,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 296
+            }
+        },
+        {
+            "date": "2020-04-16",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 293
+            }
+        },
+        {
+            "date": "2020-04-15",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 283
+            }
+        },
+        {
+            "date": "2020-04-14",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 278
+            }
+        },
+        {
+            "date": "2020-04-13",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 264
+            }
+        },
+        {
+            "date": "2020-04-12",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 252
+            }
+        },
+        {
+            "date": "2020-04-11",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 240
+            }
+        },
+        {
+            "date": "2020-04-10",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 232
+            }
+        },
+        {
+            "date": "2020-04-09",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 225
+            }
+        },
+        {
+            "date": "2020-04-08",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 20,
+                "cumulative": 216
+            }
+        },
+        {
+            "date": "2020-04-07",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 16,
+                "cumulative": 196
+            }
+        },
+        {
+            "date": "2020-04-06",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 180
+            }
+        },
+        {
+            "date": "2020-04-05",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 166
+            }
+        },
+        {
+            "date": "2020-04-04",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 24,
+                "cumulative": 153
+            }
+        },
+        {
+            "date": "2020-04-03",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 129
+            }
+        },
+        {
+            "date": "2020-04-02",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 18,
+                "cumulative": 116
+            }
+        },
+        {
+            "date": "2020-04-01",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 18,
+                "cumulative": 98
+            }
+        },
+        {
+            "date": "2020-03-31",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 80
+            }
+        },
+        {
+            "date": "2020-03-30",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 74
+            }
+        },
+        {
+            "date": "2020-03-29",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 64
+            }
+        },
+        {
+            "date": "2020-03-28",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 57
+            }
+        },
+        {
+            "date": "2020-03-27",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 50
+            }
+        },
+        {
+            "date": "2020-03-26",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 43
+            }
+        },
+        {
+            "date": "2020-03-25",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 40
+            }
+        },
+        {
+            "date": "2020-03-24",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 35
+            }
+        },
+        {
+            "date": "2020-03-23",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 24
+            }
+        },
+        {
+            "date": "2020-03-22",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 20
+            }
+        },
+        {
+            "date": "2020-03-21",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 15
+            }
+        },
+        {
+            "date": "2020-03-20",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 10
+            }
+        },
+        {
+            "date": "2020-03-19",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 6
+            }
+        },
+        {
+            "date": "2020-03-18",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 3
+            }
+        },
+        {
+            "date": "2020-03-17",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 2
+            }
+        },
+        {
+            "date": "2020-03-16",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 2
+            }
+        },
+        {
+            "date": "2020-03-15",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-14",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-13",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-12",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-11",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-10",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-09",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-08",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-07",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-06",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-05",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-04",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-03",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-02",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-01",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-29",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-28",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-27",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-26",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-25",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-24",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-23",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-22",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-21",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-20",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-19",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-18",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-17",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-16",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-15",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-14",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-13",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-12",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-11",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-10",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-09",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-08",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-07",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-06",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-05",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-04",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-03",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-02",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-01",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-31",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-30",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-29",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-28",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-27",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-26",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-25",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-24",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-23",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-22",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-21",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-20",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-19",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-18",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-17",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-16",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-15",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-14",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-13",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-12",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-11",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-10",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-09",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-08",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-07",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-06",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-05",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-04",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-03",
+            "name": "Brent",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        }
+    ],
+    "pagination": {
+        "current": "/v1/data?filters=areaType%3Dutla%3BareaName%3DBrent&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "next": null,
+        "previous": null,
+        "first": "/v1/data?filters=areaType%3Dutla%3BareaName%3DBrent&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "last": "/v1/data?filters=areaType%3Dutla%3BareaName%3DBrent&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1"
+    }
+}

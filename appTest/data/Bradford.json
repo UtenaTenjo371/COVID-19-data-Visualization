@@ -1,0 +1,4501 @@
+{
+    "length": 374,
+    "maxPageLimit": 2500,
+    "data": [
+        {
+            "date": "2021-01-10",
+            "name": "Bradford",
+            "cases": {
+                "daily": 225,
+                "cumulative": 35675
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-09",
+            "name": "Bradford",
+            "cases": {
+                "daily": 245,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 993
+            }
+        },
+        {
+            "date": "2021-01-08",
+            "name": "Bradford",
+            "cases": {
+                "daily": 232,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 993
+            }
+        },
+        {
+            "date": "2021-01-07",
+            "name": "Bradford",
+            "cases": {
+                "daily": 238,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 990
+            }
+        },
+        {
+            "date": "2021-01-06",
+            "name": "Bradford",
+            "cases": {
+                "daily": 212,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 984
+            }
+        },
+        {
+            "date": "2021-01-05",
+            "name": "Bradford",
+            "cases": {
+                "daily": 239,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 983
+            }
+        },
+        {
+            "date": "2021-01-04",
+            "name": "Bradford",
+            "cases": {
+                "daily": 219,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 980
+            }
+        },
+        {
+            "date": "2021-01-03",
+            "name": "Bradford",
+            "cases": {
+                "daily": 154,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 977
+            }
+        },
+        {
+            "date": "2021-01-02",
+            "name": "Bradford",
+            "cases": {
+                "daily": 222,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 975
+            }
+        },
+        {
+            "date": "2021-01-01",
+            "name": "Bradford",
+            "cases": {
+                "daily": 180,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 971
+            }
+        },
+        {
+            "date": "2020-12-31",
+            "name": "Bradford",
+            "cases": {
+                "daily": 256,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 967
+            }
+        },
+        {
+            "date": "2020-12-30",
+            "name": "Bradford",
+            "cases": {
+                "daily": 150,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 962
+            }
+        },
+        {
+            "date": "2020-12-29",
+            "name": "Bradford",
+            "cases": {
+                "daily": 164,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 961
+            }
+        },
+        {
+            "date": "2020-12-28",
+            "name": "Bradford",
+            "cases": {
+                "daily": 150,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 951
+            }
+        },
+        {
+            "date": "2020-12-27",
+            "name": "Bradford",
+            "cases": {
+                "daily": 71,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 944
+            }
+        },
+        {
+            "date": "2020-12-26",
+            "name": "Bradford",
+            "cases": {
+                "daily": 129,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 941
+            }
+        },
+        {
+            "date": "2020-12-25",
+            "name": "Bradford",
+            "cases": {
+                "daily": 165,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 937
+            }
+        },
+        {
+            "date": "2020-12-24",
+            "name": "Bradford",
+            "cases": {
+                "daily": 176,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 934
+            }
+        },
+        {
+            "date": "2020-12-23",
+            "name": "Bradford",
+            "cases": {
+                "daily": 165,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 929
+            }
+        },
+        {
+            "date": "2020-12-22",
+            "name": "Bradford",
+            "cases": {
+                "daily": 159,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 927
+            }
+        },
+        {
+            "date": "2020-12-21",
+            "name": "Bradford",
+            "cases": {
+                "daily": 198,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 923
+            }
+        },
+        {
+            "date": "2020-12-20",
+            "name": "Bradford",
+            "cases": {
+                "daily": 136,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 916
+            }
+        },
+        {
+            "date": "2020-12-19",
+            "name": "Bradford",
+            "cases": {
+                "daily": 92,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 912
+            }
+        },
+        {
+            "date": "2020-12-18",
+            "name": "Bradford",
+            "cases": {
+                "daily": 62,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 911
+            }
+        },
+        {
+            "date": "2020-12-17",
+            "name": "Bradford",
+            "cases": {
+                "daily": 72,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 906
+            }
+        },
+        {
+            "date": "2020-12-16",
+            "name": "Bradford",
+            "cases": {
+                "daily": 145,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 902
+            }
+        },
+        {
+            "date": "2020-12-15",
+            "name": "Bradford",
+            "cases": {
+                "daily": 126,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 901
+            }
+        },
+        {
+            "date": "2020-12-14",
+            "name": "Bradford",
+            "cases": {
+                "daily": 132,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 897
+            }
+        },
+        {
+            "date": "2020-12-13",
+            "name": "Bradford",
+            "cases": {
+                "daily": 151,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 892
+            }
+        },
+        {
+            "date": "2020-12-12",
+            "name": "Bradford",
+            "cases": {
+                "daily": 176,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 885
+            }
+        },
+        {
+            "date": "2020-12-11",
+            "name": "Bradford",
+            "cases": {
+                "daily": 130,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 882
+            }
+        },
+        {
+            "date": "2020-12-10",
+            "name": "Bradford",
+            "cases": {
+                "daily": 125,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 873
+            }
+        },
+        {
+            "date": "2020-12-09",
+            "name": "Bradford",
+            "cases": {
+                "daily": 152,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 863
+            }
+        },
+        {
+            "date": "2020-12-08",
+            "name": "Bradford",
+            "cases": {
+                "daily": 80,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 856
+            }
+        },
+        {
+            "date": "2020-12-07",
+            "name": "Bradford",
+            "cases": {
+                "daily": 104,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 851
+            }
+        },
+        {
+            "date": "2020-12-06",
+            "name": "Bradford",
+            "cases": {
+                "daily": 173,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 847
+            }
+        },
+        {
+            "date": "2020-12-05",
+            "name": "Bradford",
+            "cases": {
+                "daily": 124,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 842
+            }
+        },
+        {
+            "date": "2020-12-04",
+            "name": "Bradford",
+            "cases": {
+                "daily": 179,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 833
+            }
+        },
+        {
+            "date": "2020-12-03",
+            "name": "Bradford",
+            "cases": {
+                "daily": 173,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 825
+            }
+        },
+        {
+            "date": "2020-12-02",
+            "name": "Bradford",
+            "cases": {
+                "daily": 157,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 815
+            }
+        },
+        {
+            "date": "2020-12-01",
+            "name": "Bradford",
+            "cases": {
+                "daily": 165,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 809
+            }
+        },
+        {
+            "date": "2020-11-30",
+            "name": "Bradford",
+            "cases": {
+                "daily": 143,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 803
+            }
+        },
+        {
+            "date": "2020-11-29",
+            "name": "Bradford",
+            "cases": {
+                "daily": 143,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 795
+            }
+        },
+        {
+            "date": "2020-11-28",
+            "name": "Bradford",
+            "cases": {
+                "daily": 202,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 787
+            }
+        },
+        {
+            "date": "2020-11-27",
+            "name": "Bradford",
+            "cases": {
+                "daily": 188,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 778
+            }
+        },
+        {
+            "date": "2020-11-26",
+            "name": "Bradford",
+            "cases": {
+                "daily": 213,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 770
+            }
+        },
+        {
+            "date": "2020-11-25",
+            "name": "Bradford",
+            "cases": {
+                "daily": 264,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 763
+            }
+        },
+        {
+            "date": "2020-11-24",
+            "name": "Bradford",
+            "cases": {
+                "daily": 152,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 753
+            }
+        },
+        {
+            "date": "2020-11-23",
+            "name": "Bradford",
+            "cases": {
+                "daily": 176,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 744
+            }
+        },
+        {
+            "date": "2020-11-22",
+            "name": "Bradford",
+            "cases": {
+                "daily": 208,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 734
+            }
+        },
+        {
+            "date": "2020-11-21",
+            "name": "Bradford",
+            "cases": {
+                "daily": 279,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 728
+            }
+        },
+        {
+            "date": "2020-11-20",
+            "name": "Bradford",
+            "cases": {
+                "daily": 350,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 725
+            }
+        },
+        {
+            "date": "2020-11-19",
+            "name": "Bradford",
+            "cases": {
+                "daily": 411,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 723
+            }
+        },
+        {
+            "date": "2020-11-18",
+            "name": "Bradford",
+            "cases": {
+                "daily": 345,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 714
+            }
+        },
+        {
+            "date": "2020-11-17",
+            "name": "Bradford",
+            "cases": {
+                "daily": 311,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 708
+            }
+        },
+        {
+            "date": "2020-11-16",
+            "name": "Bradford",
+            "cases": {
+                "daily": 99,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 704
+            }
+        },
+        {
+            "date": "2020-11-15",
+            "name": "Bradford",
+            "cases": {
+                "daily": 438,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 701
+            }
+        },
+        {
+            "date": "2020-11-14",
+            "name": "Bradford",
+            "cases": {
+                "daily": 423,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 696
+            }
+        },
+        {
+            "date": "2020-11-13",
+            "name": "Bradford",
+            "cases": {
+                "daily": 444,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 689
+            }
+        },
+        {
+            "date": "2020-11-12",
+            "name": "Bradford",
+            "cases": {
+                "daily": 514,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 686
+            }
+        },
+        {
+            "date": "2020-11-11",
+            "name": "Bradford",
+            "cases": {
+                "daily": 365,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 675
+            }
+        },
+        {
+            "date": "2020-11-10",
+            "name": "Bradford",
+            "cases": {
+                "daily": 378,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 671
+            }
+        },
+        {
+            "date": "2020-11-09",
+            "name": "Bradford",
+            "cases": {
+                "daily": 354,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 665
+            }
+        },
+        {
+            "date": "2020-11-08",
+            "name": "Bradford",
+            "cases": {
+                "daily": 435,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 655
+            }
+        },
+        {
+            "date": "2020-11-07",
+            "name": "Bradford",
+            "cases": {
+                "daily": 521,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 649
+            }
+        },
+        {
+            "date": "2020-11-06",
+            "name": "Bradford",
+            "cases": {
+                "daily": 444,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 643
+            }
+        },
+        {
+            "date": "2020-11-05",
+            "name": "Bradford",
+            "cases": {
+                "daily": 545,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 635
+            }
+        },
+        {
+            "date": "2020-11-04",
+            "name": "Bradford",
+            "cases": {
+                "daily": 506,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 623
+            }
+        },
+        {
+            "date": "2020-11-03",
+            "name": "Bradford",
+            "cases": {
+                "daily": 401,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 621
+            }
+        },
+        {
+            "date": "2020-11-02",
+            "name": "Bradford",
+            "cases": {
+                "daily": 344,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 611
+            }
+        },
+        {
+            "date": "2020-11-01",
+            "name": "Bradford",
+            "cases": {
+                "daily": 481,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 608
+            }
+        },
+        {
+            "date": "2020-10-31",
+            "name": "Bradford",
+            "cases": {
+                "daily": 466,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 601
+            }
+        },
+        {
+            "date": "2020-10-30",
+            "name": "Bradford",
+            "cases": {
+                "daily": 431,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 595
+            }
+        },
+        {
+            "date": "2020-10-29",
+            "name": "Bradford",
+            "cases": {
+                "daily": 436,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 591
+            }
+        },
+        {
+            "date": "2020-10-28",
+            "name": "Bradford",
+            "cases": {
+                "daily": 427,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 587
+            }
+        },
+        {
+            "date": "2020-10-27",
+            "name": "Bradford",
+            "cases": {
+                "daily": 507,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 584
+            }
+        },
+        {
+            "date": "2020-10-26",
+            "name": "Bradford",
+            "cases": {
+                "daily": 434,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 576
+            }
+        },
+        {
+            "date": "2020-10-25",
+            "name": "Bradford",
+            "cases": {
+                "daily": 230,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 572
+            }
+        },
+        {
+            "date": "2020-10-24",
+            "name": "Bradford",
+            "cases": {
+                "daily": 401,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 571
+            }
+        },
+        {
+            "date": "2020-10-23",
+            "name": "Bradford",
+            "cases": {
+                "daily": 337,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 569
+            }
+        },
+        {
+            "date": "2020-10-22",
+            "name": "Bradford",
+            "cases": {
+                "daily": 399,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 567
+            }
+        },
+        {
+            "date": "2020-10-21",
+            "name": "Bradford",
+            "cases": {
+                "daily": 457,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 565
+            }
+        },
+        {
+            "date": "2020-10-20",
+            "name": "Bradford",
+            "cases": {
+                "daily": 461,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 560
+            }
+        },
+        {
+            "date": "2020-10-19",
+            "name": "Bradford",
+            "cases": {
+                "daily": 312,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 556
+            }
+        },
+        {
+            "date": "2020-10-18",
+            "name": "Bradford",
+            "cases": {
+                "daily": 389,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 550
+            }
+        },
+        {
+            "date": "2020-10-17",
+            "name": "Bradford",
+            "cases": {
+                "daily": 212,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 547
+            }
+        },
+        {
+            "date": "2020-10-16",
+            "name": "Bradford",
+            "cases": {
+                "daily": 203,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 542
+            }
+        },
+        {
+            "date": "2020-10-15",
+            "name": "Bradford",
+            "cases": {
+                "daily": 355,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 540
+            }
+        },
+        {
+            "date": "2020-10-14",
+            "name": "Bradford",
+            "cases": {
+                "daily": 353,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 537
+            }
+        },
+        {
+            "date": "2020-10-13",
+            "name": "Bradford",
+            "cases": {
+                "daily": 250,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 535
+            }
+        },
+        {
+            "date": "2020-10-12",
+            "name": "Bradford",
+            "cases": {
+                "daily": 262,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 534
+            }
+        },
+        {
+            "date": "2020-10-11",
+            "name": "Bradford",
+            "cases": {
+                "daily": 240,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 533
+            }
+        },
+        {
+            "date": "2020-10-10",
+            "name": "Bradford",
+            "cases": {
+                "daily": 272,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 533
+            }
+        },
+        {
+            "date": "2020-10-09",
+            "name": "Bradford",
+            "cases": {
+                "daily": 133,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 529
+            }
+        },
+        {
+            "date": "2020-10-08",
+            "name": "Bradford",
+            "cases": {
+                "daily": 285,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 528
+            }
+        },
+        {
+            "date": "2020-10-07",
+            "name": "Bradford",
+            "cases": {
+                "daily": 181,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 526
+            }
+        },
+        {
+            "date": "2020-10-06",
+            "name": "Bradford",
+            "cases": {
+                "daily": 257,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 523
+            }
+        },
+        {
+            "date": "2020-10-05",
+            "name": "Bradford",
+            "cases": {
+                "daily": 326,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 520
+            }
+        },
+        {
+            "date": "2020-10-04",
+            "name": "Bradford",
+            "cases": {
+                "daily": 515,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 516
+            }
+        },
+        {
+            "date": "2020-10-03",
+            "name": "Bradford",
+            "cases": {
+                "daily": 240,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 516
+            }
+        },
+        {
+            "date": "2020-10-02",
+            "name": "Bradford",
+            "cases": {
+                "daily": 84,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 515
+            }
+        },
+        {
+            "date": "2020-10-01",
+            "name": "Bradford",
+            "cases": {
+                "daily": 143,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 511
+            }
+        },
+        {
+            "date": "2020-09-30",
+            "name": "Bradford",
+            "cases": {
+                "daily": 158,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 511
+            }
+        },
+        {
+            "date": "2020-09-29",
+            "name": "Bradford",
+            "cases": {
+                "daily": 135,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 509
+            }
+        },
+        {
+            "date": "2020-09-28",
+            "name": "Bradford",
+            "cases": {
+                "daily": 106,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 509
+            }
+        },
+        {
+            "date": "2020-09-27",
+            "name": "Bradford",
+            "cases": {
+                "daily": 119,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 509
+            }
+        },
+        {
+            "date": "2020-09-26",
+            "name": "Bradford",
+            "cases": {
+                "daily": 100,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 506
+            }
+        },
+        {
+            "date": "2020-09-25",
+            "name": "Bradford",
+            "cases": {
+                "daily": 166,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 504
+            }
+        },
+        {
+            "date": "2020-09-24",
+            "name": "Bradford",
+            "cases": {
+                "daily": 142,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 504
+            }
+        },
+        {
+            "date": "2020-09-23",
+            "name": "Bradford",
+            "cases": {
+                "daily": 147,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 504
+            }
+        },
+        {
+            "date": "2020-09-22",
+            "name": "Bradford",
+            "cases": {
+                "daily": 93,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 503
+            }
+        },
+        {
+            "date": "2020-09-21",
+            "name": "Bradford",
+            "cases": {
+                "daily": 110,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 502
+            }
+        },
+        {
+            "date": "2020-09-20",
+            "name": "Bradford",
+            "cases": {
+                "daily": 88,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 502
+            }
+        },
+        {
+            "date": "2020-09-19",
+            "name": "Bradford",
+            "cases": {
+                "daily": 103,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 501
+            }
+        },
+        {
+            "date": "2020-09-18",
+            "name": "Bradford",
+            "cases": {
+                "daily": 133,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 499
+            }
+        },
+        {
+            "date": "2020-09-17",
+            "name": "Bradford",
+            "cases": {
+                "daily": 92,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 497
+            }
+        },
+        {
+            "date": "2020-09-16",
+            "name": "Bradford",
+            "cases": {
+                "daily": 90,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 495
+            }
+        },
+        {
+            "date": "2020-09-15",
+            "name": "Bradford",
+            "cases": {
+                "daily": 76,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 494
+            }
+        },
+        {
+            "date": "2020-09-14",
+            "name": "Bradford",
+            "cases": {
+                "daily": 70,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 493
+            }
+        },
+        {
+            "date": "2020-09-13",
+            "name": "Bradford",
+            "cases": {
+                "daily": 96,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 492
+            }
+        },
+        {
+            "date": "2020-09-12",
+            "name": "Bradford",
+            "cases": {
+                "daily": 74,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 490
+            }
+        },
+        {
+            "date": "2020-09-11",
+            "name": "Bradford",
+            "cases": {
+                "daily": 61,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 489
+            }
+        },
+        {
+            "date": "2020-09-10",
+            "name": "Bradford",
+            "cases": {
+                "daily": 76,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 488
+            }
+        },
+        {
+            "date": "2020-09-09",
+            "name": "Bradford",
+            "cases": {
+                "daily": 64,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 487
+            }
+        },
+        {
+            "date": "2020-09-08",
+            "name": "Bradford",
+            "cases": {
+                "daily": 64,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 486
+            }
+        },
+        {
+            "date": "2020-09-07",
+            "name": "Bradford",
+            "cases": {
+                "daily": 57,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 485
+            }
+        },
+        {
+            "date": "2020-09-06",
+            "name": "Bradford",
+            "cases": {
+                "daily": 74,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 484
+            }
+        },
+        {
+            "date": "2020-09-05",
+            "name": "Bradford",
+            "cases": {
+                "daily": 33,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 484
+            }
+        },
+        {
+            "date": "2020-09-04",
+            "name": "Bradford",
+            "cases": {
+                "daily": 42,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 482
+            }
+        },
+        {
+            "date": "2020-09-03",
+            "name": "Bradford",
+            "cases": {
+                "daily": 69,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 481
+            }
+        },
+        {
+            "date": "2020-09-02",
+            "name": "Bradford",
+            "cases": {
+                "daily": 57,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 480
+            }
+        },
+        {
+            "date": "2020-09-01",
+            "name": "Bradford",
+            "cases": {
+                "daily": 36,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 479
+            }
+        },
+        {
+            "date": "2020-08-31",
+            "name": "Bradford",
+            "cases": {
+                "daily": 47,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 478
+            }
+        },
+        {
+            "date": "2020-08-30",
+            "name": "Bradford",
+            "cases": {
+                "daily": 57,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 477
+            }
+        },
+        {
+            "date": "2020-08-29",
+            "name": "Bradford",
+            "cases": {
+                "daily": 40,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 476
+            }
+        },
+        {
+            "date": "2020-08-28",
+            "name": "Bradford",
+            "cases": {
+                "daily": 28,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 476
+            }
+        },
+        {
+            "date": "2020-08-27",
+            "name": "Bradford",
+            "cases": {
+                "daily": 53,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 475
+            }
+        },
+        {
+            "date": "2020-08-26",
+            "name": "Bradford",
+            "cases": {
+                "daily": 25,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 475
+            }
+        },
+        {
+            "date": "2020-08-25",
+            "name": "Bradford",
+            "cases": {
+                "daily": 38,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 474
+            }
+        },
+        {
+            "date": "2020-08-24",
+            "name": "Bradford",
+            "cases": {
+                "daily": 33,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 473
+            }
+        },
+        {
+            "date": "2020-08-23",
+            "name": "Bradford",
+            "cases": {
+                "daily": 30,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 472
+            }
+        },
+        {
+            "date": "2020-08-22",
+            "name": "Bradford",
+            "cases": {
+                "daily": 36,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 471
+            }
+        },
+        {
+            "date": "2020-08-21",
+            "name": "Bradford",
+            "cases": {
+                "daily": 28,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 471
+            }
+        },
+        {
+            "date": "2020-08-20",
+            "name": "Bradford",
+            "cases": {
+                "daily": 38,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 470
+            }
+        },
+        {
+            "date": "2020-08-19",
+            "name": "Bradford",
+            "cases": {
+                "daily": 29,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 469
+            }
+        },
+        {
+            "date": "2020-08-18",
+            "name": "Bradford",
+            "cases": {
+                "daily": 49,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 469
+            }
+        },
+        {
+            "date": "2020-08-17",
+            "name": "Bradford",
+            "cases": {
+                "daily": 24,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 469
+            }
+        },
+        {
+            "date": "2020-08-16",
+            "name": "Bradford",
+            "cases": {
+                "daily": 26,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 466
+            }
+        },
+        {
+            "date": "2020-08-15",
+            "name": "Bradford",
+            "cases": {
+                "daily": 43,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 466
+            }
+        },
+        {
+            "date": "2020-08-14",
+            "name": "Bradford",
+            "cases": {
+                "daily": 99,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 465
+            }
+        },
+        {
+            "date": "2020-08-13",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 464
+            }
+        },
+        {
+            "date": "2020-08-12",
+            "name": "Bradford",
+            "cases": {
+                "daily": 54,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 462
+            }
+        },
+        {
+            "date": "2020-08-11",
+            "name": "Bradford",
+            "cases": {
+                "daily": 49,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 460
+            }
+        },
+        {
+            "date": "2020-08-10",
+            "name": "Bradford",
+            "cases": {
+                "daily": 29,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 460
+            }
+        },
+        {
+            "date": "2020-08-09",
+            "name": "Bradford",
+            "cases": {
+                "daily": 73,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 460
+            }
+        },
+        {
+            "date": "2020-08-08",
+            "name": "Bradford",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 460
+            }
+        },
+        {
+            "date": "2020-08-07",
+            "name": "Bradford",
+            "cases": {
+                "daily": 54,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 459
+            }
+        },
+        {
+            "date": "2020-08-06",
+            "name": "Bradford",
+            "cases": {
+                "daily": 47,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 459
+            }
+        },
+        {
+            "date": "2020-08-05",
+            "name": "Bradford",
+            "cases": {
+                "daily": 41,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 459
+            }
+        },
+        {
+            "date": "2020-08-04",
+            "name": "Bradford",
+            "cases": {
+                "daily": 24,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 459
+            }
+        },
+        {
+            "date": "2020-08-03",
+            "name": "Bradford",
+            "cases": {
+                "daily": 60,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 456
+            }
+        },
+        {
+            "date": "2020-08-02",
+            "name": "Bradford",
+            "cases": {
+                "daily": 20,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 456
+            }
+        },
+        {
+            "date": "2020-08-01",
+            "name": "Bradford",
+            "cases": {
+                "daily": 31,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 455
+            }
+        },
+        {
+            "date": "2020-07-31",
+            "name": "Bradford",
+            "cases": {
+                "daily": 57,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 454
+            }
+        },
+        {
+            "date": "2020-07-30",
+            "name": "Bradford",
+            "cases": {
+                "daily": 46,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 452
+            }
+        },
+        {
+            "date": "2020-07-29",
+            "name": "Bradford",
+            "cases": {
+                "daily": 44,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 451
+            }
+        },
+        {
+            "date": "2020-07-28",
+            "name": "Bradford",
+            "cases": {
+                "daily": 41,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 451
+            }
+        },
+        {
+            "date": "2020-07-27",
+            "name": "Bradford",
+            "cases": {
+                "daily": 38,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 450
+            }
+        },
+        {
+            "date": "2020-07-26",
+            "name": "Bradford",
+            "cases": {
+                "daily": 39,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 450
+            }
+        },
+        {
+            "date": "2020-07-25",
+            "name": "Bradford",
+            "cases": {
+                "daily": 35,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 449
+            }
+        },
+        {
+            "date": "2020-07-24",
+            "name": "Bradford",
+            "cases": {
+                "daily": 23,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 449
+            }
+        },
+        {
+            "date": "2020-07-23",
+            "name": "Bradford",
+            "cases": {
+                "daily": 30,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 445
+            }
+        },
+        {
+            "date": "2020-07-22",
+            "name": "Bradford",
+            "cases": {
+                "daily": 50,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 444
+            }
+        },
+        {
+            "date": "2020-07-21",
+            "name": "Bradford",
+            "cases": {
+                "daily": 35,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 444
+            }
+        },
+        {
+            "date": "2020-07-20",
+            "name": "Bradford",
+            "cases": {
+                "daily": 33,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 440
+            }
+        },
+        {
+            "date": "2020-07-19",
+            "name": "Bradford",
+            "cases": {
+                "daily": 27,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 440
+            }
+        },
+        {
+            "date": "2020-07-18",
+            "name": "Bradford",
+            "cases": {
+                "daily": 27,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 439
+            }
+        },
+        {
+            "date": "2020-07-17",
+            "name": "Bradford",
+            "cases": {
+                "daily": 32,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 438
+            }
+        },
+        {
+            "date": "2020-07-16",
+            "name": "Bradford",
+            "cases": {
+                "daily": 33,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 437
+            }
+        },
+        {
+            "date": "2020-07-15",
+            "name": "Bradford",
+            "cases": {
+                "daily": 38,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 435
+            }
+        },
+        {
+            "date": "2020-07-14",
+            "name": "Bradford",
+            "cases": {
+                "daily": 36,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 435
+            }
+        },
+        {
+            "date": "2020-07-13",
+            "name": "Bradford",
+            "cases": {
+                "daily": 29,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 434
+            }
+        },
+        {
+            "date": "2020-07-12",
+            "name": "Bradford",
+            "cases": {
+                "daily": 21,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 432
+            }
+        },
+        {
+            "date": "2020-07-11",
+            "name": "Bradford",
+            "cases": {
+                "daily": 30,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 431
+            }
+        },
+        {
+            "date": "2020-07-10",
+            "name": "Bradford",
+            "cases": {
+                "daily": 22,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 431
+            }
+        },
+        {
+            "date": "2020-07-09",
+            "name": "Bradford",
+            "cases": {
+                "daily": 27,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 431
+            }
+        },
+        {
+            "date": "2020-07-08",
+            "name": "Bradford",
+            "cases": {
+                "daily": 39,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 431
+            }
+        },
+        {
+            "date": "2020-07-07",
+            "name": "Bradford",
+            "cases": {
+                "daily": 31,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 429
+            }
+        },
+        {
+            "date": "2020-07-06",
+            "name": "Bradford",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 429
+            }
+        },
+        {
+            "date": "2020-07-05",
+            "name": "Bradford",
+            "cases": {
+                "daily": 28,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 428
+            }
+        },
+        {
+            "date": "2020-07-04",
+            "name": "Bradford",
+            "cases": {
+                "daily": 32,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 427
+            }
+        },
+        {
+            "date": "2020-07-03",
+            "name": "Bradford",
+            "cases": {
+                "daily": 33,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 425
+            }
+        },
+        {
+            "date": "2020-07-02",
+            "name": "Bradford",
+            "cases": {
+                "daily": 20,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 423
+            }
+        },
+        {
+            "date": "2020-07-01",
+            "name": "Bradford",
+            "cases": {
+                "daily": 2596,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 421
+            }
+        },
+        {
+            "date": "2020-06-30",
+            "name": "Bradford",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 420
+            }
+        },
+        {
+            "date": "2020-06-29",
+            "name": "Bradford",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 418
+            }
+        },
+        {
+            "date": "2020-06-28",
+            "name": "Bradford",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 416
+            }
+        },
+        {
+            "date": "2020-06-27",
+            "name": "Bradford",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 415
+            }
+        },
+        {
+            "date": "2020-06-26",
+            "name": "Bradford",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 415
+            }
+        },
+        {
+            "date": "2020-06-25",
+            "name": "Bradford",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 413
+            }
+        },
+        {
+            "date": "2020-06-24",
+            "name": "Bradford",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 411
+            }
+        },
+        {
+            "date": "2020-06-23",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 410
+            }
+        },
+        {
+            "date": "2020-06-22",
+            "name": "Bradford",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 409
+            }
+        },
+        {
+            "date": "2020-06-21",
+            "name": "Bradford",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 408
+            }
+        },
+        {
+            "date": "2020-06-20",
+            "name": "Bradford",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 407
+            }
+        },
+        {
+            "date": "2020-06-19",
+            "name": "Bradford",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 403
+            }
+        },
+        {
+            "date": "2020-06-18",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 403
+            }
+        },
+        {
+            "date": "2020-06-17",
+            "name": "Bradford",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 400
+            }
+        },
+        {
+            "date": "2020-06-16",
+            "name": "Bradford",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 399
+            }
+        },
+        {
+            "date": "2020-06-15",
+            "name": "Bradford",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 399
+            }
+        },
+        {
+            "date": "2020-06-14",
+            "name": "Bradford",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 399
+            }
+        },
+        {
+            "date": "2020-06-13",
+            "name": "Bradford",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 397
+            }
+        },
+        {
+            "date": "2020-06-12",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 396
+            }
+        },
+        {
+            "date": "2020-06-11",
+            "name": "Bradford",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 393
+            }
+        },
+        {
+            "date": "2020-06-10",
+            "name": "Bradford",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 392
+            }
+        },
+        {
+            "date": "2020-06-09",
+            "name": "Bradford",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 389
+            }
+        },
+        {
+            "date": "2020-06-08",
+            "name": "Bradford",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 387
+            }
+        },
+        {
+            "date": "2020-06-07",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 386
+            }
+        },
+        {
+            "date": "2020-06-06",
+            "name": "Bradford",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 386
+            }
+        },
+        {
+            "date": "2020-06-05",
+            "name": "Bradford",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 385
+            }
+        },
+        {
+            "date": "2020-06-04",
+            "name": "Bradford",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 382
+            }
+        },
+        {
+            "date": "2020-06-03",
+            "name": "Bradford",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 380
+            }
+        },
+        {
+            "date": "2020-06-02",
+            "name": "Bradford",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 377
+            }
+        },
+        {
+            "date": "2020-06-01",
+            "name": "Bradford",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 371
+            }
+        },
+        {
+            "date": "2020-05-31",
+            "name": "Bradford",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 369
+            }
+        },
+        {
+            "date": "2020-05-30",
+            "name": "Bradford",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 367
+            }
+        },
+        {
+            "date": "2020-05-29",
+            "name": "Bradford",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 364
+            }
+        },
+        {
+            "date": "2020-05-28",
+            "name": "Bradford",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 359
+            }
+        },
+        {
+            "date": "2020-05-27",
+            "name": "Bradford",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 355
+            }
+        },
+        {
+            "date": "2020-05-26",
+            "name": "Bradford",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 351
+            }
+        },
+        {
+            "date": "2020-05-25",
+            "name": "Bradford",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 349
+            }
+        },
+        {
+            "date": "2020-05-24",
+            "name": "Bradford",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 346
+            }
+        },
+        {
+            "date": "2020-05-23",
+            "name": "Bradford",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 343
+            }
+        },
+        {
+            "date": "2020-05-22",
+            "name": "Bradford",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 340
+            }
+        },
+        {
+            "date": "2020-05-21",
+            "name": "Bradford",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 338
+            }
+        },
+        {
+            "date": "2020-05-20",
+            "name": "Bradford",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 335
+            }
+        },
+        {
+            "date": "2020-05-19",
+            "name": "Bradford",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 331
+            }
+        },
+        {
+            "date": "2020-05-18",
+            "name": "Bradford",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 329
+            }
+        },
+        {
+            "date": "2020-05-17",
+            "name": "Bradford",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 326
+            }
+        },
+        {
+            "date": "2020-05-16",
+            "name": "Bradford",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 322
+            }
+        },
+        {
+            "date": "2020-05-15",
+            "name": "Bradford",
+            "cases": {
+                "daily": 29,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 316
+            }
+        },
+        {
+            "date": "2020-05-14",
+            "name": "Bradford",
+            "cases": {
+                "daily": 19,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 306
+            }
+        },
+        {
+            "date": "2020-05-13",
+            "name": "Bradford",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 303
+            }
+        },
+        {
+            "date": "2020-05-12",
+            "name": "Bradford",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 298
+            }
+        },
+        {
+            "date": "2020-05-11",
+            "name": "Bradford",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 296
+            }
+        },
+        {
+            "date": "2020-05-10",
+            "name": "Bradford",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 290
+            }
+        },
+        {
+            "date": "2020-05-09",
+            "name": "Bradford",
+            "cases": {
+                "daily": 21,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 285
+            }
+        },
+        {
+            "date": "2020-05-08",
+            "name": "Bradford",
+            "cases": {
+                "daily": 29,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 279
+            }
+        },
+        {
+            "date": "2020-05-07",
+            "name": "Bradford",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 271
+            }
+        },
+        {
+            "date": "2020-05-06",
+            "name": "Bradford",
+            "cases": {
+                "daily": 21,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 269
+            }
+        },
+        {
+            "date": "2020-05-05",
+            "name": "Bradford",
+            "cases": {
+                "daily": 31,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 262
+            }
+        },
+        {
+            "date": "2020-05-04",
+            "name": "Bradford",
+            "cases": {
+                "daily": 23,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 254
+            }
+        },
+        {
+            "date": "2020-05-03",
+            "name": "Bradford",
+            "cases": {
+                "daily": 32,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 247
+            }
+        },
+        {
+            "date": "2020-05-02",
+            "name": "Bradford",
+            "cases": {
+                "daily": 51,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 244
+            }
+        },
+        {
+            "date": "2020-05-01",
+            "name": "Bradford",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 236
+            }
+        },
+        {
+            "date": "2020-04-30",
+            "name": "Bradford",
+            "cases": {
+                "daily": 53,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 233
+            }
+        },
+        {
+            "date": "2020-04-29",
+            "name": "Bradford",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 227
+            }
+        },
+        {
+            "date": "2020-04-28",
+            "name": "Bradford",
+            "cases": {
+                "daily": 27,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 219
+            }
+        },
+        {
+            "date": "2020-04-27",
+            "name": "Bradford",
+            "cases": {
+                "daily": 42,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 214
+            }
+        },
+        {
+            "date": "2020-04-26",
+            "name": "Bradford",
+            "cases": {
+                "daily": 23,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 210
+            }
+        },
+        {
+            "date": "2020-04-25",
+            "name": "Bradford",
+            "cases": {
+                "daily": 34,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 196
+            }
+        },
+        {
+            "date": "2020-04-24",
+            "name": "Bradford",
+            "cases": {
+                "daily": 22,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 191
+            }
+        },
+        {
+            "date": "2020-04-23",
+            "name": "Bradford",
+            "cases": {
+                "daily": 29,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 183
+            }
+        },
+        {
+            "date": "2020-04-22",
+            "name": "Bradford",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 176
+            }
+        },
+        {
+            "date": "2020-04-21",
+            "name": "Bradford",
+            "cases": {
+                "daily": 31,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 167
+            }
+        },
+        {
+            "date": "2020-04-20",
+            "name": "Bradford",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 163
+            }
+        },
+        {
+            "date": "2020-04-19",
+            "name": "Bradford",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 156
+            }
+        },
+        {
+            "date": "2020-04-18",
+            "name": "Bradford",
+            "cases": {
+                "daily": 70,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 145
+            }
+        },
+        {
+            "date": "2020-04-17",
+            "name": "Bradford",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 140
+            }
+        },
+        {
+            "date": "2020-04-16",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 133
+            }
+        },
+        {
+            "date": "2020-04-15",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 121
+            }
+        },
+        {
+            "date": "2020-04-14",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 114
+            }
+        },
+        {
+            "date": "2020-04-13",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 109
+            }
+        },
+        {
+            "date": "2020-04-12",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 103
+            }
+        },
+        {
+            "date": "2020-04-11",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 93
+            }
+        },
+        {
+            "date": "2020-04-10",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 86
+            }
+        },
+        {
+            "date": "2020-04-09",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 73
+            }
+        },
+        {
+            "date": "2020-04-08",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 15,
+                "cumulative": 68
+            }
+        },
+        {
+            "date": "2020-04-07",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 53
+            }
+        },
+        {
+            "date": "2020-04-06",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 48
+            }
+        },
+        {
+            "date": "2020-04-05",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 45
+            }
+        },
+        {
+            "date": "2020-04-04",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 42
+            }
+        },
+        {
+            "date": "2020-04-03",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 35
+            }
+        },
+        {
+            "date": "2020-04-02",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 33
+            }
+        },
+        {
+            "date": "2020-04-01",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 30
+            }
+        },
+        {
+            "date": "2020-03-31",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 26
+            }
+        },
+        {
+            "date": "2020-03-30",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 19
+            }
+        },
+        {
+            "date": "2020-03-29",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 15
+            }
+        },
+        {
+            "date": "2020-03-28",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 12
+            }
+        },
+        {
+            "date": "2020-03-27",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 8
+            }
+        },
+        {
+            "date": "2020-03-26",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 4
+            }
+        },
+        {
+            "date": "2020-03-25",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-24",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-23",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-22",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-21",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-20",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-19",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-18",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-17",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-16",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-15",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-14",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-13",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-12",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-11",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-10",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-09",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-08",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-07",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-06",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-05",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-04",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-03",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-02",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-01",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-29",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-28",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-27",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-26",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-25",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-24",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-23",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-22",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-21",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-20",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-19",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-18",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-17",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-16",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-15",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-14",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-13",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-12",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-11",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-10",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-09",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-08",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-07",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-06",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-05",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-04",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-03",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-02",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-01",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-31",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-30",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-29",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-28",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-27",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-26",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-25",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-24",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-23",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-22",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-21",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-20",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-19",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-18",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-17",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-16",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-15",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-14",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-13",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-12",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-11",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-10",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-09",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-08",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-07",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-06",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-05",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-04",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-03",
+            "name": "Bradford",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        }
+    ],
+    "pagination": {
+        "current": "/v1/data?filters=areaType%3Dutla%3BareaName%3DBradford&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "next": null,
+        "previous": null,
+        "first": "/v1/data?filters=areaType%3Dutla%3BareaName%3DBradford&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "last": "/v1/data?filters=areaType%3Dutla%3BareaName%3DBradford&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1"
+    }
+}

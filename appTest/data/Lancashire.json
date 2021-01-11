@@ -1,0 +1,4501 @@
+{
+    "length": 374,
+    "maxPageLimit": 2500,
+    "data": [
+        {
+            "date": "2021-01-10",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 1352,
+                "cumulative": 68962
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-09",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 965,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 2539
+            }
+        },
+        {
+            "date": "2021-01-08",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 1120,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 2539
+            }
+        },
+        {
+            "date": "2021-01-07",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 1182,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 2528
+            }
+        },
+        {
+            "date": "2021-01-06",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 781,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 18,
+                "cumulative": 2516
+            }
+        },
+        {
+            "date": "2021-01-05",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 692,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 16,
+                "cumulative": 2498
+            }
+        },
+        {
+            "date": "2021-01-04",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 785,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 19,
+                "cumulative": 2482
+            }
+        },
+        {
+            "date": "2021-01-03",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 1223,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 17,
+                "cumulative": 2463
+            }
+        },
+        {
+            "date": "2021-01-02",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 638,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 16,
+                "cumulative": 2446
+            }
+        },
+        {
+            "date": "2021-01-01",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 767,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 2430
+            }
+        },
+        {
+            "date": "2020-12-31",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 680,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 2416
+            }
+        },
+        {
+            "date": "2020-12-30",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 440,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 17,
+                "cumulative": 2404
+            }
+        },
+        {
+            "date": "2020-12-29",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 672,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 24,
+                "cumulative": 2387
+            }
+        },
+        {
+            "date": "2020-12-28",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 433,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 21,
+                "cumulative": 2363
+            }
+        },
+        {
+            "date": "2020-12-27",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 430,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 16,
+                "cumulative": 2342
+            }
+        },
+        {
+            "date": "2020-12-26",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 291,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 15,
+                "cumulative": 2326
+            }
+        },
+        {
+            "date": "2020-12-25",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 320,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 22,
+                "cumulative": 2311
+            }
+        },
+        {
+            "date": "2020-12-24",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 567,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 16,
+                "cumulative": 2289
+            }
+        },
+        {
+            "date": "2020-12-23",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 618,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 32,
+                "cumulative": 2273
+            }
+        },
+        {
+            "date": "2020-12-22",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 453,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 24,
+                "cumulative": 2241
+            }
+        },
+        {
+            "date": "2020-12-21",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 401,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 21,
+                "cumulative": 2217
+            }
+        },
+        {
+            "date": "2020-12-20",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 416,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 2196
+            }
+        },
+        {
+            "date": "2020-12-19",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 320,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 2182
+            }
+        },
+        {
+            "date": "2020-12-18",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 363,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 18,
+                "cumulative": 2168
+            }
+        },
+        {
+            "date": "2020-12-17",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 432,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 15,
+                "cumulative": 2150
+            }
+        },
+        {
+            "date": "2020-12-16",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 468,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 2135
+            }
+        },
+        {
+            "date": "2020-12-15",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 357,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 20,
+                "cumulative": 2122
+            }
+        },
+        {
+            "date": "2020-12-14",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 239,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 16,
+                "cumulative": 2102
+            }
+        },
+        {
+            "date": "2020-12-13",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 353,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 2086
+            }
+        },
+        {
+            "date": "2020-12-12",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 393,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 22,
+                "cumulative": 2074
+            }
+        },
+        {
+            "date": "2020-12-11",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 358,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 2052
+            }
+        },
+        {
+            "date": "2020-12-10",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 314,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 19,
+                "cumulative": 2038
+            }
+        },
+        {
+            "date": "2020-12-09",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 334,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 18,
+                "cumulative": 2019
+            }
+        },
+        {
+            "date": "2020-12-08",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 235,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 2001
+            }
+        },
+        {
+            "date": "2020-12-07",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 265,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 20,
+                "cumulative": 1988
+            }
+        },
+        {
+            "date": "2020-12-06",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 349,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 1968
+            }
+        },
+        {
+            "date": "2020-12-05",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 300,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 1955
+            }
+        },
+        {
+            "date": "2020-12-04",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 266,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 24,
+                "cumulative": 1945
+            }
+        },
+        {
+            "date": "2020-12-03",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 327,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 19,
+                "cumulative": 1921
+            }
+        },
+        {
+            "date": "2020-12-02",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 336,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 15,
+                "cumulative": 1902
+            }
+        },
+        {
+            "date": "2020-12-01",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 351,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 15,
+                "cumulative": 1887
+            }
+        },
+        {
+            "date": "2020-11-30",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 173,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 19,
+                "cumulative": 1872
+            }
+        },
+        {
+            "date": "2020-11-29",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 276,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 1853
+            }
+        },
+        {
+            "date": "2020-11-28",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 322,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 19,
+                "cumulative": 1839
+            }
+        },
+        {
+            "date": "2020-11-27",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 390,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 20,
+                "cumulative": 1820
+            }
+        },
+        {
+            "date": "2020-11-26",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 384,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 1800
+            }
+        },
+        {
+            "date": "2020-11-25",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 395,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 19,
+                "cumulative": 1786
+            }
+        },
+        {
+            "date": "2020-11-24",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 290,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 17,
+                "cumulative": 1767
+            }
+        },
+        {
+            "date": "2020-11-23",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 273,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 21,
+                "cumulative": 1750
+            }
+        },
+        {
+            "date": "2020-11-22",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 384,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 23,
+                "cumulative": 1729
+            }
+        },
+        {
+            "date": "2020-11-21",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 365,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 20,
+                "cumulative": 1706
+            }
+        },
+        {
+            "date": "2020-11-20",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 530,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 1686
+            }
+        },
+        {
+            "date": "2020-11-19",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 418,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 18,
+                "cumulative": 1673
+            }
+        },
+        {
+            "date": "2020-11-18",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 557,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 29,
+                "cumulative": 1655
+            }
+        },
+        {
+            "date": "2020-11-17",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 378,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 16,
+                "cumulative": 1626
+            }
+        },
+        {
+            "date": "2020-11-16",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 350,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 1610
+            }
+        },
+        {
+            "date": "2020-11-15",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 457,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 22,
+                "cumulative": 1596
+            }
+        },
+        {
+            "date": "2020-11-14",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 556,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 15,
+                "cumulative": 1574
+            }
+        },
+        {
+            "date": "2020-11-13",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 707,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 18,
+                "cumulative": 1559
+            }
+        },
+        {
+            "date": "2020-11-12",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 773,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 21,
+                "cumulative": 1541
+            }
+        },
+        {
+            "date": "2020-11-11",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 573,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 19,
+                "cumulative": 1520
+            }
+        },
+        {
+            "date": "2020-11-10",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 563,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 22,
+                "cumulative": 1501
+            }
+        },
+        {
+            "date": "2020-11-09",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 388,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 19,
+                "cumulative": 1479
+            }
+        },
+        {
+            "date": "2020-11-08",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 441,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 18,
+                "cumulative": 1460
+            }
+        },
+        {
+            "date": "2020-11-07",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 627,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 21,
+                "cumulative": 1442
+            }
+        },
+        {
+            "date": "2020-11-06",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 594,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 16,
+                "cumulative": 1421
+            }
+        },
+        {
+            "date": "2020-11-05",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 706,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 1405
+            }
+        },
+        {
+            "date": "2020-11-04",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 759,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 18,
+                "cumulative": 1391
+            }
+        },
+        {
+            "date": "2020-11-03",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 632,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 17,
+                "cumulative": 1373
+            }
+        },
+        {
+            "date": "2020-11-02",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 508,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 1356
+            }
+        },
+        {
+            "date": "2020-11-01",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 496,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 1343
+            }
+        },
+        {
+            "date": "2020-10-31",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 677,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 17,
+                "cumulative": 1335
+            }
+        },
+        {
+            "date": "2020-10-30",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 863,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 15,
+                "cumulative": 1318
+            }
+        },
+        {
+            "date": "2020-10-29",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 781,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 1303
+            }
+        },
+        {
+            "date": "2020-10-28",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 771,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 18,
+                "cumulative": 1291
+            }
+        },
+        {
+            "date": "2020-10-27",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 799,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 1273
+            }
+        },
+        {
+            "date": "2020-10-26",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 727,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 1260
+            }
+        },
+        {
+            "date": "2020-10-25",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 686,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 16,
+                "cumulative": 1247
+            }
+        },
+        {
+            "date": "2020-10-24",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 828,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 1231
+            }
+        },
+        {
+            "date": "2020-10-23",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 607,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 17,
+                "cumulative": 1221
+            }
+        },
+        {
+            "date": "2020-10-22",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 805,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 1204
+            }
+        },
+        {
+            "date": "2020-10-21",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 935,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 1193
+            }
+        },
+        {
+            "date": "2020-10-20",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 884,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 1181
+            }
+        },
+        {
+            "date": "2020-10-19",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 887,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 1168
+            }
+        },
+        {
+            "date": "2020-10-18",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 803,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 1159
+            }
+        },
+        {
+            "date": "2020-10-17",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 614,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 1153
+            }
+        },
+        {
+            "date": "2020-10-16",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 582,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 1143
+            }
+        },
+        {
+            "date": "2020-10-15",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 632,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 1133
+            }
+        },
+        {
+            "date": "2020-10-14",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 662,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 1127
+            }
+        },
+        {
+            "date": "2020-10-13",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 749,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 1122
+            }
+        },
+        {
+            "date": "2020-10-12",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 597,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 1115
+            }
+        },
+        {
+            "date": "2020-10-11",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 487,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 1103
+            }
+        },
+        {
+            "date": "2020-10-10",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 634,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 1090
+            }
+        },
+        {
+            "date": "2020-10-09",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 406,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 1083
+            }
+        },
+        {
+            "date": "2020-10-08",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 602,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 1078
+            }
+        },
+        {
+            "date": "2020-10-07",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 523,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 1070
+            }
+        },
+        {
+            "date": "2020-10-06",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 692,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 1065
+            }
+        },
+        {
+            "date": "2020-10-05",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 395,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1057
+            }
+        },
+        {
+            "date": "2020-10-04",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 803,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 1057
+            }
+        },
+        {
+            "date": "2020-10-03",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 469,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1054
+            }
+        },
+        {
+            "date": "2020-10-02",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 239,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 1052
+            }
+        },
+        {
+            "date": "2020-10-01",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 290,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1048
+            }
+        },
+        {
+            "date": "2020-09-30",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 335,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 1046
+            }
+        },
+        {
+            "date": "2020-09-29",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 343,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 1042
+            }
+        },
+        {
+            "date": "2020-09-28",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 145,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 1037
+            }
+        },
+        {
+            "date": "2020-09-27",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 181,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1032
+            }
+        },
+        {
+            "date": "2020-09-26",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 289,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 1031
+            }
+        },
+        {
+            "date": "2020-09-25",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 326,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1028
+            }
+        },
+        {
+            "date": "2020-09-24",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 213,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 1026
+            }
+        },
+        {
+            "date": "2020-09-23",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 155,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 1023
+            }
+        },
+        {
+            "date": "2020-09-22",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 262,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 1018
+            }
+        },
+        {
+            "date": "2020-09-21",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 150,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1013
+            }
+        },
+        {
+            "date": "2020-09-20",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 88,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1012
+            }
+        },
+        {
+            "date": "2020-09-19",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 211,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1010
+            }
+        },
+        {
+            "date": "2020-09-18",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 174,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1010
+            }
+        },
+        {
+            "date": "2020-09-17",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 159,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1008
+            }
+        },
+        {
+            "date": "2020-09-16",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 201,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 1006
+            }
+        },
+        {
+            "date": "2020-09-15",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 120,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 1003
+            }
+        },
+        {
+            "date": "2020-09-14",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 88,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 998
+            }
+        },
+        {
+            "date": "2020-09-13",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 126,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 996
+            }
+        },
+        {
+            "date": "2020-09-12",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 111,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 996
+            }
+        },
+        {
+            "date": "2020-09-11",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 139,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 995
+            }
+        },
+        {
+            "date": "2020-09-10",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 100,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 995
+            }
+        },
+        {
+            "date": "2020-09-09",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 62,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 995
+            }
+        },
+        {
+            "date": "2020-09-08",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 62,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 991
+            }
+        },
+        {
+            "date": "2020-09-07",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 108,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 989
+            }
+        },
+        {
+            "date": "2020-09-06",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 79,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 986
+            }
+        },
+        {
+            "date": "2020-09-05",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 38,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 985
+            }
+        },
+        {
+            "date": "2020-09-04",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 47,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 979
+            }
+        },
+        {
+            "date": "2020-09-03",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 62,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 978
+            }
+        },
+        {
+            "date": "2020-09-02",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 40,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 978
+            }
+        },
+        {
+            "date": "2020-09-01",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 32,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 977
+            }
+        },
+        {
+            "date": "2020-08-31",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 33,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 977
+            }
+        },
+        {
+            "date": "2020-08-30",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 57,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 977
+            }
+        },
+        {
+            "date": "2020-08-29",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 26,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 975
+            }
+        },
+        {
+            "date": "2020-08-28",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 44,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 975
+            }
+        },
+        {
+            "date": "2020-08-27",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 53,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 972
+            }
+        },
+        {
+            "date": "2020-08-26",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 26,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 970
+            }
+        },
+        {
+            "date": "2020-08-25",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 37,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 968
+            }
+        },
+        {
+            "date": "2020-08-24",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 19,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 968
+            }
+        },
+        {
+            "date": "2020-08-23",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 17,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 968
+            }
+        },
+        {
+            "date": "2020-08-22",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 30,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 967
+            }
+        },
+        {
+            "date": "2020-08-21",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 91,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 966
+            }
+        },
+        {
+            "date": "2020-08-20",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 34,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 964
+            }
+        },
+        {
+            "date": "2020-08-19",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 21,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 962
+            }
+        },
+        {
+            "date": "2020-08-18",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 962
+            }
+        },
+        {
+            "date": "2020-08-17",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 23,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 961
+            }
+        },
+        {
+            "date": "2020-08-16",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 23,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 959
+            }
+        },
+        {
+            "date": "2020-08-15",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 30,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 958
+            }
+        },
+        {
+            "date": "2020-08-14",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 88,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 956
+            }
+        },
+        {
+            "date": "2020-08-13",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 954
+            }
+        },
+        {
+            "date": "2020-08-12",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 45,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 952
+            }
+        },
+        {
+            "date": "2020-08-11",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 51,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 949
+            }
+        },
+        {
+            "date": "2020-08-10",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 31,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 945
+            }
+        },
+        {
+            "date": "2020-08-09",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 40,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 944
+            }
+        },
+        {
+            "date": "2020-08-08",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 27,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 943
+            }
+        },
+        {
+            "date": "2020-08-07",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 31,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 942
+            }
+        },
+        {
+            "date": "2020-08-06",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 56,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 939
+            }
+        },
+        {
+            "date": "2020-08-05",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 44,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 936
+            }
+        },
+        {
+            "date": "2020-08-04",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 52,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 935
+            }
+        },
+        {
+            "date": "2020-08-03",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 24,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 935
+            }
+        },
+        {
+            "date": "2020-08-02",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 25,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 931
+            }
+        },
+        {
+            "date": "2020-08-01",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 26,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 929
+            }
+        },
+        {
+            "date": "2020-07-31",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 37,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 929
+            }
+        },
+        {
+            "date": "2020-07-30",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 21,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 926
+            }
+        },
+        {
+            "date": "2020-07-29",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 925
+            }
+        },
+        {
+            "date": "2020-07-28",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 920
+            }
+        },
+        {
+            "date": "2020-07-27",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 21,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 919
+            }
+        },
+        {
+            "date": "2020-07-26",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 919
+            }
+        },
+        {
+            "date": "2020-07-25",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 917
+            }
+        },
+        {
+            "date": "2020-07-24",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 35,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 913
+            }
+        },
+        {
+            "date": "2020-07-23",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 30,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 910
+            }
+        },
+        {
+            "date": "2020-07-22",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 909
+            }
+        },
+        {
+            "date": "2020-07-21",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 906
+            }
+        },
+        {
+            "date": "2020-07-20",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 21,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 904
+            }
+        },
+        {
+            "date": "2020-07-19",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 21,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 904
+            }
+        },
+        {
+            "date": "2020-07-18",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 25,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 903
+            }
+        },
+        {
+            "date": "2020-07-17",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 20,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 902
+            }
+        },
+        {
+            "date": "2020-07-16",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 899
+            }
+        },
+        {
+            "date": "2020-07-15",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 898
+            }
+        },
+        {
+            "date": "2020-07-14",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 896
+            }
+        },
+        {
+            "date": "2020-07-13",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 895
+            }
+        },
+        {
+            "date": "2020-07-12",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 22,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 894
+            }
+        },
+        {
+            "date": "2020-07-11",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 25,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 894
+            }
+        },
+        {
+            "date": "2020-07-10",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 892
+            }
+        },
+        {
+            "date": "2020-07-09",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 24,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 891
+            }
+        },
+        {
+            "date": "2020-07-08",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 21,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 887
+            }
+        },
+        {
+            "date": "2020-07-07",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 24,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 885
+            }
+        },
+        {
+            "date": "2020-07-06",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 882
+            }
+        },
+        {
+            "date": "2020-07-05",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 881
+            }
+        },
+        {
+            "date": "2020-07-04",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 881
+            }
+        },
+        {
+            "date": "2020-07-03",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 880
+            }
+        },
+        {
+            "date": "2020-07-02",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 21,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 880
+            }
+        },
+        {
+            "date": "2020-07-01",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 2723,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 878
+            }
+        },
+        {
+            "date": "2020-06-30",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 873
+            }
+        },
+        {
+            "date": "2020-06-29",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 871
+            }
+        },
+        {
+            "date": "2020-06-28",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 868
+            }
+        },
+        {
+            "date": "2020-06-27",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 866
+            }
+        },
+        {
+            "date": "2020-06-26",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 861
+            }
+        },
+        {
+            "date": "2020-06-25",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 857
+            }
+        },
+        {
+            "date": "2020-06-24",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 855
+            }
+        },
+        {
+            "date": "2020-06-23",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 852
+            }
+        },
+        {
+            "date": "2020-06-22",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 848
+            }
+        },
+        {
+            "date": "2020-06-21",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 843
+            }
+        },
+        {
+            "date": "2020-06-20",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 842
+            }
+        },
+        {
+            "date": "2020-06-19",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 838
+            }
+        },
+        {
+            "date": "2020-06-18",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 838
+            }
+        },
+        {
+            "date": "2020-06-17",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 834
+            }
+        },
+        {
+            "date": "2020-06-16",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 832
+            }
+        },
+        {
+            "date": "2020-06-15",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 830
+            }
+        },
+        {
+            "date": "2020-06-14",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 828
+            }
+        },
+        {
+            "date": "2020-06-13",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 819
+            }
+        },
+        {
+            "date": "2020-06-12",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 815
+            }
+        },
+        {
+            "date": "2020-06-11",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 807
+            }
+        },
+        {
+            "date": "2020-06-10",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 806
+            }
+        },
+        {
+            "date": "2020-06-09",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 23,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 794
+            }
+        },
+        {
+            "date": "2020-06-08",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 792
+            }
+        },
+        {
+            "date": "2020-06-07",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 782
+            }
+        },
+        {
+            "date": "2020-06-06",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 775
+            }
+        },
+        {
+            "date": "2020-06-05",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 765
+            }
+        },
+        {
+            "date": "2020-06-04",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 763
+            }
+        },
+        {
+            "date": "2020-06-03",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 756
+            }
+        },
+        {
+            "date": "2020-06-02",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 750
+            }
+        },
+        {
+            "date": "2020-06-01",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 742
+            }
+        },
+        {
+            "date": "2020-05-31",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 737
+            }
+        },
+        {
+            "date": "2020-05-30",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 24,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 732
+            }
+        },
+        {
+            "date": "2020-05-29",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 17,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 727
+            }
+        },
+        {
+            "date": "2020-05-28",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 723
+            }
+        },
+        {
+            "date": "2020-05-27",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 712
+            }
+        },
+        {
+            "date": "2020-05-26",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 21,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 704
+            }
+        },
+        {
+            "date": "2020-05-25",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 699
+            }
+        },
+        {
+            "date": "2020-05-24",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 21,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 692
+            }
+        },
+        {
+            "date": "2020-05-23",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 36,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 684
+            }
+        },
+        {
+            "date": "2020-05-22",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 29,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 674
+            }
+        },
+        {
+            "date": "2020-05-21",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 669
+            }
+        },
+        {
+            "date": "2020-05-20",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 28,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 659
+            }
+        },
+        {
+            "date": "2020-05-19",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 27,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 654
+            }
+        },
+        {
+            "date": "2020-05-18",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 644
+            }
+        },
+        {
+            "date": "2020-05-17",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 636
+            }
+        },
+        {
+            "date": "2020-05-16",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 23,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 630
+            }
+        },
+        {
+            "date": "2020-05-15",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 38,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 616
+            }
+        },
+        {
+            "date": "2020-05-14",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 22,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 607
+            }
+        },
+        {
+            "date": "2020-05-13",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 48,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 601
+            }
+        },
+        {
+            "date": "2020-05-12",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 24,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 594
+            }
+        },
+        {
+            "date": "2020-05-11",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 26,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 583
+            }
+        },
+        {
+            "date": "2020-05-10",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 22,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 20,
+                "cumulative": 575
+            }
+        },
+        {
+            "date": "2020-05-09",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 26,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 555
+            }
+        },
+        {
+            "date": "2020-05-08",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 38,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 545
+            }
+        },
+        {
+            "date": "2020-05-07",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 45,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 15,
+                "cumulative": 537
+            }
+        },
+        {
+            "date": "2020-05-06",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 48,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 522
+            }
+        },
+        {
+            "date": "2020-05-05",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 42,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 513
+            }
+        },
+        {
+            "date": "2020-05-04",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 42,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 503
+            }
+        },
+        {
+            "date": "2020-05-03",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 54,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 15,
+                "cumulative": 494
+            }
+        },
+        {
+            "date": "2020-05-02",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 51,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 15,
+                "cumulative": 479
+            }
+        },
+        {
+            "date": "2020-05-01",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 37,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 464
+            }
+        },
+        {
+            "date": "2020-04-30",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 41,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 455
+            }
+        },
+        {
+            "date": "2020-04-29",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 61,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 16,
+                "cumulative": 442
+            }
+        },
+        {
+            "date": "2020-04-28",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 49,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 426
+            }
+        },
+        {
+            "date": "2020-04-27",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 68,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 419
+            }
+        },
+        {
+            "date": "2020-04-26",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 56,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 409
+            }
+        },
+        {
+            "date": "2020-04-25",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 80,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 403
+            }
+        },
+        {
+            "date": "2020-04-24",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 76,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 19,
+                "cumulative": 391
+            }
+        },
+        {
+            "date": "2020-04-23",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 76,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 372
+            }
+        },
+        {
+            "date": "2020-04-22",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 59,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 15,
+                "cumulative": 359
+            }
+        },
+        {
+            "date": "2020-04-21",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 74,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 344
+            }
+        },
+        {
+            "date": "2020-04-20",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 78,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 331
+            }
+        },
+        {
+            "date": "2020-04-19",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 100,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 318
+            }
+        },
+        {
+            "date": "2020-04-18",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 76,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 15,
+                "cumulative": 308
+            }
+        },
+        {
+            "date": "2020-04-17",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 73,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 293
+            }
+        },
+        {
+            "date": "2020-04-16",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 16,
+                "cumulative": 281
+            }
+        },
+        {
+            "date": "2020-04-15",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 20,
+                "cumulative": 265
+            }
+        },
+        {
+            "date": "2020-04-14",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 19,
+                "cumulative": 245
+            }
+        },
+        {
+            "date": "2020-04-13",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 15,
+                "cumulative": 226
+            }
+        },
+        {
+            "date": "2020-04-12",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 24,
+                "cumulative": 211
+            }
+        },
+        {
+            "date": "2020-04-11",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 18,
+                "cumulative": 187
+            }
+        },
+        {
+            "date": "2020-04-10",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 169
+            }
+        },
+        {
+            "date": "2020-04-09",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 157
+            }
+        },
+        {
+            "date": "2020-04-08",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 25,
+                "cumulative": 145
+            }
+        },
+        {
+            "date": "2020-04-07",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 15,
+                "cumulative": 120
+            }
+        },
+        {
+            "date": "2020-04-06",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 105
+            }
+        },
+        {
+            "date": "2020-04-05",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 16,
+                "cumulative": 97
+            }
+        },
+        {
+            "date": "2020-04-04",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 81
+            }
+        },
+        {
+            "date": "2020-04-03",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 67
+            }
+        },
+        {
+            "date": "2020-04-02",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 15,
+                "cumulative": 53
+            }
+        },
+        {
+            "date": "2020-04-01",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 38
+            }
+        },
+        {
+            "date": "2020-03-31",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 31
+            }
+        },
+        {
+            "date": "2020-03-30",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 27
+            }
+        },
+        {
+            "date": "2020-03-29",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 23
+            }
+        },
+        {
+            "date": "2020-03-28",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 15
+            }
+        },
+        {
+            "date": "2020-03-27",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 13
+            }
+        },
+        {
+            "date": "2020-03-26",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 7
+            }
+        },
+        {
+            "date": "2020-03-25",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 7
+            }
+        },
+        {
+            "date": "2020-03-24",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 6
+            }
+        },
+        {
+            "date": "2020-03-23",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 5
+            }
+        },
+        {
+            "date": "2020-03-22",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 3
+            }
+        },
+        {
+            "date": "2020-03-21",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 2
+            }
+        },
+        {
+            "date": "2020-03-20",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 2
+            }
+        },
+        {
+            "date": "2020-03-19",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-18",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-17",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-16",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-15",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-14",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-13",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-12",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-11",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-10",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-09",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-08",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-07",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-06",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-05",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-04",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-03",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-02",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-01",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-29",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-28",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-27",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-26",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-25",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-24",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-23",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-22",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-21",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-20",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-19",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-18",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-17",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-16",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-15",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-14",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-13",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-12",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-11",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-10",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-09",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-08",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-07",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-06",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-05",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-04",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-03",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-02",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-01",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-31",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-30",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-29",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-28",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-27",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-26",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-25",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-24",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-23",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-22",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-21",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-20",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-19",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-18",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-17",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-16",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-15",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-14",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-13",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-12",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-11",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-10",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-09",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-08",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-07",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-06",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-05",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-04",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-03",
+            "name": "Lancashire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        }
+    ],
+    "pagination": {
+        "current": "/v1/data?filters=areaType%3Dutla%3BareaName%3DLancashire&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "next": null,
+        "previous": null,
+        "first": "/v1/data?filters=areaType%3Dutla%3BareaName%3DLancashire&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "last": "/v1/data?filters=areaType%3Dutla%3BareaName%3DLancashire&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1"
+    }
+}

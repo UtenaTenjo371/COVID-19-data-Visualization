@@ -1,0 +1,4501 @@
+{
+    "length": 374,
+    "maxPageLimit": 2500,
+    "data": [
+        {
+            "date": "2021-01-10",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 305,
+                "cumulative": 30008
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-09",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 394,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1027
+            }
+        },
+        {
+            "date": "2021-01-08",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 366,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 1027
+            }
+        },
+        {
+            "date": "2021-01-07",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 327,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 1022
+            }
+        },
+        {
+            "date": "2021-01-06",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 449,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 1019
+            }
+        },
+        {
+            "date": "2021-01-05",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 359,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 1013
+            }
+        },
+        {
+            "date": "2021-01-04",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 500,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 1006
+            }
+        },
+        {
+            "date": "2021-01-03",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 254,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 1002
+            }
+        },
+        {
+            "date": "2021-01-02",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 456,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 993
+            }
+        },
+        {
+            "date": "2021-01-01",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 399,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 982
+            }
+        },
+        {
+            "date": "2020-12-31",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 396,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 975
+            }
+        },
+        {
+            "date": "2020-12-30",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 330,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 16,
+                "cumulative": 965
+            }
+        },
+        {
+            "date": "2020-12-29",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 320,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 949
+            }
+        },
+        {
+            "date": "2020-12-28",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 315,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 941
+            }
+        },
+        {
+            "date": "2020-12-27",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 103,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 935
+            }
+        },
+        {
+            "date": "2020-12-26",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 292,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 926
+            }
+        },
+        {
+            "date": "2020-12-25",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 275,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 914
+            }
+        },
+        {
+            "date": "2020-12-24",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 256,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 903
+            }
+        },
+        {
+            "date": "2020-12-23",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 293,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 891
+            }
+        },
+        {
+            "date": "2020-12-22",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 247,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 885
+            }
+        },
+        {
+            "date": "2020-12-21",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 202,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 15,
+                "cumulative": 878
+            }
+        },
+        {
+            "date": "2020-12-20",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 214,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 863
+            }
+        },
+        {
+            "date": "2020-12-19",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 165,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 854
+            }
+        },
+        {
+            "date": "2020-12-18",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 239,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 848
+            }
+        },
+        {
+            "date": "2020-12-17",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 152,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 838
+            }
+        },
+        {
+            "date": "2020-12-16",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 188,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 831
+            }
+        },
+        {
+            "date": "2020-12-15",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 127,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 822
+            }
+        },
+        {
+            "date": "2020-12-14",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 146,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 814
+            }
+        },
+        {
+            "date": "2020-12-13",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 156,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 807
+            }
+        },
+        {
+            "date": "2020-12-12",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 177,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 799
+            }
+        },
+        {
+            "date": "2020-12-11",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 180,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 794
+            }
+        },
+        {
+            "date": "2020-12-10",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 223,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 787
+            }
+        },
+        {
+            "date": "2020-12-09",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 123,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 782
+            }
+        },
+        {
+            "date": "2020-12-08",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 104,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 776
+            }
+        },
+        {
+            "date": "2020-12-07",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 194,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 772
+            }
+        },
+        {
+            "date": "2020-12-06",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 193,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 764
+            }
+        },
+        {
+            "date": "2020-12-05",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 196,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 758
+            }
+        },
+        {
+            "date": "2020-12-04",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 160,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 750
+            }
+        },
+        {
+            "date": "2020-12-03",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 122,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 743
+            }
+        },
+        {
+            "date": "2020-12-02",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 178,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 733
+            }
+        },
+        {
+            "date": "2020-12-01",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 136,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 724
+            }
+        },
+        {
+            "date": "2020-11-30",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 114,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 719
+            }
+        },
+        {
+            "date": "2020-11-29",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 123,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 712
+            }
+        },
+        {
+            "date": "2020-11-28",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 177,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 709
+            }
+        },
+        {
+            "date": "2020-11-27",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 168,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 704
+            }
+        },
+        {
+            "date": "2020-11-26",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 205,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 695
+            }
+        },
+        {
+            "date": "2020-11-25",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 219,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 685
+            }
+        },
+        {
+            "date": "2020-11-24",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 137,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 679
+            }
+        },
+        {
+            "date": "2020-11-23",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 203,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 677
+            }
+        },
+        {
+            "date": "2020-11-22",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 295,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 673
+            }
+        },
+        {
+            "date": "2020-11-21",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 380,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 665
+            }
+        },
+        {
+            "date": "2020-11-20",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 229,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 655
+            }
+        },
+        {
+            "date": "2020-11-19",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 289,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 646
+            }
+        },
+        {
+            "date": "2020-11-18",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 293,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 642
+            }
+        },
+        {
+            "date": "2020-11-17",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 329,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 634
+            }
+        },
+        {
+            "date": "2020-11-16",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 565,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 626
+            }
+        },
+        {
+            "date": "2020-11-15",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 463,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 622
+            }
+        },
+        {
+            "date": "2020-11-14",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 367,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 614
+            }
+        },
+        {
+            "date": "2020-11-13",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 358,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 606
+            }
+        },
+        {
+            "date": "2020-11-12",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 603,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 600
+            }
+        },
+        {
+            "date": "2020-11-11",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 269,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 600
+            }
+        },
+        {
+            "date": "2020-11-10",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 467,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 593
+            }
+        },
+        {
+            "date": "2020-11-09",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 420,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 592
+            }
+        },
+        {
+            "date": "2020-11-08",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 311,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 589
+            }
+        },
+        {
+            "date": "2020-11-07",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 330,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 582
+            }
+        },
+        {
+            "date": "2020-11-06",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 298,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 579
+            }
+        },
+        {
+            "date": "2020-11-05",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 280,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 575
+            }
+        },
+        {
+            "date": "2020-11-04",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 252,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 569
+            }
+        },
+        {
+            "date": "2020-11-03",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 223,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 564
+            }
+        },
+        {
+            "date": "2020-11-02",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 216,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 560
+            }
+        },
+        {
+            "date": "2020-11-01",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 319,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 558
+            }
+        },
+        {
+            "date": "2020-10-31",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 244,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 555
+            }
+        },
+        {
+            "date": "2020-10-30",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 276,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 551
+            }
+        },
+        {
+            "date": "2020-10-29",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 343,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 550
+            }
+        },
+        {
+            "date": "2020-10-28",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 254,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 549
+            }
+        },
+        {
+            "date": "2020-10-27",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 309,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 541
+            }
+        },
+        {
+            "date": "2020-10-26",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 305,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 537
+            }
+        },
+        {
+            "date": "2020-10-25",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 264,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 536
+            }
+        },
+        {
+            "date": "2020-10-24",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 331,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 534
+            }
+        },
+        {
+            "date": "2020-10-23",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 272,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 531
+            }
+        },
+        {
+            "date": "2020-10-22",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 223,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 530
+            }
+        },
+        {
+            "date": "2020-10-21",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 291,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 527
+            }
+        },
+        {
+            "date": "2020-10-20",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 291,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 524
+            }
+        },
+        {
+            "date": "2020-10-19",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 217,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 523
+            }
+        },
+        {
+            "date": "2020-10-18",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 218,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 520
+            }
+        },
+        {
+            "date": "2020-10-17",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 140,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 518
+            }
+        },
+        {
+            "date": "2020-10-16",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 72,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 517
+            }
+        },
+        {
+            "date": "2020-10-15",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 231,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 516
+            }
+        },
+        {
+            "date": "2020-10-14",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 222,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 513
+            }
+        },
+        {
+            "date": "2020-10-13",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 178,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 511
+            }
+        },
+        {
+            "date": "2020-10-12",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 166,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 510
+            }
+        },
+        {
+            "date": "2020-10-11",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 151,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 509
+            }
+        },
+        {
+            "date": "2020-10-10",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 147,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 509
+            }
+        },
+        {
+            "date": "2020-10-09",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 181,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 508
+            }
+        },
+        {
+            "date": "2020-10-08",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 178,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 508
+            }
+        },
+        {
+            "date": "2020-10-07",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 79,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 508
+            }
+        },
+        {
+            "date": "2020-10-06",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 90,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 506
+            }
+        },
+        {
+            "date": "2020-10-05",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 81,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 504
+            }
+        },
+        {
+            "date": "2020-10-04",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 228,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 504
+            }
+        },
+        {
+            "date": "2020-10-03",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 111,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 504
+            }
+        },
+        {
+            "date": "2020-10-02",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 44,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 502
+            }
+        },
+        {
+            "date": "2020-10-01",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 38,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 500
+            }
+        },
+        {
+            "date": "2020-09-30",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 46,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 499
+            }
+        },
+        {
+            "date": "2020-09-29",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 45,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 497
+            }
+        },
+        {
+            "date": "2020-09-28",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 26,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 497
+            }
+        },
+        {
+            "date": "2020-09-27",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 36,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 496
+            }
+        },
+        {
+            "date": "2020-09-26",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 52,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 495
+            }
+        },
+        {
+            "date": "2020-09-25",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 52,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 495
+            }
+        },
+        {
+            "date": "2020-09-24",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 58,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 495
+            }
+        },
+        {
+            "date": "2020-09-23",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 49,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 493
+            }
+        },
+        {
+            "date": "2020-09-22",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 42,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 492
+            }
+        },
+        {
+            "date": "2020-09-21",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 19,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 492
+            }
+        },
+        {
+            "date": "2020-09-20",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 36,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 491
+            }
+        },
+        {
+            "date": "2020-09-19",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 41,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 490
+            }
+        },
+        {
+            "date": "2020-09-18",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 40,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 488
+            }
+        },
+        {
+            "date": "2020-09-17",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 38,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 488
+            }
+        },
+        {
+            "date": "2020-09-16",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 48,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 488
+            }
+        },
+        {
+            "date": "2020-09-15",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 56,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 487
+            }
+        },
+        {
+            "date": "2020-09-14",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 36,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 486
+            }
+        },
+        {
+            "date": "2020-09-13",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 51,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 485
+            }
+        },
+        {
+            "date": "2020-09-12",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 40,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 484
+            }
+        },
+        {
+            "date": "2020-09-11",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 52,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 483
+            }
+        },
+        {
+            "date": "2020-09-10",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 20,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 481
+            }
+        },
+        {
+            "date": "2020-09-09",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 32,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 479
+            }
+        },
+        {
+            "date": "2020-09-08",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 43,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 478
+            }
+        },
+        {
+            "date": "2020-09-07",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 30,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 477
+            }
+        },
+        {
+            "date": "2020-09-06",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 39,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 476
+            }
+        },
+        {
+            "date": "2020-09-05",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 22,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 474
+            }
+        },
+        {
+            "date": "2020-09-04",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 473
+            }
+        },
+        {
+            "date": "2020-09-03",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 472
+            }
+        },
+        {
+            "date": "2020-09-02",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 472
+            }
+        },
+        {
+            "date": "2020-09-01",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 472
+            }
+        },
+        {
+            "date": "2020-08-31",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 471
+            }
+        },
+        {
+            "date": "2020-08-30",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 470
+            }
+        },
+        {
+            "date": "2020-08-29",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 470
+            }
+        },
+        {
+            "date": "2020-08-28",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 469
+            }
+        },
+        {
+            "date": "2020-08-27",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 469
+            }
+        },
+        {
+            "date": "2020-08-26",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 467
+            }
+        },
+        {
+            "date": "2020-08-25",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 467
+            }
+        },
+        {
+            "date": "2020-08-24",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 466
+            }
+        },
+        {
+            "date": "2020-08-23",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 465
+            }
+        },
+        {
+            "date": "2020-08-22",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 465
+            }
+        },
+        {
+            "date": "2020-08-21",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 464
+            }
+        },
+        {
+            "date": "2020-08-20",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 463
+            }
+        },
+        {
+            "date": "2020-08-19",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 463
+            }
+        },
+        {
+            "date": "2020-08-18",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 463
+            }
+        },
+        {
+            "date": "2020-08-17",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 462
+            }
+        },
+        {
+            "date": "2020-08-16",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 462
+            }
+        },
+        {
+            "date": "2020-08-15",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 461
+            }
+        },
+        {
+            "date": "2020-08-14",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 29,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 461
+            }
+        },
+        {
+            "date": "2020-08-13",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 460
+            }
+        },
+        {
+            "date": "2020-08-12",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 459
+            }
+        },
+        {
+            "date": "2020-08-11",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 459
+            }
+        },
+        {
+            "date": "2020-08-10",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 459
+            }
+        },
+        {
+            "date": "2020-08-09",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 458
+            }
+        },
+        {
+            "date": "2020-08-08",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 457
+            }
+        },
+        {
+            "date": "2020-08-07",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 457
+            }
+        },
+        {
+            "date": "2020-08-06",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 455
+            }
+        },
+        {
+            "date": "2020-08-05",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 454
+            }
+        },
+        {
+            "date": "2020-08-04",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 454
+            }
+        },
+        {
+            "date": "2020-08-03",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 454
+            }
+        },
+        {
+            "date": "2020-08-02",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 454
+            }
+        },
+        {
+            "date": "2020-08-01",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 17,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 453
+            }
+        },
+        {
+            "date": "2020-07-31",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 19,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 450
+            }
+        },
+        {
+            "date": "2020-07-30",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 450
+            }
+        },
+        {
+            "date": "2020-07-29",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 449
+            }
+        },
+        {
+            "date": "2020-07-28",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 449
+            }
+        },
+        {
+            "date": "2020-07-27",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 448
+            }
+        },
+        {
+            "date": "2020-07-26",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 447
+            }
+        },
+        {
+            "date": "2020-07-25",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 447
+            }
+        },
+        {
+            "date": "2020-07-24",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 447
+            }
+        },
+        {
+            "date": "2020-07-23",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 446
+            }
+        },
+        {
+            "date": "2020-07-22",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 445
+            }
+        },
+        {
+            "date": "2020-07-21",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 444
+            }
+        },
+        {
+            "date": "2020-07-20",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 443
+            }
+        },
+        {
+            "date": "2020-07-19",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 24,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 441
+            }
+        },
+        {
+            "date": "2020-07-18",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 22,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 439
+            }
+        },
+        {
+            "date": "2020-07-17",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 439
+            }
+        },
+        {
+            "date": "2020-07-16",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 437
+            }
+        },
+        {
+            "date": "2020-07-15",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 437
+            }
+        },
+        {
+            "date": "2020-07-14",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 435
+            }
+        },
+        {
+            "date": "2020-07-13",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 435
+            }
+        },
+        {
+            "date": "2020-07-12",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 434
+            }
+        },
+        {
+            "date": "2020-07-11",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 26,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 434
+            }
+        },
+        {
+            "date": "2020-07-10",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 432
+            }
+        },
+        {
+            "date": "2020-07-09",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 432
+            }
+        },
+        {
+            "date": "2020-07-08",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 24,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 431
+            }
+        },
+        {
+            "date": "2020-07-07",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 20,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 431
+            }
+        },
+        {
+            "date": "2020-07-06",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 429
+            }
+        },
+        {
+            "date": "2020-07-05",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 427
+            }
+        },
+        {
+            "date": "2020-07-04",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 427
+            }
+        },
+        {
+            "date": "2020-07-03",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 20,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 427
+            }
+        },
+        {
+            "date": "2020-07-02",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 24,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 426
+            }
+        },
+        {
+            "date": "2020-07-01",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 1499,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 425
+            }
+        },
+        {
+            "date": "2020-06-30",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 423
+            }
+        },
+        {
+            "date": "2020-06-29",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 422
+            }
+        },
+        {
+            "date": "2020-06-28",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 421
+            }
+        },
+        {
+            "date": "2020-06-27",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 419
+            }
+        },
+        {
+            "date": "2020-06-26",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 419
+            }
+        },
+        {
+            "date": "2020-06-25",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 418
+            }
+        },
+        {
+            "date": "2020-06-24",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 414
+            }
+        },
+        {
+            "date": "2020-06-23",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 410
+            }
+        },
+        {
+            "date": "2020-06-22",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 409
+            }
+        },
+        {
+            "date": "2020-06-21",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 405
+            }
+        },
+        {
+            "date": "2020-06-20",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 400
+            }
+        },
+        {
+            "date": "2020-06-19",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 398
+            }
+        },
+        {
+            "date": "2020-06-18",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 397
+            }
+        },
+        {
+            "date": "2020-06-17",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 395
+            }
+        },
+        {
+            "date": "2020-06-16",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 395
+            }
+        },
+        {
+            "date": "2020-06-15",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 394
+            }
+        },
+        {
+            "date": "2020-06-14",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 391
+            }
+        },
+        {
+            "date": "2020-06-13",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 387
+            }
+        },
+        {
+            "date": "2020-06-12",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 387
+            }
+        },
+        {
+            "date": "2020-06-11",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 383
+            }
+        },
+        {
+            "date": "2020-06-10",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 382
+            }
+        },
+        {
+            "date": "2020-06-09",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 380
+            }
+        },
+        {
+            "date": "2020-06-08",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 380
+            }
+        },
+        {
+            "date": "2020-06-07",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 374
+            }
+        },
+        {
+            "date": "2020-06-06",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 372
+            }
+        },
+        {
+            "date": "2020-06-05",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 368
+            }
+        },
+        {
+            "date": "2020-06-04",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 368
+            }
+        },
+        {
+            "date": "2020-06-03",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 364
+            }
+        },
+        {
+            "date": "2020-06-02",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 361
+            }
+        },
+        {
+            "date": "2020-06-01",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 358
+            }
+        },
+        {
+            "date": "2020-05-31",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 355
+            }
+        },
+        {
+            "date": "2020-05-30",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 351
+            }
+        },
+        {
+            "date": "2020-05-29",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 347
+            }
+        },
+        {
+            "date": "2020-05-28",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 344
+            }
+        },
+        {
+            "date": "2020-05-27",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 343
+            }
+        },
+        {
+            "date": "2020-05-26",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 341
+            }
+        },
+        {
+            "date": "2020-05-25",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 337
+            }
+        },
+        {
+            "date": "2020-05-24",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 332
+            }
+        },
+        {
+            "date": "2020-05-23",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 17,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 330
+            }
+        },
+        {
+            "date": "2020-05-22",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 17,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 327
+            }
+        },
+        {
+            "date": "2020-05-21",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 23,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 322
+            }
+        },
+        {
+            "date": "2020-05-20",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 17,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 315
+            }
+        },
+        {
+            "date": "2020-05-19",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 306
+            }
+        },
+        {
+            "date": "2020-05-18",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 302
+            }
+        },
+        {
+            "date": "2020-05-17",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 299
+            }
+        },
+        {
+            "date": "2020-05-16",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 297
+            }
+        },
+        {
+            "date": "2020-05-15",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 20,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 295
+            }
+        },
+        {
+            "date": "2020-05-14",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 19,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 293
+            }
+        },
+        {
+            "date": "2020-05-13",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 290
+            }
+        },
+        {
+            "date": "2020-05-12",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 286
+            }
+        },
+        {
+            "date": "2020-05-11",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 281
+            }
+        },
+        {
+            "date": "2020-05-10",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 20,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 273
+            }
+        },
+        {
+            "date": "2020-05-09",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 20,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 269
+            }
+        },
+        {
+            "date": "2020-05-08",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 262
+            }
+        },
+        {
+            "date": "2020-05-07",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 257
+            }
+        },
+        {
+            "date": "2020-05-06",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 248
+            }
+        },
+        {
+            "date": "2020-05-05",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 17,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 244
+            }
+        },
+        {
+            "date": "2020-05-04",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 19,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 236
+            }
+        },
+        {
+            "date": "2020-05-03",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 231
+            }
+        },
+        {
+            "date": "2020-05-02",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 19,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 226
+            }
+        },
+        {
+            "date": "2020-05-01",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 21,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 219
+            }
+        },
+        {
+            "date": "2020-04-30",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 22,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 214
+            }
+        },
+        {
+            "date": "2020-04-29",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 209
+            }
+        },
+        {
+            "date": "2020-04-28",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 203
+            }
+        },
+        {
+            "date": "2020-04-27",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 22,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 194
+            }
+        },
+        {
+            "date": "2020-04-26",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 190
+            }
+        },
+        {
+            "date": "2020-04-25",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 19,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 182
+            }
+        },
+        {
+            "date": "2020-04-24",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 26,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 175
+            }
+        },
+        {
+            "date": "2020-04-23",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 19,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 171
+            }
+        },
+        {
+            "date": "2020-04-22",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 26,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 165
+            }
+        },
+        {
+            "date": "2020-04-21",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 24,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 158
+            }
+        },
+        {
+            "date": "2020-04-20",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 29,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 157
+            }
+        },
+        {
+            "date": "2020-04-19",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 43,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 149
+            }
+        },
+        {
+            "date": "2020-04-18",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 26,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 142
+            }
+        },
+        {
+            "date": "2020-04-17",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 28,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 136
+            }
+        },
+        {
+            "date": "2020-04-16",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 127
+            }
+        },
+        {
+            "date": "2020-04-15",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 123
+            }
+        },
+        {
+            "date": "2020-04-14",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 118
+            }
+        },
+        {
+            "date": "2020-04-13",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 115
+            }
+        },
+        {
+            "date": "2020-04-12",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 107
+            }
+        },
+        {
+            "date": "2020-04-11",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 103
+            }
+        },
+        {
+            "date": "2020-04-10",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 95
+            }
+        },
+        {
+            "date": "2020-04-09",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 90
+            }
+        },
+        {
+            "date": "2020-04-08",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 80
+            }
+        },
+        {
+            "date": "2020-04-07",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 78
+            }
+        },
+        {
+            "date": "2020-04-06",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 72
+            }
+        },
+        {
+            "date": "2020-04-05",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 61
+            }
+        },
+        {
+            "date": "2020-04-04",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 55
+            }
+        },
+        {
+            "date": "2020-04-03",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 52
+            }
+        },
+        {
+            "date": "2020-04-02",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 45
+            }
+        },
+        {
+            "date": "2020-04-01",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 35
+            }
+        },
+        {
+            "date": "2020-03-31",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 30
+            }
+        },
+        {
+            "date": "2020-03-30",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 26
+            }
+        },
+        {
+            "date": "2020-03-29",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 24
+            }
+        },
+        {
+            "date": "2020-03-28",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 21
+            }
+        },
+        {
+            "date": "2020-03-27",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 18
+            }
+        },
+        {
+            "date": "2020-03-26",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 17
+            }
+        },
+        {
+            "date": "2020-03-25",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 15
+            }
+        },
+        {
+            "date": "2020-03-24",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 13
+            }
+        },
+        {
+            "date": "2020-03-23",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 9
+            }
+        },
+        {
+            "date": "2020-03-22",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 5
+            }
+        },
+        {
+            "date": "2020-03-21",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 3
+            }
+        },
+        {
+            "date": "2020-03-20",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 3
+            }
+        },
+        {
+            "date": "2020-03-19",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 3
+            }
+        },
+        {
+            "date": "2020-03-18",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 3
+            }
+        },
+        {
+            "date": "2020-03-17",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 2
+            }
+        },
+        {
+            "date": "2020-03-16",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 2
+            }
+        },
+        {
+            "date": "2020-03-15",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-14",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-13",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-12",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-11",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-10",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-09",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-08",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-07",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-06",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-05",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-04",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-03",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-02",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-01",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-29",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-28",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-27",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-26",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-25",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-24",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-23",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-22",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-21",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-20",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-19",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-18",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-17",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-16",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-15",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-14",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-13",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-12",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-11",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-10",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-09",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-08",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-07",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-06",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-05",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-04",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-03",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-02",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-01",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-31",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-30",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-29",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-28",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-27",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-26",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-25",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-24",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-23",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-22",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-21",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-20",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-19",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-18",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-17",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-16",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-15",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-14",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-13",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-12",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-11",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-10",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-09",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-08",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-07",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-06",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-05",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-04",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-03",
+            "name": "Leicestershire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        }
+    ],
+    "pagination": {
+        "current": "/v1/data?filters=areaType%3Dutla%3BareaName%3DLeicestershire&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "next": null,
+        "previous": null,
+        "first": "/v1/data?filters=areaType%3Dutla%3BareaName%3DLeicestershire&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "last": "/v1/data?filters=areaType%3Dutla%3BareaName%3DLeicestershire&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1"
+    }
+}

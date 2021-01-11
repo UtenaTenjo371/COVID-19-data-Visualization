@@ -1,0 +1,4501 @@
+{
+    "length": 374,
+    "maxPageLimit": 2500,
+    "data": [
+        {
+            "date": "2021-01-10",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 95,
+                "cumulative": 13421
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-09",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 72,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 727
+            }
+        },
+        {
+            "date": "2021-01-08",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 101,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 724
+            }
+        },
+        {
+            "date": "2021-01-07",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 98,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 724
+            }
+        },
+        {
+            "date": "2021-01-06",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 124,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 719
+            }
+        },
+        {
+            "date": "2021-01-05",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 110,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 718
+            }
+        },
+        {
+            "date": "2021-01-04",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 91,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 711
+            }
+        },
+        {
+            "date": "2021-01-03",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 75,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 704
+            }
+        },
+        {
+            "date": "2021-01-02",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 133,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 698
+            }
+        },
+        {
+            "date": "2021-01-01",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 86,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 695
+            }
+        },
+        {
+            "date": "2020-12-31",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 89,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 689
+            }
+        },
+        {
+            "date": "2020-12-30",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 81,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 684
+            }
+        },
+        {
+            "date": "2020-12-29",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 92,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 678
+            }
+        },
+        {
+            "date": "2020-12-28",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 130,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 676
+            }
+        },
+        {
+            "date": "2020-12-27",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 65,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 672
+            }
+        },
+        {
+            "date": "2020-12-26",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 33,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 669
+            }
+        },
+        {
+            "date": "2020-12-25",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 61,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 667
+            }
+        },
+        {
+            "date": "2020-12-24",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 99,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 664
+            }
+        },
+        {
+            "date": "2020-12-23",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 98,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 661
+            }
+        },
+        {
+            "date": "2020-12-22",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 89,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 651
+            }
+        },
+        {
+            "date": "2020-12-21",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 83,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 640
+            }
+        },
+        {
+            "date": "2020-12-20",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 52,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 633
+            }
+        },
+        {
+            "date": "2020-12-19",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 47,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 630
+            }
+        },
+        {
+            "date": "2020-12-18",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 58,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 628
+            }
+        },
+        {
+            "date": "2020-12-17",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 52,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 622
+            }
+        },
+        {
+            "date": "2020-12-16",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 64,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 612
+            }
+        },
+        {
+            "date": "2020-12-15",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 76,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 607
+            }
+        },
+        {
+            "date": "2020-12-14",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 41,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 602
+            }
+        },
+        {
+            "date": "2020-12-13",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 65,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 596
+            }
+        },
+        {
+            "date": "2020-12-12",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 34,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 589
+            }
+        },
+        {
+            "date": "2020-12-11",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 64,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 585
+            }
+        },
+        {
+            "date": "2020-12-10",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 66,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 578
+            }
+        },
+        {
+            "date": "2020-12-09",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 54,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 573
+            }
+        },
+        {
+            "date": "2020-12-08",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 25,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 571
+            }
+        },
+        {
+            "date": "2020-12-07",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 36,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 570
+            }
+        },
+        {
+            "date": "2020-12-06",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 51,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 568
+            }
+        },
+        {
+            "date": "2020-12-05",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 39,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 561
+            }
+        },
+        {
+            "date": "2020-12-04",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 57,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 557
+            }
+        },
+        {
+            "date": "2020-12-03",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 58,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 553
+            }
+        },
+        {
+            "date": "2020-12-02",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 63,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 543
+            }
+        },
+        {
+            "date": "2020-12-01",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 50,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 542
+            }
+        },
+        {
+            "date": "2020-11-30",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 45,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 537
+            }
+        },
+        {
+            "date": "2020-11-29",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 48,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 534
+            }
+        },
+        {
+            "date": "2020-11-28",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 61,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 533
+            }
+        },
+        {
+            "date": "2020-11-27",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 86,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 526
+            }
+        },
+        {
+            "date": "2020-11-26",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 62,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 513
+            }
+        },
+        {
+            "date": "2020-11-25",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 82,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 509
+            }
+        },
+        {
+            "date": "2020-11-24",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 79,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 504
+            }
+        },
+        {
+            "date": "2020-11-23",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 99,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 497
+            }
+        },
+        {
+            "date": "2020-11-22",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 57,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 487
+            }
+        },
+        {
+            "date": "2020-11-21",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 88,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 478
+            }
+        },
+        {
+            "date": "2020-11-20",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 94,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 473
+            }
+        },
+        {
+            "date": "2020-11-19",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 116,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 467
+            }
+        },
+        {
+            "date": "2020-11-18",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 132,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 463
+            }
+        },
+        {
+            "date": "2020-11-17",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 104,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 456
+            }
+        },
+        {
+            "date": "2020-11-16",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 63,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 445
+            }
+        },
+        {
+            "date": "2020-11-15",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 141,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 438
+            }
+        },
+        {
+            "date": "2020-11-14",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 123,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 430
+            }
+        },
+        {
+            "date": "2020-11-13",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 143,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 421
+            }
+        },
+        {
+            "date": "2020-11-12",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 215,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 412
+            }
+        },
+        {
+            "date": "2020-11-11",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 130,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 404
+            }
+        },
+        {
+            "date": "2020-11-10",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 148,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 401
+            }
+        },
+        {
+            "date": "2020-11-09",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 111,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 396
+            }
+        },
+        {
+            "date": "2020-11-08",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 171,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 390
+            }
+        },
+        {
+            "date": "2020-11-07",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 170,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 384
+            }
+        },
+        {
+            "date": "2020-11-06",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 143,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 376
+            }
+        },
+        {
+            "date": "2020-11-05",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 214,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 368
+            }
+        },
+        {
+            "date": "2020-11-04",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 176,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 363
+            }
+        },
+        {
+            "date": "2020-11-03",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 171,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 361
+            }
+        },
+        {
+            "date": "2020-11-02",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 178,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 355
+            }
+        },
+        {
+            "date": "2020-11-01",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 188,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 350
+            }
+        },
+        {
+            "date": "2020-10-31",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 216,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 345
+            }
+        },
+        {
+            "date": "2020-10-30",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 205,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 340
+            }
+        },
+        {
+            "date": "2020-10-29",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 206,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 337
+            }
+        },
+        {
+            "date": "2020-10-28",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 224,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 334
+            }
+        },
+        {
+            "date": "2020-10-27",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 155,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 332
+            }
+        },
+        {
+            "date": "2020-10-26",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 170,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 329
+            }
+        },
+        {
+            "date": "2020-10-25",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 175,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 327
+            }
+        },
+        {
+            "date": "2020-10-24",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 197,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 321
+            }
+        },
+        {
+            "date": "2020-10-23",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 150,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 320
+            }
+        },
+        {
+            "date": "2020-10-22",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 196,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 313
+            }
+        },
+        {
+            "date": "2020-10-21",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 264,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 310
+            }
+        },
+        {
+            "date": "2020-10-20",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 193,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 308
+            }
+        },
+        {
+            "date": "2020-10-19",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 206,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 304
+            }
+        },
+        {
+            "date": "2020-10-18",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 185,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 303
+            }
+        },
+        {
+            "date": "2020-10-17",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 155,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 301
+            }
+        },
+        {
+            "date": "2020-10-16",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 111,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 296
+            }
+        },
+        {
+            "date": "2020-10-15",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 131,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 294
+            }
+        },
+        {
+            "date": "2020-10-14",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 149,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 293
+            }
+        },
+        {
+            "date": "2020-10-13",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 112,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 291
+            }
+        },
+        {
+            "date": "2020-10-12",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 86,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 290
+            }
+        },
+        {
+            "date": "2020-10-11",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 130,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 287
+            }
+        },
+        {
+            "date": "2020-10-10",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 112,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 286
+            }
+        },
+        {
+            "date": "2020-10-09",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 51,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 285
+            }
+        },
+        {
+            "date": "2020-10-08",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 97,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 284
+            }
+        },
+        {
+            "date": "2020-10-07",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 55,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 283
+            }
+        },
+        {
+            "date": "2020-10-06",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 86,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 283
+            }
+        },
+        {
+            "date": "2020-10-05",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 72,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 281
+            }
+        },
+        {
+            "date": "2020-10-04",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 89,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 281
+            }
+        },
+        {
+            "date": "2020-10-03",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 74,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 281
+            }
+        },
+        {
+            "date": "2020-10-02",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 28,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 281
+            }
+        },
+        {
+            "date": "2020-10-01",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 23,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 280
+            }
+        },
+        {
+            "date": "2020-09-30",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 44,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 279
+            }
+        },
+        {
+            "date": "2020-09-29",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 22,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 279
+            }
+        },
+        {
+            "date": "2020-09-28",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 279
+            }
+        },
+        {
+            "date": "2020-09-27",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 24,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 277
+            }
+        },
+        {
+            "date": "2020-09-26",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 22,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 276
+            }
+        },
+        {
+            "date": "2020-09-25",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 276
+            }
+        },
+        {
+            "date": "2020-09-24",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 276
+            }
+        },
+        {
+            "date": "2020-09-23",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 275
+            }
+        },
+        {
+            "date": "2020-09-22",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 275
+            }
+        },
+        {
+            "date": "2020-09-21",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 275
+            }
+        },
+        {
+            "date": "2020-09-20",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 275
+            }
+        },
+        {
+            "date": "2020-09-19",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 275
+            }
+        },
+        {
+            "date": "2020-09-18",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 274
+            }
+        },
+        {
+            "date": "2020-09-17",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 274
+            }
+        },
+        {
+            "date": "2020-09-16",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 274
+            }
+        },
+        {
+            "date": "2020-09-15",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 17,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 273
+            }
+        },
+        {
+            "date": "2020-09-14",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 273
+            }
+        },
+        {
+            "date": "2020-09-13",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 273
+            }
+        },
+        {
+            "date": "2020-09-12",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 273
+            }
+        },
+        {
+            "date": "2020-09-11",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 273
+            }
+        },
+        {
+            "date": "2020-09-10",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 273
+            }
+        },
+        {
+            "date": "2020-09-09",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 273
+            }
+        },
+        {
+            "date": "2020-09-08",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 272
+            }
+        },
+        {
+            "date": "2020-09-07",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 17,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 272
+            }
+        },
+        {
+            "date": "2020-09-06",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 271
+            }
+        },
+        {
+            "date": "2020-09-05",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 271
+            }
+        },
+        {
+            "date": "2020-09-04",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 271
+            }
+        },
+        {
+            "date": "2020-09-03",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 270
+            }
+        },
+        {
+            "date": "2020-09-02",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 269
+            }
+        },
+        {
+            "date": "2020-09-01",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 267
+            }
+        },
+        {
+            "date": "2020-08-31",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 266
+            }
+        },
+        {
+            "date": "2020-08-30",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 265
+            }
+        },
+        {
+            "date": "2020-08-29",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 265
+            }
+        },
+        {
+            "date": "2020-08-28",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 265
+            }
+        },
+        {
+            "date": "2020-08-27",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 265
+            }
+        },
+        {
+            "date": "2020-08-26",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 265
+            }
+        },
+        {
+            "date": "2020-08-25",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 263
+            }
+        },
+        {
+            "date": "2020-08-24",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 263
+            }
+        },
+        {
+            "date": "2020-08-23",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 263
+            }
+        },
+        {
+            "date": "2020-08-22",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 263
+            }
+        },
+        {
+            "date": "2020-08-21",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 263
+            }
+        },
+        {
+            "date": "2020-08-20",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 263
+            }
+        },
+        {
+            "date": "2020-08-19",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 263
+            }
+        },
+        {
+            "date": "2020-08-18",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 263
+            }
+        },
+        {
+            "date": "2020-08-17",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 262
+            }
+        },
+        {
+            "date": "2020-08-16",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 262
+            }
+        },
+        {
+            "date": "2020-08-15",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 262
+            }
+        },
+        {
+            "date": "2020-08-14",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 22,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 262
+            }
+        },
+        {
+            "date": "2020-08-13",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 262
+            }
+        },
+        {
+            "date": "2020-08-12",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 262
+            }
+        },
+        {
+            "date": "2020-08-11",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 261
+            }
+        },
+        {
+            "date": "2020-08-10",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 261
+            }
+        },
+        {
+            "date": "2020-08-09",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 261
+            }
+        },
+        {
+            "date": "2020-08-08",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 261
+            }
+        },
+        {
+            "date": "2020-08-07",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 261
+            }
+        },
+        {
+            "date": "2020-08-06",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 260
+            }
+        },
+        {
+            "date": "2020-08-05",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 260
+            }
+        },
+        {
+            "date": "2020-08-04",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 260
+            }
+        },
+        {
+            "date": "2020-08-03",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 260
+            }
+        },
+        {
+            "date": "2020-08-02",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 260
+            }
+        },
+        {
+            "date": "2020-08-01",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 260
+            }
+        },
+        {
+            "date": "2020-07-31",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 260
+            }
+        },
+        {
+            "date": "2020-07-30",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 260
+            }
+        },
+        {
+            "date": "2020-07-29",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 260
+            }
+        },
+        {
+            "date": "2020-07-28",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 260
+            }
+        },
+        {
+            "date": "2020-07-27",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 260
+            }
+        },
+        {
+            "date": "2020-07-26",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 259
+            }
+        },
+        {
+            "date": "2020-07-25",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 259
+            }
+        },
+        {
+            "date": "2020-07-24",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 258
+            }
+        },
+        {
+            "date": "2020-07-23",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 257
+            }
+        },
+        {
+            "date": "2020-07-22",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 257
+            }
+        },
+        {
+            "date": "2020-07-21",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 257
+            }
+        },
+        {
+            "date": "2020-07-20",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 256
+            }
+        },
+        {
+            "date": "2020-07-19",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 256
+            }
+        },
+        {
+            "date": "2020-07-18",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 255
+            }
+        },
+        {
+            "date": "2020-07-17",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 254
+            }
+        },
+        {
+            "date": "2020-07-16",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 253
+            }
+        },
+        {
+            "date": "2020-07-15",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 253
+            }
+        },
+        {
+            "date": "2020-07-14",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 253
+            }
+        },
+        {
+            "date": "2020-07-13",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 253
+            }
+        },
+        {
+            "date": "2020-07-12",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 251
+            }
+        },
+        {
+            "date": "2020-07-11",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 251
+            }
+        },
+        {
+            "date": "2020-07-10",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 251
+            }
+        },
+        {
+            "date": "2020-07-09",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 250
+            }
+        },
+        {
+            "date": "2020-07-08",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 249
+            }
+        },
+        {
+            "date": "2020-07-07",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 248
+            }
+        },
+        {
+            "date": "2020-07-06",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 247
+            }
+        },
+        {
+            "date": "2020-07-05",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 247
+            }
+        },
+        {
+            "date": "2020-07-04",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 247
+            }
+        },
+        {
+            "date": "2020-07-03",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 243
+            }
+        },
+        {
+            "date": "2020-07-02",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 243
+            }
+        },
+        {
+            "date": "2020-07-01",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 761,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 240
+            }
+        },
+        {
+            "date": "2020-06-30",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 240
+            }
+        },
+        {
+            "date": "2020-06-29",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 239
+            }
+        },
+        {
+            "date": "2020-06-28",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 239
+            }
+        },
+        {
+            "date": "2020-06-27",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 239
+            }
+        },
+        {
+            "date": "2020-06-26",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 238
+            }
+        },
+        {
+            "date": "2020-06-25",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 233
+            }
+        },
+        {
+            "date": "2020-06-24",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 232
+            }
+        },
+        {
+            "date": "2020-06-23",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 232
+            }
+        },
+        {
+            "date": "2020-06-22",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 231
+            }
+        },
+        {
+            "date": "2020-06-21",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 231
+            }
+        },
+        {
+            "date": "2020-06-20",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 229
+            }
+        },
+        {
+            "date": "2020-06-19",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 228
+            }
+        },
+        {
+            "date": "2020-06-18",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 228
+            }
+        },
+        {
+            "date": "2020-06-17",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 227
+            }
+        },
+        {
+            "date": "2020-06-16",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 227
+            }
+        },
+        {
+            "date": "2020-06-15",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 226
+            }
+        },
+        {
+            "date": "2020-06-14",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 223
+            }
+        },
+        {
+            "date": "2020-06-13",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 222
+            }
+        },
+        {
+            "date": "2020-06-12",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 222
+            }
+        },
+        {
+            "date": "2020-06-11",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 222
+            }
+        },
+        {
+            "date": "2020-06-10",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 220
+            }
+        },
+        {
+            "date": "2020-06-09",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 218
+            }
+        },
+        {
+            "date": "2020-06-08",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 216
+            }
+        },
+        {
+            "date": "2020-06-07",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 215
+            }
+        },
+        {
+            "date": "2020-06-06",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 213
+            }
+        },
+        {
+            "date": "2020-06-05",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 210
+            }
+        },
+        {
+            "date": "2020-06-04",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 209
+            }
+        },
+        {
+            "date": "2020-06-03",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 208
+            }
+        },
+        {
+            "date": "2020-06-02",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 205
+            }
+        },
+        {
+            "date": "2020-06-01",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 205
+            }
+        },
+        {
+            "date": "2020-05-31",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 201
+            }
+        },
+        {
+            "date": "2020-05-30",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 199
+            }
+        },
+        {
+            "date": "2020-05-29",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 198
+            }
+        },
+        {
+            "date": "2020-05-28",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 195
+            }
+        },
+        {
+            "date": "2020-05-27",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 192
+            }
+        },
+        {
+            "date": "2020-05-26",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 191
+            }
+        },
+        {
+            "date": "2020-05-25",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 191
+            }
+        },
+        {
+            "date": "2020-05-24",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 189
+            }
+        },
+        {
+            "date": "2020-05-23",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 189
+            }
+        },
+        {
+            "date": "2020-05-22",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 187
+            }
+        },
+        {
+            "date": "2020-05-21",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 183
+            }
+        },
+        {
+            "date": "2020-05-20",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 182
+            }
+        },
+        {
+            "date": "2020-05-19",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 181
+            }
+        },
+        {
+            "date": "2020-05-18",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 33,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 179
+            }
+        },
+        {
+            "date": "2020-05-17",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 178
+            }
+        },
+        {
+            "date": "2020-05-16",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 177
+            }
+        },
+        {
+            "date": "2020-05-15",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 173
+            }
+        },
+        {
+            "date": "2020-05-14",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 172
+            }
+        },
+        {
+            "date": "2020-05-13",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 169
+            }
+        },
+        {
+            "date": "2020-05-12",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 167
+            }
+        },
+        {
+            "date": "2020-05-11",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 164
+            }
+        },
+        {
+            "date": "2020-05-10",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 160
+            }
+        },
+        {
+            "date": "2020-05-09",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 156
+            }
+        },
+        {
+            "date": "2020-05-08",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 155
+            }
+        },
+        {
+            "date": "2020-05-07",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 27,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 150
+            }
+        },
+        {
+            "date": "2020-05-06",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 148
+            }
+        },
+        {
+            "date": "2020-05-05",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 17,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 141
+            }
+        },
+        {
+            "date": "2020-05-04",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 136
+            }
+        },
+        {
+            "date": "2020-05-03",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 133
+            }
+        },
+        {
+            "date": "2020-05-02",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 26,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 130
+            }
+        },
+        {
+            "date": "2020-05-01",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 17,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 123
+            }
+        },
+        {
+            "date": "2020-04-30",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 118
+            }
+        },
+        {
+            "date": "2020-04-29",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 115
+            }
+        },
+        {
+            "date": "2020-04-28",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 21,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 112
+            }
+        },
+        {
+            "date": "2020-04-27",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 110
+            }
+        },
+        {
+            "date": "2020-04-26",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 105
+            }
+        },
+        {
+            "date": "2020-04-25",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 102
+            }
+        },
+        {
+            "date": "2020-04-24",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 35,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 98
+            }
+        },
+        {
+            "date": "2020-04-23",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 93
+            }
+        },
+        {
+            "date": "2020-04-22",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 91
+            }
+        },
+        {
+            "date": "2020-04-21",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 86
+            }
+        },
+        {
+            "date": "2020-04-20",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 83
+            }
+        },
+        {
+            "date": "2020-04-19",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 82
+            }
+        },
+        {
+            "date": "2020-04-18",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 78
+            }
+        },
+        {
+            "date": "2020-04-17",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 77
+            }
+        },
+        {
+            "date": "2020-04-16",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 73
+            }
+        },
+        {
+            "date": "2020-04-15",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 72
+            }
+        },
+        {
+            "date": "2020-04-14",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 67
+            }
+        },
+        {
+            "date": "2020-04-13",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 64
+            }
+        },
+        {
+            "date": "2020-04-12",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 61
+            }
+        },
+        {
+            "date": "2020-04-11",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 56
+            }
+        },
+        {
+            "date": "2020-04-10",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 53
+            }
+        },
+        {
+            "date": "2020-04-09",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 50
+            }
+        },
+        {
+            "date": "2020-04-08",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 41
+            }
+        },
+        {
+            "date": "2020-04-07",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 35
+            }
+        },
+        {
+            "date": "2020-04-06",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 29
+            }
+        },
+        {
+            "date": "2020-04-05",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 26
+            }
+        },
+        {
+            "date": "2020-04-04",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 22
+            }
+        },
+        {
+            "date": "2020-04-03",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 19
+            }
+        },
+        {
+            "date": "2020-04-02",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 15
+            }
+        },
+        {
+            "date": "2020-04-01",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 13
+            }
+        },
+        {
+            "date": "2020-03-31",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 9
+            }
+        },
+        {
+            "date": "2020-03-30",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 7
+            }
+        },
+        {
+            "date": "2020-03-29",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 4
+            }
+        },
+        {
+            "date": "2020-03-28",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 2
+            }
+        },
+        {
+            "date": "2020-03-27",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-26",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-25",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-24",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-23",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-22",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-21",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-20",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-19",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-18",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-17",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-16",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-15",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-14",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-13",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-12",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-11",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-10",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-09",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-08",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-07",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-06",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-05",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-04",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-03",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-02",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-01",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-29",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-28",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-27",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-26",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-25",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-24",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-23",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-22",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-21",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-20",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-19",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-18",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-17",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-16",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-15",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-14",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-13",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-12",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-11",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-10",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-09",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-08",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-07",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-06",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-05",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-04",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-03",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-02",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-01",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-31",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-30",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-29",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-28",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-27",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-26",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-25",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-24",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-23",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-22",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-21",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-20",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-19",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-18",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-17",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-16",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-15",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-14",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-13",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-12",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-11",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-10",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-09",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-08",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-07",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-06",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-05",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-04",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-03",
+            "name": "Barnsley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        }
+    ],
+    "pagination": {
+        "current": "/v1/data?filters=areaType%3Dutla%3BareaName%3DBarnsley&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "next": null,
+        "previous": null,
+        "first": "/v1/data?filters=areaType%3Dutla%3BareaName%3DBarnsley&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "last": "/v1/data?filters=areaType%3Dutla%3BareaName%3DBarnsley&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1"
+    }
+}

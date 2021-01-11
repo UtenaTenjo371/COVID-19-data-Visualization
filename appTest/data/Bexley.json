@@ -1,0 +1,4501 @@
+{
+    "length": 374,
+    "maxPageLimit": 2500,
+    "data": [
+        {
+            "date": "2021-01-10",
+            "name": "Bexley",
+            "cases": {
+                "daily": 304,
+                "cumulative": 16961
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-09",
+            "name": "Bexley",
+            "cases": {
+                "daily": 506,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 429
+            }
+        },
+        {
+            "date": "2021-01-08",
+            "name": "Bexley",
+            "cases": {
+                "daily": 547,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 427
+            }
+        },
+        {
+            "date": "2021-01-07",
+            "name": "Bexley",
+            "cases": {
+                "daily": 328,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 421
+            }
+        },
+        {
+            "date": "2021-01-06",
+            "name": "Bexley",
+            "cases": {
+                "daily": 456,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 412
+            }
+        },
+        {
+            "date": "2021-01-05",
+            "name": "Bexley",
+            "cases": {
+                "daily": 543,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 408
+            }
+        },
+        {
+            "date": "2021-01-04",
+            "name": "Bexley",
+            "cases": {
+                "daily": 412,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 405
+            }
+        },
+        {
+            "date": "2021-01-03",
+            "name": "Bexley",
+            "cases": {
+                "daily": 434,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 398
+            }
+        },
+        {
+            "date": "2021-01-02",
+            "name": "Bexley",
+            "cases": {
+                "daily": 467,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 391
+            }
+        },
+        {
+            "date": "2021-01-01",
+            "name": "Bexley",
+            "cases": {
+                "daily": 357,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 387
+            }
+        },
+        {
+            "date": "2020-12-31",
+            "name": "Bexley",
+            "cases": {
+                "daily": 473,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 381
+            }
+        },
+        {
+            "date": "2020-12-30",
+            "name": "Bexley",
+            "cases": {
+                "daily": 368,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 374
+            }
+        },
+        {
+            "date": "2020-12-29",
+            "name": "Bexley",
+            "cases": {
+                "daily": 621,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 370
+            }
+        },
+        {
+            "date": "2020-12-28",
+            "name": "Bexley",
+            "cases": {
+                "daily": 450,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 366
+            }
+        },
+        {
+            "date": "2020-12-27",
+            "name": "Bexley",
+            "cases": {
+                "daily": 279,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 362
+            }
+        },
+        {
+            "date": "2020-12-26",
+            "name": "Bexley",
+            "cases": {
+                "daily": 248,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 360
+            }
+        },
+        {
+            "date": "2020-12-25",
+            "name": "Bexley",
+            "cases": {
+                "daily": 402,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 351
+            }
+        },
+        {
+            "date": "2020-12-24",
+            "name": "Bexley",
+            "cases": {
+                "daily": 393,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 348
+            }
+        },
+        {
+            "date": "2020-12-23",
+            "name": "Bexley",
+            "cases": {
+                "daily": 414,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 348
+            }
+        },
+        {
+            "date": "2020-12-22",
+            "name": "Bexley",
+            "cases": {
+                "daily": 397,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 344
+            }
+        },
+        {
+            "date": "2020-12-21",
+            "name": "Bexley",
+            "cases": {
+                "daily": 431,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 342
+            }
+        },
+        {
+            "date": "2020-12-20",
+            "name": "Bexley",
+            "cases": {
+                "daily": 513,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 339
+            }
+        },
+        {
+            "date": "2020-12-19",
+            "name": "Bexley",
+            "cases": {
+                "daily": 193,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 337
+            }
+        },
+        {
+            "date": "2020-12-18",
+            "name": "Bexley",
+            "cases": {
+                "daily": 312,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 335
+            }
+        },
+        {
+            "date": "2020-12-17",
+            "name": "Bexley",
+            "cases": {
+                "daily": 141,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 334
+            }
+        },
+        {
+            "date": "2020-12-16",
+            "name": "Bexley",
+            "cases": {
+                "daily": 256,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 332
+            }
+        },
+        {
+            "date": "2020-12-15",
+            "name": "Bexley",
+            "cases": {
+                "daily": 153,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 331
+            }
+        },
+        {
+            "date": "2020-12-14",
+            "name": "Bexley",
+            "cases": {
+                "daily": 275,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 329
+            }
+        },
+        {
+            "date": "2020-12-13",
+            "name": "Bexley",
+            "cases": {
+                "daily": 132,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 329
+            }
+        },
+        {
+            "date": "2020-12-12",
+            "name": "Bexley",
+            "cases": {
+                "daily": 188,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 329
+            }
+        },
+        {
+            "date": "2020-12-11",
+            "name": "Bexley",
+            "cases": {
+                "daily": 162,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 323
+            }
+        },
+        {
+            "date": "2020-12-10",
+            "name": "Bexley",
+            "cases": {
+                "daily": 136,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 322
+            }
+        },
+        {
+            "date": "2020-12-09",
+            "name": "Bexley",
+            "cases": {
+                "daily": 93,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 319
+            }
+        },
+        {
+            "date": "2020-12-08",
+            "name": "Bexley",
+            "cases": {
+                "daily": 86,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 319
+            }
+        },
+        {
+            "date": "2020-12-07",
+            "name": "Bexley",
+            "cases": {
+                "daily": 89,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 318
+            }
+        },
+        {
+            "date": "2020-12-06",
+            "name": "Bexley",
+            "cases": {
+                "daily": 112,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 313
+            }
+        },
+        {
+            "date": "2020-12-05",
+            "name": "Bexley",
+            "cases": {
+                "daily": 85,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 310
+            }
+        },
+        {
+            "date": "2020-12-04",
+            "name": "Bexley",
+            "cases": {
+                "daily": 110,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 308
+            }
+        },
+        {
+            "date": "2020-12-03",
+            "name": "Bexley",
+            "cases": {
+                "daily": 97,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 307
+            }
+        },
+        {
+            "date": "2020-12-02",
+            "name": "Bexley",
+            "cases": {
+                "daily": 105,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 306
+            }
+        },
+        {
+            "date": "2020-12-01",
+            "name": "Bexley",
+            "cases": {
+                "daily": 53,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 305
+            }
+        },
+        {
+            "date": "2020-11-30",
+            "name": "Bexley",
+            "cases": {
+                "daily": 90,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 302
+            }
+        },
+        {
+            "date": "2020-11-29",
+            "name": "Bexley",
+            "cases": {
+                "daily": 60,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 300
+            }
+        },
+        {
+            "date": "2020-11-28",
+            "name": "Bexley",
+            "cases": {
+                "daily": 110,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 299
+            }
+        },
+        {
+            "date": "2020-11-27",
+            "name": "Bexley",
+            "cases": {
+                "daily": 62,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 296
+            }
+        },
+        {
+            "date": "2020-11-26",
+            "name": "Bexley",
+            "cases": {
+                "daily": 62,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 295
+            }
+        },
+        {
+            "date": "2020-11-25",
+            "name": "Bexley",
+            "cases": {
+                "daily": 99,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 293
+            }
+        },
+        {
+            "date": "2020-11-24",
+            "name": "Bexley",
+            "cases": {
+                "daily": 81,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 291
+            }
+        },
+        {
+            "date": "2020-11-23",
+            "name": "Bexley",
+            "cases": {
+                "daily": 57,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 289
+            }
+        },
+        {
+            "date": "2020-11-22",
+            "name": "Bexley",
+            "cases": {
+                "daily": 109,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 288
+            }
+        },
+        {
+            "date": "2020-11-21",
+            "name": "Bexley",
+            "cases": {
+                "daily": 90,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 287
+            }
+        },
+        {
+            "date": "2020-11-20",
+            "name": "Bexley",
+            "cases": {
+                "daily": 89,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 284
+            }
+        },
+        {
+            "date": "2020-11-19",
+            "name": "Bexley",
+            "cases": {
+                "daily": 87,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 283
+            }
+        },
+        {
+            "date": "2020-11-18",
+            "name": "Bexley",
+            "cases": {
+                "daily": 67,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 280
+            }
+        },
+        {
+            "date": "2020-11-17",
+            "name": "Bexley",
+            "cases": {
+                "daily": 69,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 279
+            }
+        },
+        {
+            "date": "2020-11-16",
+            "name": "Bexley",
+            "cases": {
+                "daily": 87,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 278
+            }
+        },
+        {
+            "date": "2020-11-15",
+            "name": "Bexley",
+            "cases": {
+                "daily": 126,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 275
+            }
+        },
+        {
+            "date": "2020-11-14",
+            "name": "Bexley",
+            "cases": {
+                "daily": 120,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 273
+            }
+        },
+        {
+            "date": "2020-11-13",
+            "name": "Bexley",
+            "cases": {
+                "daily": 122,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 271
+            }
+        },
+        {
+            "date": "2020-11-12",
+            "name": "Bexley",
+            "cases": {
+                "daily": 115,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 269
+            }
+        },
+        {
+            "date": "2020-11-11",
+            "name": "Bexley",
+            "cases": {
+                "daily": 59,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 267
+            }
+        },
+        {
+            "date": "2020-11-10",
+            "name": "Bexley",
+            "cases": {
+                "daily": 56,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 266
+            }
+        },
+        {
+            "date": "2020-11-09",
+            "name": "Bexley",
+            "cases": {
+                "daily": 94,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 263
+            }
+        },
+        {
+            "date": "2020-11-08",
+            "name": "Bexley",
+            "cases": {
+                "daily": 62,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 262
+            }
+        },
+        {
+            "date": "2020-11-07",
+            "name": "Bexley",
+            "cases": {
+                "daily": 110,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 257
+            }
+        },
+        {
+            "date": "2020-11-06",
+            "name": "Bexley",
+            "cases": {
+                "daily": 72,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 256
+            }
+        },
+        {
+            "date": "2020-11-05",
+            "name": "Bexley",
+            "cases": {
+                "daily": 70,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 255
+            }
+        },
+        {
+            "date": "2020-11-04",
+            "name": "Bexley",
+            "cases": {
+                "daily": 64,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 255
+            }
+        },
+        {
+            "date": "2020-11-03",
+            "name": "Bexley",
+            "cases": {
+                "daily": 57,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 254
+            }
+        },
+        {
+            "date": "2020-11-02",
+            "name": "Bexley",
+            "cases": {
+                "daily": 37,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 252
+            }
+        },
+        {
+            "date": "2020-11-01",
+            "name": "Bexley",
+            "cases": {
+                "daily": 81,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 249
+            }
+        },
+        {
+            "date": "2020-10-31",
+            "name": "Bexley",
+            "cases": {
+                "daily": 30,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 248
+            }
+        },
+        {
+            "date": "2020-10-30",
+            "name": "Bexley",
+            "cases": {
+                "daily": 81,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 246
+            }
+        },
+        {
+            "date": "2020-10-29",
+            "name": "Bexley",
+            "cases": {
+                "daily": 48,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 244
+            }
+        },
+        {
+            "date": "2020-10-28",
+            "name": "Bexley",
+            "cases": {
+                "daily": 58,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 243
+            }
+        },
+        {
+            "date": "2020-10-27",
+            "name": "Bexley",
+            "cases": {
+                "daily": 53,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 243
+            }
+        },
+        {
+            "date": "2020-10-26",
+            "name": "Bexley",
+            "cases": {
+                "daily": 30,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 239
+            }
+        },
+        {
+            "date": "2020-10-25",
+            "name": "Bexley",
+            "cases": {
+                "daily": 48,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 239
+            }
+        },
+        {
+            "date": "2020-10-24",
+            "name": "Bexley",
+            "cases": {
+                "daily": 49,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 239
+            }
+        },
+        {
+            "date": "2020-10-23",
+            "name": "Bexley",
+            "cases": {
+                "daily": 49,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 239
+            }
+        },
+        {
+            "date": "2020-10-22",
+            "name": "Bexley",
+            "cases": {
+                "daily": 25,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 239
+            }
+        },
+        {
+            "date": "2020-10-21",
+            "name": "Bexley",
+            "cases": {
+                "daily": 62,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 239
+            }
+        },
+        {
+            "date": "2020-10-20",
+            "name": "Bexley",
+            "cases": {
+                "daily": 33,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 238
+            }
+        },
+        {
+            "date": "2020-10-19",
+            "name": "Bexley",
+            "cases": {
+                "daily": 21,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 238
+            }
+        },
+        {
+            "date": "2020-10-18",
+            "name": "Bexley",
+            "cases": {
+                "daily": 38,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 237
+            }
+        },
+        {
+            "date": "2020-10-17",
+            "name": "Bexley",
+            "cases": {
+                "daily": 24,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 235
+            }
+        },
+        {
+            "date": "2020-10-16",
+            "name": "Bexley",
+            "cases": {
+                "daily": 28,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 235
+            }
+        },
+        {
+            "date": "2020-10-15",
+            "name": "Bexley",
+            "cases": {
+                "daily": 25,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 235
+            }
+        },
+        {
+            "date": "2020-10-14",
+            "name": "Bexley",
+            "cases": {
+                "daily": 45,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 235
+            }
+        },
+        {
+            "date": "2020-10-13",
+            "name": "Bexley",
+            "cases": {
+                "daily": 20,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 235
+            }
+        },
+        {
+            "date": "2020-10-12",
+            "name": "Bexley",
+            "cases": {
+                "daily": 22,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 235
+            }
+        },
+        {
+            "date": "2020-10-11",
+            "name": "Bexley",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 234
+            }
+        },
+        {
+            "date": "2020-10-10",
+            "name": "Bexley",
+            "cases": {
+                "daily": 21,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 234
+            }
+        },
+        {
+            "date": "2020-10-09",
+            "name": "Bexley",
+            "cases": {
+                "daily": 30,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 234
+            }
+        },
+        {
+            "date": "2020-10-08",
+            "name": "Bexley",
+            "cases": {
+                "daily": 17,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 234
+            }
+        },
+        {
+            "date": "2020-10-07",
+            "name": "Bexley",
+            "cases": {
+                "daily": 32,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 234
+            }
+        },
+        {
+            "date": "2020-10-06",
+            "name": "Bexley",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 234
+            }
+        },
+        {
+            "date": "2020-10-05",
+            "name": "Bexley",
+            "cases": {
+                "daily": 20,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 232
+            }
+        },
+        {
+            "date": "2020-10-04",
+            "name": "Bexley",
+            "cases": {
+                "daily": 40,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 232
+            }
+        },
+        {
+            "date": "2020-10-03",
+            "name": "Bexley",
+            "cases": {
+                "daily": 23,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 232
+            }
+        },
+        {
+            "date": "2020-10-02",
+            "name": "Bexley",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 232
+            }
+        },
+        {
+            "date": "2020-10-01",
+            "name": "Bexley",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 231
+            }
+        },
+        {
+            "date": "2020-09-30",
+            "name": "Bexley",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 231
+            }
+        },
+        {
+            "date": "2020-09-29",
+            "name": "Bexley",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 231
+            }
+        },
+        {
+            "date": "2020-09-28",
+            "name": "Bexley",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 229
+            }
+        },
+        {
+            "date": "2020-09-27",
+            "name": "Bexley",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 227
+            }
+        },
+        {
+            "date": "2020-09-26",
+            "name": "Bexley",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 225
+            }
+        },
+        {
+            "date": "2020-09-25",
+            "name": "Bexley",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 225
+            }
+        },
+        {
+            "date": "2020-09-24",
+            "name": "Bexley",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 225
+            }
+        },
+        {
+            "date": "2020-09-23",
+            "name": "Bexley",
+            "cases": {
+                "daily": 20,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 225
+            }
+        },
+        {
+            "date": "2020-09-22",
+            "name": "Bexley",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 225
+            }
+        },
+        {
+            "date": "2020-09-21",
+            "name": "Bexley",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 224
+            }
+        },
+        {
+            "date": "2020-09-20",
+            "name": "Bexley",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 222
+            }
+        },
+        {
+            "date": "2020-09-19",
+            "name": "Bexley",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 222
+            }
+        },
+        {
+            "date": "2020-09-18",
+            "name": "Bexley",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 222
+            }
+        },
+        {
+            "date": "2020-09-17",
+            "name": "Bexley",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 222
+            }
+        },
+        {
+            "date": "2020-09-16",
+            "name": "Bexley",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 222
+            }
+        },
+        {
+            "date": "2020-09-15",
+            "name": "Bexley",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 222
+            }
+        },
+        {
+            "date": "2020-09-14",
+            "name": "Bexley",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 222
+            }
+        },
+        {
+            "date": "2020-09-13",
+            "name": "Bexley",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 222
+            }
+        },
+        {
+            "date": "2020-09-12",
+            "name": "Bexley",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 222
+            }
+        },
+        {
+            "date": "2020-09-11",
+            "name": "Bexley",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 222
+            }
+        },
+        {
+            "date": "2020-09-10",
+            "name": "Bexley",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 222
+            }
+        },
+        {
+            "date": "2020-09-09",
+            "name": "Bexley",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 222
+            }
+        },
+        {
+            "date": "2020-09-08",
+            "name": "Bexley",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 222
+            }
+        },
+        {
+            "date": "2020-09-07",
+            "name": "Bexley",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 222
+            }
+        },
+        {
+            "date": "2020-09-06",
+            "name": "Bexley",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 222
+            }
+        },
+        {
+            "date": "2020-09-05",
+            "name": "Bexley",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 222
+            }
+        },
+        {
+            "date": "2020-09-04",
+            "name": "Bexley",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 221
+            }
+        },
+        {
+            "date": "2020-09-03",
+            "name": "Bexley",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 221
+            }
+        },
+        {
+            "date": "2020-09-02",
+            "name": "Bexley",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 221
+            }
+        },
+        {
+            "date": "2020-09-01",
+            "name": "Bexley",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 221
+            }
+        },
+        {
+            "date": "2020-08-31",
+            "name": "Bexley",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 221
+            }
+        },
+        {
+            "date": "2020-08-30",
+            "name": "Bexley",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 221
+            }
+        },
+        {
+            "date": "2020-08-29",
+            "name": "Bexley",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 221
+            }
+        },
+        {
+            "date": "2020-08-28",
+            "name": "Bexley",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 221
+            }
+        },
+        {
+            "date": "2020-08-27",
+            "name": "Bexley",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 221
+            }
+        },
+        {
+            "date": "2020-08-26",
+            "name": "Bexley",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 220
+            }
+        },
+        {
+            "date": "2020-08-25",
+            "name": "Bexley",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 220
+            }
+        },
+        {
+            "date": "2020-08-24",
+            "name": "Bexley",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 220
+            }
+        },
+        {
+            "date": "2020-08-23",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 220
+            }
+        },
+        {
+            "date": "2020-08-22",
+            "name": "Bexley",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 220
+            }
+        },
+        {
+            "date": "2020-08-21",
+            "name": "Bexley",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 220
+            }
+        },
+        {
+            "date": "2020-08-20",
+            "name": "Bexley",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 220
+            }
+        },
+        {
+            "date": "2020-08-19",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 220
+            }
+        },
+        {
+            "date": "2020-08-18",
+            "name": "Bexley",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 220
+            }
+        },
+        {
+            "date": "2020-08-17",
+            "name": "Bexley",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 220
+            }
+        },
+        {
+            "date": "2020-08-16",
+            "name": "Bexley",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 220
+            }
+        },
+        {
+            "date": "2020-08-15",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 219
+            }
+        },
+        {
+            "date": "2020-08-14",
+            "name": "Bexley",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 219
+            }
+        },
+        {
+            "date": "2020-08-13",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 218
+            }
+        },
+        {
+            "date": "2020-08-12",
+            "name": "Bexley",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 218
+            }
+        },
+        {
+            "date": "2020-08-11",
+            "name": "Bexley",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 218
+            }
+        },
+        {
+            "date": "2020-08-10",
+            "name": "Bexley",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 217
+            }
+        },
+        {
+            "date": "2020-08-09",
+            "name": "Bexley",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 216
+            }
+        },
+        {
+            "date": "2020-08-08",
+            "name": "Bexley",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 216
+            }
+        },
+        {
+            "date": "2020-08-07",
+            "name": "Bexley",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 215
+            }
+        },
+        {
+            "date": "2020-08-06",
+            "name": "Bexley",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 215
+            }
+        },
+        {
+            "date": "2020-08-05",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 214
+            }
+        },
+        {
+            "date": "2020-08-04",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 214
+            }
+        },
+        {
+            "date": "2020-08-03",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 214
+            }
+        },
+        {
+            "date": "2020-08-02",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 214
+            }
+        },
+        {
+            "date": "2020-08-01",
+            "name": "Bexley",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 214
+            }
+        },
+        {
+            "date": "2020-07-31",
+            "name": "Bexley",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 214
+            }
+        },
+        {
+            "date": "2020-07-30",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 212
+            }
+        },
+        {
+            "date": "2020-07-29",
+            "name": "Bexley",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 211
+            }
+        },
+        {
+            "date": "2020-07-28",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 211
+            }
+        },
+        {
+            "date": "2020-07-27",
+            "name": "Bexley",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 211
+            }
+        },
+        {
+            "date": "2020-07-26",
+            "name": "Bexley",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 211
+            }
+        },
+        {
+            "date": "2020-07-25",
+            "name": "Bexley",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 211
+            }
+        },
+        {
+            "date": "2020-07-24",
+            "name": "Bexley",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 210
+            }
+        },
+        {
+            "date": "2020-07-23",
+            "name": "Bexley",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 210
+            }
+        },
+        {
+            "date": "2020-07-22",
+            "name": "Bexley",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 210
+            }
+        },
+        {
+            "date": "2020-07-21",
+            "name": "Bexley",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 210
+            }
+        },
+        {
+            "date": "2020-07-20",
+            "name": "Bexley",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 210
+            }
+        },
+        {
+            "date": "2020-07-19",
+            "name": "Bexley",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 210
+            }
+        },
+        {
+            "date": "2020-07-18",
+            "name": "Bexley",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 210
+            }
+        },
+        {
+            "date": "2020-07-17",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 210
+            }
+        },
+        {
+            "date": "2020-07-16",
+            "name": "Bexley",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 209
+            }
+        },
+        {
+            "date": "2020-07-15",
+            "name": "Bexley",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 209
+            }
+        },
+        {
+            "date": "2020-07-14",
+            "name": "Bexley",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 208
+            }
+        },
+        {
+            "date": "2020-07-13",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 208
+            }
+        },
+        {
+            "date": "2020-07-12",
+            "name": "Bexley",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 207
+            }
+        },
+        {
+            "date": "2020-07-11",
+            "name": "Bexley",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 205
+            }
+        },
+        {
+            "date": "2020-07-10",
+            "name": "Bexley",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 202
+            }
+        },
+        {
+            "date": "2020-07-09",
+            "name": "Bexley",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 202
+            }
+        },
+        {
+            "date": "2020-07-08",
+            "name": "Bexley",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 202
+            }
+        },
+        {
+            "date": "2020-07-07",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 202
+            }
+        },
+        {
+            "date": "2020-07-06",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 202
+            }
+        },
+        {
+            "date": "2020-07-05",
+            "name": "Bexley",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 201
+            }
+        },
+        {
+            "date": "2020-07-04",
+            "name": "Bexley",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 201
+            }
+        },
+        {
+            "date": "2020-07-03",
+            "name": "Bexley",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 201
+            }
+        },
+        {
+            "date": "2020-07-02",
+            "name": "Bexley",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 200
+            }
+        },
+        {
+            "date": "2020-07-01",
+            "name": "Bexley",
+            "cases": {
+                "daily": 296,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 200
+            }
+        },
+        {
+            "date": "2020-06-30",
+            "name": "Bexley",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 199
+            }
+        },
+        {
+            "date": "2020-06-29",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 199
+            }
+        },
+        {
+            "date": "2020-06-28",
+            "name": "Bexley",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 198
+            }
+        },
+        {
+            "date": "2020-06-27",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 198
+            }
+        },
+        {
+            "date": "2020-06-26",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 198
+            }
+        },
+        {
+            "date": "2020-06-25",
+            "name": "Bexley",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 198
+            }
+        },
+        {
+            "date": "2020-06-24",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 198
+            }
+        },
+        {
+            "date": "2020-06-23",
+            "name": "Bexley",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 197
+            }
+        },
+        {
+            "date": "2020-06-22",
+            "name": "Bexley",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 197
+            }
+        },
+        {
+            "date": "2020-06-21",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 197
+            }
+        },
+        {
+            "date": "2020-06-20",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 197
+            }
+        },
+        {
+            "date": "2020-06-19",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 196
+            }
+        },
+        {
+            "date": "2020-06-18",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 194
+            }
+        },
+        {
+            "date": "2020-06-17",
+            "name": "Bexley",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 194
+            }
+        },
+        {
+            "date": "2020-06-16",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 194
+            }
+        },
+        {
+            "date": "2020-06-15",
+            "name": "Bexley",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 194
+            }
+        },
+        {
+            "date": "2020-06-14",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 194
+            }
+        },
+        {
+            "date": "2020-06-13",
+            "name": "Bexley",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 193
+            }
+        },
+        {
+            "date": "2020-06-12",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 192
+            }
+        },
+        {
+            "date": "2020-06-11",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 192
+            }
+        },
+        {
+            "date": "2020-06-10",
+            "name": "Bexley",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 191
+            }
+        },
+        {
+            "date": "2020-06-09",
+            "name": "Bexley",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 191
+            }
+        },
+        {
+            "date": "2020-06-08",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 191
+            }
+        },
+        {
+            "date": "2020-06-07",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 190
+            }
+        },
+        {
+            "date": "2020-06-06",
+            "name": "Bexley",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 190
+            }
+        },
+        {
+            "date": "2020-06-05",
+            "name": "Bexley",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 190
+            }
+        },
+        {
+            "date": "2020-06-04",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 188
+            }
+        },
+        {
+            "date": "2020-06-03",
+            "name": "Bexley",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 187
+            }
+        },
+        {
+            "date": "2020-06-02",
+            "name": "Bexley",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 187
+            }
+        },
+        {
+            "date": "2020-06-01",
+            "name": "Bexley",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 186
+            }
+        },
+        {
+            "date": "2020-05-31",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 185
+            }
+        },
+        {
+            "date": "2020-05-30",
+            "name": "Bexley",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 185
+            }
+        },
+        {
+            "date": "2020-05-29",
+            "name": "Bexley",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 183
+            }
+        },
+        {
+            "date": "2020-05-28",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 180
+            }
+        },
+        {
+            "date": "2020-05-27",
+            "name": "Bexley",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 180
+            }
+        },
+        {
+            "date": "2020-05-26",
+            "name": "Bexley",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 179
+            }
+        },
+        {
+            "date": "2020-05-25",
+            "name": "Bexley",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 174
+            }
+        },
+        {
+            "date": "2020-05-24",
+            "name": "Bexley",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 173
+            }
+        },
+        {
+            "date": "2020-05-23",
+            "name": "Bexley",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 171
+            }
+        },
+        {
+            "date": "2020-05-22",
+            "name": "Bexley",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 169
+            }
+        },
+        {
+            "date": "2020-05-21",
+            "name": "Bexley",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 169
+            }
+        },
+        {
+            "date": "2020-05-20",
+            "name": "Bexley",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 168
+            }
+        },
+        {
+            "date": "2020-05-19",
+            "name": "Bexley",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 165
+            }
+        },
+        {
+            "date": "2020-05-18",
+            "name": "Bexley",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 163
+            }
+        },
+        {
+            "date": "2020-05-17",
+            "name": "Bexley",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 161
+            }
+        },
+        {
+            "date": "2020-05-16",
+            "name": "Bexley",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 160
+            }
+        },
+        {
+            "date": "2020-05-15",
+            "name": "Bexley",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 160
+            }
+        },
+        {
+            "date": "2020-05-14",
+            "name": "Bexley",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 156
+            }
+        },
+        {
+            "date": "2020-05-13",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 155
+            }
+        },
+        {
+            "date": "2020-05-12",
+            "name": "Bexley",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 155
+            }
+        },
+        {
+            "date": "2020-05-11",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 155
+            }
+        },
+        {
+            "date": "2020-05-10",
+            "name": "Bexley",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 149
+            }
+        },
+        {
+            "date": "2020-05-09",
+            "name": "Bexley",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 149
+            }
+        },
+        {
+            "date": "2020-05-08",
+            "name": "Bexley",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 148
+            }
+        },
+        {
+            "date": "2020-05-07",
+            "name": "Bexley",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 146
+            }
+        },
+        {
+            "date": "2020-05-06",
+            "name": "Bexley",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 146
+            }
+        },
+        {
+            "date": "2020-05-05",
+            "name": "Bexley",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 145
+            }
+        },
+        {
+            "date": "2020-05-04",
+            "name": "Bexley",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 144
+            }
+        },
+        {
+            "date": "2020-05-03",
+            "name": "Bexley",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 140
+            }
+        },
+        {
+            "date": "2020-05-02",
+            "name": "Bexley",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 138
+            }
+        },
+        {
+            "date": "2020-05-01",
+            "name": "Bexley",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 137
+            }
+        },
+        {
+            "date": "2020-04-30",
+            "name": "Bexley",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 137
+            }
+        },
+        {
+            "date": "2020-04-29",
+            "name": "Bexley",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 135
+            }
+        },
+        {
+            "date": "2020-04-28",
+            "name": "Bexley",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 131
+            }
+        },
+        {
+            "date": "2020-04-27",
+            "name": "Bexley",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 128
+            }
+        },
+        {
+            "date": "2020-04-26",
+            "name": "Bexley",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 127
+            }
+        },
+        {
+            "date": "2020-04-25",
+            "name": "Bexley",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 126
+            }
+        },
+        {
+            "date": "2020-04-24",
+            "name": "Bexley",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 126
+            }
+        },
+        {
+            "date": "2020-04-23",
+            "name": "Bexley",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 120
+            }
+        },
+        {
+            "date": "2020-04-22",
+            "name": "Bexley",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 118
+            }
+        },
+        {
+            "date": "2020-04-21",
+            "name": "Bexley",
+            "cases": {
+                "daily": 28,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 117
+            }
+        },
+        {
+            "date": "2020-04-20",
+            "name": "Bexley",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 115
+            }
+        },
+        {
+            "date": "2020-04-19",
+            "name": "Bexley",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 112
+            }
+        },
+        {
+            "date": "2020-04-18",
+            "name": "Bexley",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 108
+            }
+        },
+        {
+            "date": "2020-04-17",
+            "name": "Bexley",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 104
+            }
+        },
+        {
+            "date": "2020-04-16",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 102
+            }
+        },
+        {
+            "date": "2020-04-15",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 97
+            }
+        },
+        {
+            "date": "2020-04-14",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 94
+            }
+        },
+        {
+            "date": "2020-04-13",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 90
+            }
+        },
+        {
+            "date": "2020-04-12",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 88
+            }
+        },
+        {
+            "date": "2020-04-11",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 80
+            }
+        },
+        {
+            "date": "2020-04-10",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 76
+            }
+        },
+        {
+            "date": "2020-04-09",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 76
+            }
+        },
+        {
+            "date": "2020-04-08",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 72
+            }
+        },
+        {
+            "date": "2020-04-07",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 63
+            }
+        },
+        {
+            "date": "2020-04-06",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 60
+            }
+        },
+        {
+            "date": "2020-04-05",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 55
+            }
+        },
+        {
+            "date": "2020-04-04",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 52
+            }
+        },
+        {
+            "date": "2020-04-03",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 43
+            }
+        },
+        {
+            "date": "2020-04-02",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 37
+            }
+        },
+        {
+            "date": "2020-04-01",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 34
+            }
+        },
+        {
+            "date": "2020-03-31",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 29
+            }
+        },
+        {
+            "date": "2020-03-30",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 25
+            }
+        },
+        {
+            "date": "2020-03-29",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 23
+            }
+        },
+        {
+            "date": "2020-03-28",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 19
+            }
+        },
+        {
+            "date": "2020-03-27",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 18
+            }
+        },
+        {
+            "date": "2020-03-26",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 17
+            }
+        },
+        {
+            "date": "2020-03-25",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 14
+            }
+        },
+        {
+            "date": "2020-03-24",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 13
+            }
+        },
+        {
+            "date": "2020-03-23",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 11
+            }
+        },
+        {
+            "date": "2020-03-22",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 10
+            }
+        },
+        {
+            "date": "2020-03-21",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 10
+            }
+        },
+        {
+            "date": "2020-03-20",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 9
+            }
+        },
+        {
+            "date": "2020-03-19",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 8
+            }
+        },
+        {
+            "date": "2020-03-18",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 7
+            }
+        },
+        {
+            "date": "2020-03-17",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 6
+            }
+        },
+        {
+            "date": "2020-03-16",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 5
+            }
+        },
+        {
+            "date": "2020-03-15",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 3
+            }
+        },
+        {
+            "date": "2020-03-14",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 3
+            }
+        },
+        {
+            "date": "2020-03-13",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-12",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-11",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-10",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-09",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-08",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-07",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-06",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-05",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-04",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-03",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-02",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-01",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-29",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-28",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-27",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-26",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-25",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-24",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-23",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-22",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-21",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-20",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-19",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-18",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-17",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-16",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-15",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-14",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-13",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-12",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-11",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-10",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-09",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-08",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-07",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-06",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-05",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-04",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-03",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-02",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-01",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-31",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-30",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-29",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-28",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-27",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-26",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-25",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-24",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-23",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-22",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-21",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-20",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-19",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-18",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-17",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-16",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-15",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-14",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-13",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-12",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-11",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-10",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-09",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-08",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-07",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-06",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-05",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-04",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-03",
+            "name": "Bexley",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        }
+    ],
+    "pagination": {
+        "current": "/v1/data?filters=areaType%3Dutla%3BareaName%3DBexley&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "next": null,
+        "previous": null,
+        "first": "/v1/data?filters=areaType%3Dutla%3BareaName%3DBexley&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "last": "/v1/data?filters=areaType%3Dutla%3BareaName%3DBexley&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1"
+    }
+}

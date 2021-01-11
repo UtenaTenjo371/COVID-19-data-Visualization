@@ -1,0 +1,4501 @@
+{
+    "length": 374,
+    "maxPageLimit": 2500,
+    "data": [
+        {
+            "date": "2021-01-10",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 605,
+                "cumulative": 25233
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-09",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 760,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 978
+            }
+        },
+        {
+            "date": "2021-01-08",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 873,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 976
+            }
+        },
+        {
+            "date": "2021-01-07",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 488,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 971
+            }
+        },
+        {
+            "date": "2021-01-06",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 658,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 958
+            }
+        },
+        {
+            "date": "2021-01-05",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 466,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 15,
+                "cumulative": 951
+            }
+        },
+        {
+            "date": "2021-01-04",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 700,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 936
+            }
+        },
+        {
+            "date": "2021-01-03",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 627,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 923
+            }
+        },
+        {
+            "date": "2021-01-02",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 736,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 913
+            }
+        },
+        {
+            "date": "2021-01-01",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 667,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 905
+            }
+        },
+        {
+            "date": "2020-12-31",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 619,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 896
+            }
+        },
+        {
+            "date": "2020-12-30",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 694,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 16,
+                "cumulative": 884
+            }
+        },
+        {
+            "date": "2020-12-29",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 436,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 15,
+                "cumulative": 868
+            }
+        },
+        {
+            "date": "2020-12-28",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 592,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 17,
+                "cumulative": 853
+            }
+        },
+        {
+            "date": "2020-12-27",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 297,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 836
+            }
+        },
+        {
+            "date": "2020-12-26",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 469,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 831
+            }
+        },
+        {
+            "date": "2020-12-25",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 329,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 823
+            }
+        },
+        {
+            "date": "2020-12-24",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 372,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 815
+            }
+        },
+        {
+            "date": "2020-12-23",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 437,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 802
+            }
+        },
+        {
+            "date": "2020-12-22",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 214,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 788
+            }
+        },
+        {
+            "date": "2020-12-21",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 339,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 780
+            }
+        },
+        {
+            "date": "2020-12-20",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 194,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 773
+            }
+        },
+        {
+            "date": "2020-12-19",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 234,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 768
+            }
+        },
+        {
+            "date": "2020-12-18",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 265,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 757
+            }
+        },
+        {
+            "date": "2020-12-17",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 283,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 749
+            }
+        },
+        {
+            "date": "2020-12-16",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 239,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 746
+            }
+        },
+        {
+            "date": "2020-12-15",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 123,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 738
+            }
+        },
+        {
+            "date": "2020-12-14",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 257,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 728
+            }
+        },
+        {
+            "date": "2020-12-13",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 123,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 724
+            }
+        },
+        {
+            "date": "2020-12-12",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 173,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 715
+            }
+        },
+        {
+            "date": "2020-12-11",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 192,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 706
+            }
+        },
+        {
+            "date": "2020-12-10",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 172,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 699
+            }
+        },
+        {
+            "date": "2020-12-09",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 108,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 692
+            }
+        },
+        {
+            "date": "2020-12-08",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 87,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 681
+            }
+        },
+        {
+            "date": "2020-12-07",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 129,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 679
+            }
+        },
+        {
+            "date": "2020-12-06",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 148,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 671
+            }
+        },
+        {
+            "date": "2020-12-05",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 159,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 668
+            }
+        },
+        {
+            "date": "2020-12-04",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 155,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 660
+            }
+        },
+        {
+            "date": "2020-12-03",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 149,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 655
+            }
+        },
+        {
+            "date": "2020-12-02",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 118,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 652
+            }
+        },
+        {
+            "date": "2020-12-01",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 100,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 648
+            }
+        },
+        {
+            "date": "2020-11-30",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 104,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 642
+            }
+        },
+        {
+            "date": "2020-11-29",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 128,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 636
+            }
+        },
+        {
+            "date": "2020-11-28",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 149,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 633
+            }
+        },
+        {
+            "date": "2020-11-27",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 101,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 630
+            }
+        },
+        {
+            "date": "2020-11-26",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 102,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 628
+            }
+        },
+        {
+            "date": "2020-11-25",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 111,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 626
+            }
+        },
+        {
+            "date": "2020-11-24",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 173,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 619
+            }
+        },
+        {
+            "date": "2020-11-23",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 88,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 614
+            }
+        },
+        {
+            "date": "2020-11-22",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 136,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 611
+            }
+        },
+        {
+            "date": "2020-11-21",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 123,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 604
+            }
+        },
+        {
+            "date": "2020-11-20",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 157,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 597
+            }
+        },
+        {
+            "date": "2020-11-19",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 235,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 595
+            }
+        },
+        {
+            "date": "2020-11-18",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 98,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 592
+            }
+        },
+        {
+            "date": "2020-11-17",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 131,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 589
+            }
+        },
+        {
+            "date": "2020-11-16",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 584
+            }
+        },
+        {
+            "date": "2020-11-15",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 162,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 583
+            }
+        },
+        {
+            "date": "2020-11-14",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 152,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 579
+            }
+        },
+        {
+            "date": "2020-11-13",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 227,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 572
+            }
+        },
+        {
+            "date": "2020-11-12",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 284,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 570
+            }
+        },
+        {
+            "date": "2020-11-11",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 169,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 568
+            }
+        },
+        {
+            "date": "2020-11-10",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 193,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 567
+            }
+        },
+        {
+            "date": "2020-11-09",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 169,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 564
+            }
+        },
+        {
+            "date": "2020-11-08",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 130,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 561
+            }
+        },
+        {
+            "date": "2020-11-07",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 184,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 559
+            }
+        },
+        {
+            "date": "2020-11-06",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 150,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 558
+            }
+        },
+        {
+            "date": "2020-11-05",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 110,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 553
+            }
+        },
+        {
+            "date": "2020-11-04",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 137,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 549
+            }
+        },
+        {
+            "date": "2020-11-03",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 79,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 547
+            }
+        },
+        {
+            "date": "2020-11-02",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 133,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 546
+            }
+        },
+        {
+            "date": "2020-11-01",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 128,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 545
+            }
+        },
+        {
+            "date": "2020-10-31",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 129,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 543
+            }
+        },
+        {
+            "date": "2020-10-30",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 172,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 542
+            }
+        },
+        {
+            "date": "2020-10-29",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 144,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 541
+            }
+        },
+        {
+            "date": "2020-10-28",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 109,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 539
+            }
+        },
+        {
+            "date": "2020-10-27",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 159,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 537
+            }
+        },
+        {
+            "date": "2020-10-26",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 94,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 536
+            }
+        },
+        {
+            "date": "2020-10-25",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 125,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 535
+            }
+        },
+        {
+            "date": "2020-10-24",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 139,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 535
+            }
+        },
+        {
+            "date": "2020-10-23",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 61,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 532
+            }
+        },
+        {
+            "date": "2020-10-22",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 113,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 530
+            }
+        },
+        {
+            "date": "2020-10-21",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 169,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 530
+            }
+        },
+        {
+            "date": "2020-10-20",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 65,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 529
+            }
+        },
+        {
+            "date": "2020-10-19",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 89,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 526
+            }
+        },
+        {
+            "date": "2020-10-18",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 97,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 524
+            }
+        },
+        {
+            "date": "2020-10-17",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 93,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 524
+            }
+        },
+        {
+            "date": "2020-10-16",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 78,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 522
+            }
+        },
+        {
+            "date": "2020-10-15",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 79,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 520
+            }
+        },
+        {
+            "date": "2020-10-14",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 73,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 519
+            }
+        },
+        {
+            "date": "2020-10-13",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 79,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 517
+            }
+        },
+        {
+            "date": "2020-10-12",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 44,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 516
+            }
+        },
+        {
+            "date": "2020-10-11",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 29,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 516
+            }
+        },
+        {
+            "date": "2020-10-10",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 47,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 515
+            }
+        },
+        {
+            "date": "2020-10-09",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 99,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 514
+            }
+        },
+        {
+            "date": "2020-10-08",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 93,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 513
+            }
+        },
+        {
+            "date": "2020-10-07",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 64,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 512
+            }
+        },
+        {
+            "date": "2020-10-06",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 45,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 509
+            }
+        },
+        {
+            "date": "2020-10-05",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 37,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 508
+            }
+        },
+        {
+            "date": "2020-10-04",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 91,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 508
+            }
+        },
+        {
+            "date": "2020-10-03",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 57,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 508
+            }
+        },
+        {
+            "date": "2020-10-02",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 44,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 507
+            }
+        },
+        {
+            "date": "2020-10-01",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 504
+            }
+        },
+        {
+            "date": "2020-09-30",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 19,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 502
+            }
+        },
+        {
+            "date": "2020-09-29",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 35,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 502
+            }
+        },
+        {
+            "date": "2020-09-28",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 501
+            }
+        },
+        {
+            "date": "2020-09-27",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 499
+            }
+        },
+        {
+            "date": "2020-09-26",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 498
+            }
+        },
+        {
+            "date": "2020-09-25",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 24,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 497
+            }
+        },
+        {
+            "date": "2020-09-24",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 497
+            }
+        },
+        {
+            "date": "2020-09-23",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 24,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 496
+            }
+        },
+        {
+            "date": "2020-09-22",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 495
+            }
+        },
+        {
+            "date": "2020-09-21",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 495
+            }
+        },
+        {
+            "date": "2020-09-20",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 495
+            }
+        },
+        {
+            "date": "2020-09-19",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 494
+            }
+        },
+        {
+            "date": "2020-09-18",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 493
+            }
+        },
+        {
+            "date": "2020-09-17",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 490
+            }
+        },
+        {
+            "date": "2020-09-16",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 490
+            }
+        },
+        {
+            "date": "2020-09-15",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 489
+            }
+        },
+        {
+            "date": "2020-09-14",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 486
+            }
+        },
+        {
+            "date": "2020-09-13",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 485
+            }
+        },
+        {
+            "date": "2020-09-12",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 20,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 485
+            }
+        },
+        {
+            "date": "2020-09-11",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 484
+            }
+        },
+        {
+            "date": "2020-09-10",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 22,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 484
+            }
+        },
+        {
+            "date": "2020-09-09",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 484
+            }
+        },
+        {
+            "date": "2020-09-08",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 482
+            }
+        },
+        {
+            "date": "2020-09-07",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 481
+            }
+        },
+        {
+            "date": "2020-09-06",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 480
+            }
+        },
+        {
+            "date": "2020-09-05",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 480
+            }
+        },
+        {
+            "date": "2020-09-04",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 480
+            }
+        },
+        {
+            "date": "2020-09-03",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 480
+            }
+        },
+        {
+            "date": "2020-09-02",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 17,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 479
+            }
+        },
+        {
+            "date": "2020-09-01",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 479
+            }
+        },
+        {
+            "date": "2020-08-31",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 17,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 478
+            }
+        },
+        {
+            "date": "2020-08-30",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 26,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 477
+            }
+        },
+        {
+            "date": "2020-08-29",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 477
+            }
+        },
+        {
+            "date": "2020-08-28",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 477
+            }
+        },
+        {
+            "date": "2020-08-27",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 22,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 475
+            }
+        },
+        {
+            "date": "2020-08-26",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 26,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 475
+            }
+        },
+        {
+            "date": "2020-08-25",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 474
+            }
+        },
+        {
+            "date": "2020-08-24",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 474
+            }
+        },
+        {
+            "date": "2020-08-23",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 474
+            }
+        },
+        {
+            "date": "2020-08-22",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 472
+            }
+        },
+        {
+            "date": "2020-08-21",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 472
+            }
+        },
+        {
+            "date": "2020-08-20",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 472
+            }
+        },
+        {
+            "date": "2020-08-19",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 470
+            }
+        },
+        {
+            "date": "2020-08-18",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 469
+            }
+        },
+        {
+            "date": "2020-08-17",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 469
+            }
+        },
+        {
+            "date": "2020-08-16",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 469
+            }
+        },
+        {
+            "date": "2020-08-15",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 469
+            }
+        },
+        {
+            "date": "2020-08-14",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 467
+            }
+        },
+        {
+            "date": "2020-08-13",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 467
+            }
+        },
+        {
+            "date": "2020-08-12",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 467
+            }
+        },
+        {
+            "date": "2020-08-11",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 467
+            }
+        },
+        {
+            "date": "2020-08-10",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 466
+            }
+        },
+        {
+            "date": "2020-08-09",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 464
+            }
+        },
+        {
+            "date": "2020-08-08",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 463
+            }
+        },
+        {
+            "date": "2020-08-07",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 463
+            }
+        },
+        {
+            "date": "2020-08-06",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 463
+            }
+        },
+        {
+            "date": "2020-08-05",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 462
+            }
+        },
+        {
+            "date": "2020-08-04",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 462
+            }
+        },
+        {
+            "date": "2020-08-03",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 462
+            }
+        },
+        {
+            "date": "2020-08-02",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 462
+            }
+        },
+        {
+            "date": "2020-08-01",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 462
+            }
+        },
+        {
+            "date": "2020-07-31",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 462
+            }
+        },
+        {
+            "date": "2020-07-30",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 462
+            }
+        },
+        {
+            "date": "2020-07-29",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 461
+            }
+        },
+        {
+            "date": "2020-07-28",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 460
+            }
+        },
+        {
+            "date": "2020-07-27",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 460
+            }
+        },
+        {
+            "date": "2020-07-26",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 460
+            }
+        },
+        {
+            "date": "2020-07-25",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 460
+            }
+        },
+        {
+            "date": "2020-07-24",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 458
+            }
+        },
+        {
+            "date": "2020-07-23",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 457
+            }
+        },
+        {
+            "date": "2020-07-22",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 456
+            }
+        },
+        {
+            "date": "2020-07-21",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 454
+            }
+        },
+        {
+            "date": "2020-07-20",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 454
+            }
+        },
+        {
+            "date": "2020-07-19",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 454
+            }
+        },
+        {
+            "date": "2020-07-18",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 454
+            }
+        },
+        {
+            "date": "2020-07-17",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 454
+            }
+        },
+        {
+            "date": "2020-07-16",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 454
+            }
+        },
+        {
+            "date": "2020-07-15",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 454
+            }
+        },
+        {
+            "date": "2020-07-14",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 454
+            }
+        },
+        {
+            "date": "2020-07-13",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 454
+            }
+        },
+        {
+            "date": "2020-07-12",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 454
+            }
+        },
+        {
+            "date": "2020-07-11",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 454
+            }
+        },
+        {
+            "date": "2020-07-10",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 453
+            }
+        },
+        {
+            "date": "2020-07-09",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 453
+            }
+        },
+        {
+            "date": "2020-07-08",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 453
+            }
+        },
+        {
+            "date": "2020-07-07",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 452
+            }
+        },
+        {
+            "date": "2020-07-06",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 451
+            }
+        },
+        {
+            "date": "2020-07-05",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 448
+            }
+        },
+        {
+            "date": "2020-07-04",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 448
+            }
+        },
+        {
+            "date": "2020-07-03",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 447
+            }
+        },
+        {
+            "date": "2020-07-02",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 446
+            }
+        },
+        {
+            "date": "2020-07-01",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 594,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 445
+            }
+        },
+        {
+            "date": "2020-06-30",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 444
+            }
+        },
+        {
+            "date": "2020-06-29",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 444
+            }
+        },
+        {
+            "date": "2020-06-28",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 443
+            }
+        },
+        {
+            "date": "2020-06-27",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 442
+            }
+        },
+        {
+            "date": "2020-06-26",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 441
+            }
+        },
+        {
+            "date": "2020-06-25",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 440
+            }
+        },
+        {
+            "date": "2020-06-24",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 438
+            }
+        },
+        {
+            "date": "2020-06-23",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 437
+            }
+        },
+        {
+            "date": "2020-06-22",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 436
+            }
+        },
+        {
+            "date": "2020-06-21",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 434
+            }
+        },
+        {
+            "date": "2020-06-20",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 434
+            }
+        },
+        {
+            "date": "2020-06-19",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 434
+            }
+        },
+        {
+            "date": "2020-06-18",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 434
+            }
+        },
+        {
+            "date": "2020-06-17",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 433
+            }
+        },
+        {
+            "date": "2020-06-16",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 432
+            }
+        },
+        {
+            "date": "2020-06-15",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 429
+            }
+        },
+        {
+            "date": "2020-06-14",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 428
+            }
+        },
+        {
+            "date": "2020-06-13",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 427
+            }
+        },
+        {
+            "date": "2020-06-12",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 426
+            }
+        },
+        {
+            "date": "2020-06-11",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 425
+            }
+        },
+        {
+            "date": "2020-06-10",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 424
+            }
+        },
+        {
+            "date": "2020-06-09",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 423
+            }
+        },
+        {
+            "date": "2020-06-08",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 417
+            }
+        },
+        {
+            "date": "2020-06-07",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 416
+            }
+        },
+        {
+            "date": "2020-06-06",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 416
+            }
+        },
+        {
+            "date": "2020-06-05",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 413
+            }
+        },
+        {
+            "date": "2020-06-04",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 410
+            }
+        },
+        {
+            "date": "2020-06-03",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 410
+            }
+        },
+        {
+            "date": "2020-06-02",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 405
+            }
+        },
+        {
+            "date": "2020-06-01",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 403
+            }
+        },
+        {
+            "date": "2020-05-31",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 401
+            }
+        },
+        {
+            "date": "2020-05-30",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 399
+            }
+        },
+        {
+            "date": "2020-05-29",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 395
+            }
+        },
+        {
+            "date": "2020-05-28",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 394
+            }
+        },
+        {
+            "date": "2020-05-27",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 391
+            }
+        },
+        {
+            "date": "2020-05-26",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 385
+            }
+        },
+        {
+            "date": "2020-05-25",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 380
+            }
+        },
+        {
+            "date": "2020-05-24",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 373
+            }
+        },
+        {
+            "date": "2020-05-23",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 372
+            }
+        },
+        {
+            "date": "2020-05-22",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 32,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 369
+            }
+        },
+        {
+            "date": "2020-05-21",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 367
+            }
+        },
+        {
+            "date": "2020-05-20",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 364
+            }
+        },
+        {
+            "date": "2020-05-19",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 358
+            }
+        },
+        {
+            "date": "2020-05-18",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 22,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 358
+            }
+        },
+        {
+            "date": "2020-05-17",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 353
+            }
+        },
+        {
+            "date": "2020-05-16",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 19,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 351
+            }
+        },
+        {
+            "date": "2020-05-15",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 39,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 348
+            }
+        },
+        {
+            "date": "2020-05-14",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 342
+            }
+        },
+        {
+            "date": "2020-05-13",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 337
+            }
+        },
+        {
+            "date": "2020-05-12",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 327
+            }
+        },
+        {
+            "date": "2020-05-11",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 323
+            }
+        },
+        {
+            "date": "2020-05-10",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 34,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 316
+            }
+        },
+        {
+            "date": "2020-05-09",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 29,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 312
+            }
+        },
+        {
+            "date": "2020-05-08",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 46,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 307
+            }
+        },
+        {
+            "date": "2020-05-07",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 56,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 300
+            }
+        },
+        {
+            "date": "2020-05-06",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 36,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 291
+            }
+        },
+        {
+            "date": "2020-05-05",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 35,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 283
+            }
+        },
+        {
+            "date": "2020-05-04",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 36,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 276
+            }
+        },
+        {
+            "date": "2020-05-03",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 19,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 269
+            }
+        },
+        {
+            "date": "2020-05-02",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 83,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 261
+            }
+        },
+        {
+            "date": "2020-05-01",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 43,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 253
+            }
+        },
+        {
+            "date": "2020-04-30",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 54,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 247
+            }
+        },
+        {
+            "date": "2020-04-29",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 41,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 242
+            }
+        },
+        {
+            "date": "2020-04-28",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 31,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 235
+            }
+        },
+        {
+            "date": "2020-04-27",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 40,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 228
+            }
+        },
+        {
+            "date": "2020-04-26",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 47,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 16,
+                "cumulative": 221
+            }
+        },
+        {
+            "date": "2020-04-25",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 60,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 205
+            }
+        },
+        {
+            "date": "2020-04-24",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 39,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 199
+            }
+        },
+        {
+            "date": "2020-04-23",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 51,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 190
+            }
+        },
+        {
+            "date": "2020-04-22",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 65,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 182
+            }
+        },
+        {
+            "date": "2020-04-21",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 56,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 176
+            }
+        },
+        {
+            "date": "2020-04-20",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 20,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 169
+            }
+        },
+        {
+            "date": "2020-04-19",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 45,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 162
+            }
+        },
+        {
+            "date": "2020-04-18",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 90,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 156
+            }
+        },
+        {
+            "date": "2020-04-17",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 56,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 150
+            }
+        },
+        {
+            "date": "2020-04-16",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 141
+            }
+        },
+        {
+            "date": "2020-04-15",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 130
+            }
+        },
+        {
+            "date": "2020-04-14",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 123
+            }
+        },
+        {
+            "date": "2020-04-13",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 117
+            }
+        },
+        {
+            "date": "2020-04-12",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 110
+            }
+        },
+        {
+            "date": "2020-04-11",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 98
+            }
+        },
+        {
+            "date": "2020-04-10",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 91
+            }
+        },
+        {
+            "date": "2020-04-09",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 86
+            }
+        },
+        {
+            "date": "2020-04-08",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 79
+            }
+        },
+        {
+            "date": "2020-04-07",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 69
+            }
+        },
+        {
+            "date": "2020-04-06",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 62
+            }
+        },
+        {
+            "date": "2020-04-05",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 60
+            }
+        },
+        {
+            "date": "2020-04-04",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 53
+            }
+        },
+        {
+            "date": "2020-04-03",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 46
+            }
+        },
+        {
+            "date": "2020-04-02",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 39
+            }
+        },
+        {
+            "date": "2020-04-01",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 34
+            }
+        },
+        {
+            "date": "2020-03-31",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 27
+            }
+        },
+        {
+            "date": "2020-03-30",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 23
+            }
+        },
+        {
+            "date": "2020-03-29",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 18
+            }
+        },
+        {
+            "date": "2020-03-28",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 13
+            }
+        },
+        {
+            "date": "2020-03-27",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 10
+            }
+        },
+        {
+            "date": "2020-03-26",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 7
+            }
+        },
+        {
+            "date": "2020-03-25",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 5
+            }
+        },
+        {
+            "date": "2020-03-24",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 3
+            }
+        },
+        {
+            "date": "2020-03-23",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 3
+            }
+        },
+        {
+            "date": "2020-03-22",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 3
+            }
+        },
+        {
+            "date": "2020-03-21",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 2
+            }
+        },
+        {
+            "date": "2020-03-20",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 2
+            }
+        },
+        {
+            "date": "2020-03-19",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 2
+            }
+        },
+        {
+            "date": "2020-03-18",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 2
+            }
+        },
+        {
+            "date": "2020-03-17",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-16",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-15",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-14",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-13",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-12",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-11",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-10",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-09",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-08",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-07",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-06",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-05",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-04",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-03",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-02",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-01",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-29",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-28",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-27",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-26",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-25",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-24",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-23",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-22",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-21",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-20",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-19",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-18",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-17",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-16",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-15",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-14",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-13",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-12",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-11",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-10",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-09",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-08",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-07",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-06",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-05",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-04",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-03",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-02",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-01",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-31",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-30",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-29",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-28",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-27",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-26",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-25",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-24",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-23",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-22",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-21",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-20",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-19",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-18",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-17",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-16",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-15",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-14",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-13",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-12",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-11",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-10",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-09",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-08",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-07",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-06",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-05",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-04",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-03",
+            "name": "Norfolk",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        }
+    ],
+    "pagination": {
+        "current": "/v1/data?filters=areaType%3Dutla%3BareaName%3DNorfolk&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "next": null,
+        "previous": null,
+        "first": "/v1/data?filters=areaType%3Dutla%3BareaName%3DNorfolk&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "last": "/v1/data?filters=areaType%3Dutla%3BareaName%3DNorfolk&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1"
+    }
+}

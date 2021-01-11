@@ -1,0 +1,4501 @@
+{
+    "length": 374,
+    "maxPageLimit": 2500,
+    "data": [
+        {
+            "date": "2021-01-10",
+            "name": "Wigan",
+            "cases": {
+                "daily": 278,
+                "cumulative": 21508
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-09",
+            "name": "Wigan",
+            "cases": {
+                "daily": 295,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 951
+            }
+        },
+        {
+            "date": "2021-01-08",
+            "name": "Wigan",
+            "cases": {
+                "daily": 225,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 951
+            }
+        },
+        {
+            "date": "2021-01-07",
+            "name": "Wigan",
+            "cases": {
+                "daily": 245,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 948
+            }
+        },
+        {
+            "date": "2021-01-06",
+            "name": "Wigan",
+            "cases": {
+                "daily": 166,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 942
+            }
+        },
+        {
+            "date": "2021-01-05",
+            "name": "Wigan",
+            "cases": {
+                "daily": 137,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 933
+            }
+        },
+        {
+            "date": "2021-01-04",
+            "name": "Wigan",
+            "cases": {
+                "daily": 261,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 926
+            }
+        },
+        {
+            "date": "2021-01-03",
+            "name": "Wigan",
+            "cases": {
+                "daily": 338,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 925
+            }
+        },
+        {
+            "date": "2021-01-02",
+            "name": "Wigan",
+            "cases": {
+                "daily": 182,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 922
+            }
+        },
+        {
+            "date": "2021-01-01",
+            "name": "Wigan",
+            "cases": {
+                "daily": 159,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 912
+            }
+        },
+        {
+            "date": "2020-12-31",
+            "name": "Wigan",
+            "cases": {
+                "daily": 121,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 905
+            }
+        },
+        {
+            "date": "2020-12-30",
+            "name": "Wigan",
+            "cases": {
+                "daily": 129,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 901
+            }
+        },
+        {
+            "date": "2020-12-29",
+            "name": "Wigan",
+            "cases": {
+                "daily": 149,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 895
+            }
+        },
+        {
+            "date": "2020-12-28",
+            "name": "Wigan",
+            "cases": {
+                "daily": 97,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 892
+            }
+        },
+        {
+            "date": "2020-12-27",
+            "name": "Wigan",
+            "cases": {
+                "daily": 83,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 887
+            }
+        },
+        {
+            "date": "2020-12-26",
+            "name": "Wigan",
+            "cases": {
+                "daily": 68,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 878
+            }
+        },
+        {
+            "date": "2020-12-25",
+            "name": "Wigan",
+            "cases": {
+                "daily": 110,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 873
+            }
+        },
+        {
+            "date": "2020-12-24",
+            "name": "Wigan",
+            "cases": {
+                "daily": 110,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 867
+            }
+        },
+        {
+            "date": "2020-12-23",
+            "name": "Wigan",
+            "cases": {
+                "daily": 67,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 862
+            }
+        },
+        {
+            "date": "2020-12-22",
+            "name": "Wigan",
+            "cases": {
+                "daily": 77,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 858
+            }
+        },
+        {
+            "date": "2020-12-21",
+            "name": "Wigan",
+            "cases": {
+                "daily": 98,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 854
+            }
+        },
+        {
+            "date": "2020-12-20",
+            "name": "Wigan",
+            "cases": {
+                "daily": 59,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 847
+            }
+        },
+        {
+            "date": "2020-12-19",
+            "name": "Wigan",
+            "cases": {
+                "daily": 46,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 839
+            }
+        },
+        {
+            "date": "2020-12-18",
+            "name": "Wigan",
+            "cases": {
+                "daily": 58,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 833
+            }
+        },
+        {
+            "date": "2020-12-17",
+            "name": "Wigan",
+            "cases": {
+                "daily": 68,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 830
+            }
+        },
+        {
+            "date": "2020-12-16",
+            "name": "Wigan",
+            "cases": {
+                "daily": 88,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 828
+            }
+        },
+        {
+            "date": "2020-12-15",
+            "name": "Wigan",
+            "cases": {
+                "daily": 91,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 826
+            }
+        },
+        {
+            "date": "2020-12-14",
+            "name": "Wigan",
+            "cases": {
+                "daily": 49,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 824
+            }
+        },
+        {
+            "date": "2020-12-13",
+            "name": "Wigan",
+            "cases": {
+                "daily": 89,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 815
+            }
+        },
+        {
+            "date": "2020-12-12",
+            "name": "Wigan",
+            "cases": {
+                "daily": 78,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 812
+            }
+        },
+        {
+            "date": "2020-12-11",
+            "name": "Wigan",
+            "cases": {
+                "daily": 100,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 806
+            }
+        },
+        {
+            "date": "2020-12-10",
+            "name": "Wigan",
+            "cases": {
+                "daily": 65,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 803
+            }
+        },
+        {
+            "date": "2020-12-09",
+            "name": "Wigan",
+            "cases": {
+                "daily": 111,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 800
+            }
+        },
+        {
+            "date": "2020-12-08",
+            "name": "Wigan",
+            "cases": {
+                "daily": 80,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 792
+            }
+        },
+        {
+            "date": "2020-12-07",
+            "name": "Wigan",
+            "cases": {
+                "daily": 70,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 789
+            }
+        },
+        {
+            "date": "2020-12-06",
+            "name": "Wigan",
+            "cases": {
+                "daily": 85,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 783
+            }
+        },
+        {
+            "date": "2020-12-05",
+            "name": "Wigan",
+            "cases": {
+                "daily": 105,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 776
+            }
+        },
+        {
+            "date": "2020-12-04",
+            "name": "Wigan",
+            "cases": {
+                "daily": 106,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 773
+            }
+        },
+        {
+            "date": "2020-12-03",
+            "name": "Wigan",
+            "cases": {
+                "daily": 67,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 766
+            }
+        },
+        {
+            "date": "2020-12-02",
+            "name": "Wigan",
+            "cases": {
+                "daily": 121,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 760
+            }
+        },
+        {
+            "date": "2020-12-01",
+            "name": "Wigan",
+            "cases": {
+                "daily": 82,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 752
+            }
+        },
+        {
+            "date": "2020-11-30",
+            "name": "Wigan",
+            "cases": {
+                "daily": 51,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 745
+            }
+        },
+        {
+            "date": "2020-11-29",
+            "name": "Wigan",
+            "cases": {
+                "daily": 67,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 736
+            }
+        },
+        {
+            "date": "2020-11-28",
+            "name": "Wigan",
+            "cases": {
+                "daily": 123,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 731
+            }
+        },
+        {
+            "date": "2020-11-27",
+            "name": "Wigan",
+            "cases": {
+                "daily": 109,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 724
+            }
+        },
+        {
+            "date": "2020-11-26",
+            "name": "Wigan",
+            "cases": {
+                "daily": 109,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 719
+            }
+        },
+        {
+            "date": "2020-11-25",
+            "name": "Wigan",
+            "cases": {
+                "daily": 122,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 710
+            }
+        },
+        {
+            "date": "2020-11-24",
+            "name": "Wigan",
+            "cases": {
+                "daily": 112,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 705
+            }
+        },
+        {
+            "date": "2020-11-23",
+            "name": "Wigan",
+            "cases": {
+                "daily": 96,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 699
+            }
+        },
+        {
+            "date": "2020-11-22",
+            "name": "Wigan",
+            "cases": {
+                "daily": 135,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 690
+            }
+        },
+        {
+            "date": "2020-11-21",
+            "name": "Wigan",
+            "cases": {
+                "daily": 132,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 679
+            }
+        },
+        {
+            "date": "2020-11-20",
+            "name": "Wigan",
+            "cases": {
+                "daily": 179,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 673
+            }
+        },
+        {
+            "date": "2020-11-19",
+            "name": "Wigan",
+            "cases": {
+                "daily": 119,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 668
+            }
+        },
+        {
+            "date": "2020-11-18",
+            "name": "Wigan",
+            "cases": {
+                "daily": 198,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 666
+            }
+        },
+        {
+            "date": "2020-11-17",
+            "name": "Wigan",
+            "cases": {
+                "daily": 163,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 657
+            }
+        },
+        {
+            "date": "2020-11-16",
+            "name": "Wigan",
+            "cases": {
+                "daily": 90,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 650
+            }
+        },
+        {
+            "date": "2020-11-15",
+            "name": "Wigan",
+            "cases": {
+                "daily": 171,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 644
+            }
+        },
+        {
+            "date": "2020-11-14",
+            "name": "Wigan",
+            "cases": {
+                "daily": 204,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 634
+            }
+        },
+        {
+            "date": "2020-11-13",
+            "name": "Wigan",
+            "cases": {
+                "daily": 248,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 620
+            }
+        },
+        {
+            "date": "2020-11-12",
+            "name": "Wigan",
+            "cases": {
+                "daily": 321,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 607
+            }
+        },
+        {
+            "date": "2020-11-11",
+            "name": "Wigan",
+            "cases": {
+                "daily": 218,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 603
+            }
+        },
+        {
+            "date": "2020-11-10",
+            "name": "Wigan",
+            "cases": {
+                "daily": 248,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 597
+            }
+        },
+        {
+            "date": "2020-11-09",
+            "name": "Wigan",
+            "cases": {
+                "daily": 133,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 590
+            }
+        },
+        {
+            "date": "2020-11-08",
+            "name": "Wigan",
+            "cases": {
+                "daily": 223,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 582
+            }
+        },
+        {
+            "date": "2020-11-07",
+            "name": "Wigan",
+            "cases": {
+                "daily": 276,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 572
+            }
+        },
+        {
+            "date": "2020-11-06",
+            "name": "Wigan",
+            "cases": {
+                "daily": 237,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 561
+            }
+        },
+        {
+            "date": "2020-11-05",
+            "name": "Wigan",
+            "cases": {
+                "daily": 340,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 549
+            }
+        },
+        {
+            "date": "2020-11-04",
+            "name": "Wigan",
+            "cases": {
+                "daily": 358,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 544
+            }
+        },
+        {
+            "date": "2020-11-03",
+            "name": "Wigan",
+            "cases": {
+                "daily": 304,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 536
+            }
+        },
+        {
+            "date": "2020-11-02",
+            "name": "Wigan",
+            "cases": {
+                "daily": 243,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 529
+            }
+        },
+        {
+            "date": "2020-11-01",
+            "name": "Wigan",
+            "cases": {
+                "daily": 252,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 518
+            }
+        },
+        {
+            "date": "2020-10-31",
+            "name": "Wigan",
+            "cases": {
+                "daily": 352,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 511
+            }
+        },
+        {
+            "date": "2020-10-30",
+            "name": "Wigan",
+            "cases": {
+                "daily": 332,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 503
+            }
+        },
+        {
+            "date": "2020-10-29",
+            "name": "Wigan",
+            "cases": {
+                "daily": 419,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 495
+            }
+        },
+        {
+            "date": "2020-10-28",
+            "name": "Wigan",
+            "cases": {
+                "daily": 335,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 483
+            }
+        },
+        {
+            "date": "2020-10-27",
+            "name": "Wigan",
+            "cases": {
+                "daily": 394,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 478
+            }
+        },
+        {
+            "date": "2020-10-26",
+            "name": "Wigan",
+            "cases": {
+                "daily": 288,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 472
+            }
+        },
+        {
+            "date": "2020-10-25",
+            "name": "Wigan",
+            "cases": {
+                "daily": 315,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 469
+            }
+        },
+        {
+            "date": "2020-10-24",
+            "name": "Wigan",
+            "cases": {
+                "daily": 284,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 464
+            }
+        },
+        {
+            "date": "2020-10-23",
+            "name": "Wigan",
+            "cases": {
+                "daily": 278,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 456
+            }
+        },
+        {
+            "date": "2020-10-22",
+            "name": "Wigan",
+            "cases": {
+                "daily": 326,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 446
+            }
+        },
+        {
+            "date": "2020-10-21",
+            "name": "Wigan",
+            "cases": {
+                "daily": 315,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 439
+            }
+        },
+        {
+            "date": "2020-10-20",
+            "name": "Wigan",
+            "cases": {
+                "daily": 270,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 438
+            }
+        },
+        {
+            "date": "2020-10-19",
+            "name": "Wigan",
+            "cases": {
+                "daily": 276,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 431
+            }
+        },
+        {
+            "date": "2020-10-18",
+            "name": "Wigan",
+            "cases": {
+                "daily": 212,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 424
+            }
+        },
+        {
+            "date": "2020-10-17",
+            "name": "Wigan",
+            "cases": {
+                "daily": 229,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 421
+            }
+        },
+        {
+            "date": "2020-10-16",
+            "name": "Wigan",
+            "cases": {
+                "daily": 188,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 417
+            }
+        },
+        {
+            "date": "2020-10-15",
+            "name": "Wigan",
+            "cases": {
+                "daily": 232,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 415
+            }
+        },
+        {
+            "date": "2020-10-14",
+            "name": "Wigan",
+            "cases": {
+                "daily": 186,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 411
+            }
+        },
+        {
+            "date": "2020-10-13",
+            "name": "Wigan",
+            "cases": {
+                "daily": 261,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 408
+            }
+        },
+        {
+            "date": "2020-10-12",
+            "name": "Wigan",
+            "cases": {
+                "daily": 170,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 406
+            }
+        },
+        {
+            "date": "2020-10-11",
+            "name": "Wigan",
+            "cases": {
+                "daily": 179,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 402
+            }
+        },
+        {
+            "date": "2020-10-10",
+            "name": "Wigan",
+            "cases": {
+                "daily": 196,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 401
+            }
+        },
+        {
+            "date": "2020-10-09",
+            "name": "Wigan",
+            "cases": {
+                "daily": 144,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 396
+            }
+        },
+        {
+            "date": "2020-10-08",
+            "name": "Wigan",
+            "cases": {
+                "daily": 223,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 395
+            }
+        },
+        {
+            "date": "2020-10-07",
+            "name": "Wigan",
+            "cases": {
+                "daily": 138,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 392
+            }
+        },
+        {
+            "date": "2020-10-06",
+            "name": "Wigan",
+            "cases": {
+                "daily": 182,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 389
+            }
+        },
+        {
+            "date": "2020-10-05",
+            "name": "Wigan",
+            "cases": {
+                "daily": 127,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 388
+            }
+        },
+        {
+            "date": "2020-10-04",
+            "name": "Wigan",
+            "cases": {
+                "daily": 258,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 387
+            }
+        },
+        {
+            "date": "2020-10-03",
+            "name": "Wigan",
+            "cases": {
+                "daily": 172,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 384
+            }
+        },
+        {
+            "date": "2020-10-02",
+            "name": "Wigan",
+            "cases": {
+                "daily": 54,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 381
+            }
+        },
+        {
+            "date": "2020-10-01",
+            "name": "Wigan",
+            "cases": {
+                "daily": 68,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 379
+            }
+        },
+        {
+            "date": "2020-09-30",
+            "name": "Wigan",
+            "cases": {
+                "daily": 76,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 378
+            }
+        },
+        {
+            "date": "2020-09-29",
+            "name": "Wigan",
+            "cases": {
+                "daily": 74,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 376
+            }
+        },
+        {
+            "date": "2020-09-28",
+            "name": "Wigan",
+            "cases": {
+                "daily": 35,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 376
+            }
+        },
+        {
+            "date": "2020-09-27",
+            "name": "Wigan",
+            "cases": {
+                "daily": 109,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 376
+            }
+        },
+        {
+            "date": "2020-09-26",
+            "name": "Wigan",
+            "cases": {
+                "daily": 68,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 376
+            }
+        },
+        {
+            "date": "2020-09-25",
+            "name": "Wigan",
+            "cases": {
+                "daily": 90,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 375
+            }
+        },
+        {
+            "date": "2020-09-24",
+            "name": "Wigan",
+            "cases": {
+                "daily": 66,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 373
+            }
+        },
+        {
+            "date": "2020-09-23",
+            "name": "Wigan",
+            "cases": {
+                "daily": 39,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 372
+            }
+        },
+        {
+            "date": "2020-09-22",
+            "name": "Wigan",
+            "cases": {
+                "daily": 53,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 372
+            }
+        },
+        {
+            "date": "2020-09-21",
+            "name": "Wigan",
+            "cases": {
+                "daily": 61,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 372
+            }
+        },
+        {
+            "date": "2020-09-20",
+            "name": "Wigan",
+            "cases": {
+                "daily": 54,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 372
+            }
+        },
+        {
+            "date": "2020-09-19",
+            "name": "Wigan",
+            "cases": {
+                "daily": 59,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 372
+            }
+        },
+        {
+            "date": "2020-09-18",
+            "name": "Wigan",
+            "cases": {
+                "daily": 49,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 371
+            }
+        },
+        {
+            "date": "2020-09-17",
+            "name": "Wigan",
+            "cases": {
+                "daily": 39,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 371
+            }
+        },
+        {
+            "date": "2020-09-16",
+            "name": "Wigan",
+            "cases": {
+                "daily": 52,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 371
+            }
+        },
+        {
+            "date": "2020-09-15",
+            "name": "Wigan",
+            "cases": {
+                "daily": 23,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 370
+            }
+        },
+        {
+            "date": "2020-09-14",
+            "name": "Wigan",
+            "cases": {
+                "daily": 30,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 370
+            }
+        },
+        {
+            "date": "2020-09-13",
+            "name": "Wigan",
+            "cases": {
+                "daily": 23,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 369
+            }
+        },
+        {
+            "date": "2020-09-12",
+            "name": "Wigan",
+            "cases": {
+                "daily": 23,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 369
+            }
+        },
+        {
+            "date": "2020-09-11",
+            "name": "Wigan",
+            "cases": {
+                "daily": 27,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 369
+            }
+        },
+        {
+            "date": "2020-09-10",
+            "name": "Wigan",
+            "cases": {
+                "daily": 19,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 369
+            }
+        },
+        {
+            "date": "2020-09-09",
+            "name": "Wigan",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 369
+            }
+        },
+        {
+            "date": "2020-09-08",
+            "name": "Wigan",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 369
+            }
+        },
+        {
+            "date": "2020-09-07",
+            "name": "Wigan",
+            "cases": {
+                "daily": 22,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 369
+            }
+        },
+        {
+            "date": "2020-09-06",
+            "name": "Wigan",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 369
+            }
+        },
+        {
+            "date": "2020-09-05",
+            "name": "Wigan",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 368
+            }
+        },
+        {
+            "date": "2020-09-04",
+            "name": "Wigan",
+            "cases": {
+                "daily": 17,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 367
+            }
+        },
+        {
+            "date": "2020-09-03",
+            "name": "Wigan",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 367
+            }
+        },
+        {
+            "date": "2020-09-02",
+            "name": "Wigan",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 367
+            }
+        },
+        {
+            "date": "2020-09-01",
+            "name": "Wigan",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 367
+            }
+        },
+        {
+            "date": "2020-08-31",
+            "name": "Wigan",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 367
+            }
+        },
+        {
+            "date": "2020-08-30",
+            "name": "Wigan",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 367
+            }
+        },
+        {
+            "date": "2020-08-29",
+            "name": "Wigan",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 366
+            }
+        },
+        {
+            "date": "2020-08-28",
+            "name": "Wigan",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 365
+            }
+        },
+        {
+            "date": "2020-08-27",
+            "name": "Wigan",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 365
+            }
+        },
+        {
+            "date": "2020-08-26",
+            "name": "Wigan",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 365
+            }
+        },
+        {
+            "date": "2020-08-25",
+            "name": "Wigan",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 365
+            }
+        },
+        {
+            "date": "2020-08-24",
+            "name": "Wigan",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 364
+            }
+        },
+        {
+            "date": "2020-08-23",
+            "name": "Wigan",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 364
+            }
+        },
+        {
+            "date": "2020-08-22",
+            "name": "Wigan",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 364
+            }
+        },
+        {
+            "date": "2020-08-21",
+            "name": "Wigan",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 364
+            }
+        },
+        {
+            "date": "2020-08-20",
+            "name": "Wigan",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 364
+            }
+        },
+        {
+            "date": "2020-08-19",
+            "name": "Wigan",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 364
+            }
+        },
+        {
+            "date": "2020-08-18",
+            "name": "Wigan",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 363
+            }
+        },
+        {
+            "date": "2020-08-17",
+            "name": "Wigan",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 363
+            }
+        },
+        {
+            "date": "2020-08-16",
+            "name": "Wigan",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 362
+            }
+        },
+        {
+            "date": "2020-08-15",
+            "name": "Wigan",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 362
+            }
+        },
+        {
+            "date": "2020-08-14",
+            "name": "Wigan",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 362
+            }
+        },
+        {
+            "date": "2020-08-13",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 361
+            }
+        },
+        {
+            "date": "2020-08-12",
+            "name": "Wigan",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 360
+            }
+        },
+        {
+            "date": "2020-08-11",
+            "name": "Wigan",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 360
+            }
+        },
+        {
+            "date": "2020-08-10",
+            "name": "Wigan",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 359
+            }
+        },
+        {
+            "date": "2020-08-09",
+            "name": "Wigan",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 357
+            }
+        },
+        {
+            "date": "2020-08-08",
+            "name": "Wigan",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 357
+            }
+        },
+        {
+            "date": "2020-08-07",
+            "name": "Wigan",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 356
+            }
+        },
+        {
+            "date": "2020-08-06",
+            "name": "Wigan",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 355
+            }
+        },
+        {
+            "date": "2020-08-05",
+            "name": "Wigan",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 355
+            }
+        },
+        {
+            "date": "2020-08-04",
+            "name": "Wigan",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 354
+            }
+        },
+        {
+            "date": "2020-08-03",
+            "name": "Wigan",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 354
+            }
+        },
+        {
+            "date": "2020-08-02",
+            "name": "Wigan",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 353
+            }
+        },
+        {
+            "date": "2020-08-01",
+            "name": "Wigan",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 353
+            }
+        },
+        {
+            "date": "2020-07-31",
+            "name": "Wigan",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 352
+            }
+        },
+        {
+            "date": "2020-07-30",
+            "name": "Wigan",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 352
+            }
+        },
+        {
+            "date": "2020-07-29",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 352
+            }
+        },
+        {
+            "date": "2020-07-28",
+            "name": "Wigan",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 351
+            }
+        },
+        {
+            "date": "2020-07-27",
+            "name": "Wigan",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 350
+            }
+        },
+        {
+            "date": "2020-07-26",
+            "name": "Wigan",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 350
+            }
+        },
+        {
+            "date": "2020-07-25",
+            "name": "Wigan",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 350
+            }
+        },
+        {
+            "date": "2020-07-24",
+            "name": "Wigan",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 350
+            }
+        },
+        {
+            "date": "2020-07-23",
+            "name": "Wigan",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 350
+            }
+        },
+        {
+            "date": "2020-07-22",
+            "name": "Wigan",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 350
+            }
+        },
+        {
+            "date": "2020-07-21",
+            "name": "Wigan",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 348
+            }
+        },
+        {
+            "date": "2020-07-20",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 348
+            }
+        },
+        {
+            "date": "2020-07-19",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 348
+            }
+        },
+        {
+            "date": "2020-07-18",
+            "name": "Wigan",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 347
+            }
+        },
+        {
+            "date": "2020-07-17",
+            "name": "Wigan",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 346
+            }
+        },
+        {
+            "date": "2020-07-16",
+            "name": "Wigan",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 346
+            }
+        },
+        {
+            "date": "2020-07-15",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 346
+            }
+        },
+        {
+            "date": "2020-07-14",
+            "name": "Wigan",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 346
+            }
+        },
+        {
+            "date": "2020-07-13",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 346
+            }
+        },
+        {
+            "date": "2020-07-12",
+            "name": "Wigan",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 346
+            }
+        },
+        {
+            "date": "2020-07-11",
+            "name": "Wigan",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 345
+            }
+        },
+        {
+            "date": "2020-07-10",
+            "name": "Wigan",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 344
+            }
+        },
+        {
+            "date": "2020-07-09",
+            "name": "Wigan",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 344
+            }
+        },
+        {
+            "date": "2020-07-08",
+            "name": "Wigan",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 344
+            }
+        },
+        {
+            "date": "2020-07-07",
+            "name": "Wigan",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 344
+            }
+        },
+        {
+            "date": "2020-07-06",
+            "name": "Wigan",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 344
+            }
+        },
+        {
+            "date": "2020-07-05",
+            "name": "Wigan",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 343
+            }
+        },
+        {
+            "date": "2020-07-04",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 343
+            }
+        },
+        {
+            "date": "2020-07-03",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 342
+            }
+        },
+        {
+            "date": "2020-07-02",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 341
+            }
+        },
+        {
+            "date": "2020-07-01",
+            "name": "Wigan",
+            "cases": {
+                "daily": 874,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 339
+            }
+        },
+        {
+            "date": "2020-06-30",
+            "name": "Wigan",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 339
+            }
+        },
+        {
+            "date": "2020-06-29",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 339
+            }
+        },
+        {
+            "date": "2020-06-28",
+            "name": "Wigan",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 337
+            }
+        },
+        {
+            "date": "2020-06-27",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 337
+            }
+        },
+        {
+            "date": "2020-06-26",
+            "name": "Wigan",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 337
+            }
+        },
+        {
+            "date": "2020-06-25",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 337
+            }
+        },
+        {
+            "date": "2020-06-24",
+            "name": "Wigan",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 337
+            }
+        },
+        {
+            "date": "2020-06-23",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 334
+            }
+        },
+        {
+            "date": "2020-06-22",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 334
+            }
+        },
+        {
+            "date": "2020-06-21",
+            "name": "Wigan",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 334
+            }
+        },
+        {
+            "date": "2020-06-20",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 332
+            }
+        },
+        {
+            "date": "2020-06-19",
+            "name": "Wigan",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 329
+            }
+        },
+        {
+            "date": "2020-06-18",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 328
+            }
+        },
+        {
+            "date": "2020-06-17",
+            "name": "Wigan",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 328
+            }
+        },
+        {
+            "date": "2020-06-16",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 328
+            }
+        },
+        {
+            "date": "2020-06-15",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 327
+            }
+        },
+        {
+            "date": "2020-06-14",
+            "name": "Wigan",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 326
+            }
+        },
+        {
+            "date": "2020-06-13",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 325
+            }
+        },
+        {
+            "date": "2020-06-12",
+            "name": "Wigan",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 323
+            }
+        },
+        {
+            "date": "2020-06-11",
+            "name": "Wigan",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 323
+            }
+        },
+        {
+            "date": "2020-06-10",
+            "name": "Wigan",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 322
+            }
+        },
+        {
+            "date": "2020-06-09",
+            "name": "Wigan",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 321
+            }
+        },
+        {
+            "date": "2020-06-08",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 320
+            }
+        },
+        {
+            "date": "2020-06-07",
+            "name": "Wigan",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 316
+            }
+        },
+        {
+            "date": "2020-06-06",
+            "name": "Wigan",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 316
+            }
+        },
+        {
+            "date": "2020-06-05",
+            "name": "Wigan",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 316
+            }
+        },
+        {
+            "date": "2020-06-04",
+            "name": "Wigan",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 315
+            }
+        },
+        {
+            "date": "2020-06-03",
+            "name": "Wigan",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 314
+            }
+        },
+        {
+            "date": "2020-06-02",
+            "name": "Wigan",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 311
+            }
+        },
+        {
+            "date": "2020-06-01",
+            "name": "Wigan",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 311
+            }
+        },
+        {
+            "date": "2020-05-31",
+            "name": "Wigan",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 308
+            }
+        },
+        {
+            "date": "2020-05-30",
+            "name": "Wigan",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 308
+            }
+        },
+        {
+            "date": "2020-05-29",
+            "name": "Wigan",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 307
+            }
+        },
+        {
+            "date": "2020-05-28",
+            "name": "Wigan",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 306
+            }
+        },
+        {
+            "date": "2020-05-27",
+            "name": "Wigan",
+            "cases": {
+                "daily": 17,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 304
+            }
+        },
+        {
+            "date": "2020-05-26",
+            "name": "Wigan",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 304
+            }
+        },
+        {
+            "date": "2020-05-25",
+            "name": "Wigan",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 303
+            }
+        },
+        {
+            "date": "2020-05-24",
+            "name": "Wigan",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 301
+            }
+        },
+        {
+            "date": "2020-05-23",
+            "name": "Wigan",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 300
+            }
+        },
+        {
+            "date": "2020-05-22",
+            "name": "Wigan",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 298
+            }
+        },
+        {
+            "date": "2020-05-21",
+            "name": "Wigan",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 297
+            }
+        },
+        {
+            "date": "2020-05-20",
+            "name": "Wigan",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 293
+            }
+        },
+        {
+            "date": "2020-05-19",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 288
+            }
+        },
+        {
+            "date": "2020-05-18",
+            "name": "Wigan",
+            "cases": {
+                "daily": 29,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 283
+            }
+        },
+        {
+            "date": "2020-05-17",
+            "name": "Wigan",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 281
+            }
+        },
+        {
+            "date": "2020-05-16",
+            "name": "Wigan",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 279
+            }
+        },
+        {
+            "date": "2020-05-15",
+            "name": "Wigan",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 274
+            }
+        },
+        {
+            "date": "2020-05-14",
+            "name": "Wigan",
+            "cases": {
+                "daily": 36,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 269
+            }
+        },
+        {
+            "date": "2020-05-13",
+            "name": "Wigan",
+            "cases": {
+                "daily": 28,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 268
+            }
+        },
+        {
+            "date": "2020-05-12",
+            "name": "Wigan",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 265
+            }
+        },
+        {
+            "date": "2020-05-11",
+            "name": "Wigan",
+            "cases": {
+                "daily": 23,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 262
+            }
+        },
+        {
+            "date": "2020-05-10",
+            "name": "Wigan",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 255
+            }
+        },
+        {
+            "date": "2020-05-09",
+            "name": "Wigan",
+            "cases": {
+                "daily": 39,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 252
+            }
+        },
+        {
+            "date": "2020-05-08",
+            "name": "Wigan",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 249
+            }
+        },
+        {
+            "date": "2020-05-07",
+            "name": "Wigan",
+            "cases": {
+                "daily": 82,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 243
+            }
+        },
+        {
+            "date": "2020-05-06",
+            "name": "Wigan",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 237
+            }
+        },
+        {
+            "date": "2020-05-05",
+            "name": "Wigan",
+            "cases": {
+                "daily": 43,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 230
+            }
+        },
+        {
+            "date": "2020-05-04",
+            "name": "Wigan",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 227
+            }
+        },
+        {
+            "date": "2020-05-03",
+            "name": "Wigan",
+            "cases": {
+                "daily": 74,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 222
+            }
+        },
+        {
+            "date": "2020-05-02",
+            "name": "Wigan",
+            "cases": {
+                "daily": 24,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 217
+            }
+        },
+        {
+            "date": "2020-05-01",
+            "name": "Wigan",
+            "cases": {
+                "daily": 28,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 209
+            }
+        },
+        {
+            "date": "2020-04-30",
+            "name": "Wigan",
+            "cases": {
+                "daily": 27,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 204
+            }
+        },
+        {
+            "date": "2020-04-29",
+            "name": "Wigan",
+            "cases": {
+                "daily": 20,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 194
+            }
+        },
+        {
+            "date": "2020-04-28",
+            "name": "Wigan",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 191
+            }
+        },
+        {
+            "date": "2020-04-27",
+            "name": "Wigan",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 184
+            }
+        },
+        {
+            "date": "2020-04-26",
+            "name": "Wigan",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 180
+            }
+        },
+        {
+            "date": "2020-04-25",
+            "name": "Wigan",
+            "cases": {
+                "daily": 20,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 169
+            }
+        },
+        {
+            "date": "2020-04-24",
+            "name": "Wigan",
+            "cases": {
+                "daily": 24,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 165
+            }
+        },
+        {
+            "date": "2020-04-23",
+            "name": "Wigan",
+            "cases": {
+                "daily": 26,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 158
+            }
+        },
+        {
+            "date": "2020-04-22",
+            "name": "Wigan",
+            "cases": {
+                "daily": 27,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 152
+            }
+        },
+        {
+            "date": "2020-04-21",
+            "name": "Wigan",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 143
+            }
+        },
+        {
+            "date": "2020-04-20",
+            "name": "Wigan",
+            "cases": {
+                "daily": 21,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 141
+            }
+        },
+        {
+            "date": "2020-04-19",
+            "name": "Wigan",
+            "cases": {
+                "daily": 19,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 137
+            }
+        },
+        {
+            "date": "2020-04-18",
+            "name": "Wigan",
+            "cases": {
+                "daily": 22,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 129
+            }
+        },
+        {
+            "date": "2020-04-17",
+            "name": "Wigan",
+            "cases": {
+                "daily": 21,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 119
+            }
+        },
+        {
+            "date": "2020-04-16",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 16,
+                "cumulative": 111
+            }
+        },
+        {
+            "date": "2020-04-15",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 95
+            }
+        },
+        {
+            "date": "2020-04-14",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 86
+            }
+        },
+        {
+            "date": "2020-04-13",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 75
+            }
+        },
+        {
+            "date": "2020-04-12",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 67
+            }
+        },
+        {
+            "date": "2020-04-11",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 59
+            }
+        },
+        {
+            "date": "2020-04-10",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 53
+            }
+        },
+        {
+            "date": "2020-04-09",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 48
+            }
+        },
+        {
+            "date": "2020-04-08",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 46
+            }
+        },
+        {
+            "date": "2020-04-07",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 42
+            }
+        },
+        {
+            "date": "2020-04-06",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 35
+            }
+        },
+        {
+            "date": "2020-04-05",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 31
+            }
+        },
+        {
+            "date": "2020-04-04",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 27
+            }
+        },
+        {
+            "date": "2020-04-03",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 23
+            }
+        },
+        {
+            "date": "2020-04-02",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 20
+            }
+        },
+        {
+            "date": "2020-04-01",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 15
+            }
+        },
+        {
+            "date": "2020-03-31",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 9
+            }
+        },
+        {
+            "date": "2020-03-30",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 8
+            }
+        },
+        {
+            "date": "2020-03-29",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 6
+            }
+        },
+        {
+            "date": "2020-03-28",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 4
+            }
+        },
+        {
+            "date": "2020-03-27",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 3
+            }
+        },
+        {
+            "date": "2020-03-26",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 3
+            }
+        },
+        {
+            "date": "2020-03-25",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 3
+            }
+        },
+        {
+            "date": "2020-03-24",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 2
+            }
+        },
+        {
+            "date": "2020-03-23",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 2
+            }
+        },
+        {
+            "date": "2020-03-22",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-21",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-20",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-19",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-18",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-17",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-16",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-15",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-14",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-13",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-12",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-11",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-10",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-09",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-08",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-07",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-06",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-05",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-04",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-03",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-02",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-01",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-29",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-28",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-27",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-26",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-25",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-24",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-23",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-22",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-21",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-20",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-19",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-18",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-17",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-16",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-15",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-14",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-13",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-12",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-11",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-10",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-09",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-08",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-07",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-06",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-05",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-04",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-03",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-02",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-01",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-31",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-30",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-29",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-28",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-27",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-26",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-25",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-24",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-23",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-22",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-21",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-20",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-19",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-18",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-17",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-16",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-15",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-14",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-13",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-12",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-11",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-10",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-09",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-08",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-07",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-06",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-05",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-04",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-03",
+            "name": "Wigan",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        }
+    ],
+    "pagination": {
+        "current": "/v1/data?filters=areaType%3Dutla%3BareaName%3DWigan&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "next": null,
+        "previous": null,
+        "first": "/v1/data?filters=areaType%3Dutla%3BareaName%3DWigan&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "last": "/v1/data?filters=areaType%3Dutla%3BareaName%3DWigan&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1"
+    }
+}

@@ -1,0 +1,4501 @@
+{
+    "length": 374,
+    "maxPageLimit": 2500,
+    "data": [
+        {
+            "date": "2021-01-10",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 957,
+                "cumulative": 26067
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-09",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 858,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 867
+            }
+        },
+        {
+            "date": "2021-01-08",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 884,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 866
+            }
+        },
+        {
+            "date": "2021-01-07",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 748,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 861
+            }
+        },
+        {
+            "date": "2021-01-06",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 1042,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 851
+            }
+        },
+        {
+            "date": "2021-01-05",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 976,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 837
+            }
+        },
+        {
+            "date": "2021-01-04",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 837,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 823
+            }
+        },
+        {
+            "date": "2021-01-03",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 796,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 811
+            }
+        },
+        {
+            "date": "2021-01-02",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 760,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 803
+            }
+        },
+        {
+            "date": "2021-01-01",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 904,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 791
+            }
+        },
+        {
+            "date": "2020-12-31",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 814,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 785
+            }
+        },
+        {
+            "date": "2020-12-30",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 795,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 779
+            }
+        },
+        {
+            "date": "2020-12-29",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 550,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 770
+            }
+        },
+        {
+            "date": "2020-12-28",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 466,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 764
+            }
+        },
+        {
+            "date": "2020-12-27",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 341,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 759
+            }
+        },
+        {
+            "date": "2020-12-26",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 681,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 753
+            }
+        },
+        {
+            "date": "2020-12-25",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 441,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 749
+            }
+        },
+        {
+            "date": "2020-12-24",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 391,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 744
+            }
+        },
+        {
+            "date": "2020-12-23",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 243,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 739
+            }
+        },
+        {
+            "date": "2020-12-22",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 283,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 733
+            }
+        },
+        {
+            "date": "2020-12-21",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 284,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 726
+            }
+        },
+        {
+            "date": "2020-12-20",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 322,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 719
+            }
+        },
+        {
+            "date": "2020-12-19",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 295,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 716
+            }
+        },
+        {
+            "date": "2020-12-18",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 202,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 712
+            }
+        },
+        {
+            "date": "2020-12-17",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 247,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 710
+            }
+        },
+        {
+            "date": "2020-12-16",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 201,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 707
+            }
+        },
+        {
+            "date": "2020-12-15",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 130,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 702
+            }
+        },
+        {
+            "date": "2020-12-14",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 119,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 700
+            }
+        },
+        {
+            "date": "2020-12-13",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 176,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 696
+            }
+        },
+        {
+            "date": "2020-12-12",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 166,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 691
+            }
+        },
+        {
+            "date": "2020-12-11",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 137,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 687
+            }
+        },
+        {
+            "date": "2020-12-10",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 183,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 678
+            }
+        },
+        {
+            "date": "2020-12-09",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 95,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 673
+            }
+        },
+        {
+            "date": "2020-12-08",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 83,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 671
+            }
+        },
+        {
+            "date": "2020-12-07",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 77,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 666
+            }
+        },
+        {
+            "date": "2020-12-06",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 92,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 659
+            }
+        },
+        {
+            "date": "2020-12-05",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 76,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 658
+            }
+        },
+        {
+            "date": "2020-12-04",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 98,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 654
+            }
+        },
+        {
+            "date": "2020-12-03",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 79,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 652
+            }
+        },
+        {
+            "date": "2020-12-02",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 61,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 652
+            }
+        },
+        {
+            "date": "2020-12-01",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 79,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 648
+            }
+        },
+        {
+            "date": "2020-11-30",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 48,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 646
+            }
+        },
+        {
+            "date": "2020-11-29",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 62,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 643
+            }
+        },
+        {
+            "date": "2020-11-28",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 75,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 642
+            }
+        },
+        {
+            "date": "2020-11-27",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 60,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 642
+            }
+        },
+        {
+            "date": "2020-11-26",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 79,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 638
+            }
+        },
+        {
+            "date": "2020-11-25",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 109,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 633
+            }
+        },
+        {
+            "date": "2020-11-24",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 76,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 631
+            }
+        },
+        {
+            "date": "2020-11-23",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 95,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 628
+            }
+        },
+        {
+            "date": "2020-11-22",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 141,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 625
+            }
+        },
+        {
+            "date": "2020-11-21",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 88,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 623
+            }
+        },
+        {
+            "date": "2020-11-20",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 74,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 622
+            }
+        },
+        {
+            "date": "2020-11-19",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 230,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 621
+            }
+        },
+        {
+            "date": "2020-11-18",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 111,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 615
+            }
+        },
+        {
+            "date": "2020-11-17",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 120,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 611
+            }
+        },
+        {
+            "date": "2020-11-16",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 609
+            }
+        },
+        {
+            "date": "2020-11-15",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 158,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 606
+            }
+        },
+        {
+            "date": "2020-11-14",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 232,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 604
+            }
+        },
+        {
+            "date": "2020-11-13",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 174,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 600
+            }
+        },
+        {
+            "date": "2020-11-12",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 197,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 599
+            }
+        },
+        {
+            "date": "2020-11-11",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 133,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 598
+            }
+        },
+        {
+            "date": "2020-11-10",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 132,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 596
+            }
+        },
+        {
+            "date": "2020-11-09",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 120,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 595
+            }
+        },
+        {
+            "date": "2020-11-08",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 89,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 587
+            }
+        },
+        {
+            "date": "2020-11-07",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 141,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 582
+            }
+        },
+        {
+            "date": "2020-11-06",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 166,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 579
+            }
+        },
+        {
+            "date": "2020-11-05",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 117,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 579
+            }
+        },
+        {
+            "date": "2020-11-04",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 121,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 578
+            }
+        },
+        {
+            "date": "2020-11-03",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 110,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 577
+            }
+        },
+        {
+            "date": "2020-11-02",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 120,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 575
+            }
+        },
+        {
+            "date": "2020-11-01",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 111,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 575
+            }
+        },
+        {
+            "date": "2020-10-31",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 80,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 573
+            }
+        },
+        {
+            "date": "2020-10-30",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 157,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 568
+            }
+        },
+        {
+            "date": "2020-10-29",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 111,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 564
+            }
+        },
+        {
+            "date": "2020-10-28",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 154,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 562
+            }
+        },
+        {
+            "date": "2020-10-27",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 100,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 561
+            }
+        },
+        {
+            "date": "2020-10-26",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 116,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 559
+            }
+        },
+        {
+            "date": "2020-10-25",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 106,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 555
+            }
+        },
+        {
+            "date": "2020-10-24",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 115,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 555
+            }
+        },
+        {
+            "date": "2020-10-23",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 105,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 554
+            }
+        },
+        {
+            "date": "2020-10-22",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 82,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 551
+            }
+        },
+        {
+            "date": "2020-10-21",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 116,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 551
+            }
+        },
+        {
+            "date": "2020-10-20",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 61,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 549
+            }
+        },
+        {
+            "date": "2020-10-19",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 62,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 548
+            }
+        },
+        {
+            "date": "2020-10-18",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 50,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 548
+            }
+        },
+        {
+            "date": "2020-10-17",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 59,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 547
+            }
+        },
+        {
+            "date": "2020-10-16",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 45,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 546
+            }
+        },
+        {
+            "date": "2020-10-15",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 69,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 546
+            }
+        },
+        {
+            "date": "2020-10-14",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 80,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 545
+            }
+        },
+        {
+            "date": "2020-10-13",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 68,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 544
+            }
+        },
+        {
+            "date": "2020-10-12",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 37,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 542
+            }
+        },
+        {
+            "date": "2020-10-11",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 34,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 541
+            }
+        },
+        {
+            "date": "2020-10-10",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 33,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 541
+            }
+        },
+        {
+            "date": "2020-10-09",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 54,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 540
+            }
+        },
+        {
+            "date": "2020-10-08",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 68,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 540
+            }
+        },
+        {
+            "date": "2020-10-07",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 40,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 539
+            }
+        },
+        {
+            "date": "2020-10-06",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 66,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 538
+            }
+        },
+        {
+            "date": "2020-10-05",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 41,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 538
+            }
+        },
+        {
+            "date": "2020-10-04",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 81,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 535
+            }
+        },
+        {
+            "date": "2020-10-03",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 43,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 533
+            }
+        },
+        {
+            "date": "2020-10-02",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 530
+            }
+        },
+        {
+            "date": "2020-10-01",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 528
+            }
+        },
+        {
+            "date": "2020-09-30",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 527
+            }
+        },
+        {
+            "date": "2020-09-29",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 27,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 526
+            }
+        },
+        {
+            "date": "2020-09-28",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 525
+            }
+        },
+        {
+            "date": "2020-09-27",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 28,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 523
+            }
+        },
+        {
+            "date": "2020-09-26",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 523
+            }
+        },
+        {
+            "date": "2020-09-25",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 29,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 522
+            }
+        },
+        {
+            "date": "2020-09-24",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 26,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 521
+            }
+        },
+        {
+            "date": "2020-09-23",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 521
+            }
+        },
+        {
+            "date": "2020-09-22",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 521
+            }
+        },
+        {
+            "date": "2020-09-21",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 520
+            }
+        },
+        {
+            "date": "2020-09-20",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 519
+            }
+        },
+        {
+            "date": "2020-09-19",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 22,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 519
+            }
+        },
+        {
+            "date": "2020-09-18",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 516
+            }
+        },
+        {
+            "date": "2020-09-17",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 23,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 515
+            }
+        },
+        {
+            "date": "2020-09-16",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 514
+            }
+        },
+        {
+            "date": "2020-09-15",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 514
+            }
+        },
+        {
+            "date": "2020-09-14",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 511
+            }
+        },
+        {
+            "date": "2020-09-13",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 509
+            }
+        },
+        {
+            "date": "2020-09-12",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 509
+            }
+        },
+        {
+            "date": "2020-09-11",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 508
+            }
+        },
+        {
+            "date": "2020-09-10",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 27,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 508
+            }
+        },
+        {
+            "date": "2020-09-09",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 21,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 508
+            }
+        },
+        {
+            "date": "2020-09-08",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 24,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 507
+            }
+        },
+        {
+            "date": "2020-09-07",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 23,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 506
+            }
+        },
+        {
+            "date": "2020-09-06",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 21,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 506
+            }
+        },
+        {
+            "date": "2020-09-05",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 21,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 506
+            }
+        },
+        {
+            "date": "2020-09-04",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 506
+            }
+        },
+        {
+            "date": "2020-09-03",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 506
+            }
+        },
+        {
+            "date": "2020-09-02",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 506
+            }
+        },
+        {
+            "date": "2020-09-01",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 506
+            }
+        },
+        {
+            "date": "2020-08-31",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 505
+            }
+        },
+        {
+            "date": "2020-08-30",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 505
+            }
+        },
+        {
+            "date": "2020-08-29",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 505
+            }
+        },
+        {
+            "date": "2020-08-28",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 504
+            }
+        },
+        {
+            "date": "2020-08-27",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 503
+            }
+        },
+        {
+            "date": "2020-08-26",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 501
+            }
+        },
+        {
+            "date": "2020-08-25",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 501
+            }
+        },
+        {
+            "date": "2020-08-24",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 501
+            }
+        },
+        {
+            "date": "2020-08-23",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 500
+            }
+        },
+        {
+            "date": "2020-08-22",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 499
+            }
+        },
+        {
+            "date": "2020-08-21",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 498
+            }
+        },
+        {
+            "date": "2020-08-20",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 498
+            }
+        },
+        {
+            "date": "2020-08-19",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 498
+            }
+        },
+        {
+            "date": "2020-08-18",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 498
+            }
+        },
+        {
+            "date": "2020-08-17",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 497
+            }
+        },
+        {
+            "date": "2020-08-16",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 497
+            }
+        },
+        {
+            "date": "2020-08-15",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 497
+            }
+        },
+        {
+            "date": "2020-08-14",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 495
+            }
+        },
+        {
+            "date": "2020-08-13",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 493
+            }
+        },
+        {
+            "date": "2020-08-12",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 490
+            }
+        },
+        {
+            "date": "2020-08-11",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 488
+            }
+        },
+        {
+            "date": "2020-08-10",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 487
+            }
+        },
+        {
+            "date": "2020-08-09",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 484
+            }
+        },
+        {
+            "date": "2020-08-08",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 484
+            }
+        },
+        {
+            "date": "2020-08-07",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 483
+            }
+        },
+        {
+            "date": "2020-08-06",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 482
+            }
+        },
+        {
+            "date": "2020-08-05",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 482
+            }
+        },
+        {
+            "date": "2020-08-04",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 480
+            }
+        },
+        {
+            "date": "2020-08-03",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 480
+            }
+        },
+        {
+            "date": "2020-08-02",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 480
+            }
+        },
+        {
+            "date": "2020-08-01",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 480
+            }
+        },
+        {
+            "date": "2020-07-31",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 480
+            }
+        },
+        {
+            "date": "2020-07-30",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 479
+            }
+        },
+        {
+            "date": "2020-07-29",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 479
+            }
+        },
+        {
+            "date": "2020-07-28",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 478
+            }
+        },
+        {
+            "date": "2020-07-27",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 477
+            }
+        },
+        {
+            "date": "2020-07-26",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 476
+            }
+        },
+        {
+            "date": "2020-07-25",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 475
+            }
+        },
+        {
+            "date": "2020-07-24",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 475
+            }
+        },
+        {
+            "date": "2020-07-23",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 475
+            }
+        },
+        {
+            "date": "2020-07-22",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 474
+            }
+        },
+        {
+            "date": "2020-07-21",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 473
+            }
+        },
+        {
+            "date": "2020-07-20",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 473
+            }
+        },
+        {
+            "date": "2020-07-19",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 473
+            }
+        },
+        {
+            "date": "2020-07-18",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 472
+            }
+        },
+        {
+            "date": "2020-07-17",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 472
+            }
+        },
+        {
+            "date": "2020-07-16",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 471
+            }
+        },
+        {
+            "date": "2020-07-15",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 469
+            }
+        },
+        {
+            "date": "2020-07-14",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 469
+            }
+        },
+        {
+            "date": "2020-07-13",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 468
+            }
+        },
+        {
+            "date": "2020-07-12",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 468
+            }
+        },
+        {
+            "date": "2020-07-11",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 467
+            }
+        },
+        {
+            "date": "2020-07-10",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 465
+            }
+        },
+        {
+            "date": "2020-07-09",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 465
+            }
+        },
+        {
+            "date": "2020-07-08",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 464
+            }
+        },
+        {
+            "date": "2020-07-07",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 463
+            }
+        },
+        {
+            "date": "2020-07-06",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 462
+            }
+        },
+        {
+            "date": "2020-07-05",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 462
+            }
+        },
+        {
+            "date": "2020-07-04",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 461
+            }
+        },
+        {
+            "date": "2020-07-03",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 460
+            }
+        },
+        {
+            "date": "2020-07-02",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 460
+            }
+        },
+        {
+            "date": "2020-07-01",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 1299,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 459
+            }
+        },
+        {
+            "date": "2020-06-30",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 457
+            }
+        },
+        {
+            "date": "2020-06-29",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 457
+            }
+        },
+        {
+            "date": "2020-06-28",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 456
+            }
+        },
+        {
+            "date": "2020-06-27",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 455
+            }
+        },
+        {
+            "date": "2020-06-26",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 455
+            }
+        },
+        {
+            "date": "2020-06-25",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 455
+            }
+        },
+        {
+            "date": "2020-06-24",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 454
+            }
+        },
+        {
+            "date": "2020-06-23",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 453
+            }
+        },
+        {
+            "date": "2020-06-22",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 452
+            }
+        },
+        {
+            "date": "2020-06-21",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 451
+            }
+        },
+        {
+            "date": "2020-06-20",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 449
+            }
+        },
+        {
+            "date": "2020-06-19",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 449
+            }
+        },
+        {
+            "date": "2020-06-18",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 447
+            }
+        },
+        {
+            "date": "2020-06-17",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 447
+            }
+        },
+        {
+            "date": "2020-06-16",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 445
+            }
+        },
+        {
+            "date": "2020-06-15",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 445
+            }
+        },
+        {
+            "date": "2020-06-14",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 445
+            }
+        },
+        {
+            "date": "2020-06-13",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 444
+            }
+        },
+        {
+            "date": "2020-06-12",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 442
+            }
+        },
+        {
+            "date": "2020-06-11",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 438
+            }
+        },
+        {
+            "date": "2020-06-10",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 438
+            }
+        },
+        {
+            "date": "2020-06-09",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 438
+            }
+        },
+        {
+            "date": "2020-06-08",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 438
+            }
+        },
+        {
+            "date": "2020-06-07",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 437
+            }
+        },
+        {
+            "date": "2020-06-06",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 436
+            }
+        },
+        {
+            "date": "2020-06-05",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 432
+            }
+        },
+        {
+            "date": "2020-06-04",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 432
+            }
+        },
+        {
+            "date": "2020-06-03",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 430
+            }
+        },
+        {
+            "date": "2020-06-02",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 429
+            }
+        },
+        {
+            "date": "2020-06-01",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 428
+            }
+        },
+        {
+            "date": "2020-05-31",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 425
+            }
+        },
+        {
+            "date": "2020-05-30",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 420
+            }
+        },
+        {
+            "date": "2020-05-29",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 419
+            }
+        },
+        {
+            "date": "2020-05-28",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 416
+            }
+        },
+        {
+            "date": "2020-05-27",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 416
+            }
+        },
+        {
+            "date": "2020-05-26",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 416
+            }
+        },
+        {
+            "date": "2020-05-25",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 409
+            }
+        },
+        {
+            "date": "2020-05-24",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 407
+            }
+        },
+        {
+            "date": "2020-05-23",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 26,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 405
+            }
+        },
+        {
+            "date": "2020-05-22",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 401
+            }
+        },
+        {
+            "date": "2020-05-21",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 394
+            }
+        },
+        {
+            "date": "2020-05-20",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 391
+            }
+        },
+        {
+            "date": "2020-05-19",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 383
+            }
+        },
+        {
+            "date": "2020-05-18",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 379
+            }
+        },
+        {
+            "date": "2020-05-17",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 378
+            }
+        },
+        {
+            "date": "2020-05-16",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 372
+            }
+        },
+        {
+            "date": "2020-05-15",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 369
+            }
+        },
+        {
+            "date": "2020-05-14",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 365
+            }
+        },
+        {
+            "date": "2020-05-13",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 30,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 357
+            }
+        },
+        {
+            "date": "2020-05-12",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 353
+            }
+        },
+        {
+            "date": "2020-05-11",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 344
+            }
+        },
+        {
+            "date": "2020-05-10",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 341
+            }
+        },
+        {
+            "date": "2020-05-09",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 335
+            }
+        },
+        {
+            "date": "2020-05-08",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 325
+            }
+        },
+        {
+            "date": "2020-05-07",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 322
+            }
+        },
+        {
+            "date": "2020-05-06",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 26,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 316
+            }
+        },
+        {
+            "date": "2020-05-05",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 311
+            }
+        },
+        {
+            "date": "2020-05-04",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 305
+            }
+        },
+        {
+            "date": "2020-05-03",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 301
+            }
+        },
+        {
+            "date": "2020-05-02",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 28,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 299
+            }
+        },
+        {
+            "date": "2020-05-01",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 26,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 295
+            }
+        },
+        {
+            "date": "2020-04-30",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 17,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 282
+            }
+        },
+        {
+            "date": "2020-04-29",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 22,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 277
+            }
+        },
+        {
+            "date": "2020-04-28",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 272
+            }
+        },
+        {
+            "date": "2020-04-27",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 28,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 266
+            }
+        },
+        {
+            "date": "2020-04-26",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 22,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 263
+            }
+        },
+        {
+            "date": "2020-04-25",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 23,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 259
+            }
+        },
+        {
+            "date": "2020-04-24",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 31,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 248
+            }
+        },
+        {
+            "date": "2020-04-23",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 33,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 242
+            }
+        },
+        {
+            "date": "2020-04-22",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 233
+            }
+        },
+        {
+            "date": "2020-04-21",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 28,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 221
+            }
+        },
+        {
+            "date": "2020-04-20",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 47,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 214
+            }
+        },
+        {
+            "date": "2020-04-19",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 38,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 203
+            }
+        },
+        {
+            "date": "2020-04-18",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 47,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 189
+            }
+        },
+        {
+            "date": "2020-04-17",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 56,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 184
+            }
+        },
+        {
+            "date": "2020-04-16",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 175
+            }
+        },
+        {
+            "date": "2020-04-15",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 165
+            }
+        },
+        {
+            "date": "2020-04-14",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 158
+            }
+        },
+        {
+            "date": "2020-04-13",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 150
+            }
+        },
+        {
+            "date": "2020-04-12",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 139
+            }
+        },
+        {
+            "date": "2020-04-11",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 134
+            }
+        },
+        {
+            "date": "2020-04-10",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 124
+            }
+        },
+        {
+            "date": "2020-04-09",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 117
+            }
+        },
+        {
+            "date": "2020-04-08",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 110
+            }
+        },
+        {
+            "date": "2020-04-07",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 98
+            }
+        },
+        {
+            "date": "2020-04-06",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 93
+            }
+        },
+        {
+            "date": "2020-04-05",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 15,
+                "cumulative": 82
+            }
+        },
+        {
+            "date": "2020-04-04",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 67
+            }
+        },
+        {
+            "date": "2020-04-03",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 61
+            }
+        },
+        {
+            "date": "2020-04-02",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 53
+            }
+        },
+        {
+            "date": "2020-04-01",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 47
+            }
+        },
+        {
+            "date": "2020-03-31",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 42
+            }
+        },
+        {
+            "date": "2020-03-30",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 36
+            }
+        },
+        {
+            "date": "2020-03-29",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 30
+            }
+        },
+        {
+            "date": "2020-03-28",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 25
+            }
+        },
+        {
+            "date": "2020-03-27",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 23
+            }
+        },
+        {
+            "date": "2020-03-26",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 19
+            }
+        },
+        {
+            "date": "2020-03-25",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 15
+            }
+        },
+        {
+            "date": "2020-03-24",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 11
+            }
+        },
+        {
+            "date": "2020-03-23",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 10
+            }
+        },
+        {
+            "date": "2020-03-22",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 8
+            }
+        },
+        {
+            "date": "2020-03-21",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 3
+            }
+        },
+        {
+            "date": "2020-03-20",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 3
+            }
+        },
+        {
+            "date": "2020-03-19",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 2
+            }
+        },
+        {
+            "date": "2020-03-18",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-17",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-16",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-15",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-14",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-13",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-12",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-11",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-10",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-09",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-08",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-07",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-06",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-05",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-04",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-03",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-02",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-01",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-29",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-28",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-27",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-26",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-25",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-24",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-23",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-22",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-21",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-20",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-19",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-18",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-17",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-16",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-15",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-14",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-13",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-12",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-11",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-10",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-09",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-08",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-07",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-06",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-05",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-04",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-03",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-02",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-01",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-31",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-30",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-29",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-28",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-27",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-26",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-25",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-24",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-23",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-22",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-21",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-20",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-19",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-18",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-17",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-16",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-15",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-14",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-13",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-12",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-11",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-10",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-09",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-08",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-07",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-06",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-05",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-04",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-03",
+            "name": "West Sussex",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        }
+    ],
+    "pagination": {
+        "current": "/v1/data?filters=areaType%3Dutla%3BareaName%3DWest+Sussex&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "next": null,
+        "previous": null,
+        "first": "/v1/data?filters=areaType%3Dutla%3BareaName%3DWest+Sussex&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "last": "/v1/data?filters=areaType%3Dutla%3BareaName%3DWest+Sussex&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1"
+    }
+}

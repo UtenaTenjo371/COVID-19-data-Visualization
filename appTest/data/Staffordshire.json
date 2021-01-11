@@ -1,0 +1,4501 @@
+{
+    "length": 374,
+    "maxPageLimit": 2500,
+    "data": [
+        {
+            "date": "2021-01-10",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 536,
+                "cumulative": 41021
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-09",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 647,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1935
+            }
+        },
+        {
+            "date": "2021-01-08",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 663,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 1934
+            }
+        },
+        {
+            "date": "2021-01-07",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 544,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 18,
+                "cumulative": 1921
+            }
+        },
+        {
+            "date": "2021-01-06",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 745,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 24,
+                "cumulative": 1903
+            }
+        },
+        {
+            "date": "2021-01-05",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 704,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 17,
+                "cumulative": 1879
+            }
+        },
+        {
+            "date": "2021-01-04",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 768,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 15,
+                "cumulative": 1862
+            }
+        },
+        {
+            "date": "2021-01-03",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 411,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 1847
+            }
+        },
+        {
+            "date": "2021-01-02",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 737,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 1836
+            }
+        },
+        {
+            "date": "2021-01-01",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 477,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 1822
+            }
+        },
+        {
+            "date": "2020-12-31",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 533,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 1808
+            }
+        },
+        {
+            "date": "2020-12-30",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 358,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 15,
+                "cumulative": 1795
+            }
+        },
+        {
+            "date": "2020-12-29",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 558,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 1780
+            }
+        },
+        {
+            "date": "2020-12-28",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 382,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 19,
+                "cumulative": 1767
+            }
+        },
+        {
+            "date": "2020-12-27",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 187,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 15,
+                "cumulative": 1748
+            }
+        },
+        {
+            "date": "2020-12-26",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 340,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 18,
+                "cumulative": 1733
+            }
+        },
+        {
+            "date": "2020-12-25",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 367,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 17,
+                "cumulative": 1715
+            }
+        },
+        {
+            "date": "2020-12-24",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 351,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 1698
+            }
+        },
+        {
+            "date": "2020-12-23",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 463,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 16,
+                "cumulative": 1685
+            }
+        },
+        {
+            "date": "2020-12-22",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 337,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 15,
+                "cumulative": 1669
+            }
+        },
+        {
+            "date": "2020-12-21",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 286,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 1654
+            }
+        },
+        {
+            "date": "2020-12-20",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 338,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 15,
+                "cumulative": 1643
+            }
+        },
+        {
+            "date": "2020-12-19",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 352,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 1628
+            }
+        },
+        {
+            "date": "2020-12-18",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 256,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 1617
+            }
+        },
+        {
+            "date": "2020-12-17",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 283,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 1606
+            }
+        },
+        {
+            "date": "2020-12-16",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 291,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 16,
+                "cumulative": 1595
+            }
+        },
+        {
+            "date": "2020-12-15",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 229,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 22,
+                "cumulative": 1579
+            }
+        },
+        {
+            "date": "2020-12-14",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 188,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 15,
+                "cumulative": 1557
+            }
+        },
+        {
+            "date": "2020-12-13",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 264,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 15,
+                "cumulative": 1542
+            }
+        },
+        {
+            "date": "2020-12-12",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 283,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 19,
+                "cumulative": 1527
+            }
+        },
+        {
+            "date": "2020-12-11",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 323,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 24,
+                "cumulative": 1508
+            }
+        },
+        {
+            "date": "2020-12-10",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 319,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 1484
+            }
+        },
+        {
+            "date": "2020-12-09",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 201,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 1473
+            }
+        },
+        {
+            "date": "2020-12-08",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 183,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 17,
+                "cumulative": 1460
+            }
+        },
+        {
+            "date": "2020-12-07",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 211,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 15,
+                "cumulative": 1443
+            }
+        },
+        {
+            "date": "2020-12-06",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 270,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 1428
+            }
+        },
+        {
+            "date": "2020-12-05",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 219,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 1416
+            }
+        },
+        {
+            "date": "2020-12-04",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 247,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 1404
+            }
+        },
+        {
+            "date": "2020-12-03",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 204,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 1390
+            }
+        },
+        {
+            "date": "2020-12-02",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 270,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 1376
+            }
+        },
+        {
+            "date": "2020-12-01",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 209,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 1368
+            }
+        },
+        {
+            "date": "2020-11-30",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 293,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 19,
+                "cumulative": 1354
+            }
+        },
+        {
+            "date": "2020-11-29",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 213,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 24,
+                "cumulative": 1335
+            }
+        },
+        {
+            "date": "2020-11-28",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 259,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 16,
+                "cumulative": 1311
+            }
+        },
+        {
+            "date": "2020-11-27",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 251,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 18,
+                "cumulative": 1295
+            }
+        },
+        {
+            "date": "2020-11-26",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 310,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 17,
+                "cumulative": 1277
+            }
+        },
+        {
+            "date": "2020-11-25",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 359,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 1260
+            }
+        },
+        {
+            "date": "2020-11-24",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 197,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 1247
+            }
+        },
+        {
+            "date": "2020-11-23",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 398,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 18,
+                "cumulative": 1235
+            }
+        },
+        {
+            "date": "2020-11-22",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 357,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 1217
+            }
+        },
+        {
+            "date": "2020-11-21",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 485,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 1207
+            }
+        },
+        {
+            "date": "2020-11-20",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 457,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 17,
+                "cumulative": 1195
+            }
+        },
+        {
+            "date": "2020-11-19",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 527,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 1178
+            }
+        },
+        {
+            "date": "2020-11-18",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 345,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 1164
+            }
+        },
+        {
+            "date": "2020-11-17",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 462,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 1150
+            }
+        },
+        {
+            "date": "2020-11-16",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 376,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 1136
+            }
+        },
+        {
+            "date": "2020-11-15",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 613,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 17,
+                "cumulative": 1125
+            }
+        },
+        {
+            "date": "2020-11-14",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 530,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 18,
+                "cumulative": 1108
+            }
+        },
+        {
+            "date": "2020-11-13",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 454,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 1090
+            }
+        },
+        {
+            "date": "2020-11-12",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 798,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 1080
+            }
+        },
+        {
+            "date": "2020-11-11",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 473,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 1068
+            }
+        },
+        {
+            "date": "2020-11-10",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 438,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 1054
+            }
+        },
+        {
+            "date": "2020-11-09",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 543,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 1048
+            }
+        },
+        {
+            "date": "2020-11-08",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 432,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 1037
+            }
+        },
+        {
+            "date": "2020-11-07",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 551,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 1025
+            }
+        },
+        {
+            "date": "2020-11-06",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 494,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 1019
+            }
+        },
+        {
+            "date": "2020-11-05",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 431,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 1010
+            }
+        },
+        {
+            "date": "2020-11-04",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 618,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 999
+            }
+        },
+        {
+            "date": "2020-11-03",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 338,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 989
+            }
+        },
+        {
+            "date": "2020-11-02",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 374,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 986
+            }
+        },
+        {
+            "date": "2020-11-01",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 632,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 979
+            }
+        },
+        {
+            "date": "2020-10-31",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 340,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 973
+            }
+        },
+        {
+            "date": "2020-10-30",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 448,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 970
+            }
+        },
+        {
+            "date": "2020-10-29",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 439,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 965
+            }
+        },
+        {
+            "date": "2020-10-28",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 484,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 955
+            }
+        },
+        {
+            "date": "2020-10-27",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 434,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 952
+            }
+        },
+        {
+            "date": "2020-10-26",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 435,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 950
+            }
+        },
+        {
+            "date": "2020-10-25",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 283,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 946
+            }
+        },
+        {
+            "date": "2020-10-24",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 294,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 940
+            }
+        },
+        {
+            "date": "2020-10-23",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 321,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 938
+            }
+        },
+        {
+            "date": "2020-10-22",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 296,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 932
+            }
+        },
+        {
+            "date": "2020-10-21",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 380,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 923
+            }
+        },
+        {
+            "date": "2020-10-20",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 261,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 920
+            }
+        },
+        {
+            "date": "2020-10-19",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 227,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 916
+            }
+        },
+        {
+            "date": "2020-10-18",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 219,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 912
+            }
+        },
+        {
+            "date": "2020-10-17",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 160,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 910
+            }
+        },
+        {
+            "date": "2020-10-16",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 247,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 904
+            }
+        },
+        {
+            "date": "2020-10-15",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 166,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 903
+            }
+        },
+        {
+            "date": "2020-10-14",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 258,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 903
+            }
+        },
+        {
+            "date": "2020-10-13",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 128,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 900
+            }
+        },
+        {
+            "date": "2020-10-12",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 127,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 898
+            }
+        },
+        {
+            "date": "2020-10-11",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 135,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 897
+            }
+        },
+        {
+            "date": "2020-10-10",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 152,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 895
+            }
+        },
+        {
+            "date": "2020-10-09",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 126,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 895
+            }
+        },
+        {
+            "date": "2020-10-08",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 157,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 894
+            }
+        },
+        {
+            "date": "2020-10-07",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 129,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 892
+            }
+        },
+        {
+            "date": "2020-10-06",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 137,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 892
+            }
+        },
+        {
+            "date": "2020-10-05",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 115,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 892
+            }
+        },
+        {
+            "date": "2020-10-04",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 217,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 892
+            }
+        },
+        {
+            "date": "2020-10-03",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 104,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 891
+            }
+        },
+        {
+            "date": "2020-10-02",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 48,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 889
+            }
+        },
+        {
+            "date": "2020-10-01",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 74,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 887
+            }
+        },
+        {
+            "date": "2020-09-30",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 33,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 885
+            }
+        },
+        {
+            "date": "2020-09-29",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 66,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 883
+            }
+        },
+        {
+            "date": "2020-09-28",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 31,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 883
+            }
+        },
+        {
+            "date": "2020-09-27",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 56,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 881
+            }
+        },
+        {
+            "date": "2020-09-26",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 36,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 880
+            }
+        },
+        {
+            "date": "2020-09-25",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 49,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 877
+            }
+        },
+        {
+            "date": "2020-09-24",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 30,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 876
+            }
+        },
+        {
+            "date": "2020-09-23",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 46,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 874
+            }
+        },
+        {
+            "date": "2020-09-22",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 41,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 872
+            }
+        },
+        {
+            "date": "2020-09-21",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 32,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 870
+            }
+        },
+        {
+            "date": "2020-09-20",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 33,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 870
+            }
+        },
+        {
+            "date": "2020-09-19",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 44,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 869
+            }
+        },
+        {
+            "date": "2020-09-18",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 45,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 867
+            }
+        },
+        {
+            "date": "2020-09-17",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 26,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 866
+            }
+        },
+        {
+            "date": "2020-09-16",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 38,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 865
+            }
+        },
+        {
+            "date": "2020-09-15",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 23,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 863
+            }
+        },
+        {
+            "date": "2020-09-14",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 42,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 863
+            }
+        },
+        {
+            "date": "2020-09-13",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 30,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 862
+            }
+        },
+        {
+            "date": "2020-09-12",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 35,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 858
+            }
+        },
+        {
+            "date": "2020-09-11",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 43,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 857
+            }
+        },
+        {
+            "date": "2020-09-10",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 30,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 856
+            }
+        },
+        {
+            "date": "2020-09-09",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 24,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 856
+            }
+        },
+        {
+            "date": "2020-09-08",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 29,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 856
+            }
+        },
+        {
+            "date": "2020-09-07",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 39,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 854
+            }
+        },
+        {
+            "date": "2020-09-06",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 36,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 854
+            }
+        },
+        {
+            "date": "2020-09-05",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 854
+            }
+        },
+        {
+            "date": "2020-09-04",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 853
+            }
+        },
+        {
+            "date": "2020-09-03",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 852
+            }
+        },
+        {
+            "date": "2020-09-02",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 851
+            }
+        },
+        {
+            "date": "2020-09-01",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 849
+            }
+        },
+        {
+            "date": "2020-08-31",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 848
+            }
+        },
+        {
+            "date": "2020-08-30",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 20,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 847
+            }
+        },
+        {
+            "date": "2020-08-29",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 847
+            }
+        },
+        {
+            "date": "2020-08-28",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 845
+            }
+        },
+        {
+            "date": "2020-08-27",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 20,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 845
+            }
+        },
+        {
+            "date": "2020-08-26",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 845
+            }
+        },
+        {
+            "date": "2020-08-25",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 842
+            }
+        },
+        {
+            "date": "2020-08-24",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 837
+            }
+        },
+        {
+            "date": "2020-08-23",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 835
+            }
+        },
+        {
+            "date": "2020-08-22",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 834
+            }
+        },
+        {
+            "date": "2020-08-21",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 834
+            }
+        },
+        {
+            "date": "2020-08-20",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 834
+            }
+        },
+        {
+            "date": "2020-08-19",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 833
+            }
+        },
+        {
+            "date": "2020-08-18",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 832
+            }
+        },
+        {
+            "date": "2020-08-17",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 832
+            }
+        },
+        {
+            "date": "2020-08-16",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 830
+            }
+        },
+        {
+            "date": "2020-08-15",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 829
+            }
+        },
+        {
+            "date": "2020-08-14",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 829
+            }
+        },
+        {
+            "date": "2020-08-13",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 828
+            }
+        },
+        {
+            "date": "2020-08-12",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 826
+            }
+        },
+        {
+            "date": "2020-08-11",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 824
+            }
+        },
+        {
+            "date": "2020-08-10",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 820
+            }
+        },
+        {
+            "date": "2020-08-09",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 819
+            }
+        },
+        {
+            "date": "2020-08-08",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 818
+            }
+        },
+        {
+            "date": "2020-08-07",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 818
+            }
+        },
+        {
+            "date": "2020-08-06",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 813
+            }
+        },
+        {
+            "date": "2020-08-05",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 812
+            }
+        },
+        {
+            "date": "2020-08-04",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 811
+            }
+        },
+        {
+            "date": "2020-08-03",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 810
+            }
+        },
+        {
+            "date": "2020-08-02",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 810
+            }
+        },
+        {
+            "date": "2020-08-01",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 810
+            }
+        },
+        {
+            "date": "2020-07-31",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 810
+            }
+        },
+        {
+            "date": "2020-07-30",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 809
+            }
+        },
+        {
+            "date": "2020-07-29",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 807
+            }
+        },
+        {
+            "date": "2020-07-28",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 806
+            }
+        },
+        {
+            "date": "2020-07-27",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 806
+            }
+        },
+        {
+            "date": "2020-07-26",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 804
+            }
+        },
+        {
+            "date": "2020-07-25",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 802
+            }
+        },
+        {
+            "date": "2020-07-24",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 801
+            }
+        },
+        {
+            "date": "2020-07-23",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 801
+            }
+        },
+        {
+            "date": "2020-07-22",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 799
+            }
+        },
+        {
+            "date": "2020-07-21",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 799
+            }
+        },
+        {
+            "date": "2020-07-20",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 797
+            }
+        },
+        {
+            "date": "2020-07-19",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 796
+            }
+        },
+        {
+            "date": "2020-07-18",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 796
+            }
+        },
+        {
+            "date": "2020-07-17",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 795
+            }
+        },
+        {
+            "date": "2020-07-16",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 794
+            }
+        },
+        {
+            "date": "2020-07-15",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 794
+            }
+        },
+        {
+            "date": "2020-07-14",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 792
+            }
+        },
+        {
+            "date": "2020-07-13",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 791
+            }
+        },
+        {
+            "date": "2020-07-12",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 790
+            }
+        },
+        {
+            "date": "2020-07-11",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 787
+            }
+        },
+        {
+            "date": "2020-07-10",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 787
+            }
+        },
+        {
+            "date": "2020-07-09",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 787
+            }
+        },
+        {
+            "date": "2020-07-08",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 783
+            }
+        },
+        {
+            "date": "2020-07-07",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 783
+            }
+        },
+        {
+            "date": "2020-07-06",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 781
+            }
+        },
+        {
+            "date": "2020-07-05",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 779
+            }
+        },
+        {
+            "date": "2020-07-04",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 777
+            }
+        },
+        {
+            "date": "2020-07-03",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 776
+            }
+        },
+        {
+            "date": "2020-07-02",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 771
+            }
+        },
+        {
+            "date": "2020-07-01",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 1206,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 766
+            }
+        },
+        {
+            "date": "2020-06-30",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 764
+            }
+        },
+        {
+            "date": "2020-06-29",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 762
+            }
+        },
+        {
+            "date": "2020-06-28",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 760
+            }
+        },
+        {
+            "date": "2020-06-27",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 758
+            }
+        },
+        {
+            "date": "2020-06-26",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 756
+            }
+        },
+        {
+            "date": "2020-06-25",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 752
+            }
+        },
+        {
+            "date": "2020-06-24",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 749
+            }
+        },
+        {
+            "date": "2020-06-23",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 747
+            }
+        },
+        {
+            "date": "2020-06-22",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 742
+            }
+        },
+        {
+            "date": "2020-06-21",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 740
+            }
+        },
+        {
+            "date": "2020-06-20",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 737
+            }
+        },
+        {
+            "date": "2020-06-19",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 735
+            }
+        },
+        {
+            "date": "2020-06-18",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 733
+            }
+        },
+        {
+            "date": "2020-06-17",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 731
+            }
+        },
+        {
+            "date": "2020-06-16",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 727
+            }
+        },
+        {
+            "date": "2020-06-15",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 725
+            }
+        },
+        {
+            "date": "2020-06-14",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 721
+            }
+        },
+        {
+            "date": "2020-06-13",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 714
+            }
+        },
+        {
+            "date": "2020-06-12",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 712
+            }
+        },
+        {
+            "date": "2020-06-11",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 709
+            }
+        },
+        {
+            "date": "2020-06-10",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 707
+            }
+        },
+        {
+            "date": "2020-06-09",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 707
+            }
+        },
+        {
+            "date": "2020-06-08",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 702
+            }
+        },
+        {
+            "date": "2020-06-07",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 700
+            }
+        },
+        {
+            "date": "2020-06-06",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 699
+            }
+        },
+        {
+            "date": "2020-06-05",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 696
+            }
+        },
+        {
+            "date": "2020-06-04",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 691
+            }
+        },
+        {
+            "date": "2020-06-03",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 688
+            }
+        },
+        {
+            "date": "2020-06-02",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 684
+            }
+        },
+        {
+            "date": "2020-06-01",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 677
+            }
+        },
+        {
+            "date": "2020-05-31",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 675
+            }
+        },
+        {
+            "date": "2020-05-30",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 669
+            }
+        },
+        {
+            "date": "2020-05-29",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 668
+            }
+        },
+        {
+            "date": "2020-05-28",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 660
+            }
+        },
+        {
+            "date": "2020-05-27",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 654
+            }
+        },
+        {
+            "date": "2020-05-26",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 651
+            }
+        },
+        {
+            "date": "2020-05-25",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 645
+            }
+        },
+        {
+            "date": "2020-05-24",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 642
+            }
+        },
+        {
+            "date": "2020-05-23",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 17,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 637
+            }
+        },
+        {
+            "date": "2020-05-22",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 22,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 631
+            }
+        },
+        {
+            "date": "2020-05-21",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 626
+            }
+        },
+        {
+            "date": "2020-05-20",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 622
+            }
+        },
+        {
+            "date": "2020-05-19",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 618
+            }
+        },
+        {
+            "date": "2020-05-18",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 19,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 608
+            }
+        },
+        {
+            "date": "2020-05-17",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 603
+            }
+        },
+        {
+            "date": "2020-05-16",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 596
+            }
+        },
+        {
+            "date": "2020-05-15",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 19,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 589
+            }
+        },
+        {
+            "date": "2020-05-14",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 583
+            }
+        },
+        {
+            "date": "2020-05-13",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 577
+            }
+        },
+        {
+            "date": "2020-05-12",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 568
+            }
+        },
+        {
+            "date": "2020-05-11",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 562
+            }
+        },
+        {
+            "date": "2020-05-10",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 559
+            }
+        },
+        {
+            "date": "2020-05-09",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 551
+            }
+        },
+        {
+            "date": "2020-05-08",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 32,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 541
+            }
+        },
+        {
+            "date": "2020-05-07",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 37,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 538
+            }
+        },
+        {
+            "date": "2020-05-06",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 22,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 530
+            }
+        },
+        {
+            "date": "2020-05-05",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 21,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 520
+            }
+        },
+        {
+            "date": "2020-05-04",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 35,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 515
+            }
+        },
+        {
+            "date": "2020-05-03",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 21,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 504
+            }
+        },
+        {
+            "date": "2020-05-02",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 36,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 498
+            }
+        },
+        {
+            "date": "2020-05-01",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 33,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 487
+            }
+        },
+        {
+            "date": "2020-04-30",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 47,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 479
+            }
+        },
+        {
+            "date": "2020-04-29",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 472
+            }
+        },
+        {
+            "date": "2020-04-28",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 42,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 460
+            }
+        },
+        {
+            "date": "2020-04-27",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 35,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 454
+            }
+        },
+        {
+            "date": "2020-04-26",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 54,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 15,
+                "cumulative": 445
+            }
+        },
+        {
+            "date": "2020-04-25",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 51,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 430
+            }
+        },
+        {
+            "date": "2020-04-24",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 50,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 421
+            }
+        },
+        {
+            "date": "2020-04-23",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 59,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 408
+            }
+        },
+        {
+            "date": "2020-04-22",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 59,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 394
+            }
+        },
+        {
+            "date": "2020-04-21",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 39,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 17,
+                "cumulative": 386
+            }
+        },
+        {
+            "date": "2020-04-20",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 46,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 369
+            }
+        },
+        {
+            "date": "2020-04-19",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 43,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 15,
+                "cumulative": 355
+            }
+        },
+        {
+            "date": "2020-04-18",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 57,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 17,
+                "cumulative": 340
+            }
+        },
+        {
+            "date": "2020-04-17",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 51,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 18,
+                "cumulative": 323
+            }
+        },
+        {
+            "date": "2020-04-16",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 305
+            }
+        },
+        {
+            "date": "2020-04-15",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 294
+            }
+        },
+        {
+            "date": "2020-04-14",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 281
+            }
+        },
+        {
+            "date": "2020-04-13",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 273
+            }
+        },
+        {
+            "date": "2020-04-12",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 259
+            }
+        },
+        {
+            "date": "2020-04-11",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 18,
+                "cumulative": 247
+            }
+        },
+        {
+            "date": "2020-04-10",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 229
+            }
+        },
+        {
+            "date": "2020-04-09",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 17,
+                "cumulative": 217
+            }
+        },
+        {
+            "date": "2020-04-08",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 30,
+                "cumulative": 200
+            }
+        },
+        {
+            "date": "2020-04-07",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 20,
+                "cumulative": 170
+            }
+        },
+        {
+            "date": "2020-04-06",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 150
+            }
+        },
+        {
+            "date": "2020-04-05",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 19,
+                "cumulative": 136
+            }
+        },
+        {
+            "date": "2020-04-04",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 117
+            }
+        },
+        {
+            "date": "2020-04-03",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 17,
+                "cumulative": 108
+            }
+        },
+        {
+            "date": "2020-04-02",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 91
+            }
+        },
+        {
+            "date": "2020-04-01",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 79
+            }
+        },
+        {
+            "date": "2020-03-31",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 17,
+                "cumulative": 65
+            }
+        },
+        {
+            "date": "2020-03-30",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 48
+            }
+        },
+        {
+            "date": "2020-03-29",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 41
+            }
+        },
+        {
+            "date": "2020-03-28",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 31
+            }
+        },
+        {
+            "date": "2020-03-27",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 21
+            }
+        },
+        {
+            "date": "2020-03-26",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 17
+            }
+        },
+        {
+            "date": "2020-03-25",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 13
+            }
+        },
+        {
+            "date": "2020-03-24",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 11
+            }
+        },
+        {
+            "date": "2020-03-23",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 9
+            }
+        },
+        {
+            "date": "2020-03-22",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 8
+            }
+        },
+        {
+            "date": "2020-03-21",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 6
+            }
+        },
+        {
+            "date": "2020-03-20",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 6
+            }
+        },
+        {
+            "date": "2020-03-19",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 3
+            }
+        },
+        {
+            "date": "2020-03-18",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 3
+            }
+        },
+        {
+            "date": "2020-03-17",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 3
+            }
+        },
+        {
+            "date": "2020-03-16",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 2
+            }
+        },
+        {
+            "date": "2020-03-15",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 2
+            }
+        },
+        {
+            "date": "2020-03-14",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 2
+            }
+        },
+        {
+            "date": "2020-03-13",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-12",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-11",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-10",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-09",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-08",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-07",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-06",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-05",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-04",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-03",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-02",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-01",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-29",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-28",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-27",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-26",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-25",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-24",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-23",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-22",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-21",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-20",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-19",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-18",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-17",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-16",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-15",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-14",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-13",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-12",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-11",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-10",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-09",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-08",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-07",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-06",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-05",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-04",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-03",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-02",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-01",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-31",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-30",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-29",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-28",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-27",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-26",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-25",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-24",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-23",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-22",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-21",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-20",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-19",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-18",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-17",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-16",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-15",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-14",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-13",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-12",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-11",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-10",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-09",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-08",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-07",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-06",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-05",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-04",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-03",
+            "name": "Staffordshire",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        }
+    ],
+    "pagination": {
+        "current": "/v1/data?filters=areaType%3Dutla%3BareaName%3DStaffordshire&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "next": null,
+        "previous": null,
+        "first": "/v1/data?filters=areaType%3Dutla%3BareaName%3DStaffordshire&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "last": "/v1/data?filters=areaType%3Dutla%3BareaName%3DStaffordshire&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1"
+    }
+}

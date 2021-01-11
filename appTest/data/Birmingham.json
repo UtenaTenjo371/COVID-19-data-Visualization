@@ -1,0 +1,4501 @@
+{
+    "length": 374,
+    "maxPageLimit": 2500,
+    "data": [
+        {
+            "date": "2021-01-10",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 1177,
+                "cumulative": 66096
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2021-01-09",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 1219,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 2025
+            }
+        },
+        {
+            "date": "2021-01-08",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 1295,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 2023
+            }
+        },
+        {
+            "date": "2021-01-07",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 1131,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 2014
+            }
+        },
+        {
+            "date": "2021-01-06",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 1511,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 2001
+            }
+        },
+        {
+            "date": "2021-01-05",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 1178,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 16,
+                "cumulative": 1991
+            }
+        },
+        {
+            "date": "2021-01-04",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 1593,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 1975
+            }
+        },
+        {
+            "date": "2021-01-03",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 552,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 1961
+            }
+        },
+        {
+            "date": "2021-01-02",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 1595,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 1947
+            }
+        },
+        {
+            "date": "2021-01-01",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 552,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 1938
+            }
+        },
+        {
+            "date": "2020-12-31",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 1134,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 1926
+            }
+        },
+        {
+            "date": "2020-12-30",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 801,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 17,
+                "cumulative": 1915
+            }
+        },
+        {
+            "date": "2020-12-29",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 945,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 1898
+            }
+        },
+        {
+            "date": "2020-12-28",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 455,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 1884
+            }
+        },
+        {
+            "date": "2020-12-27",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 288,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 1876
+            }
+        },
+        {
+            "date": "2020-12-26",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 696,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 1864
+            }
+        },
+        {
+            "date": "2020-12-25",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 604,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 1854
+            }
+        },
+        {
+            "date": "2020-12-24",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 441,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 17,
+                "cumulative": 1847
+            }
+        },
+        {
+            "date": "2020-12-23",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 899,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 1830
+            }
+        },
+        {
+            "date": "2020-12-22",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 459,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 1823
+            }
+        },
+        {
+            "date": "2020-12-21",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 394,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 1814
+            }
+        },
+        {
+            "date": "2020-12-20",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 567,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 1803
+            }
+        },
+        {
+            "date": "2020-12-19",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 383,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 1799
+            }
+        },
+        {
+            "date": "2020-12-18",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 408,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 1795
+            }
+        },
+        {
+            "date": "2020-12-17",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 378,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 1781
+            }
+        },
+        {
+            "date": "2020-12-16",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 455,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 1772
+            }
+        },
+        {
+            "date": "2020-12-15",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 338,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 1760
+            }
+        },
+        {
+            "date": "2020-12-14",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 294,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 1750
+            }
+        },
+        {
+            "date": "2020-12-13",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 387,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 1738
+            }
+        },
+        {
+            "date": "2020-12-12",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 360,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 1730
+            }
+        },
+        {
+            "date": "2020-12-11",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 301,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 1717
+            }
+        },
+        {
+            "date": "2020-12-10",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 333,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 1712
+            }
+        },
+        {
+            "date": "2020-12-09",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 319,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 1702
+            }
+        },
+        {
+            "date": "2020-12-08",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 261,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 15,
+                "cumulative": 1693
+            }
+        },
+        {
+            "date": "2020-12-07",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 315,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 1678
+            }
+        },
+        {
+            "date": "2020-12-06",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 389,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 1667
+            }
+        },
+        {
+            "date": "2020-12-05",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 295,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 1658
+            }
+        },
+        {
+            "date": "2020-12-04",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 323,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 19,
+                "cumulative": 1645
+            }
+        },
+        {
+            "date": "2020-12-03",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 317,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 15,
+                "cumulative": 1626
+            }
+        },
+        {
+            "date": "2020-12-02",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 320,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 1611
+            }
+        },
+        {
+            "date": "2020-12-01",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 313,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1600
+            }
+        },
+        {
+            "date": "2020-11-30",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 362,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 1598
+            }
+        },
+        {
+            "date": "2020-11-29",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 218,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 1585
+            }
+        },
+        {
+            "date": "2020-11-28",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 369,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 1572
+            }
+        },
+        {
+            "date": "2020-11-27",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 406,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 1566
+            }
+        },
+        {
+            "date": "2020-11-26",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 575,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 1559
+            }
+        },
+        {
+            "date": "2020-11-25",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 523,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 1546
+            }
+        },
+        {
+            "date": "2020-11-24",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 216,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 1536
+            }
+        },
+        {
+            "date": "2020-11-23",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 450,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 1524
+            }
+        },
+        {
+            "date": "2020-11-22",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 637,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 15,
+                "cumulative": 1511
+            }
+        },
+        {
+            "date": "2020-11-21",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 558,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 17,
+                "cumulative": 1496
+            }
+        },
+        {
+            "date": "2020-11-20",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 720,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 1479
+            }
+        },
+        {
+            "date": "2020-11-19",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 767,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 1469
+            }
+        },
+        {
+            "date": "2020-11-18",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 486,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 1462
+            }
+        },
+        {
+            "date": "2020-11-17",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 641,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 1449
+            }
+        },
+        {
+            "date": "2020-11-16",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 1583,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 1440
+            }
+        },
+        {
+            "date": "2020-11-15",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 651,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 1429
+            }
+        },
+        {
+            "date": "2020-11-14",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 661,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 1421
+            }
+        },
+        {
+            "date": "2020-11-13",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 596,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 1414
+            }
+        },
+        {
+            "date": "2020-11-12",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 791,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 1402
+            }
+        },
+        {
+            "date": "2020-11-11",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 486,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 1395
+            }
+        },
+        {
+            "date": "2020-11-10",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 562,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 1385
+            }
+        },
+        {
+            "date": "2020-11-09",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 592,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 1377
+            }
+        },
+        {
+            "date": "2020-11-08",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 529,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 1371
+            }
+        },
+        {
+            "date": "2020-11-07",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 492,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 1362
+            }
+        },
+        {
+            "date": "2020-11-06",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 591,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 1350
+            }
+        },
+        {
+            "date": "2020-11-05",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 454,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 1342
+            }
+        },
+        {
+            "date": "2020-11-04",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 672,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 1330
+            }
+        },
+        {
+            "date": "2020-11-03",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 486,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 1319
+            }
+        },
+        {
+            "date": "2020-11-02",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 343,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 1310
+            }
+        },
+        {
+            "date": "2020-11-01",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 661,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 1301
+            }
+        },
+        {
+            "date": "2020-10-31",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 366,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 1291
+            }
+        },
+        {
+            "date": "2020-10-30",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 487,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 1284
+            }
+        },
+        {
+            "date": "2020-10-29",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 470,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 1274
+            }
+        },
+        {
+            "date": "2020-10-28",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 548,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 1269
+            }
+        },
+        {
+            "date": "2020-10-27",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 472,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 1266
+            }
+        },
+        {
+            "date": "2020-10-26",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 467,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 1257
+            }
+        },
+        {
+            "date": "2020-10-25",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 283,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1245
+            }
+        },
+        {
+            "date": "2020-10-24",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 487,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1243
+            }
+        },
+        {
+            "date": "2020-10-23",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 507,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 1243
+            }
+        },
+        {
+            "date": "2020-10-22",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 440,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 1239
+            }
+        },
+        {
+            "date": "2020-10-21",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 620,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 1235
+            }
+        },
+        {
+            "date": "2020-10-20",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 389,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 1229
+            }
+        },
+        {
+            "date": "2020-10-19",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 343,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1226
+            }
+        },
+        {
+            "date": "2020-10-18",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 343,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 1224
+            }
+        },
+        {
+            "date": "2020-10-17",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 281,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 1220
+            }
+        },
+        {
+            "date": "2020-10-16",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 516,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 1216
+            }
+        },
+        {
+            "date": "2020-10-15",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 314,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 1211
+            }
+        },
+        {
+            "date": "2020-10-14",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 510,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 1207
+            }
+        },
+        {
+            "date": "2020-10-13",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 306,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 1201
+            }
+        },
+        {
+            "date": "2020-10-12",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 245,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1198
+            }
+        },
+        {
+            "date": "2020-10-11",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 229,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 1197
+            }
+        },
+        {
+            "date": "2020-10-10",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 345,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1192
+            }
+        },
+        {
+            "date": "2020-10-09",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 182,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1190
+            }
+        },
+        {
+            "date": "2020-10-08",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 314,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 1189
+            }
+        },
+        {
+            "date": "2020-10-07",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 295,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 1183
+            }
+        },
+        {
+            "date": "2020-10-06",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 323,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 1180
+            }
+        },
+        {
+            "date": "2020-10-05",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 293,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 1177
+            }
+        },
+        {
+            "date": "2020-10-04",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 528,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 1171
+            }
+        },
+        {
+            "date": "2020-10-03",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 378,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 1167
+            }
+        },
+        {
+            "date": "2020-10-02",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 134,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1164
+            }
+        },
+        {
+            "date": "2020-10-01",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 214,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 1164
+            }
+        },
+        {
+            "date": "2020-09-30",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 132,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 1161
+            }
+        },
+        {
+            "date": "2020-09-29",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 218,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1158
+            }
+        },
+        {
+            "date": "2020-09-28",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 116,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1157
+            }
+        },
+        {
+            "date": "2020-09-27",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 195,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1156
+            }
+        },
+        {
+            "date": "2020-09-26",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 223,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1154
+            }
+        },
+        {
+            "date": "2020-09-25",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 232,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 1153
+            }
+        },
+        {
+            "date": "2020-09-24",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 270,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1150
+            }
+        },
+        {
+            "date": "2020-09-23",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 381,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 1148
+            }
+        },
+        {
+            "date": "2020-09-22",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 263,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 1139
+            }
+        },
+        {
+            "date": "2020-09-21",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 181,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 1135
+            }
+        },
+        {
+            "date": "2020-09-20",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 203,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 1131
+            }
+        },
+        {
+            "date": "2020-09-19",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 193,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1125
+            }
+        },
+        {
+            "date": "2020-09-18",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 167,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 1125
+            }
+        },
+        {
+            "date": "2020-09-17",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 133,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1122
+            }
+        },
+        {
+            "date": "2020-09-16",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 144,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1120
+            }
+        },
+        {
+            "date": "2020-09-15",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 155,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1119
+            }
+        },
+        {
+            "date": "2020-09-14",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 152,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1119
+            }
+        },
+        {
+            "date": "2020-09-13",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 157,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1117
+            }
+        },
+        {
+            "date": "2020-09-12",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 119,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1117
+            }
+        },
+        {
+            "date": "2020-09-11",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 154,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1117
+            }
+        },
+        {
+            "date": "2020-09-10",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 131,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1116
+            }
+        },
+        {
+            "date": "2020-09-09",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 145,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1116
+            }
+        },
+        {
+            "date": "2020-09-08",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 91,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 1116
+            }
+        },
+        {
+            "date": "2020-09-07",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 212,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 1113
+            }
+        },
+        {
+            "date": "2020-09-06",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 195,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1110
+            }
+        },
+        {
+            "date": "2020-09-05",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 81,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1110
+            }
+        },
+        {
+            "date": "2020-09-04",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 86,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1109
+            }
+        },
+        {
+            "date": "2020-09-03",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 74,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1109
+            }
+        },
+        {
+            "date": "2020-09-02",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 59,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1109
+            }
+        },
+        {
+            "date": "2020-09-01",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 36,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1109
+            }
+        },
+        {
+            "date": "2020-08-31",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 61,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1107
+            }
+        },
+        {
+            "date": "2020-08-30",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 72,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1107
+            }
+        },
+        {
+            "date": "2020-08-29",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 36,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1105
+            }
+        },
+        {
+            "date": "2020-08-28",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 51,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1104
+            }
+        },
+        {
+            "date": "2020-08-27",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 71,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1102
+            }
+        },
+        {
+            "date": "2020-08-26",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 32,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1102
+            }
+        },
+        {
+            "date": "2020-08-25",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 44,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1100
+            }
+        },
+        {
+            "date": "2020-08-24",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 28,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1098
+            }
+        },
+        {
+            "date": "2020-08-23",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 31,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1096
+            }
+        },
+        {
+            "date": "2020-08-22",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 46,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1096
+            }
+        },
+        {
+            "date": "2020-08-21",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 40,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1095
+            }
+        },
+        {
+            "date": "2020-08-20",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 57,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1095
+            }
+        },
+        {
+            "date": "2020-08-19",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 29,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1095
+            }
+        },
+        {
+            "date": "2020-08-18",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 41,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1095
+            }
+        },
+        {
+            "date": "2020-08-17",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 22,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1095
+            }
+        },
+        {
+            "date": "2020-08-16",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 52,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1094
+            }
+        },
+        {
+            "date": "2020-08-15",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 53,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 1094
+            }
+        },
+        {
+            "date": "2020-08-14",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 119,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1091
+            }
+        },
+        {
+            "date": "2020-08-13",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1091
+            }
+        },
+        {
+            "date": "2020-08-12",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 57,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1090
+            }
+        },
+        {
+            "date": "2020-08-11",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 66,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1089
+            }
+        },
+        {
+            "date": "2020-08-10",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 23,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1087
+            }
+        },
+        {
+            "date": "2020-08-09",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 63,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1087
+            }
+        },
+        {
+            "date": "2020-08-08",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 21,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1087
+            }
+        },
+        {
+            "date": "2020-08-07",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 23,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 1086
+            }
+        },
+        {
+            "date": "2020-08-06",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 34,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1082
+            }
+        },
+        {
+            "date": "2020-08-05",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 24,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1080
+            }
+        },
+        {
+            "date": "2020-08-04",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1079
+            }
+        },
+        {
+            "date": "2020-08-03",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 35,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1077
+            }
+        },
+        {
+            "date": "2020-08-02",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 19,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 1077
+            }
+        },
+        {
+            "date": "2020-08-01",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1074
+            }
+        },
+        {
+            "date": "2020-07-31",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 17,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1074
+            }
+        },
+        {
+            "date": "2020-07-30",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 24,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1073
+            }
+        },
+        {
+            "date": "2020-07-29",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 1071
+            }
+        },
+        {
+            "date": "2020-07-28",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 21,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1068
+            }
+        },
+        {
+            "date": "2020-07-27",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 18,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 1067
+            }
+        },
+        {
+            "date": "2020-07-26",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 20,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 1064
+            }
+        },
+        {
+            "date": "2020-07-25",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 29,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1061
+            }
+        },
+        {
+            "date": "2020-07-24",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 19,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1059
+            }
+        },
+        {
+            "date": "2020-07-23",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 32,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1059
+            }
+        },
+        {
+            "date": "2020-07-22",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 1058
+            }
+        },
+        {
+            "date": "2020-07-21",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 25,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1055
+            }
+        },
+        {
+            "date": "2020-07-20",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1055
+            }
+        },
+        {
+            "date": "2020-07-19",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 25,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1053
+            }
+        },
+        {
+            "date": "2020-07-18",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 21,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1052
+            }
+        },
+        {
+            "date": "2020-07-17",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 28,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1051
+            }
+        },
+        {
+            "date": "2020-07-16",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 22,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1050
+            }
+        },
+        {
+            "date": "2020-07-15",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1049
+            }
+        },
+        {
+            "date": "2020-07-14",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 10,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1047
+            }
+        },
+        {
+            "date": "2020-07-13",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 21,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1047
+            }
+        },
+        {
+            "date": "2020-07-12",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1046
+            }
+        },
+        {
+            "date": "2020-07-11",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1046
+            }
+        },
+        {
+            "date": "2020-07-10",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1046
+            }
+        },
+        {
+            "date": "2020-07-09",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1046
+            }
+        },
+        {
+            "date": "2020-07-08",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1045
+            }
+        },
+        {
+            "date": "2020-07-07",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1044
+            }
+        },
+        {
+            "date": "2020-07-06",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1043
+            }
+        },
+        {
+            "date": "2020-07-05",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 1043
+            }
+        },
+        {
+            "date": "2020-07-04",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1040
+            }
+        },
+        {
+            "date": "2020-07-03",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1038
+            }
+        },
+        {
+            "date": "2020-07-02",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 12,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1037
+            }
+        },
+        {
+            "date": "2020-07-01",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 1387,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1036
+            }
+        },
+        {
+            "date": "2020-06-30",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1034
+            }
+        },
+        {
+            "date": "2020-06-29",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1032
+            }
+        },
+        {
+            "date": "2020-06-28",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 1031
+            }
+        },
+        {
+            "date": "2020-06-27",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1028
+            }
+        },
+        {
+            "date": "2020-06-26",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 2,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1027
+            }
+        },
+        {
+            "date": "2020-06-25",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1025
+            }
+        },
+        {
+            "date": "2020-06-24",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1023
+            }
+        },
+        {
+            "date": "2020-06-23",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 1022
+            }
+        },
+        {
+            "date": "2020-06-22",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 1017
+            }
+        },
+        {
+            "date": "2020-06-21",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1013
+            }
+        },
+        {
+            "date": "2020-06-20",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1012
+            }
+        },
+        {
+            "date": "2020-06-19",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1010
+            }
+        },
+        {
+            "date": "2020-06-18",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 5,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1009
+            }
+        },
+        {
+            "date": "2020-06-17",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 7,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1007
+            }
+        },
+        {
+            "date": "2020-06-16",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1006
+            }
+        },
+        {
+            "date": "2020-06-15",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1006
+            }
+        },
+        {
+            "date": "2020-06-14",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 1006
+            }
+        },
+        {
+            "date": "2020-06-13",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 3,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1004
+            }
+        },
+        {
+            "date": "2020-06-12",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 1004
+            }
+        },
+        {
+            "date": "2020-06-11",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 11,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 1000
+            }
+        },
+        {
+            "date": "2020-06-10",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 997
+            }
+        },
+        {
+            "date": "2020-06-09",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 995
+            }
+        },
+        {
+            "date": "2020-06-08",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 992
+            }
+        },
+        {
+            "date": "2020-06-07",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 991
+            }
+        },
+        {
+            "date": "2020-06-06",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 990
+            }
+        },
+        {
+            "date": "2020-06-05",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 985
+            }
+        },
+        {
+            "date": "2020-06-04",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 981
+            }
+        },
+        {
+            "date": "2020-06-03",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 1,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 980
+            }
+        },
+        {
+            "date": "2020-06-02",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 4,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 977
+            }
+        },
+        {
+            "date": "2020-06-01",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 6,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 973
+            }
+        },
+        {
+            "date": "2020-05-31",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 969
+            }
+        },
+        {
+            "date": "2020-05-30",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 966
+            }
+        },
+        {
+            "date": "2020-05-29",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 33,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 965
+            }
+        },
+        {
+            "date": "2020-05-28",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 21,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 960
+            }
+        },
+        {
+            "date": "2020-05-27",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 13,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 958
+            }
+        },
+        {
+            "date": "2020-05-26",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 14,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 954
+            }
+        },
+        {
+            "date": "2020-05-25",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 952
+            }
+        },
+        {
+            "date": "2020-05-24",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 9,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 949
+            }
+        },
+        {
+            "date": "2020-05-23",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 20,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 946
+            }
+        },
+        {
+            "date": "2020-05-22",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 25,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 943
+            }
+        },
+        {
+            "date": "2020-05-21",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 8,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 939
+            }
+        },
+        {
+            "date": "2020-05-20",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 21,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 930
+            }
+        },
+        {
+            "date": "2020-05-19",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 925
+            }
+        },
+        {
+            "date": "2020-05-18",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 28,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 922
+            }
+        },
+        {
+            "date": "2020-05-17",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 915
+            }
+        },
+        {
+            "date": "2020-05-16",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 28,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 912
+            }
+        },
+        {
+            "date": "2020-05-15",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 16,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 907
+            }
+        },
+        {
+            "date": "2020-05-14",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 24,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 7,
+                "cumulative": 897
+            }
+        },
+        {
+            "date": "2020-05-13",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 30,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 890
+            }
+        },
+        {
+            "date": "2020-05-12",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 37,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 880
+            }
+        },
+        {
+            "date": "2020-05-11",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 22,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 875
+            }
+        },
+        {
+            "date": "2020-05-10",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 28,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 871
+            }
+        },
+        {
+            "date": "2020-05-09",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 15,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 865
+            }
+        },
+        {
+            "date": "2020-05-08",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 49,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 860
+            }
+        },
+        {
+            "date": "2020-05-07",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 34,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 5,
+                "cumulative": 854
+            }
+        },
+        {
+            "date": "2020-05-06",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 23,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 849
+            }
+        },
+        {
+            "date": "2020-05-05",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 26,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 843
+            }
+        },
+        {
+            "date": "2020-05-04",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 24,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 834
+            }
+        },
+        {
+            "date": "2020-05-03",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 35,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 822
+            }
+        },
+        {
+            "date": "2020-05-02",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 25,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 6,
+                "cumulative": 813
+            }
+        },
+        {
+            "date": "2020-05-01",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 43,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 13,
+                "cumulative": 807
+            }
+        },
+        {
+            "date": "2020-04-30",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 19,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 9,
+                "cumulative": 794
+            }
+        },
+        {
+            "date": "2020-04-29",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 49,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 785
+            }
+        },
+        {
+            "date": "2020-04-28",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 28,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 774
+            }
+        },
+        {
+            "date": "2020-04-27",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 46,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 18,
+                "cumulative": 766
+            }
+        },
+        {
+            "date": "2020-04-26",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 41,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 17,
+                "cumulative": 748
+            }
+        },
+        {
+            "date": "2020-04-25",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 66,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 731
+            }
+        },
+        {
+            "date": "2020-04-24",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 69,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 11,
+                "cumulative": 719
+            }
+        },
+        {
+            "date": "2020-04-23",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 52,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 16,
+                "cumulative": 708
+            }
+        },
+        {
+            "date": "2020-04-22",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 70,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 14,
+                "cumulative": 692
+            }
+        },
+        {
+            "date": "2020-04-21",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 51,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 18,
+                "cumulative": 678
+            }
+        },
+        {
+            "date": "2020-04-20",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 67,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 16,
+                "cumulative": 660
+            }
+        },
+        {
+            "date": "2020-04-19",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 110,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 20,
+                "cumulative": 644
+            }
+        },
+        {
+            "date": "2020-04-18",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 69,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 16,
+                "cumulative": 624
+            }
+        },
+        {
+            "date": "2020-04-17",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 82,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 25,
+                "cumulative": 608
+            }
+        },
+        {
+            "date": "2020-04-16",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 15,
+                "cumulative": 583
+            }
+        },
+        {
+            "date": "2020-04-15",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 25,
+                "cumulative": 568
+            }
+        },
+        {
+            "date": "2020-04-14",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 24,
+                "cumulative": 543
+            }
+        },
+        {
+            "date": "2020-04-13",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 16,
+                "cumulative": 519
+            }
+        },
+        {
+            "date": "2020-04-12",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 25,
+                "cumulative": 503
+            }
+        },
+        {
+            "date": "2020-04-11",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 26,
+                "cumulative": 478
+            }
+        },
+        {
+            "date": "2020-04-10",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 27,
+                "cumulative": 452
+            }
+        },
+        {
+            "date": "2020-04-09",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 30,
+                "cumulative": 425
+            }
+        },
+        {
+            "date": "2020-04-08",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 36,
+                "cumulative": 395
+            }
+        },
+        {
+            "date": "2020-04-07",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 20,
+                "cumulative": 359
+            }
+        },
+        {
+            "date": "2020-04-06",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 32,
+                "cumulative": 339
+            }
+        },
+        {
+            "date": "2020-04-05",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 28,
+                "cumulative": 307
+            }
+        },
+        {
+            "date": "2020-04-04",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 37,
+                "cumulative": 279
+            }
+        },
+        {
+            "date": "2020-04-03",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 17,
+                "cumulative": 242
+            }
+        },
+        {
+            "date": "2020-04-02",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 28,
+                "cumulative": 225
+            }
+        },
+        {
+            "date": "2020-04-01",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 26,
+                "cumulative": 197
+            }
+        },
+        {
+            "date": "2020-03-31",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 25,
+                "cumulative": 171
+            }
+        },
+        {
+            "date": "2020-03-30",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 24,
+                "cumulative": 146
+            }
+        },
+        {
+            "date": "2020-03-29",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 22,
+                "cumulative": 122
+            }
+        },
+        {
+            "date": "2020-03-28",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 19,
+                "cumulative": 100
+            }
+        },
+        {
+            "date": "2020-03-27",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 17,
+                "cumulative": 81
+            }
+        },
+        {
+            "date": "2020-03-26",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 64
+            }
+        },
+        {
+            "date": "2020-03-25",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 12,
+                "cumulative": 52
+            }
+        },
+        {
+            "date": "2020-03-24",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 40
+            }
+        },
+        {
+            "date": "2020-03-23",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 8,
+                "cumulative": 36
+            }
+        },
+        {
+            "date": "2020-03-22",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 10,
+                "cumulative": 28
+            }
+        },
+        {
+            "date": "2020-03-21",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 18
+            }
+        },
+        {
+            "date": "2020-03-20",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 15
+            }
+        },
+        {
+            "date": "2020-03-19",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 3,
+                "cumulative": 12
+            }
+        },
+        {
+            "date": "2020-03-18",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 4,
+                "cumulative": 9
+            }
+        },
+        {
+            "date": "2020-03-17",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 2,
+                "cumulative": 5
+            }
+        },
+        {
+            "date": "2020-03-16",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 3
+            }
+        },
+        {
+            "date": "2020-03-15",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 2
+            }
+        },
+        {
+            "date": "2020-03-14",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 2
+            }
+        },
+        {
+            "date": "2020-03-13",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 0,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-12",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": 1,
+                "cumulative": 1
+            }
+        },
+        {
+            "date": "2020-03-11",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-10",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-09",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-08",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-07",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-06",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-05",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-04",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-03",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-02",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-03-01",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-29",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-28",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-27",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-26",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-25",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-24",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-23",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-22",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-21",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-20",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-19",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-18",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-17",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-16",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-15",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-14",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-13",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-12",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-11",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-10",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-09",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-08",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-07",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-06",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-05",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-04",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-03",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-02",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-02-01",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-31",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-30",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-29",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-28",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-27",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-26",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-25",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-24",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-23",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-22",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-21",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-20",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-19",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-18",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-17",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-16",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-15",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-14",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-13",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-12",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-11",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-10",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-09",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-08",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-07",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-06",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-05",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-04",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        },
+        {
+            "date": "2020-01-03",
+            "name": "Birmingham",
+            "cases": {
+                "daily": 0,
+                "cumulative": null
+            },
+            "deaths": {
+                "daily": null,
+                "cumulative": null
+            }
+        }
+    ],
+    "pagination": {
+        "current": "/v1/data?filters=areaType%3Dutla%3BareaName%3DBirmingham&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "next": null,
+        "previous": null,
+        "first": "/v1/data?filters=areaType%3Dutla%3BareaName%3DBirmingham&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1",
+        "last": "/v1/data?filters=areaType%3Dutla%3BareaName%3DBirmingham&structure=%7B%22date%22%3A%22date%22%2C%22name%22%3A%22areaName%22%2C%22cases%22%3A%7B%22daily%22%3A%22newCasesByPublishDate%22%2C%22cumulative%22%3A%22cumCasesByPublishDate%22%7D%2C%22deaths%22%3A%7B%22daily%22%3A%22newDeathsByDeathDate%22%2C%22cumulative%22%3A%22cumDeathsByDeathDate%22%7D%7D&format=json&page=1"
+    }
+}
