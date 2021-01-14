@@ -6,16 +6,155 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<title>查询结果</title>
 		<link rel="stylesheet" href="../static/bootstrap/css/bootstrap.min.css" />
-		<script src="../static/js/jquery-3.5.1.min.js"></script>
+		<script src="../static/js/jquery.min.js"></script>
 		<script src="../static/bootstrap/js/bootstrap.min.js"></script>
-		
+		<style>
+            .jumbotron{
+                background-image: url("../static/imgs/resultBg1.jpg");
+                width:100%;
+                background-repeat:no-repeat;
+                background-size: cover;
+            }
+            .bottom{
+                background: url("../static/imgs/bottomBg.jpg");
+            }
+            .line_02{
+                height: 1px;
+                border-top: 2px solid #98bd9f;
+                text-align: center;
+                padding-bottom: 10px;
+            }
+        </style>
 	</head>
 	<body>
-		<div class="jumbotron">
-			<h1 class="display-4">Hello, world!</h1>
-			<p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
-			<hr class="my-4">
-			<p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
-		</div>
+        <div class="jumbotron" style="color: #b1dfbb">
+            <h1 class="display-4">- 查询结果 -</h1>
+            <p class="lead">根据您所输入出发地、目的地以及时间等显示对应的航班情况以及安全程度</p>
+            <hr class="my-4" style="background-color: #b1dfbb">
+            <p style="color: #dedede">温馨提示：根据英国政府最新消息：所有到达英国的旅客，需出示72小时内 COVID-19阴性检测证明。 如果乘客未遵守出发前检测的新规定，将被罚款500英镑。 所有来自政府旅行走廊清单以外国家/地区的乘客，无论COVID-19检测结果如何，均要求自我隔离10天。 以上信息仅供出行参考，请在出行前务必详细了解当地各项规定，合理安排出行。 更新日期：2021年1月11日13:30。</p>
+        </div>
+
+        <div class="container">
+            <div class="table-responsive">
+                <table class="table table-striped table-sm">
+                    <thead>
+                        <tr class="table-info">
+                            <th>出发地机场</th>
+                            <th>目的地机场</th>
+                            <th>日期</th>
+                            <th>出发地小区域</th>
+                            <th>航行时间</th>
+                            <th>中转次数</th>
+                            <th>价格</th>
+                            <th>中转城市</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for info in info_list %}
+                            <tr></tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-1"></div>
+                <div class="col-md-10">
+                    <div class="card shadow-sm">
+                        <div class="card-body" id="main" style="width:100%;height: 80vh;"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <script src="../static/js/echarts.min.js" type="text/javascript"></script>
+        <script src="../static/js/world.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../static/js/result_02.js" type="text/javascript" charset="utf-8"></script>
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12" style="height: 16px"></div>
+        </div>
+    </div>
+    <div class="bottom">
+        <div class="container" style="height: 240px">
+            <div class="row">
+                <div class="col-md-6" style="color: #b1dfbb">
+                    <br>
+                    <h2>Safe Go!</h2>
+                    <h6>随享安全出行，您的旅途伴侣</h6>
+                    <div class="line_02"></div>
+                    <h4>Contributors</h4>
+
+                    <div class="container-fluid" style="padding: 0">
+                        <div class="row">
+                            <div class="col-md-2">
+                                <img src="../static/imgs/avator/01.jpg" class="img-fluid img-circle" style="height: 2rem;width:auto">
+                            </div>
+                            <div class="col-md-2">
+                                <img src="../static/imgs/avator/02.jpg" class="img-fluid img-circle" style="height: 2rem;width:auto">
+                            </div>
+                            <div class="col-md-2">
+                                <img src="../static/imgs/avator/03.jpg" class="img-fluid img-circle" style="height: 2rem;width:auto">
+                            </div>
+                            <div class="col-md-2">
+                                <img src="../static/imgs/avator/04.jpg" class="img-fluid img-circle" style="height: 2rem;width:auto">
+                            </div>
+                            <div class="col-md-2">
+                                <img src="../static/imgs/avator/05.jpg" class="img-fluid img-circle" style="height: 2rem;width:auto">
+                            </div>
+                        </div>
+                    </div>
+                    <div style="height: 1rem"></div>
+                    <div class="container-fluid" style="padding: 0">
+                        <div class="row">
+                            <div class="col-md-2">
+                                <img src="../static/imgs/avator/06.jpg" class="img-fluid img-circle" style="height: 2rem;width:auto">
+                            </div>
+                            <div class="col-md-2">
+                                <img src="../static/imgs/avator/07.jpg" class="img-fluid img-circle" style="height: 2rem;width:auto">
+                            </div>
+                            <div class="col-md-2">
+                                <img src="../static/imgs/avator/08.jpg" class="img-fluid img-circle" style="height: 2rem;width:auto">
+                            </div>
+                            <div class="col-md-2">
+                                <img src="../static/imgs/avator/09.jpg" class="img-fluid img-circle" style="height: 2rem;width:auto">
+                            </div>
+                            <div class="col-md-2">
+                                <img src="../static/imgs/avator/10.jpg" class="img-fluid img-circle" style="height: 2rem;width:auto">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-2"></div>
+                <div class="col-md-4">
+                    <br>
+                    <br>
+                    <div class="container-fluid">
+                        <div class="row">
+                            <div class="col-md-4" style="padding: 0">
+                                <a href="https://github.com/UtenaTenjo371/COVID-19-data-Visualization">
+                                   <img src="../static/imgs/github(1).png" class="img-fluid" style="height: 3rem;width:auto">
+                                </a>
+                            </div>
+                            <div class="col-md-6" style="color: #b1dfbb;padding-left: 0">
+                                <h4 style="margin-bottom: 0">Fork</h4>
+                                <h6>us here.</h6>
+                            </div>
+                        </div>
+                    </div>
+                    <br>
+                    <br>
+                    <div class="row" style="color: #b1dfbb">
+                        <p style="margin-bottom: 0">&copy;2021 SafeGo. All rights reserved.</p>
+                        <p>With safe travel, your travel companion.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 	</body>
 </html>

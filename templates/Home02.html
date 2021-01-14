@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="../static/imgs/logo.png" type="image/x-icon">
+	<title>SafeGo</title>
+	<link rel="stylesheet" href="../static/bootstrap/css/bootstrap.min.css" />
+    <script src="../static/js/jquery.min.js"></script>
+    <script src="../static/bootstrap/js/bootstrap.min.js"></script>
+    <script src="../static/js/echarts.min.js"></script>
+
+	<style>
+		html {
+			overflow-y: auto;
+		}
+		
+		body {
+			width: 100%;
+			overflow: hidden;
+		}
+	</style>
+    <style>
+        .bottom{
+            background: url("../static/imgs/bottomBg.jpg");
+        }
+        .line_02{
+            height: 1px;
+            border-top: 2px solid #98bd9f;
+            text-align: center;
+            padding-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="#">
+            <svg t="1610353819015" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="5210" width="32" height="32" >
+                <path d="M514.773333 152.32a170.666667 170.666667 0 1 0 170.666667 170.666667 170.666667 170.666667 0 0 0-170.666667-170.666667z m0 298.666667a128 128 0 1 1 128-128 128 128 0 0 1-128 128z" fill="#FBDEB5" p-id="5211"></path>
+                <path d="M360.106667 808.32m-64 0a64 64 0 1 0 128 0 64 64 0 1 0-128 0Z" fill="#FBDEB5" p-id="5212"></path>
+                <path d="M685.44 808.32m-64 0a64 64 0 1 0 128 0 64 64 0 1 0-128 0Z" fill="#FBDEB5" p-id="5213"></path>
+                <path d="M493.44 296.32h256a64 64 0 0 1 64 64v384a64 64 0 0 1-64 64h-256v-512z" fill="#D8E1F3" p-id="5214"></path>
+                <path d="M509.226667 808.32h-234.666667a64 64 0 0 1-64-64v-384a64 64 0 0 1 64-64h234.666667v512z" fill="#F4D5E6" p-id="5215"></path>
+                <path d="M520.746667 481.706667L512 490.666667l-8.746667-8.746667a45.44 45.44 0 0 0-60.8-4.266667 43.946667 43.946667 0 0 0-2.986666 64l10.453333 10.453334 49.92 49.92a17.066667 17.066667 0 0 0 24.32 0l49.92-49.92 10.453333-10.453334a43.946667 43.946667 0 0 0-2.986666-64 45.44 45.44 0 0 0-60.8 4.053334z" fill="#FBDEB5" p-id="5216"></path>
+                <path d="M362.666667 882.773333a74.88 74.88 0 0 1-74.666667-74.666666h21.333333a53.333333 53.333333 0 0 0 106.666667 0h21.333333a74.88 74.88 0 0 1-74.666666 74.666666zM682.666667 882.773333a74.88 74.88 0 0 1-74.666667-74.666666h21.333333a53.333333 53.333333 0 0 0 106.666667 0h21.333333a74.88 74.88 0 0 1-74.666666 74.666666z" fill="#952D2E" p-id="5217"></path>
+                <path d="M744.106667 818.773333h-245.333334v-206.933333h21.333334v185.6h224a53.546667 53.546667 0 0 0 53.333333-53.333333v-384a53.546667 53.546667 0 0 0-53.333333-53.333334h-224v180.266667h-21.333334v-201.6h245.333334a74.666667 74.666667 0 0 1 74.666666 74.666667v384a74.88 74.88 0 0 1-74.666666 74.666666z" fill="#952D2E" p-id="5218"></path>
+                <path d="M514.773333 818.773333h-234.666666a74.88 74.88 0 0 1-74.666667-74.666666v-384a74.666667 74.666667 0 0 1 74.666667-74.666667h234.666666v21.333333h-234.666666a53.333333 53.333333 0 0 0-53.333334 53.333334v384a53.546667 53.546667 0 0 0 53.333334 53.333333h234.666666z" fill="#952D2E" p-id="5219"></path>
+                <path d="M330.666667 295.893333h21.333333v512h-21.333333zM672 295.893333h21.333333v512h-21.333333zM512 618.666667a27.306667 27.306667 0 0 1-19.626667-8.106667l-60.373333-60.373333a54.186667 54.186667 0 0 1-16-40.96 54.826667 54.826667 0 0 1 19.626667-39.893334 55.893333 55.893333 0 0 1 75.093333 4.906667l1.28 1.066667 1.28-1.066667a55.68 55.68 0 0 1 75.093333-4.906667 54.826667 54.826667 0 0 1 19.626667 39.466667 54.186667 54.186667 0 0 1-16 40.96l-60.373333 60.373333a27.306667 27.306667 0 0 1-19.626667 8.533334z m-42.666667-140.8a32.426667 32.426667 0 0 0-21.333333 7.253333 33.493333 33.493333 0 0 0-11.946667 24.106667A32.853333 32.853333 0 0 0 448 533.333333l60.373333 60.586667a6.613333 6.613333 0 0 0 8.96 0L576 533.333333a32.853333 32.853333 0 0 0 9.813333-24.96 33.493333 33.493333 0 0 0-11.946666-24.106666 35.2 35.2 0 0 0-46.506667 3.626666l-16.213333 16.426667-16.213334-16.426667a37.973333 37.973333 0 0 0-25.6-10.026666z" fill="#952D2E" p-id="5220"></path>
+                <path d="M692.906667 306.773333h-64l-1.706667-8.533333a117.333333 117.333333 0 0 0-229.546667 0l-1.706666 8.533333h-64l1.92-12.373333a181.12 181.12 0 0 1 357.973333 0z m-47.36-21.333333h21.333333a159.786667 159.786667 0 0 0-310.826667 0h21.333334a138.666667 138.666667 0 0 1 267.093333 0z" fill="#952D2E" p-id="5221"></path>
+            </svg>
+            <span class="align-middle">SafeGo</span>
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="nav nav-pills">
+                <li class="nav-item">
+                   <a class="nav-link active" href="#">首页</a>
+                </li>
+                <li class="nav-item">
+                   <a class="nav-link" id="div1Link" href="">舆情数据分析</a>
+                </li>
+            </ul>
+        </div>
+        <ul class="nav justify-content-end">
+            <li class="nav-item">
+                <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#safeSearchForms">安全路程查询</button>
+
+                <div class="modal fade" id="safeSearchForms" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="exampleModalLabel">请输入相关信息</h5>
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                </button>
+                        </div>
+                        <div class="modal-body">
+                            <form action="/home/" method="post">
+                                <label class="my-1 mr-2" for="placeOfDeparture">出发城市</label>
+                                <select class="custom-select my-1 mr-sm-2" id="placeOfDeparture" name="Departure">
+                                    <option selected>选择...</option>
+                                    <option value="1">北京</option>
+                                    <option value="2">上海</option>
+                                    <option value="3">深圳</option>
+                                </select>
+                                <label class="my-1 mr-2" for="destination">目的地</label>
+                                <select class="custom-select my-1 mr-sm-2" id="destination" name="Destination">
+                                    <option selected>选择...</option>
+                                    <option value="1">伦敦</option>
+                                    <option value="2">曼彻斯特</option>
+                                    <option value="3">爱丁堡</option>
+                                    <option value="4">伯明翰</option>
+                                </select>
+                                <div class="form-group">
+                                    <div class="form-group">
+                                        <label for="date">出发日期（格式 2020-01-01）</label>
+                                        <input type="text" class="form-control" id="date" name="date">
+                                    </div>
+                                </div>
+                                <input type="submit" value="提交">
+                            </form>
+                        </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-secondary" data-dismiss="modal">取消</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </li>
+        </ul>
+        <ul class="nav justify-content-end">
+            <p>&nbsp;&nbsp;&nbsp;</p>
+        </ul>
+        <ul class="nav justify-content-end">
+            <li class="nav-item">
+                <!-- 按钮触发模态框 -->
+                <button class="btn btn-primary btn-info" data-toggle="modal" data-target="#myModal">
+                    联系我们
+                </button>
+                <!-- 模态框（Modal） -->
+                <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">
+                                    &times;
+                                </button>
+                            </div>
+                            <div class="modal-body">
+                                <img src="../static/imgs/contactUS.jpg" alt="联系我们请扫描二维码" class="img-fluid">
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    确认
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </li>
+        </ul>
+    </nav>
+
+    <script>
+        $(document).ready(function() {
+            $("#div1Link").click(function () {
+                $("html, body").animate({
+                    scrollTop: $("#div1").offset().top
+                }, {duration: 500, easing: "swing"});
+                return false;
+            });
+        });
+    </script>
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12" style="height: 16px"></div>
+        </div>
+    </div>
+
+    <div class="container-fluid" >
+		<div class="row">
+			<div class="col-md-5" >
+				<div class="card shadow-sm" style="height:500px">
+					<div class="card-body" id="pieGraph">
+					</div>
+				</div>
+			</div>
+
+			<div class="col-md-7">
+				<div class="card shadow-sm" style="height:500px">
+					<div class="card-body" id="covidMap">
+					</div>
+				</div>
+			</div>
+
+		</div>
+	</div>
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12" style="height: 16px"></div>
+        </div>
+    </div>
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-6" >
+				<div class="card shadow-sm">
+					<div class="card-body" id="animationLine" style="height:500px;"></div>
+				</div>
+			</div>
+            <div class="col-md-6">
+                <div class="card shadow-sm">
+					<div class="card-body" id="main" style="height:500px;"></div>
+				</div>
+            </div>
+        </div>
+    </div>
+
+    <!--引入echarts-->
+    <script src="../static/js/jquery.min.js"></script>
+    <script src="../static/js/echarts.min.js"></script>
+    <script src="../static/js/pieGraph.js"></script>
+    <script src="../static/js/animationLine.js"></script>
+    <script src="../static/js/england_center.js"></script>
+    <script src="../static/js/demo_england.js"></script>
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12" style="height: 16px"></div>
+        </div>
+    </div>
+
+    <div class="container-fluid" id="div1">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="card shadow-sm">
+					<div class="card-body" id="baiduIndex" style="height:425px;"></div>
+				</div>
+            </div>
+            <div class="col-md-6">
+                <div class="card shadow-sm">
+					<div class="card-body">
+                        <p class="card-text">疫情热点词云</p>
+                    </div>
+                    <img src="../static/imgs/WorldCloud.png" class="card-img-top" alt="疫情热点词云">
+				</div>
+            </div>
+        </div>
+    </div>
+    <script src="../static/js/BaiduIndex.js"></script>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12" style="height: 16px"></div>
+        </div>
+    </div>
+    <div class="bottom">
+        <div class="container" style="height: 240px">
+            <div class="row">
+                <div class="col-md-6" style="color: #b1dfbb">
+                    <br>
+                    <h2>Safe Go!</h2>
+                    <h6>随享安全出行，您的旅途伴侣</h6>
+                    <div class="line_02"></div>
+                    <h4>Contributors</h4>
+
+                    <div class="container-fluid" style="padding: 0">
+                        <div class="row">
+                            <div class="col-md-2">
+                                <img src="../static/imgs/avator/01.jpg" class="img-fluid img-circle" style="height: 2rem;width:auto">
+                            </div>
+                            <div class="col-md-2">
+                                <img src="../static/imgs/avator/02.jpg" class="img-fluid img-circle" style="height: 2rem;width:auto">
+                            </div>
+                            <div class="col-md-2">
+                                <img src="../static/imgs/avator/03.jpg" class="img-fluid img-circle" style="height: 2rem;width:auto">
+                            </div>
+                            <div class="col-md-2">
+                                <img src="../static/imgs/avator/04.jpg" class="img-fluid img-circle" style="height: 2rem;width:auto">
+                            </div>
+                            <div class="col-md-2">
+                                <img src="../static/imgs/avator/05.jpg" class="img-fluid img-circle" style="height: 2rem;width:auto">
+                            </div>
+                        </div>
+                    </div>
+                    <div style="height: 1rem"></div>
+                    <div class="container-fluid" style="padding: 0">
+                        <div class="row">
+                            <div class="col-md-2">
+                                <img src="../static/imgs/avator/06.jpg" class="img-fluid img-circle" style="height: 2rem;width:auto">
+                            </div>
+                            <div class="col-md-2">
+                                <img src="../static/imgs/avator/07.jpg" class="img-fluid img-circle" style="height: 2rem;width:auto">
+                            </div>
+                            <div class="col-md-2">
+                                <img src="../static/imgs/avator/08.jpg" class="img-fluid img-circle" style="height: 2rem;width:auto">
+                            </div>
+                            <div class="col-md-2">
+                                <img src="../static/imgs/avator/09.jpg" class="img-fluid img-circle" style="height: 2rem;width:auto">
+                            </div>
+                            <div class="col-md-2">
+                                <img src="../static/imgs/avator/10.jpg" class="img-fluid img-circle" style="height: 2rem;width:auto">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-2"></div>
+                <div class="col-md-4">
+                    <br>
+                    <br>
+                    <div class="container-fluid">
+                        <div class="row">
+                            <div class="col-md-4" style="padding: 0">
+                                <a href="https://github.com/UtenaTenjo371/COVID-19-data-Visualization">
+                                   <img src="../static/imgs/github(1).png" class="img-fluid" style="height: 3rem;width:auto">
+                                </a>
+                            </div>
+                            <div class="col-md-6" style="color: #b1dfbb;padding-left: 0">
+                                <h4 style="margin-bottom: 0">Fork</h4>
+                                <h6>us here.</h6>
+                            </div>
+                        </div>
+                    </div>
+                    <br>
+                    <br>
+                    <div class="row" style="color: #b1dfbb">
+                        <p style="margin-bottom: 0">&copy;2021 SafeGo. All rights reserved.</p>
+                        <p>With safe travel, your travel companion.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
