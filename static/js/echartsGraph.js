@@ -1,20 +1,151 @@
-var myChart = echarts.init(document.getElementById('main'));
+myChart = echarts.init(document.getElementById('pieGraph'));
 var option;
-myChart.showLoading();
+
+option = {
+    legend: {
+        top: 'bottom'
+    },
+    title: {
+        text: '机场所在地区累计确诊病例占比',
+        left: 'center',
+        top: 20,
+        textStyle: {
+            fontSize: 24
+        }
+
+    },
+    toolbox: {
+        show: true,
+        feature: {
+            mark: {show: true},
+            dataView: {show: true, readOnly: false},
+            restore: {show: true},
+            saveAsImage: {show: true}
+        }
+    },
+    series: [
+        {
+            name: '面积模式',
+            type: 'pie',
+            radius: [70, 180],
+            center: ['50%', '50%'],
+            roseType: 'area',
+            itemStyle: {
+                borderRadius: 8
+            },
+            data: [
+                {value: 5010, name: 'Aberdeen City'},
+                {value: 18293, name: 'Ealing'},
+                {value: 38190, name: 'Manchester'},
+                {value: 63201, name: 'York'},
+                {value: 2345, name: 'Dumfries and Galloway'}
+            ]
+        }
+    ]
+};
+
+option && myChart.setOption(option);
+
+/* 动态折线图 */
+var myChart2 = echarts.init(document.getElementById('test02'));
+option = {}
+
+$.get('../static/data/animationLine.json', function (_rawData) {
+    run(_rawData);
+});
+function run(_rawData) {
+
+    var countries = ['Aberdeen City','Ealing','Birmingham','Manchester','York','Dumfries and Galloway']
+    var datasetWithFilters = [];
+    var seriesList = [];
+    echarts.util.each(countries, function (country) {
+        var datasetId = 'dataset_' + country;
+        datasetWithFilters.push({
+            id: datasetId,
+            fromDatasetId: 'dataset_raw',
+            transform: {
+                type: 'filter',
+                config: {
+                    and: [
+                        { dimension: 'date', gte:2020-12-13  },
+                        { dimension: 'name', '=': country }
+                    ]
+                }
+            }
+        });
+        seriesList.push({
+            type: 'line',
+            datasetId: datasetId,
+            showSymbol: false,
+            name: country,
+            endLabel: {
+                show: true,
+                formatter: function (params) {
+                    return params.value[3] + ': ' + params.value[0];
+                }
+            },
+            labelLayout: {
+                moveOverlap: 'shiftY'
+            },
+            emphasis: {
+                focus: 'series'
+            },
+            encode: {
+                x: 'date',
+                y: 'cases-cumulative',
+                label: ['name', 'cases-cumulative'],
+                itemName: 'date',
+                tooltip: ['cases-cumulative'],
+            }
+        });
+    });
+
+    option = {
+        animationDuration: 3000,
+        dataset: [{
+            id: 'dataset_raw',
+            source: _rawData
+        }].concat(datasetWithFilters),
+        title: {
+            text: 'cases of covid19'
+        },
+        tooltip: {
+            order: 'valueDesc',
+            trigger: 'axis'
+        },
+        xAxis: {
+            type: 'category',
+            nameLocation: 'middle'
+        },
+        yAxis: {
+            name: 'cases-cumulative'
+        },
+        grid: {
+            right: 140
+        },
+        series: seriesList
+    };
+
+    myChart2.setOption(option);
+
+}
+option && myChart2.setOption(option);
+
+/* 气泡图 */
+var myChart3 = echarts.init(document.getElementById('main'));
+option={};
+
+myChart3.showLoading();
 
 $.get('../static/data/test.json', function (data) {
-    myChart.hideLoading();
+    myChart3.hideLoading();
 
     var itemStyle = {
-        opacity: 0.8,
-        shadowBlur: 10,
-        shadowOffsetX: 0,
-        shadowOffsetY: 0,
-        shadowColor: 'rgba(0, 0, 0, 0.5)'
+        opacity: 0.8
     };
 
     var sizeFunction = function (x) {
-        var y = Math.sqrt(x/10) + 0.1;
+        var y = Math.sqrt(x / 10) + 0.1;
         return y * 80;
     };
     // Schema:
@@ -39,36 +170,16 @@ $.get('../static/data/test.json', function (data) {
                 bottom: 20,
                 width: 55,
                 height: null,
-                label: {
-                    color: '#999'
-                },
                 symbol: 'none',
-                lineStyle: {
-                    color: '#555'
-                },
                 checkpointStyle: {
-                    color: '#bbb',
-                    borderColor: '#777',
                     borderWidth: 2
                 },
                 controlStyle: {
                     showNextBtn: false,
-                    showPrevBtn: false,
-                    color: '#666',
-                    borderColor: '#666'
-                },
-                emphasis: {
-                    label: {
-                        color: '#fff'
-                    },
-                    controlStyle: {
-                        color: '#aaa',
-                        borderColor: '#aaa'
-                    }
+                    showPrevBtn: false
                 },
                 data: []
             },
-            backgroundColor: '#404a59',
             title: [{
                 text: data.timeline[0],
                 textAlign: 'center',
@@ -76,22 +187,19 @@ $.get('../static/data/test.json', function (data) {
                 top: '62%',
                 textStyle: {
                     fontSize: 50,
-                    color: 'rgba(255, 255, 255, 0.7)'
+                    color: 'rgba(88,88,88,0.7)'
                 }
             }, {
                 text: '英国一个月内各地感染人数',
                 left: 'center',
                 top: 10,
                 textStyle: {
-                    color: '#aaa',
                     fontWeight: 'normal',
                     fontSize: 20
                 }
             }],
             tooltip: {
                 padding: 5,
-                backgroundColor: '#222',
-                borderColor: '#777',
                 borderWidth: 1,
                 formatter: function (obj) {
                     var value = obj.value;
@@ -120,34 +228,23 @@ $.get('../static/data/test.json', function (data) {
                 splitLine: {
                     show: false
                 },
-                axisLine: {
-                    lineStyle: {
-                        color: '#ccc'
-                    }
-                },
                 axisLabel: {
-                    formatter: '{value} '
+                    formatter: '{value}'
                 }
             },
             yAxis: {
                 type: 'log',
-                name: '新增感染',
+                name: '新增',
                 max: 1600,
-                min:1,
+                min: 1,
                 nameTextStyle: {
-                    color: '#ccc',
                     fontSize: 18
-                },
-                axisLine: {
-                    lineStyle: {
-                        color: '#ccc'
-                    }
                 },
                 splitLine: {
                     show: false
                 },
                 axisLabel: {
-                    formatter: '{value} '
+                    formatter: '{value}'
                 }
             },
             visualMap: [
@@ -155,15 +252,9 @@ $.get('../static/data/test.json', function (data) {
                     show: false,
                     dimension: 3,
                     categories: data.counties,
-                    calculable: true,
-                    precision: 0.1,
-                    textGap: 30,
-                    textStyle: {
-                        color: '#ccc'
-                    },
                     inRange: {
                         color: (function () {
-                            var colors = ['#bcd3bb', '#e88f70', '#edc1a5', '#9dc5c8', '#e1e8c8', '#7b7c68', '#e5b5b5', '#f0b489', '#928ea8', '#bda29a'];
+                            var colors = ['#51689b', '#ce5c5c', '#fbc357', '#8fbf8f', '#659d84', '#fb8e6a', '#c77288', '#786090', '#91c4c5', '#6890ba'];
                             return colors.concat(colors);
                         })()
                     }
@@ -204,6 +295,6 @@ $.get('../static/data/test.json', function (data) {
         });
     }
 
-    myChart.setOption(option);
+    myChart3.setOption(option);
 
 });
