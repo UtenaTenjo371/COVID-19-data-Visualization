@@ -1,6 +1,5 @@
 from django.shortcuts import render,redirect
 from django.http import JsonResponse
-from utils import utils
 # Create your views here.
 def homeApi(request):
     return JsonResponse(json)
@@ -30,4 +29,6 @@ def home(request):
 def result(request):
     return render(request, 'Result.html')
 
+def Chinese(request):
+    return render(request, 'myIndex.html')
 
