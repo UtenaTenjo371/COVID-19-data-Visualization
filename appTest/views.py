@@ -14,16 +14,20 @@ def home(request):
         departure = request.POST.get('Departure')
         destination = request.POST.get('Destination')
         date = request.POST.get('date')
-        content = {'departure':departure, 'destination':destination, 'date':date}
         if departure == '1':
-            context = {}
-            return redirect('http://127.0.0.1:8000/result/', context)
+
+            context = [
+                {'dep': 'Beijing', 'des': 1, 'date': 1, 'zone': '朝阳', 'time': 1, 'times': 1, 'prices': 1, 'transit': 1},
+                {'dep': 2, 'des': 'London', 'date': 1, 'zone': '朝阳', 'time': 1, 'times': 1, 'prices': 1, 'transit': 'Dubai'},
+                {'dep': 3, 'des': 3, 'date': 1, 'zone': '朝阳', 'time': 1, 'times': '2', 'prices': 3000, 'transit': 1},
+                {'dep': 4, 'des': 4, 'date': '2021-12-02', 'zone': '朝阳' , 'time': 1, 'times': 1, 'prices': 1, 'transit': 1},
+            ]
+            info_list = {'info_list':context}
+            return render(request, 'Result.html', context=info_list)
         else:
             return render(request, 'Home02.html')
 
 def result(request):
-    print(request.POST)
-    content = {}
-    return render(request, 'Result.html', content)
+    return render(request, 'Result.html')
 
 

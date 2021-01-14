@@ -4,6 +4,7 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="shortcut icon" href="../static/imgs/logo.png" type="image/x-icon">
 		<title>查询结果</title>
 		<link rel="stylesheet" href="../static/bootstrap/css/bootstrap.min.css" />
 		<script src="../static/js/jquery.min.js"></script>
@@ -51,12 +52,23 @@
                     </thead>
                     <tbody>
                         {% for info in info_list %}
-                            <tr></tr>
+                            <tr>
+                                <td>{{ info.dep }}</td>
+                                <td>{{ info.des }}</td>
+                                <td>{{ info.date }}</td>
+                                <td>{{ info.zone }}</td>
+                                <td>{{ info.time }}</td>
+                                <td>{{ info.times }}</td>
+                                <td>{{ info.prices }}</td>
+                                <td>{{ info.transit }}</td>
+                            </tr>
                         {% endfor %}
                     </tbody>
                 </table>
             </div>
         </div>
+
+
 
         <div class="container-fluid">
             <div class="row">
