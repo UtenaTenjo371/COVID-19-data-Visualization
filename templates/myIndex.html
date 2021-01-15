@@ -1,0 +1,828 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="shortcut icon" href="../static/imgs/logo.png" type="image/x-icon">
+		<title>SafeGo</title>
+		
+		<link rel="stylesheet" type="text/css" href="../static/css/myapp.css" />
+		<link rel="stylesheet" href="../static/bootstrap/css/bootstrap.min.css" />
+
+		<script src="../static/js/jquery.min.js"></script>
+		<script src="../static/bootstrap/js/bootstrap.min.js"></script>
+		<script src="../static/js/echarts.min.js"></script>
+		<style>
+			html {
+				overflow-y: auto;
+			}
+			
+			body {
+				width: 100%;
+				overflow: hidden;
+			}
+		</style>
+		<style>
+			.bottom{
+				background: url("../static/imgs/bottomBg.jpg");
+			}
+			.line_02{
+				height: 1px;
+				border-top: 2px solid #98bd9f;
+				text-align: center;
+				padding-bottom: 10px;
+			}
+		</style>
+		<script>
+		var _hmt = _hmt || [];
+		(function() {
+			var hm = document.createElement("script");
+			hm.src = "https://hm.baidu.com/hm.js?f3fbccf0789476b80fab0c58359399a5";
+			var s = document.getElementsByTagName("script")[0];
+			s.parentNode.insertBefore(hm, s);
+		})();
+		</script>
+		<script data-ad-client="ca-pub-9406265482044737" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	</head>
+	
+	<body>
+		<!--导航条-->
+		<nav class="navbar navbar-expand-lg navbar-light bg-light">
+			<a class="navbar-brand" href="/home/">
+				<svg t="1610353819015" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="5210" width="32" height="32" >
+                	<path d="M514.773333 152.32a170.666667 170.666667 0 1 0 170.666667 170.666667 170.666667 170.666667 0 0 0-170.666667-170.666667z m0 298.666667a128 128 0 1 1 128-128 128 128 0 0 1-128 128z" fill="#FBDEB5" p-id="5211"></path>
+                	<path d="M360.106667 808.32m-64 0a64 64 0 1 0 128 0 64 64 0 1 0-128 0Z" fill="#FBDEB5" p-id="5212"></path>
+                	<path d="M685.44 808.32m-64 0a64 64 0 1 0 128 0 64 64 0 1 0-128 0Z" fill="#FBDEB5" p-id="5213"></path>
+                	<path d="M493.44 296.32h256a64 64 0 0 1 64 64v384a64 64 0 0 1-64 64h-256v-512z" fill="#D8E1F3" p-id="5214"></path>
+                	<path d="M509.226667 808.32h-234.666667a64 64 0 0 1-64-64v-384a64 64 0 0 1 64-64h234.666667v512z" fill="#F4D5E6" p-id="5215"></path>
+                	<path d="M520.746667 481.706667L512 490.666667l-8.746667-8.746667a45.44 45.44 0 0 0-60.8-4.266667 43.946667 43.946667 0 0 0-2.986666 64l10.453333 10.453334 49.92 49.92a17.066667 17.066667 0 0 0 24.32 0l49.92-49.92 10.453333-10.453334a43.946667 43.946667 0 0 0-2.986666-64 45.44 45.44 0 0 0-60.8 4.053334z" fill="#FBDEB5" p-id="5216"></path>
+                	<path d="M362.666667 882.773333a74.88 74.88 0 0 1-74.666667-74.666666h21.333333a53.333333 53.333333 0 0 0 106.666667 0h21.333333a74.88 74.88 0 0 1-74.666666 74.666666zM682.666667 882.773333a74.88 74.88 0 0 1-74.666667-74.666666h21.333333a53.333333 53.333333 0 0 0 106.666667 0h21.333333a74.88 74.88 0 0 1-74.666666 74.666666z" fill="#952D2E" p-id="5217"></path>
+                	<path d="M744.106667 818.773333h-245.333334v-206.933333h21.333334v185.6h224a53.546667 53.546667 0 0 0 53.333333-53.333333v-384a53.546667 53.546667 0 0 0-53.333333-53.333334h-224v180.266667h-21.333334v-201.6h245.333334a74.666667 74.666667 0 0 1 74.666666 74.666667v384a74.88 74.88 0 0 1-74.666666 74.666666z" fill="#952D2E" p-id="5218"></path>
+                	<path d="M514.773333 818.773333h-234.666666a74.88 74.88 0 0 1-74.666667-74.666666v-384a74.666667 74.666667 0 0 1 74.666667-74.666667h234.666666v21.333333h-234.666666a53.333333 53.333333 0 0 0-53.333334 53.333334v384a53.546667 53.546667 0 0 0 53.333334 53.333333h234.666666z" fill="#952D2E" p-id="5219"></path>
+                	<path d="M330.666667 295.893333h21.333333v512h-21.333333zM672 295.893333h21.333333v512h-21.333333zM512 618.666667a27.306667 27.306667 0 0 1-19.626667-8.106667l-60.373333-60.373333a54.186667 54.186667 0 0 1-16-40.96 54.826667 54.826667 0 0 1 19.626667-39.893334 55.893333 55.893333 0 0 1 75.093333 4.906667l1.28 1.066667 1.28-1.066667a55.68 55.68 0 0 1 75.093333-4.906667 54.826667 54.826667 0 0 1 19.626667 39.466667 54.186667 54.186667 0 0 1-16 40.96l-60.373333 60.373333a27.306667 27.306667 0 0 1-19.626667 8.533334z m-42.666667-140.8a32.426667 32.426667 0 0 0-21.333333 7.253333 33.493333 33.493333 0 0 0-11.946667 24.106667A32.853333 32.853333 0 0 0 448 533.333333l60.373333 60.586667a6.613333 6.613333 0 0 0 8.96 0L576 533.333333a32.853333 32.853333 0 0 0 9.813333-24.96 33.493333 33.493333 0 0 0-11.946666-24.106666 35.2 35.2 0 0 0-46.506667 3.626666l-16.213333 16.426667-16.213334-16.426667a37.973333 37.973333 0 0 0-25.6-10.026666z" fill="#952D2E" p-id="5220"></path>
+                	<path d="M692.906667 306.773333h-64l-1.706667-8.533333a117.333333 117.333333 0 0 0-229.546667 0l-1.706666 8.533333h-64l1.92-12.373333a181.12 181.12 0 0 1 357.973333 0z m-47.36-21.333333h21.333333a159.786667 159.786667 0 0 0-310.826667 0h21.333334a138.666667 138.666667 0 0 1 267.093333 0z" fill="#952D2E" p-id="5221"></path>
+            	</svg>
+				<span class="align-middle">SafeGo</span>
+			</a>
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="collapse navbar-collapse" id="navbarSupportedContent">
+				<ul class="nav nav-pills">
+					<li class="nav-item">
+					    <a class="nav-link" href="/home/">首页</a>
+					</li>
+                    <li class="nav-item">
+                        <a class="nav-link active" href="#">世界疫情总览</a>
+                    </li>
+                    <li class="nav-item">
+					    <a class="nav-link" id="div1Link" href="/home/">舆情数据分析</a>
+					</li>
+				</ul>
+			</div>
+
+			<ul class="nav justify-content-end">
+				<li class="nav-item">
+					<!-- 按钮触发模态框 -->
+					<button class="btn btn-primary btn-info" data-toggle="modal" data-target="#myModal">
+						联系我们
+					</button>
+					<!-- 模态框（Modal） -->
+					<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="">
+						<div class="modal-dialog">
+							<div class="modal-content">
+								<div class="modal-header">
+									<button type="button" class="close" data-dismiss="modal" aria-hidden="true">
+										&times;
+									</button>
+								</div>
+								<div class="modal-body">
+									<img src="../static/imgs/contactUS.jpg" alt="联系我们请扫描二维码" class="img-fluid">
+								</div>
+								<div class="modal-footer">
+									<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+										确认
+									</button>
+								</div>
+							</div>
+						</div>
+					</div>
+				</li>
+			</ul>
+		</nav>
+		<div class="header-info header-info-r" style="margin-left: 1%">时间：<span id="nowDate"></span><small>（每隔1分钟自动刷新）</small></div>
+		<div class="container-fluid" style="margin-bottom: 2%">
+			<div class="row">
+				<div class="col-md-6" >
+					<div class="card shadow-sm" style="height:500px">
+						<div class="card-body">
+							<div class="chart-wrapper">
+								<h3 class="chart-title">现存确诊数排行前 10 位的国家</h3>
+								<div class="chart-div" id="rankChart">
+									<div class="chart-loader"><div class="loader"></div></div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6">
+					<div class="card shadow-sm" style="height:500px">
+						<div class="card-body">
+							<div class="chart-wrapper">
+								<h3 class="chart-title">国内外统计数据</h3>
+								<div class="chart-div chart-done">
+									<table class="data-t">
+										<tr>
+											<th><img src="../static/imgs/world.png" /></th>
+											<td>
+												<p>较昨日 <span id="internationalCurrentConfirmedIncr">0</span></p>
+												<p><span id="internationalCurrentConfirmedCount">0</span></p>
+												<p>国外现存确诊</p>
+											</td>
+											<th><img src="../static/imgs/China.png" /></th>
+											<td>
+												<p>较昨日 <span id="domesticCurrentConfirmedIncr">0</span></p>
+												<p><span id="domesticCurrentConfirmedCount">0</span></p>
+												<p>中国现存确诊</p>
+											</td>
+										</tr>
+										<tr>
+											<th><img src="../static/imgs/cumulate_outer.png" /></th>
+											<td>
+												<p>较昨日 <span id="internationalConfirmedIncr">0</span></p>
+												<p><span id="internationalConfirmedCount">0</span></p>
+												<p>国外累计确诊</p>
+											</td>
+											<th><img src="../static/imgs/cumulate_inner.png" /></th>
+											<td>
+												<p>较昨日 <span id="domesticConfirmedIncr">0</span></p>
+												<p><span id="domesticConfirmedCount">0</span></p>
+												<p>中国累计确诊</p>
+											</td>
+										</tr>
+										<tr>
+											<th><img src="../static/imgs/death_outer.png" /></th>
+											<td>
+												<p>较昨日 <span id="internationalDeadIncr">0</span></p>
+												<p><span id="internationalDeadCount">0</span></p>
+												<p>国外死亡人数</p>
+											</td>
+											<th><img src="../static/imgs/death_inner.png" /></th>
+											<td>
+												<p>较昨日 <span id="domesticDeadIncr">0</span></p>
+												<p><span id="domesticDeadCount">0</span></p>
+												<p>中国死亡人数</p>
+											</td>
+										</tr>
+									</table>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<div class="container-fluid" style="margin-bottom: 2%">
+			<div class="row">
+				<div class="col-md-6" >
+					<div class="card shadow-sm" style="height:500px">
+						<div class="card-body">
+							<div class="chart-wrapper">
+								<h3 class="chart-title">国内各省、自治区、直辖市疫情</h3>
+								<div class="chart-div" id="mapChart">
+									<div class="chart-loader"><div class="loader"></div></div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6">
+					<div class="card shadow-sm" style="height:500px">
+						<div class="card-body">
+							<div class="chart-wrapper">
+								<h3 class="chart-title">各国累计确诊占比</h3>
+								<div class="chart-div" id="countrysChart">
+									<div class="chart-loader"><div class="loader"></div></div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!--暂不使用-->
+			<div class="flex-cell flex-cell-lc" style="display:none;">
+				<div class="chart-wrapper">
+					<h3 class="chart-title">美国疫情趋势图</h3>
+					<div class="chart-div" id="trendChart">
+						<div class="chart-loader"><div class="loader"></div></div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!--页尾-->
+		<div class="bottom">
+			<div class="container" style="height: 240px">
+				<div class="row">
+					<div class="col-md-6" style="color: #b1dfbb">
+						<br>
+						<h2>Safe Go!</h2>
+						<h6>随享安全出行，您的旅途伴侣</h6>
+						<div class="line_02"></div>
+						<h4>Contributors</h4>
+	
+						<div class="container-fluid" style="padding: 0">
+							<div class="row">
+								<div class="col-md-2">
+									<img src="../static/imgs/avator/01.jpg" class="img-fluid img-circle" style="height: 2rem;width:auto">
+								</div>
+								<div class="col-md-2">
+									<img src="../static/imgs/avator/02.jpg" class="img-fluid img-circle" style="height: 2rem;width:auto">
+								</div>
+								<div class="col-md-2">
+									<img src="../static/imgs/avator/03.jpg" class="img-fluid img-circle" style="height: 2rem;width:auto">
+								</div>
+								<div class="col-md-2">
+									<img src="../static/imgs/avator/04.jpg" class="img-fluid img-circle" style="height: 2rem;width:auto">
+								</div>
+								<div class="col-md-2">
+									<img src="../static/imgs/avator/05.jpg" class="img-fluid img-circle" style="height: 2rem;width:auto">
+								</div>
+							</div>
+						</div>
+						<div style="height: 1rem"></div>
+						<div class="container-fluid" style="padding: 0">
+							<div class="row">
+								<div class="col-md-2">
+									<img src="../static/imgs/avator/06.jpg" class="img-fluid img-circle" style="height: 2rem;width:auto">
+								</div>
+								<div class="col-md-2">
+									<img src="../static/imgs/avator/07.jpg" class="img-fluid img-circle" style="height: 2rem;width:auto">
+								</div>
+								<div class="col-md-2">
+									<img src="../static/imgs/avator/08.jpg" class="img-fluid img-circle" style="height: 2rem;width:auto">
+								</div>
+								<div class="col-md-2">
+									<img src="../static/imgs/avator/09.jpg" class="img-fluid img-circle" style="height: 2rem;width:auto">
+								</div>
+								<div class="col-md-2">
+									<img src="../static/imgs/avator/10.jpg" class="img-fluid img-circle" style="height: 2rem;width:auto">
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-2"></div>
+					<div class="col-md-4">
+						<br>
+						<br>
+						<div class="container-fluid">
+							<div class="row">
+								<div class="col-md-4" style="padding: 0">
+									<a href="https://github.com/UtenaTenjo371/COVID-19-data-Visualization">
+									   <img src="../static/imgs/github(1).png" class="img-fluid" style="height: 3rem;width:auto">
+									</a>
+								</div>
+								<div class="col-md-6" style="color: #b1dfbb;padding-left: 0">
+									<h4 style="margin-bottom: 0">Fork</h4>
+									<h6>us here.</h6>
+								</div>
+							</div>
+						</div>
+						<br>
+						<br>
+						<div class="row" style="color: #b1dfbb">
+							<p style="margin-bottom: 0">&copy;2021 SafeGo. All rights reserved.</p>
+							<p>With safe travel, your travel companion.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+		<script src="https://cdn.bootcdn.net/ajax/libs/echarts/4.7.0/echarts.min.js"></script>
+		<script type="text/javascript" src="../static/js/echarts-map-china.js"></script>
+		<script type="text/javascript" src="../static/js/echarts-theme-shine.js"></script>
+		<script type="text/javascript" src="../static/js/countUp.min.js"></script>
+		<script type="text/javascript">
+			$.ajaxSetup({cache:false});
+			$(function() {
+				//获取当天日期
+				function load_date() {
+					const now = new Date();
+					const year = now.getFullYear();
+					const month = now.getMonth()+1;
+					const day = now.getDate();
+					const hours = now.getHours();
+					const minutes = now.getMinutes();
+					const seconds = now.getSeconds();
+					$("#nowDate").html(year+"年"+month+"月"+day+"日" + " " + hours + ":" + minutes + ":" + seconds);
+				}
+
+				function load_statistics() {
+					//获取统计数据
+					$.ajax({
+						url: "http://111.231.75.86:8000/api/statistics/latest",
+						dataType: "json"
+					}).done(function(data) {
+						rollNum("internationalConfirmedCount", 0, data.internationalStatistics.confirmedCount);
+						rollNum("internationalDeadCount", 0, data.internationalStatistics.deadCount);
+						rollNum("internationalCurrentConfirmedCount", 0, data.internationalStatistics.currentConfirmedCount);
+						rollNum("domesticConfirmedCount", 0, data.domesticStatistics.confirmedCount);
+						rollNum("domesticDeadCount", 0, data.domesticStatistics.deadCount);
+						rollNum("domesticCurrentConfirmedCount", 0, data.domesticStatistics.currentConfirmedCount);
+						if (data.internationalStatistics.confirmedIncr > 0)
+							$("#internationalConfirmedIncr").html('+' + data.internationalStatistics.confirmedIncr)
+						else
+							$("#internationalConfirmedIncr").html(data.internationalStatistics.confirmedIncr)
+;
+						if (data.internationalStatistics.deadIncr > 0)
+							$("#internationalDeadIncr").html('+' + data.internationalStatistics.deadIncr)
+						else
+							$("#internationalDeadIncr").html(data.internationalStatistics.deadIncr);
+
+						if (data.internationalStatistics.currentConfirmedIncr > 0)
+							$("#internationalCurrentConfirmedIncr").html('+' + data.internationalStatistics.currentConfirmedIncr)
+						else
+							$("#internationalCurrentConfirmedIncr").html(data.internationalStatistics.currentConfirmedIncr);
+
+						if (data.domesticStatistics.confirmedIncr > 0)
+							$("#domesticConfirmedIncr").html('+' + data.domesticStatistics.confirmedIncr)
+						else
+							$("#domesticConfirmedIncr").html(data.domesticStatistics.confirmedIncr)
+;
+						if (data.domesticStatistics.deadIncr > 0)
+							$("#domesticDeadIncr").html('+' + data.domesticStatistics.deadIncr)
+						else
+							$("#domesticDeadIncr").html(data.domesticStatistics.deadIncr)
+;
+						if (data.domesticStatistics.currentConfirmedIncr > 0)
+							$("#domesticCurrentConfirmedIncr").html('+' + data.domesticStatistics.currentConfirmedIncr)
+						else
+							$("#domesticCurrentConfirmedIncr").html(data.domesticStatistics.currentConfirmedIncr)
+					}).fail(function(jqXHR, textStatus) {
+						console.log("Ajax Error: ", textStatus);
+					});
+				}
+
+
+				//获取排行数据
+				const rankChart = echarts.init(document.getElementById("rankChart"), "shine");
+				const rankChartOpt = {
+					tooltip: {
+						trigger: "axis",
+						axisPointer: {
+							type: "shadow"
+						},
+						formatter: function(params) {
+							const param = params[0];
+							const marker = '<span style="display:inline-block;margin-right:5px;border-radius:10px;width:10px;height:10px;background-color:#e6b600;"></span>';
+							const suffix = '<span style="margin-left:5px;font-size:12px;">亿元</span>';
+							return param.name + "<br />" +
+								marker + "排名：" + (param.dataIndex+1) + "<br />" +
+								marker + "现存确诊：" + param.value;
+						}
+					},
+					grid: {
+						top: 10,
+						bottom: 10,
+						left: 60
+					},
+					xAxis: {
+						show: false,
+						type: "value"
+					},
+					yAxis: {
+						type: "category",
+						inverse: true,
+						axisLine: {show: false},
+						axisTick: {show: false},
+						axisLabel: {
+							fontSize: 12,
+							color: "#b0c2f9"
+						}
+					},
+					series: [{
+						name: "各国确诊人数排行",
+						type: "bar",
+						barCategoryGap: "60%",
+						label: {
+							show: true,
+							position: "right",
+							fontSize: 12,
+							color: "#188df0",
+							emphasis: {
+								color: "#e6b600"
+							}
+						},
+						itemStyle: {
+							normal: {
+								color: new echarts.graphic.LinearGradient(
+									0, 1, 1, 1,
+									[
+										{offset: 0, color: '#b0c2f9'},
+										{offset: 0.5, color: '#188df0'},
+										{offset: 1, color: '#185bff'}
+									]
+								)
+							},
+							emphasis: {
+								color: new echarts.graphic.LinearGradient(
+									0, 1, 1, 1,
+									[
+										{offset: 0, color: '#b0c2f9'},
+										{offset: 0.7, color: '#e6b600'},
+										{offset: 1, color: '#ceac09'}
+									]
+								)
+							}
+						}
+					}]
+				};
+				rankChart.setOption(rankChartOpt);
+
+				function load_country_rank_list() {
+					$.ajax({
+						url: "http://111.231.75.86:8000/api/countries/",
+						dataType: "json"
+					}).done(function() {
+						$("#rankChart").addClass("chart-done");
+					}).done(function(data) {
+						var sortable = [];
+						for (var i in data) {
+							sortable.push([data[i], data[i].currentConfirmedCount]);
+						}
+						data = sortable.sort(function(a, b) {
+							return b[1] - a[1];
+						});
+						data = data.slice(0, 10)
+						const xData = [];
+						const yData = [];
+						for(let i in data) {
+							xData.push(data[i][0].currentConfirmedCount);
+							yData.push(data[i][0].countryName);
+						}
+						rankChart.setOption({
+							yAxis: {
+								data: yData
+							},
+							series: [{
+								name: "现存确诊排行",
+								data: xData
+							}]
+						});
+					}).fail(function(jqXHR) {
+						console.log("Ajax Fail: ", jqXHR.status, jqXHR.statusText);
+					});
+				}
+
+				//获取地域分布数据
+				const mapChart = echarts.init(document.getElementById("mapChart"), "shine");
+				const mapChartOpt = {
+					tooltip: {
+						formatter: function(params) {
+							const data = params.data;
+							const source = data.source;
+							return data.name + "<br />现存确诊人数：" + data.value
+								+ '<br />累计确诊：' + source.confirmedCount
+								+ '<br />治愈人数：' + source.curedCount
+								+ '<br />死亡人数：' + source.deadCount;
+						}
+					},
+					visualMap: {
+						type: "piecewise",
+						splitNumber: 6,
+						itemWidth: 10,
+						itemHeight: 10,
+						itemGap: 5,
+						textGap: 5,
+						textStyle: {
+							fontSize: 10,
+							color: "#b0c2f9"
+						},
+						min: 0,
+						max: 600,
+						calculable: true,
+						seriesIndex: [0]
+					},
+					geo: {
+						map: "china",
+						roam: true, //开启鼠标缩放和漫游
+						zoom: 1, //地图缩放级别
+						selectedMode: "single",
+						top: 10,
+						bottom: 10,
+						layoutCenter: ["50%", "50%"],
+						//layoutSize: "100%", //保持地图宽高比
+						label: {
+							show: true,
+							fontSize: 10,
+							color: "#ceac09"
+						}
+					},
+					series: [{
+						name: "各省、自治区、直辖市疫情分布",
+						type: "map",
+						geoIndex: 0
+					}]
+				};
+				mapChart.setOption(mapChartOpt);
+
+				function load_province_map() {
+					$.ajax({
+						url: "http://111.231.75.86:8000/api/provinces/CHN/",
+						dataType: "json"
+					}).done(function() {
+						$("#mapChart").addClass("chart-done");
+					}).done(function(data) {
+						const chartData = [];
+						for(let i in data) {
+							chartData.push({
+								name: data[i].provinceName,
+								value: data[i].currentConfirmedCount,
+								source: data[i]
+							});
+						}
+						mapChart.setOption({
+							series: [{
+								name: "地域分布",
+								data: chartData
+							}]
+						});
+					}).fail(function(jqXHR) {
+						console.log("Ajax Fail: ", jqXHR.status, jqXHR.statusText);
+					});
+				}
+				
+				//获取美国疫情发展情况
+				const trendChart = echarts.init(document.getElementById("trendChart"), "shine");
+				const trendChartOpt = {
+					tooltip: {
+						trigger: "axis",
+						axisPointer: {
+							type: "none"
+						}
+					},
+					legend: {
+						left: "center",
+						top: 3,
+						itemWidth: 15,
+						itemHeight: 10,
+						textStyle: {
+							fontSize: 12,
+							color: "#b0c2f9"
+						},
+						data: ["现存确诊", "累计确诊", "死亡人数"]
+					},
+					grid: {
+						top: 40,
+						bottom: 70,
+						left: 60,
+						right: 60
+					},
+
+					dataZoom: [{
+						startValue: 20200123
+					}, {
+						type: 'inside'
+					}],
+					xAxis: {
+						type: "category",
+						axisLine: {
+							lineStyle: {color: "#b0c2f9"}
+						},
+						axisTick: {show: false},
+						axisLabel: {
+							fontSize: 12,
+							color: "#b0c2f9"
+						}
+					},
+					yAxis: [{
+						name: "人数",
+						type: "value",
+						axisLine: {
+							lineStyle: {color: "#b0c2f9"}
+						},
+						splitLine: {show: false},
+						axisTick: {color: "#b0c2f9"},
+						axisLabel: {
+							fontSize: 12,
+							color: "#b0c2f9",
+							formatter: (value, index) => {
+								return parseInt(value / 10000) + "万";
+							}
+						}
+					}],
+					series: [{
+						name: "现存确诊",
+						type: "line",
+						smooth: true,
+						markPoint: {
+							itemStyle: {
+								color: "rgba(119, 96, 246, 1)"
+							},
+							data: [{
+								name: "最大值",
+								type: "max"
+							}]
+						}
+					}, {
+						name: "累计确诊",
+						type: "line",
+						smooth: true,
+						itemStyle: {
+							color: function(params) {
+								if(params.dataIndex >= 10) {
+									return "rgba(230, 182, 0, 0.5)";
+								}
+								return "rgba(230, 182, 0, 1)";
+							}
+						}
+					}, {
+						name: "死亡人数",
+						type: "line",
+						smooth: true,
+						markPoint: {
+							itemStyle: {
+								color: "rgba(230, 182, 0, 1)"
+							},
+							data: [{
+								name: "最大值",
+								type: "max"
+							}]
+						}
+					}]
+				};
+				trendChart.setOption(trendChartOpt);
+
+				function load_usa_daily_list() {
+					$.ajax({
+						url: "http://111.231.75.86:8000/api/countries/USA/daily/",
+						dataType: "json"
+					}).done(function() {
+						$("#trendChart").addClass("chart-done");
+					}).done(function(data) {
+						//console.log('Data: ', data);
+						const xData = [];
+						const yData1 = [];
+						const yData2 = [];
+						const yData3 = [];
+						for(let i in data) {
+							xData.push(data[i].dateId);
+							yData1.push(data[i].currentConfirmedCount);
+							yData2.push(data[i].confirmedCount);
+							yData3.push(data[i].deadCount);
+						}
+						trendChart.setOption({
+							xAxis: {
+								data: xData,
+							},
+							series: [{
+								name: "现存确诊",
+								data: yData1
+							}, {
+								name: "累计确诊",
+								data: yData2
+							}, {
+								name: "死亡人数",
+								data: yData3
+							}]
+						});
+					}).fail(function(jqXHR) {
+						console.log("Ajax Fail: ", jqXHR.status, jqXHR.statusText);
+					});
+				}
+
+				//获取分类数据
+				const countrysChart = echarts.init(document.getElementById("countrysChart"), "shine");
+				const countrysChartOpt = {
+					tooltip: {
+						trigger: "item",
+						formatter: "{b0}<br />累计确诊：{c0}人<br />全球占比：{d0}%"
+					},
+					legend: {
+						type: "scroll",
+						orient: "vertical",
+						padding: 0,
+						top: 15,
+						right: 0,
+						itemGap: 5,
+						itemWidth: 10,
+						itemHeight: 10,
+						textStyle: {
+							fontSize: 10,
+							color: "#b0c2f9"
+						}
+					},
+					series: [{
+						name: "各国累计确诊占比",
+						type: "pie",
+						center: ["30%", "55%"],
+						radius: ['50%', '80%'],
+						avoidLabelOverlap: true,
+						label: {
+							show: false,
+							position: 'center'
+						},
+						labelLine: {
+							show: false
+						},
+						emphasis: {
+							label: {
+								show: true,
+								fontSize: '30',
+								fontWeight: 'bold'
+							}
+						},
+					}]
+				};
+				countrysChart.setOption(countrysChartOpt);
+
+				function load_countries() {
+					$.ajax({
+						url: "http://111.231.75.86:8000/api/countries/",
+						dataType: "json"
+					}).done(function() {
+						$("#countrysChart").addClass("chart-done");
+					}).done(function(data) {
+						var sortable = [];
+						for (var i in data) {
+							sortable.push([data[i], data[i].confirmedCount]);
+						}
+						data = sortable.sort(function(a, b) {
+							return b[1] - a[1];
+						});
+						const chartData = [];
+						for(let i in data) {
+							chartData.push({
+								name: data[i][0].countryName,
+								value: data[i][0].confirmedCount
+							});
+						}
+						countrysChart.setOption({
+							series: [{
+								name: "各国累计确诊占比",
+								data: chartData
+							}]
+						});
+					}).fail(function(jqXHR) {
+						console.log("Ajax Fail: ", jqXHR.status, jqXHR.statusText);
+					});
+				}
+				
+
+				function load_page() {
+					load_date();
+					load_statistics();
+					load_country_rank_list();
+					load_province_map();
+					load_usa_daily_list();
+					load_countries();
+				}
+
+				var _timerPie1;
+				var seconds = new Date().getSeconds();
+				window.setTimeout(function () {
+					_timerPie1 = window.setInterval(function () { //数据动态展现
+						load_page();
+					}, 60000);
+					load_page();
+				}, 60000 - seconds * 1000);
+				console.log(60000 - seconds * 1000)
+
+				var _timerPie2;
+				_timerPie2 = window.setInterval(function () { //数据动态展现
+					load_date();
+				}, 1000);
+
+				load_page();
+
+				//浏览器窗口大小变化时，重置报表大小
+				$(window).resize(function() {
+					rankChart.resize();
+					mapChart.resize();
+					trendChart.resize();
+					countrysChart.resize();
+				});
+			});
+			
+			//数字变化特效
+			function rollNum(elId, startVal, endVal, decimalNum) {
+				let n = decimalNum || 0;
+				let countUp = new CountUp(elId, startVal, endVal, n, 2.5, {
+					useEasing: true, 
+					useGrouping: true, 
+					separator: ',', 
+					decimal: '.'
+				});
+				if(!countUp.error) {
+					countUp.start();
+				}else {
+					console.error(countUp.error);
+				}
+			}
+		</script>
+	</body>
+</html>

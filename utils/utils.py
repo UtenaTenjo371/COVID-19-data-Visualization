@@ -1,112 +1,81 @@
-import json
-import os
-
-def listDir(path,list_name,name_list):
-    '''
-    获得文件夹下文件路径以及城市名
-    :param path: 文件夹路径
-    :param list_name: 文件路径
-    :param name_list: 城市名
-    :return:
-    '''
-    for file in os.listdir(path):
-        file_path = os.path.join(path,file)
-        list_name.append(file_path)
-        tempName = os.path.basename(file)
-        tempName01 = tempName.replace(' ', '_')
-        tempName02 = tempName01.split('.')[0]
-        name_list.append(tempName02)
-
-base_path_list = []
-name_list = []
-timeline = []
-files_list = []
-listDir(r'E:\Learning Materials\Peking\FirstSemester\软件工程导论\大作业\前端学习\Django_All\djangoProject1\appTest\data', base_path_list, name_list)
-timeline_list = []
-
-def get_timeline_data():
-    '''
-    获得timeline数组
-    :return: None
-    '''
-    file = open(base_path_list[0], 'rb')
-    fileJson = json.load(file)
-    result = fileJson['data']
-    count = 0
-    result_reversed_list = []
-    index = 0
-    for x in result:
-        if index<30:
-            timeline.append(x['date'])
-            timeline_list.append(x['date'].split('-')[1]+'-'+x['date'].split('-')[2])
-            index+=1
-
-    for x in range(0, result.__len__())[::-1]:
-        result_reversed_list.append(result[x])
-    # print(timeline)
-
-    for x in result_reversed_list:
-        count += x['cases']['daily']
-        x['cases']['cumulative'] = count
-        if x['deaths']['cumulative'] is None:
-            x['deaths']['cumulative'] = 0
-        # print(x['date'], 'cases:', x['cases']['cumulative'], x['cases']['daily'],'death:', x['deaths']['cumulative'])
+import pandas as pd
+import numpy as np
 
 
-def get_series_data(series_index):
-    series_total_arr = []
-    name_index = 0
-    for file_path in base_path_list:
-        series_arr = []
-        file = open(file_path,'rb')
-        fileJson = json.load(file)
-        result = fileJson['data']
-        count = 0
-        result_reversed_list = []
-        for x in range(0, result.__len__())[::-1]:
-            result_reversed_list.append(result[x])
+def filter_data(data, conditions):
+    """
+    Remove elements that do not match the condition provided.
+    Takes a data list as input and returns a filtered list.
+    Conditions should be a list of strings of the following format:
+      '<field> <op> <value>'
+    where the following operations are valid: >, <, >=, <=, ==, !=
 
-        for x in result_reversed_list:
-            count += x['cases']['daily']
-            x['cases']['cumulative'] = count
-            if x['deaths']['cumulative'] is None:
-                x['deaths']['cumulative'] = 0
-            if x['date'] == timeline[series_index]:
-                series_arr.append(x['cases']['cumulative'])
-                series_arr.append(x['cases']['daily'])
-                series_arr.append(round(100*x['cases']['daily']/x['cases']['cumulative']))
-                series_arr.append(name_list[name_index])
-                series_arr.append(timeline_list[series_index])
+    Example: ["duration < 15", "city == 'San Francisco'"]
+    """
+    for condition in conditions:
+        field, op, value = condition.split(" ", 2)
 
-        if series_arr.__len__()<3:
-            series_arr.append(10)
-            series_arr.append(10)
-            series_arr.append(10)
-            series_arr.append(name_list[name_index])
-            series_arr.append(timeline_list[series_index])
+        # check if field is valid
+        if field not in data.columns.values:
+            raise Exception("'{}' is not a feature of the dataframe. Did you spell something wrong?".format(field))
 
-        name_index+=1
-        series_total_arr.append(series_arr)
+        # convert value into number or strip excess quotes if string
+        try:
+            value = float(value)
+        except:
+            value = value.strip("\'\"")
 
-    return series_total_arr
+        # get booleans for filtering
+        if op == ">":
+            matches = data[field] > value
+        elif op == "<":
+            matches = data[field] < value
+        elif op == ">=":
+            matches = data[field] >= value
+        elif op == "<=":
+            matches = data[field] <= value
+        elif op == "==":
+            matches = data[field] == value
+        elif op == "!=":
+            matches = data[field] != value
+        else:  # catch invalid operation codes
+            raise Exception("Invalid comparison operator. Only >, <, >=, <=, ==, != allowed.")
+
+        # filter data and outcomes
+        data = data[matches].reset_index(drop=True)
+
+    return data
 
 
-def return_dict_fun():
-    return_dict = {}
-    get_timeline_data()
-    series_data = []
-    timeline_list_02 = []
-    series_data_list = []
-    for i in range(timeline.__len__()):
-        series_data.append(get_series_data(i))
-    for x in range(0, timeline_list.__len__())[::-1]:
-        timeline_list_02.append(timeline_list[x])
-        series_data_list.append(series_data[x])
-    return_dict['counties'] = name_list
-    return_dict['series'] = series_data_list
-    return_dict['timeline'] = timeline_list_02
-    return return_dict
+def dest_process(dest):
+    if dest == '1':
+        dest_processed = '希思罗机场'
+    elif dest == '2':
+        dest_processed = '曼彻斯特机场'
+    elif dest == '3':
+        dest_processed = '爱丁堡机场'
+    else:
+        dest_processed = '伯明翰机场'
+    return dest_processed
 
-filename = r"E:\Learning Materials\Peking\FirstSemester\软件工程导论\大作业\前端学习\Django_All\djangoProject1\static\data\test.json"
-with open(filename, 'w') as file_obj:
-    json.dump(return_dict_fun(),file_obj)
+
+def data_process(dataframe):
+    dataframe.date = pd.to_datetime(dataframe.date)
+    return dataframe
+
+
+def flight_recommend(dest, date):
+    # flight_data = pd.read_csv('static\\data', encoding='gbk')
+    flight_data = pd.read_csv('utils\\航班信息.csv', encoding='gbk')
+    # flight_data = pd.read_csv('航班信息.csv', encoding='gbk')
+    dest_processed = dest_process(dest)
+    flight_data.date = pd.to_datetime(flight_data.date)
+    flight_filter = filter_data(flight_data, ["destination == %s" % dest_processed, "date == %s" % date])
+
+    flight_array = np.array(flight_filter)
+    flight_recommend_list = flight_array.tolist()
+    list_id = ['dep', 'des', 'date', 'zone', 'time', 'times', 'prices', 'transit']
+    flight_recommend_dict = []
+    for ls in flight_recommend_list:
+        flight_recommend_dict.append(dict(zip(list_id, ls)))
+    return flight_recommend_dict

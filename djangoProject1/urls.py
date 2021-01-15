@@ -22,4 +22,5 @@ urlpatterns = [
     url(r'^home/', views.home),
     url(r'^homeApi/', views.homeApi),
     url(r'^result/', views.result),
+    url(r'^Chinese/', views.Chinese),
 ]
